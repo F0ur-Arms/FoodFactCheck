@@ -1,0 +1,605 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Basic Infection Control and Prevention Plan for Outpatient Oncology Settings
+URL: https://www.cdc.gov/healthcare-associated-infections/hcp/prevention-healthcare/outpatient-oncology.html
+────────────────────────────────────────────────────────────
+
+At a glance
+A model for a basic infection control and prevention plan for outpatient oncology facilities.
+Downloadable versions
+Download the complete version
+Basic Infection Control and Prevention Plan for Outpatient Oncology Settings
+Download the pocket-sized guide
+A pocket-sized quick reference guide to the Basic Infection Control and Prevention Plan for Outpatient Oncology Settings is available to order free of charge from CDC-INFO on Demand – Publications (select “Preventing Infections in Cancer Patients” from the drop-down programs button).
+Background
+An estimated 1.5 million new cases of cancer were diagnosed in the United States in 2010 [1]. With improvements in survivorship and the growth and aging of the U.S. population, the total number of persons living with cancer will continue to increase [2]. Despite advances in oncology care, infections remain a major cause of morbidity and mortality among cancer patients [3-5]. Increased risks for infection are attributed, in part, to immunosuppression caused by the underlying malignancy and chemotherapy. In addition patients with cancer come into frequent contact with healthcare settings and can be exposed to other patients in these settings with transmissible infections. Likewise, patients with cancer often require the placement of indwelling intravascular access devices or undergo surgical procedures that increase their risk for infectious complications. Given their vulnerable condition, great attention to infection prevention is warranted in the care of these patients.
+In recent decades, the vast majority of oncology services have shifted to outpatient settings, such as physician offices, hospital-based outpatient clinics, and nonhospital-based cancer centers. Currently, more than one million cancer patients receive outpatient chemotherapy or radiation therapy each year [6]. Acute care hospitals continue to specialize in the treatment of many patients with cancer who are at increased risk for infection (e.g., hematopoietic stem cell transplant recipients, patients with febrile neutropenia), with programs and policies that promote adherence to infection control standards. In contrast, outpatient oncology facilities vary greatly in their attention to and oversight of infection control and prevention. This is reflected in a number of outbreaks of viral hepatitis and bacterial bloodstream infections that resulted from breaches in basic infection prevention practices (e.g., syringe reuse, mishandling of intravenous administration sets) [7-10]. In some of these incidents, the implicated facility did not have written infection control policies and procedures for patient protection or regular access to infection prevention expertise.
+Scope
+A. Intent and Implementation
+This document has been developed for outpatient oncology facilities to serve as a model for a basic infection control and prevention plan. It contains policies and procedures tailored to these settings to meet minimal expectations of patient protections as described in the CDC Guide to Infection Prevention in Outpatient Settings. The elements in this document are based on CDC's evidence-based guidelines and guidelines from professional societies (e.g., Oncology Nursing Society).
+This plan is intended to be used by all outpatient oncology facilities. Those facilities that do not have an existing plan should use this plan as a starting point to develop a facility-specific plan that will be updated and further supplemented as needed based on the types of services provided. Facilities that have a plan should ensure that their current infection prevention policies and procedures include the elements outlined in this document. While this plan may essentially be used exactly "as is," facilities are encouraged to personalize the plan to make it more relevant to their setting (e.g., adding facility name and names of specific rooms/locations; inserting titles/positions of designated personnel; and providing detailed instructions where applicable).
+This plan does not replace the need for an outpatient oncology facility to have regular access to an individual with training in infection prevention and for that individual to perform on-site evaluation and to directly observe and interact regularly with staff. Facilities may wish to consult with an individual with training and expertise in infection prevention early on to assist with their infection control plan development and implementation and to ensure that facility design and work flow is conducive to optimal infection prevention practices.
+B. Aspects of Care That Are Beyond the Scope of This Plan
+This model plan focuses on the core measures to prevent the spread of infectious diseases in outpatient oncology settings. It is not intended to address facility-specific issues or other aspects of patient care such as:
+Infection prevention issues that are unique to blood and marrow transplant centers (a.k.a. bone marrow transplant or stem cell transplant centers)
+Occupational health requirements, including recommended personal protective equipment for handling antineoplastic and hazardous drugs as outlined by the Occupational Safety and Health Administration and the National Institute for Occupational Safety
+Appropriate preparation and handling (e.g., reconstituting, mixing, diluting, compounding) of sterile medications, including antineoplastic agents
+Clinical recommendations and guidance on appropriate antimicrobial prescribing practices and the assessment of neutropenia risk in patients undergoing chemotherapy
+For more information on these topics, refer to the list of resources provided in Appendix D of the plan.
+References
+American Cancer Society. Cancer Facts & Figures 2010 Tables & Figures.
+Warren JL, Mariotto AB, Meekins A, Topor M, Brown ML. Current and future utilization of services from medical oncologists. J Clin Oncol 2008;26:3242−7.
+Kamboj M, Sepkowitz KA. Nosocomial infections in patients with cancer. Lancet Oncol 2009;10:589−97.
+Maschmeyer G, Haas A. The epidemiology and treatment of infections in cancer patients. Int J Antimicrob Agents 2008;31:193−7.
+Guinan JL, McGuckin M, Nowell PC. Management of health-care−associated infections in the oncology patient. Oncology 2003;17:415−20.
+Halpern MT, Yabroff KR. Prevalence of outpatient cancer treatment in the United States: estimates from the Medical Panel Expenditures Survey (MEPS). Cancer Invest 2008;26:647−51.
+Macedo de Oliveria A, White KL, Leschinsky DP, Beecham BD, Vogt TM, Moolenaar RL et al. An outbreak of hepatitis C virus infections among outpatients at a hematology/oncology clinic. Ann Intern Med 2005;142:898−902.
+Watson JT, Jones RC, Siston AM, Fernandez JR, Martin K, Beck E, et al. Outbreak of catheter-associated Klebsiella oxytoca and Enterobacter cloacae bloodstream infections in an oncology chemotherapy center. Arch Intern Med 2005;165:2639−43.
+Greeley RD, Semple S, Thompson ND, High P, Rudowski E, Handschur E et al. Hepatitis B outbreak associated with a hematology-oncology office practice in New Jersey, 2009. Am J Infect Control 2011 Jun 8. Epub ahead of print.
+Herndon E. Rose Cancer Center shut down; patients advised to get screening. Enterprise-Journal. July 31, 2011. Accessed September 9, 2011
+List of abbreviations
+ANC Absolute neutrophil count
+APIC Association for Professionals in Infection Control and Epidemiology, Inc.
+CDC Centers for Disease Control and Prevention
+DEA Drug Enforcement Administration
+EPA Environmental Protection Agency
+FDA Food and Drug Administration
+HAI Healthcare-associated infection
+HBV Hepatitis B virus
+HCV Hepatitis C virus
+HIV Human immunodeficiency virus
+IDSA Infectious Diseases Society of America
+INS Infusion Nursing Society
+ONS Oncology Nursing Society
+OSHA Occupational Safety and Health Administration
+NIOSH National Institute for Occupational Safety
+PPE Personal protective equipment
+SHEA Society for Healthcare Epidemiology of America
+USP United States Pharmacopeia
+WHO World Health Organization
+I. Fundamental Principles of Infection Prevention
+Standard Precautions
+Standard Precautions represent the minimum infection prevention measures that apply to all patient care, regardless of suspected or confirmed infection status of the patient, in any setting where healthcare is delivered. These evidence-based practices are designed to both protect healthcare personnel and prevent the spread of infections among patients. Standard Precautions replaces earlier guidance relating to Universal Precautions and Body Substance Isolation. Standard Precautions include: 1) hand hygiene, 2) use of personal protective equipment (e.g., gloves, gowns, facemasks), depending on the anticipated exposure, 3) respiratory hygiene and cough etiquette, 4) safe injection practices, and 5) safe handling of potentially contaminated equipment or surfaces in the patient environment.
+Transmission-Based Precautions
+Transmission-Based Precautions are intended to supplement Standard Precautions in patients with known or suspected colonization or infection of highly transmissible or epidemiologically important pathogens. These additional precautions are used when the route of transmission is not completely interrupted using Standard Precautions. The three categories of Transmission-Based Precautions include: 1) Contact Precautions, 2) Droplet Precautions, and 3) Airborne Precautions. For diseases that have multiple routes of transmission, a combination of Transmission-Based Precautions may be used. Whether used singly or in combination, they are always used in addition to Standard Precautions.
+The risk of infection transmission and the ability to implement elements of Transmission-Based Precautions may differ between outpatient and inpatient settings (e.g., facility design characteristics). However, because patients with infections are routinely encountered in outpatient settings, ambulatory care facilities need to develop specific strategies to control the spread of transmissible diseases pertinent to their setting. This includes developing and implementing systems for early detection and management of potentially infectious patients at initial points of entry to the facility.
+For detailed information on Standard and Transmission-Based Precautions, and summary guidance for outpatient settings, refer to the following documents:
+CDC Guide to Infection Prevention in Outpatient Settings
+Guideline for Isolation Precautions
+II. Education and Training
+Ongoing education and training of facility staff are required to maintain competency and ensure that infection prevention policies and procedures are understood and followed. A list of names of designated personnel and their specific roles and tasks and contact information is provided in Appendix A.
+1. Education and Training
+All facility staff, including contract personnel (e.g., environmental services workers from an outside agency) are educated and trained by designated personnel regarding:
+Proper selection and use of PPE
+Job- or task-specific infection prevention practices
+Personnel providing training have demonstrated and maintained competency related to the specific jobs or tasks for which they are providing instruction
+Training is provided at orientation, repeated at least annually and anytime polices or procedures are updated, and is documented as per facility policy
+2. Competency Evaluations
+Competency of facility staff is documented initially and repeatedly, as appropriate for the specific job or task
+Regular audits of facility staff adherence to infection prevention practices (e.g., hand hygiene, environmental cleaning) are performed by designated personnel
+III. Surveillance and Reporting
+Routine performance of surveillance activities is important to case-finding, outbreak detection, and improvement of healthcare practices. This includes the surveillance of infections associated with the care provided by the facility (defined as healthcare-associated infections) and process measures related to infection prevention practices (e.g., hand hygiene).
+1. HAI Surveillance
+Standard definitions are developed for specific HAIs under surveillance (e.g., central-line associated bloodstream infections)
+Designated personnel collect, manage, and analyze relevant data
+Surveillance reports are prepared and distributed periodically to appropriate personnel for any necessary follow-up actions (e.g., high incidence of certain HAIs may prompt auditing of specific procedures or a thorough infection control assessment)
+2. Disease Reporting
+Facility staff adhere to local, state and federal requirements for reportable diseases and outbreak reporting [see Appendix B].
+IV. Standard Precautions A - C
+A. Hand Hygiene
+Hand hygiene policies promote preferential use of alcohol-based hand rub (ABHR) over soap and water in most clinical situations. Alcohol-based hand rub is the preferred method for decontaminating hands, except when hands are visibly soiled (e.g., dirt, blood, body fluids), or after caring for patients with known or suspected C. difficile or norovirus during an outbreak, in which case soap and water should be used. Hand hygiene stations should be strategically placed to ensure easy access.
+1. Sample Procedures for Performing Hand Hygiene
+Using Alcohol-based Hand Rub (follow manufacturer's directions):
+Dispense the recommended volume of product
+Apply product to the palm of one hand
+Rub hands together, covering all surfaces of hands and fingers until they are dry (no rinsing is required)
+Handwashing with Soap and Water:
+Wet hands first with water (avoid using hot water)
+Apply soap to hands
+Rub hands vigorously for at least 15 seconds, covering all surfaces of hands and fingers
+Rinse hands with water and dry thoroughly with paper towel
+Use paper towel to turn off water faucet
+2. Indications for Hand Hygiene
+Always perform hand hygiene in the following situations:
+Before touching a patient, even if gloves will be worn
+Before exiting the patient's care area after touching the patient or the patient's immediate environment
+After contact with blood, body fluids or excretions, or wound dressings
+Prior to performing an aseptic task (e.g., accessing a port, preparing an injection)
+If hands will be moving from a contaminated-body site to a clean-body site during patient care
+After glove removal
+CDC Guideline for Hand Hygiene in Health-Care Settings
+WHO Guidelines on Hand Hygiene in Healthcare 2009
+B. Personal Protective Equipment
+Personal Protective Equipment (PPE) use involves specialized clothing or equipment worn by facility staff for protection against infectious materials. The selection of PPE is based on the nature of the patient interaction and potential for exposure to blood, body fluids or infectious agents. A review of available PPE should be performed periodically (e.g., annually) due to new product developments and improvements. Please note that this section does not address issues related to PPE for the preparation and handling of antineoplastic and hazardous drugs. The recommended PPE for those procedures should be determined in accordance with OSHA and NIOSH.
+1. Use of PPE
+Gloves
+Wear gloves when there is potential contact with blood (e.g., during phlebotomy), body fluids, mucous membranes, nonintact skin or contaminated equipment.
+Wear gloves that fit appropriately (select gloves according to hand size)
+Do not wear the same pair of gloves for the care of more than one patient
+Do not wash gloves for the purpose of reuse
+Perform hand hygiene before and immediately after removing gloves
+Gowns
+Wear a gown to protect skin and clothing during procedures or activities where contact with blood or body fluids is anticipated.
+Do not wear the same gown for the care of more than one patient
+Remove gown and perform hand hygiene before leaving the patient's environment (e.g., exam room)
+Facemasks (Procedure or Surgical Masks)
+Wear a facemask:
+When there is potential contact with respiratory secretions and sprays of blood or body fluids (as defined in Standard Precautions and/or Droplet Precautions)
+May be used in combination with goggles or face shield to protect the mouth, nose and eyes
+When placing a catheter or injecting material into the spinal canal or subdural space (to protect patients from exposure to infectious agents carried in the mouth or nose of healthcare personnel)
+Wear a facemask to perform intrathecal chemotherapy
+Goggles, Face Shields
+Wear eye protection for potential splash or spray of blood, respiratory secretions, or other body fluids.
+Personal eyeglasses and contact lenses are not considered adequate eye protection
+May use goggles with facemasks, or face shield alone, to protect the mouth, nose and eyes
+Respirators
+If available, wear N95-or higher respirators for potential exposure to infectious agents transmitted via the airborne route (e.g., tuberculosis).
+All healthcare personnel that use N95-or higher respirator are fit tested at least annually and according to OSHA requirements
+2. Recommendations for Donning PPE
+Always perform hand hygiene before donning PPE
+If wearing a gown, don the gown first and fasten in back accordingly
+If wearing a facemask or respirator:
+Secure ties or elastic band at the back of the head and/or neck
+Fit flexible band to nose bridge
+Fit snug to face and below chin
+If wearing goggles or face shield, put it on face and adjust to fit
+If wearing gloves in combination with other PPE, don gloves last
+3. Recommendations for Removing PPE
+Remove PPE before leaving the exam room or patient environment (except respirators which should be removed after exiting the room)
+Removal of gloves:
+Grasp outside of glove with opposite gloved hand; peel off
+Hold removed glove in glove hand
+Slide ungloved fingers under the remaining glove at the wrist; peel off and discard
+Removal of gowns:
+Remove in such a way to prevent contamination of clothing or skin
+Turn contaminated outside surface toward the inside
+Roll or fold into a bundle and discard
+Removal of facemask or respirator
+Avoid touching the front of the mask or respirator
+Grasp the bottom and the ties/elastic to remove and discard
+Removal of goggles or face shield
+Avoid touching the front of the goggles or face shield
+Remove by handling the head band or ear pieces and discard
+Always perform hand hygiene immediately after removing PPE
+CDC 2007 Guideline for Isolation Precautions
+CDC's tools for personal protective equipment.
+C. Respiratory Hygiene and Cough Etiquette
+To prevent the transmission of respiratory infections in the facility, the following infection prevention measures are implemented for all potentially infected persons at the point of entry and continuing throughout the duration of the visit. This applies to any person (e.g., patients and accompanying family members, caregivers, and visitors) with signs and symptoms of respiratory illness, including cough, congestion, rhinorrhea, or increased production of respiratory secretions. Additional precautions (e.g., Transmission-Based Precautions) can be found in Section V.
+1. Identifying Persons with Potential Respiratory Infection
+Facility staff remain alert for any persons arriving with symptoms of a respiratory infection
+Signs are posted at the reception area instructing patients and accompanying persons to:
+Self-report symptoms of a respiratory infection during registration
+Practice respiratory hygiene and cough etiquette (technique described below) and wear facemask as needed
+2. Availability of Supplies
+The following supplies are provided in the reception area and other common waiting areas:
+Facemasks, tissues, and no-touch waste receptacles for disposing of used tissues
+Dispensers of alcohol-based hand rub
+3. Respiratory Hygiene and Cough Etiquette
+All persons with signs and symptoms of a respiratory infection (including facility staff) are instructed to:
+Cover the mouth and nose with a tissue when coughing or sneezing;
+Dispose of the used tissue in the nearest waste receptacle
+Perform hand hygiene after contact with respiratory secretions and contaminated objects/materials
+4. Masking and Separation of Persons with Respiratory Symptoms
+If patient calls ahead:
+Have patients with symptoms of a respiratory infection come at a time when the facility is less crowded or through a separate entrance, if available
+If the purpose of the visit is non-urgent, patients are encouraged to reschedule the appointment until symptoms have resolved
+Upon entry to the facility, patients are to be instructed to don a facemask (e.g., procedure or surgical mask)
+Alert registration staff ahead of time to place the patient in an exam room with a closed door upon arrival
+If identified after arrival:
+Provide facemasks to all persons (including persons accompanying patients) who are coughing and have symptoms of a respiratory infection
+Place the coughing patient in an exam room with a closed door as soon as possible (if suspicious for airborne transmission, refer to Airborne Precautions in Section V.D.); if an exam room is not available, the patient should sit as far from other patients as possible in the waiting room
+Accompanying persons who have symptoms of a respiratory infection should not enter patient-care areas and are encouraged to wait outside the facility
+5. Healthcare Personnel Responsibilities
+Healthcare personnel observe Droplet Precautions (refer to Section V.C.), in addition to Standard Precautions, when examining and caring for patients with signs and symptoms of a respiratory infection (if suspicious for an infectious agent spread by airborne route, refer to Airborne Precautions in Section V.D.)
+These precautions are maintained until it is determined that the cause of the symptoms is not an infectious agent that requires Droplet or Airborne Precautions
+All healthcare personnel are aware of facility sick leave policies, including staff who are not directly employed by the facility but provide essential daily services
+Healthcare personnel with a respiratory infection avoid direct patient contact; if this is not possible, then a facemask should be worn while providing patient care and frequent hand hygiene should be reinforced
+Healthcare personnel are up-to-date with all recommended vaccinations, including annual influenza vaccine
+6. Staff Communication
+Designated personnel regularly review information on local respiratory virus activity provided by the health department and CDC to determine if the facility will need to implement enhanced screening for respiratory symptoms as outlined in step 7
+7. During Periods of Increased Community Respiratory Virus Activity (e.g., Influenza Season)
+In addition to the aforementioned infection prevention measures, the following enhanced screening measures are implemented:
+When scheduling and/or confirming appointments:
+Pre-screen all patients and schedule those with respiratory symptoms to come when the facility might be less crowded, if possible
+Instruct patients with respiratory symptoms to don a facemask upon entry to the facility
+If the purpose of the visit is non-urgent, patients with symptoms of respiratory infection are encouraged to schedule an appointment after symptoms have resolved
+Encourage family members, caregivers, and visitors with symptoms of respiratory infection to not accompany patients during their visits to the facility
+If possible, prepare in advance for the registration staff a daily list of patients with respiratory symptoms who are scheduled for a visit
+Upon entry to the facility and during visit:
+At the time of patient registration, facility staff identify pre-screened patients (from the list) and screen all other patients and accompanying persons for symptoms of respiratory infection
+Patients identified with respiratory symptoms are placed in a private exam room as soon as possible; if an exam room is not available, patients are provided a facemask and placed in a separate area as far as possible from other patients while awaiting care
+If patient volume is anticipated to be higher than usual with prolonged wait time at registration: A separate triage station is established to identify pre-screened patients (from the list) and to screen all other patients and accompanying persons immediately upon their arrival and prior to registration, OR, patients identified with respiratory symptoms are registered in a separate area, if possible, and placed immediately in a private exam room; if an exam room is not available, patients are provided a facemask and placed in a separate area as far as possible from other patients while awaiting care.
+If possible, encourage family members, caregivers, and visitors with symptoms of respiratory infection to not enter the facility
+CDC 2007 Guideline for Isolation Precautions
+CDC recommendations for preventing the spread of influenza in healthcare settings
+CDC's Flu Activity & Surveillance
+IV. Standard Precautions D - F
+D. Injection Safety
+Injection safety refers to the proper use and handling of supplies for administering injections and infusions (e.g., syringes, needles, fingerstick devices, intravenous tubing, medication vials, and parenteral solutions). These practices are intended to prevent transmission of infectious diseases between one patient and another, or between a patient and healthcare personnel during preparation and administration of parenteral medications.
+To the extent possible, medication preparation should take place in pharmacy settings and dedicated medication rooms. All staff personnel who use or handle parenteral medications and related supplies should be aware of labeling and storage requirements and pharmacy standards. Additional recommendations for safe injection practices, including the appropriate use of single-dose (or single-use) and multi-dose vials and the proper technique for accessing intravascular devices, can be found in Section IV.E. (Medication Storage and Handling), in Section VI (Central Venous Catheters), respectively, as well as in Appendix D.
+1. General Safe Injection Practices
+Use aseptic technique when preparing and administering chemotherapy infusions or other parenteral medications (e.g., antiemetics, diphenhydramine, dexamethasone)
+Whenever possible, use commercially manufactured or pharmacy-prepared prefilled syringes (e.g., saline and heparin)
+Avoid prefilling and storing batch-prepared syringes except in accordance with pharmacy standards
+Avoid unwrapping syringes prior to the time of use
+Never administer medications from the same syringe to multiple patients, even if the needle is changed or the injection is administered through an intervening length of intravenous tubing
+Do not reuse a syringe to enter a medication vial or solution
+Do not administer medications from single-dose or single-use vials, ampoules, or bags or bottles of intravenous solution to more than one patient (e.g, do not use a bag of saline as a common source supply for multiple patients)
+Cleanse the access diaphragms of medication vials with 70% alcohol and allow the alcohol to dry before inserting a device into the vial
+Dedicate multi-dose vials to a single patient whenever possible. If multi-dose vials must be used for more than one patient, they are restricted to a dedicated medication preparation area and should not enter the immediate patient treatment area (e.g., exam room, chemotherapy suite)
+Dispose of used syringes and needles at the point of use in a sharps container that is closable, puncture-resistant, and leak-proof
+Do not use fluid infusion or administration sets (e.g., intravenous tubing) for more than one patient
+Use single-use, disposable fingerstick devices (e.g., lancets) to obtain samples for checking a patient's blood glucose, PT/INR, etc. and dispose of them after each use; do not use a lancet holder or penlet device for this purpose
+Adhere to federal and state requirements for protection of healthcare personnel from exposure to bloodborne pathogens
+2. Spinal Injection Procedures
+Use aseptic technique and follow safe injection practices (e.g., dedicating single-dose vials to single-patient use)
+At a minimum, wear a facemask (e.g., procedure or surgical masks) and sterile gloves when injecting material or inserting a catheter into the epidural or subdural space (e.g., administration of intrathecal chemotherapy)
+For other spinal procedures (e.g., diagnostic and therapeutic lumbar punctures) or handling of devices to access the cerebrospinal fluid (e.g., Ommaya reservoir):
+At a minimum, use aseptic technique and follow safe injection practices
+Facemask can be considered as an additional precaution
+3. Phlebotomy Procedures
+Phlebotomy procedures are performed in a dedicated area, if possible
+If the procedure has to be done elsewhere (e.g., exam room, chemotherapy suite), do not bring common trays of supplies for phlebotomy or intravenous device access to the patient's immediate treatment area; bring only the necessary supplies to the patient side
+Hand hygiene stations (e.g., alcohol-based hand rub dispensers) are readily accessible to the phlebotomist
+Use aseptic technique to perform the phlebotomy procedure
+Do not reuse vacutainer holders
+Sharps containers are strategically placed near the phlebotomist to ensure easy access and safe disposal of used supplies
+Minimize environmental contamination by performing the following:
+Label tubes before blood is drawn
+Avoid placing tubes on patient charts or other items or surfaces that cannot be properly cleaned
+Do not process or store blood specimens near medications or medication preparation area
+Keep Reading:
+CDC Injection Safety
+E. Medication Storage and Handling
+The measures outlined in this section pertain to the general storage and handling of parenteral medications outside of the pharmacy setting. The appropriate storage and handling (e.g., reconstituting, mixing, diluting, compounding) of antineoplastic drugs and other sterile medications that typically require preparation in pharmacy settings should be determined in accordance with established official and enforceable standards for these activities (e.g., ensuring appropriate environmental and engineering controls such as biological safety cabinets and laminar airflow hoods, and proper use of aseptic technique), including those of the United States Pharmacopeia and the Food and Drug Administration. These functions are performed by personnel who have the appropriate qualifications and training as determined in accordance with the state pharmacy board. Consultation with the state pharmacy board and oncology pharmacy specialists is recommended.
+In general, parenteral medication storage, handling, and administration should adhere to injection safety measures as outlined in Section IV.D. (Injection Safety). Parenteral medications include single-dose and multi-dose vials, ampoules, bags or bottles of intravenous fluids.
+Single-dose vials (or single-use vials) are intended for use in a single patient for a single case/procedure/injection. Single-dose or single-use vials are labeled as such by the manufacturer and typically lack an antimicrobial preservative.
+Multi-dose vials contain more than one dose of medication. They are labeled as such by the manufacturer and typically contain an antimicrobial preservative to help prevent the growth of bacteria. However, this preservative has no effect on viruses and does not fully protect against contamination when safe injection practices are not followed.
+1. Medication Storage
+Store all medications (e.g., injectable hormonal agents) in accordance with manufacturer's instructions (e.g., shelf-life, temperature)
+Use of freezers/refrigerators
+Store medications that require refrigeration in a dedicated, labeled refrigerator that meets requirements for such storage (e.g., thermostat control, separate exterior door for refrigerator and freezer compartments)
+Designated personnel maintain temperature log (monitor temperature at least twice daily for vaccine storage) and ensure alternative storage method is in place in the event of power or refrigerator failure
+Multi-dose vials are stored in the Medication Room and not in the immediate patient treatment area (e.g., exam room, chemotherapy suite)
+2. Medication Preparation
+Draw up medications in the Medication Room or in a designated clean area that is free of any items potentially contaminated with blood or body fluids (e.g., used equipment such as syringes, needles, IV tubing, blood collection tubes, and needle holders)
+Note: Multi-dose vials should not be accessed in the immediate patient treatment area (e.g., exam room, chemotherapy suite); if a multi-dose vial enters the immediate patient-care area, it should be dedicated to that patient and discarded after use
+Note: Bags or bottles of intravenous solution (e.g., bag of saline) should not be used for more than one patient
+Use an aseptic technique to access parenteral medications:
+Perform hand hygiene before handling the medication
+Disinfect the rubber septum with alcohol and allow the alcohol to dry prior to piercing
+Always use a new sterile syringe and sterile needle to draw up the medication; be careful to avoid contact with the non-sterile environment during the process
+Never leave a needle inserted into the septum of a medication vial for multiple draws
+Ensure that any device inserted into the septum (e.g., chemotherapy dispensing pins) are used in accordance with manufacturer's instructions and they do not compromise the integrity of the remaining vial contents
+Minimize multiple entries into bags of fluid to add medications; if more than one entry is required, always use a new sterile syringe and sterile needle and access the bag using aseptic technique
+3. When to Discard Medications
+Medications should always be discarded according to the manufacture's expiration date (even if not opened) and whenever sterility is compromised or questionable
+For single-dose vials that have been opened or accessed (e.g., needle-puncture), the vial should be discarded according to the time the manufacturer specifies for the opened vial or at the end of the case/procedure for which it is being used, whichever comes first. It should not be stored for future use.
+For multidose vials that have been opened or accessed (e.g., needle-punctured), the vials should be dated and discarded within 28 days unless the manufacturer specifies a different (shorter or longer) date for that opened vial
+CDC 2007 Guideline for Isolation Precautions
+CDC Injection Safety
+CDC Vaccine Storage and Handling Toolkit
+F. Cleaning and Disinfection of Devices and Environmental Surfaces
+The procedures outlined in this section pertain to the cleaning and disinfection of noncritical patient-care devices (e.g., blood pressure cuff) and environmental surfaces in patient-care areas (e.g., exam rooms) and certain common-use areas (e.g., bathrooms).
+Standard procedures and recommended practices for cleaning and disinfecting compounding areas (e.g., pharmacy settings) and the handling, transporting, and disposing of antineoplastic agents should be determined in accordance with local, state, and federal authorities, including state board of pharmacy, USP, FDA, and DEA.
+1. Designated Personnel
+Responsibilities for cleaning and disinfection of environmental surfaces and medical equipment are assigned to specific personnel (as indicated in Appendix B)
+If Environmental Services are only available after-hours (e.g., contractors from outside agency), then designated facility staff are assigned specific responsibilities for cleaning and disinfection during clinic hours
+All assigned personnel are trained in the appropriate cleaning/disinfection procedures and the proper use of PPE and cleaning products
+2. Supplies and Cleaning Products
+Designated personnel regularly restock necessary supplies (e.g., gloves, gowns, facemasks) and replenish dispensers of alcohol-based hand rub and soap throughout the facility
+Follow manufacturer's instructions for cleaning surfaces and noncritical devices; ensure that the cleaning product used is compatible with the surface/device being cleaned
+Use EPA-registered disinfectant with appropriate germicidal claim for the infective agent of concern (may vary depending on situation) and follow the manufacturer's safety precautions and instructions (e.g., amount, dilution, safe use, storage and disposal) for cleaning/disinfection
+Products and supplies are reviewed periodically (e.g., annually) due to product developments and improvements and to ensure that the materials used are consistent with existing guidelines and meet the needs of the staff
+If reusable mops and cleaning cloths are used, these are cleaned after use and allowed to dry before reuse
+3. Frequency of Cleaning
+Patient-care areas, medication preparation areas (outside pharmacy/compounding areas), and bathrooms are cleaned at least daily, with the following exceptions:
+Promptly clean and decontaminate any location with spills of blood and other potentially infectious materials (refer to step 7 below)
+Clean medication preparation areas when visibly soiled; if medication preparation takes place in the patient treatment area (outside a designated medication room), clean this area after each patient encounter:
+Ensure the medication preparation area is free of any items contaminated with blood or body fluids (e.g., used equipment such as syringes, needles, IV tubing, blood collection tubes, and needle holders)
+Disinfect bathrooms after use by a patient with known or suspected infectious diarrhea and before use by another person (refer to step 5 below)
+Disinfect environmental surfaces and noncritical patient-care devices when visibly soiled
+Disinfect environmental surfaces and noncritical patient-care devices in between patient use if:
+There was direct contact to non-intact skin or mucous membrane or potential contamination with body fluids (e.g., blood, secretions)
+The patient-care device involves a blood glucose meter or other point of care testing device (e.g., PT/INR readers) that utilizes blood samples; to prevent bloodborne pathogen transmission, these devices must be cleaned and disinfected after each use in accordance with manufacturer's instructions
+4. Cleaning Patient-Care Areas
+General cleaning and disinfection measures that apply to any patient-care area:
+Wear appropriate PPE
+In general, cleaning should be performed before disinfection unless a one-step detergent disinfectant is used
+Wet-dust horizontal surfaces by moistening a cloth with a small amount of an EPA-registered disinfectant
+Avoid dusting methods that disperse dust (e.g., feather-dusting)
+Concentrate on cleaning high-touch surfaces (areas frequently touched by patients and facility staff) and those in close proximity to the patient, as outlined below for specific rooms/areas
+Follow manufacturer's instructions for cleaning and maintaining noncritical medical device/equipment
+Clean walls, blinds, and window curtains when they are visibly dusty or soiled
+Cleaning and disinfection measures for specific patient-care areas:
+Exam Rooms
+Change the paper covering the exam table and pillows between patient use
+Place any used linens (e.g., exam gowns, sheets) in a designated container located in each exam room after each patient use; refer to step 8 below for laundering soiled linens
+Clean any medication preparation area after each patient encounter and ensure contaminated items (as described above) are not placed in or near the area
+Focus cleaning on high-touch surfaces (at least daily), e.g., exam bed, bedrails, blood pressure cuff, stethoscope, wall-mounted ophthalmoscope and otoscope (per manufacturer's instructions), chair and bedside stool, and door knob
+Decontaminate high-touch surfaces using an EPA-registered disinfectant with specific claim labels for the infective agent
+If patient has suspected infectious diarrhea and the infective agent is unknown, clean high-touch surfaces using a sodium hypochlorite (bleach)-based product (e.g., 1:10 dilution prepared fresh)
+Chemotherapy Suites
+Clean patient chair, IV poles/pumps, and side table between each patient use
+Clean any medication preparation area after each patient encounter and ensure contaminated items (as described above) are not placed in or near the area
+Triage Stations and/or Locations for Performing Vital Signs (if not done in exam rooms)
+Focus cleaning on high-touch surfaces (at least daily): patient chair, blood pressure cuff, pulse oximetry sensors (follow manufacturer's instructions), thermometers (if disposable oral temperature probes are used, they should be discarded after each use)
+Phlebotomy Stations
+Focus cleaning on high-touch surfaces (at least daily): patient chair and arm rest, procedure table
+Promptly clean and disinfect surfaces contaminated by blood using an EPA-registered disinfectant with specific label claims for bloodborne pathogens (e.g, HIV, HBV, HCV); refer to step 7 for cleaning spills of blood
+5. Cleaning Bathrooms
+Wear appropriate PPE
+Clean the toilet, the area around the toilet, the sink, and faucet handles at least daily, and the walls if visibly soiled
+If used by a patient with known or suspected infectious diarrhea, clean the bathroom before it is used again, focusing on the toilet and the area around the toilet:
+Use an EPA-registered disinfectant with specific claim labels for the infective agent
+If infective agent is unknown, use a bleach-based disinfectant (e.g., 1:10 dilution prepared fresh)
+6. Cleaning Medication Rooms
+(Excluding pharmacy settings or locations where sterile compounding is performed; for these locations, refer to the state pharmacy board and USP recommendations)
+Wear appropriate PPE
+Clean the countertops and surfaces where medication preparation occurs at least daily and when visibly soiled
+Ensure contaminated items (as described above) are not placed in or near the medication preparation area
+Refrigerators for storing medications are cleaned at defined intervals and when soiled, in accordance with manufacturer's instructions
+7. Cleaning Spills of Blood and Body Substances
+Wear protective gloves and use appropriate PPE (e.g., use forceps to pick up any sharps and discard in sharps container)
+If the spill contains large amounts of blood or body fluids (e.g., >10 mL), clean the visible matter with disposable absorbent material and discard in appropriate containers for biohazardous waste
+Decontaminate the area using an EPA-registered disinfectant with specific label claims for bloodborne pathogens (e.g., HIV, HBV, HCV) or a freshly diluted bleach-based product (preferably EPA-registered), in accordance with manufacturer's instructions, and allow the surface to dry
+If a bleach-based product is used:
+Use a 1:100 dilution to decontaminate nonporous surfaces
+If the spill involves large amounts of blood or body fluids, use a 1:10 dilution for first application of germicide before cleaning, then followed by cleaning and subsequent decontamination with 1:100 dilution application
+8. Handling and Laundering Soiled Linens
+Handle all contaminated linens with minimum agitation to avoid contamination of air, surfaces, and persons
+Do not sort or rinse soiled linens in patient-care areas
+Use leak-resistant containment for linens contaminated with blood or body substances; ensure that there is not leakage during transport
+If laundry chutes are used, ensure that laundry bags are closed before tossing the filled bag into the chute; do not place loose items in the laundry chute
+In the laundry area, appropriate PPE (e.g., gloves) are worn by laundry personnel while sorting soiled linen, and hand hygiene supplies are available for their use
+If laundry equipment is available on premise, use and maintain the equipment according to manufacturer's instructions
+In general, If hot-water laundry cycles are used, wash with detergent in water ≥160°F (≥71°C) for ≥25 minutes
+If low-temperature (<160°F [<70°C ]) laundry cycles are used, wash with proper concentrations of laundry chemicals that are suitable for low-temperature washing
+If commercial laundry facilities are used, ensure that their laundering process is in accordance with current recommendations
+9. Waste Disposal
+Puncture-resistant, leak-proof sharps containers are located in every patient-care area (e.g., exam room, chemotherapy suite, phlebotomy station)
+Specifically for phlebotomy stations, a sharps container is located within a short distance of each phlebotomist's work space
+All sharps are disposed of in the designated sharps container; do not bend, recap, or break used syringe needles before discarding them into the container
+Filled sharps containers are disposed of in accordance with state regulated medical waste rules
+Regular trash and regulated medical waste (e.g., biohazardous material and chemical hazardous waste, including antineoplastic drugs) are disposed of in their designated containers
+All trash and waste containers are emptied at least daily by designated personnel
+Wear appropriate PPE
+Handle, transport, and dispose regulated waste, including antineoplastic and hazardous drugs, in accordance with state and local regulations
+CDC Guidelines for Environmental Infection Control in Health-Care Facilities
+CDC Guideline for Disinfection and Sterilization in Healthcare Facilities, 2008
+CDC Guideline for the Prevention and Control of Norovirus Gastroenteritis Outbreaks in Healthcare Settings
+CDC Infection Prevention during Blood Glucose Monitoring and Insulin Administration
+APIC Infection Prevention Manual for Ambulatory Care, 2009
+V. Transmission-based Precautions
+In addition to consistent use of Standard Precautions, additional precautions may be warranted in certain situations as described below.
+A. Identifying Potentially Infectious Patients
+Facility staff remain alert for any patient arriving with symptoms of an active infection (e.g., diarrhea, rash, respiratory symptoms, draining wounds or skin lesions)
+If patient calls ahead:
+Have patients with symptoms of active infection come at a time when the facility is less crowded, if possible
+Alert registration staff ahead of time to place the patient in a private exam room upon arrival if available and follow the procedures pertinent to the route of transmission as specified below
+If the purpose of the visit is non-urgent, patients are encouraged to reschedule the appointment until symptoms have resolved
+B. Contact Precautions
+Apply to patients with any of the following conditions and/or disease:
+Presence of stool incontinence (may include patients with norovirus, rotavirus, or Clostridium difficile), draining wounds, uncontrolled secretions, pressure ulcers, or presence of ostomy tubes and/or bags draining body fluids
+Presence of generalized rash or exanthems
+Prioritize placement of patients in an exam room if they have stool incontinence, draining wounds and/or skin lesions that cannot be covered, or uncontrolled secretions
+Perform hand hygiene before touching patient and prior to wearing gloves
+PPE use:
+Wear gloves when touching the patient and the patient's immediate environment or belongings
+Wear a gown if substantial contact with the patient or their environment is anticipated
+Perform hand hygiene after removal of PPE; note: use soap and water when hands are visibly soiled (e.g., blood, body fluids), or after caring for patients with known or suspected infectious diarrhea (e.g., Clostridium difficile, norovirus)
+Clean/disinfect the exam room accordingly (refer to Section IV.F.4.)
+Instruct patients with known or suspected infectious diarrhea to use a separate bathroom, if available; clean/disinfect the bathroom before it can be used again (refer to Section IV.F.5. for bathroom cleaning/disinfection)
+C. Droplet Precautions
+Apply to patients known or suspected to be infected with a pathogen that can be transmitted by droplet route; these include, but are not limited to:
+Respiratory viruses (e.g., influenza, adenovirus)
+Bordetella pertusis
+For first 24 hours of therapy: Neisseria meningitides, group A streptococcus
+Place the patient in an exam room with a closed door as soon as possible (prioritize patients who have excessive cough and sputum production); if an exam room is not available, the patient is provided a facemask and placed in a separate area as far from other patients as possible while awaiting care.
+PPE use:
+Wear a facemask, such as a procedure or surgical mask, for close contact with the patient; the facemask should be donned upon entering the exam room
+If substantial spraying of respiratory fluids is anticipated, gloves and gown as well as goggles (or face shield in place of goggles) should be worn
+Perform hand hygiene before and after touching the patient and after contact with respiratory secretions and contaminated objects/materials; note: use soap and water when hands are visibly soiled (e.g., blood, body fluids)
+Instruct patient to wear a facemask when exiting the exam room, avoid coming into close contact with other patients, and practice respiratory hygiene and cough etiquette
+Clean and disinfect the exam room accordingly (refer to Section IV.F.4.)
+D. Airborne Precautions
+Apply to patients known or suspected to be infected with a pathogen that can be transmitted by airborne route; these include, but are not limited to:
+Tuberculosis
+Measles
+Chickenpox (until lesions are crusted over)
+Localized (in immunocompromised patient) or disseminated herpes zoster (until lesions are crusted over)
+Have patient enter through a separate entrance to the facility (e.g., dedicated isolation entrance), if available, to avoid the reception and registration area
+Place the patient immediately in an airborne infection isolation room (AIIR)
+If an AIIR is not available:
+Provide a facemask (e.g., procedure or surgical mask) to the patient and place the patient immediately in an exam room with a closed door
+Instruct the patient to keep the facemask on while in the exam room, if possible, and to change the mask if it becomes wet
+Initiate protocol to transfer patient to a healthcare facility that has the recommended infection-control capacity to properly manage the patient
+PPE use:
+Wear a fit-tested N-95 or higher level disposable respirator, if available, when caring for the patient; the respirator should be donned prior to room entry and removed after exiting room
+If substantial spraying of respiratory fluids is anticipated, gloves and gown as well as goggles or face shield should be worn
+Perform hand hygiene before and after touching the patient and after contact with respiratory secretions and/or body fluids and contaminated objects/materials; note: use soap and water when hands are visibly soiled (e.g., blood, body fluids)
+Instruct patient to wear a facemask when exiting the exam room, avoid coming into close contact with other patients , and practice respiratory hygiene and cough etiquette
+Once the patient leaves, the exam room should remain vacant for generally one hour before anyone enters; however, adequate wait time may vary depending on the ventilation rate of the room and should be determined accordingly*
+If staff must enter the room during the wait time, they are required to use respiratory protection
+*Francis J. Curry National Tuberculosis Center, FAQ: "How long does it take to clear the air in an isolation or high-risk procedure room?"
+CDC 2007 Guideline for Isolation Precautions
+CDC Guidelines for Preventing the Transmission of Mycobacterium tuberculosis in Health-Care Settings, 2005
+VI. Central venous catheters
+The procedures outlined below pertain to the access and maintenance of long-term central venous catheters (e.g., vascular access devices). These include peripherally inserted central catheters (PICCs), tunneled catheters (e.g., Broviac®, Hickman®, and Groshong® catheters), including tunneled apheresis catheters, and implanted ports. For other types of access devices, such as intraperitoneal ports, refer to guidelines from relevant professional societies (e.g., Oncology Nursing Society).
+Several recommendations in this section have been adapted directly from the Oncology Nursing Society Access Devices Guidelines and the Infusion Nursing Society Standards of Practice. There is not a consensus over the use of clean versus sterile gloves when accessing certain vascular access devices, such as implanted ports; where indicated, recommendations by specific professional societies are provided. While the recommendations below apply generally, healthcare personnel are to follow manufacturers' instructions and labeled use for specific care and maintenance. Only healthcare personnel who have attained and maintained competency should perform these procedures.
+A. General Maintenance and Access Procedures
+1. Accessing Central Venous Catheters
+This procedure applies only to PICCs and tunneled catheters, including apheresis catheters. Refer to Part D.1. below for accessing implanted ports. In general, closed catheter access systems should be used preferentially over open systems.
+Maintain aseptic technique
+Perform hand hygiene and assemble the necessary equipment
+Wear clean gloves
+Scrub the injection cap (e.g., needleless connector) with an appropriate antiseptic (e.g., chlorhexidine, povidone iodine, or 70% alcohol), and allow to dry (if povidone iodine is used, it should dry for at least 2 minutes)
+Access the injection cap with the syringe or IV tubing (opening the clamp, if necessary)
+Perform hand hygiene when done
+2. Blood Draws from Central Venous Catheters
+Access the catheter as outlined above, maintaining aseptic technique
+Remove the first 3-5 mL of blood and discard
+Obtain specimen
+Flush with 10-20 mL of normal saline (clamping the catheter as flushing is completed, if necessary) and promptly dispose of used syringe(s)
+Perform hand hygiene when done
+3. Flushing technique
+Refer to the manufacturer's instructions of the catheter and the needleless connector for the appropriate technique to use; unless otherwise specified, perform the following:
+Single-use flushing systems (e.g., single-dose vials, prefilled syringes) should be used
+Access the catheter as outlined above, maintaining aseptic technique
+In general, avoid using a syringe less than 3 mL in size to flush, preferably use 10 mL
+Flush the catheter vigorously using pulsating technique and maintain pressure at the end of the flush to prevent reflux
+Positive pressure technique (may not apply to neutral-displacement or positive-displacement needleless connectors): flush the catheter, continue to hold the plunger of the syringe while closing the clamp on the catheter and then disconnect the syringe, OR, for catheters without a clamp, withdraw the syringe as the last 0.5-1 mL of fluid is flushed.
+Promptly dispose of used syringe(s)
+Perform hand hygiene when done
+4. Changing Catheter Site Dressing
+This procedure applies only to PICCs and tunneled catheters, including apheresis catheters.
+Supplies for site cleansing and dressing changes should be single-use; refer to manufacturer's recommendations to ensure compatibility with the catheter material
+Maintain aseptic technique
+Perform hand hygiene
+Wear clean or sterile gloves (additional precaution per Infusion Nursing Society includes use of facemasks and sterile gloves)
+Remove existing dressing and inspect the site visually
+Apply antiseptic to the site using >0.5% chlorhexidine preparation with alcohol; if there is contraindication to chlorhexidine, use tincture of iodine, an iodophor, or 70% alcohol as alternative
+Do not apply topical antibiotic ointment or creams to catheter site
+Cover with either sterile gauze or sterile, transparent, semipermeable dressing (refer to catheter-specific recommendations for frequency of dressing changes)
+Perform hand hygiene when done
+5. Changing the Injection Cap (e.g., Needleless Connector)
+This procedure applies only to PICCs and tunneled catheters, including apheresis catheters. Refer to manufacturer's instructions for how frequently to change the injection cap; if information is not available, in general, change every week or when there are signs of blood, precipitate, cracks, leaks, or other defects, or when the septum is no longer intact.
+Maintain aseptic technique
+Perform hand hygiene and assemble the necessary equipment
+Wear clean gloves
+Scrub the injection cap and catheter hub with appropriate antiseptic agent; clamp the catheter if necessary as cap is removed
+Attach new cap to catheter hub using aseptic technique
+Perform hand hygiene when done
+B. Peripherally Inserted Central Catheters (PICCs)
+Refer to steps 1-5 in Section VI.A. above for PICC access and common maintenance procedures. Additional recommendations for routine maintenance and care:
+Frequency of dressing change:
+Change 24 hours after insertion
+Transparent dressing: change every 5-7 days unless soiled or loose
+Gauze dressing: change every 2 days or as needed if wet, soiled, or nonocclusive
+Flushing: use of heparin flushes and the recommended concentration and frequency of flushing are determined in accordance with manufacturer's instructions and per the treating clinician's orders (in general, for valve catheters or closed tip catheters, flush with normal saline unless otherwise specified)
+C. Tunneled Catheters
+Tunneled catheters include Broviac®, Hickman®, and Groshong® catheters, as well as apheresis catheters. Refer to steps 1-5 in Section VI.A. above for catheter access and common maintenance procedures. Additional recommendations for routine maintenance and care:
+Frequency of dressing change:
+Change 24 hours after insertion
+Transparent dressing: change not more than once a week unless soiled or loose
+Gauze and tape dressing: change every 2 days or as needed if wet, soiled, or nonocclusive
+Once healed, tunneled catheters may go without a dressing unless the patient is immunocompromised
+Flushing: use of heparin flushes and the recommended concentration and frequency of flushing are determined in accordance with manufacturer's instructions and per the treating clinician's orders (in general, for Groshong® catheters, valve catheters, or closed tip catheters, flush with normal saline unless otherwise specified)
+D. Implanted Ports
+1. Port Access Procedure
+Perform hand hygiene first; prior to each access, examine the site for complications, including examination of the veins of the chest and neck to look for any swelling, erythema, drainage or leakage, or presence of pain, discomfort, or tenderness
+Palpate the outline of the portal body
+Perform hand hygiene again; wear clean or sterile gloves (additional precaution per INS includes use of sterile gloves and facemasks)
+Cleanse port site with appropriate antiseptic agent
+Administer topical anesthetic, if ordered
+Stabilize portal body with one hand, and insert non-coring needle (e.g., Huber needle) with the other hand until portal backing is felt
+Ensure patency by blood return and dispose of used syringe(s)
+Stabilize needle/port with tape, securement device, or stabilization device; apply gauze and tape for short-term use (such as for outpatient treatment)
+Perform hand hygiene when done
+2. Port De-access Procedure
+Perform hand hygiene; wear clean or sterile gloves
+Remove dressing and inspect site
+Remove gloves, perform hand hygiene again, and wear new gloves
+Flush device with 20 mL normal saline followed by heparin flush, unless otherwise specified by manufacturer and/or treating clinician
+Stabilize port with one hand, and remove needle with the other hand; maintain positive pressure while deaccessing by flushing the catheter while withdrawing the needle from the septum
+Promptly dispose of needle and syringe
+Apply bandage or dressing
+Perform hand hygiene when done
+3. Maintenance and Care
+For short-term use in outpatient settings, a light dressing may be used in place of an occlusive dressing during the infusion; ensure the needle is secure in the portal septum as described above
+Use of heparin flushes and the recommended concentration and frequency of flushing are to be determined in accordance with manufacturer's instructions and per the treating clinician's order (in general, when not in use, implanted ports should be accessed and flushed every 4-8 weeks to maintain patency)
+For blood specimens: discard 5-10 mL of blood, obtain specimen, flush with 10-20 mL of normal saline, and promptly discard used syringe(s)
+Adapted with permission from Access Device Guidelines: Recommendations for Nursing Practice and Education (3rd Ed.), by D. Camp-Sorrell (Ed.), 2011, Pittsburgh, PA: Oncology Nursing Society. Copyright 2011 by ONS.
+INS 2011 Infusion Nursing Standards of Practice
+CDC Guidelines for the Prevention of Intravascular Catheter-Related Infections, 2011
+Appendices
+Appendix A.
+Example List of Contact Persons and Roles/Responsibilities
+Contact Person(s)a (Names/Titles)
+Contact Information
+Roles/Responsibilities
+Phone:
+Pager:
+Email:
+Infection prevention personnel/consultant
+Assists with infection control plan development, update/revision, and implementation
+Including a protocol for transferring patients who require Airborne Precautions (if applicable)
+Phone:
+Pager:
+Email:
+Educate and train facility staff (including Environmental Services/housekeeping)
+Assess for competency of jobs/tasks (examples provided):
+Hand hygiene performance/compliance
+Proper use of PPE
+Environmental cleaning/disinfection
+Triage/screening, taking vital signs
+Phlebotomy service
+Determine when to implement enhanced respiratory screening measures
+Ensure facility sick leave policies are in place and followed
+Phone:
+Pager:
+Email:
+Collect, manage, and analyze HAI data for surveillance purposes
+Prepare and distribute surveillance reports
+Notifies state and local health departments of reportable diseases/conditions and outbreaks
+Phone:
+Pager:
+Email:
+Provides fit-testing for N-95 respirators (if used in facility) and appropriate respiratory protection training to facility staff
+Phone:
+Pager:
+Email:
+Assess patients presenting with symptoms of active infection (may be notified by registration staff upon patient arrival)
+Determine patient placement as needed
+Phone:
+Pager:
+Email:
+Environmental Services (ES) /housekeeping staff
+Responsible for (specify tasks, examples provided):
+Ensure supplies are restocked
+Daily cleaning of patient-care areas
+Disinfect bathrooms as needed
+Cleaning large spills of blood or other potentially infectious materialsb
+Empty regular trash and dispose regulated waste accordingly
+Phone:
+Pager:
+Email:
+Clean/disinfect areas and/or surfaces that require more frequent cleaning or are not routinely cleaned by ES/housekeeping staff (specify areas/surfaces and specific situations, examples provided):
+Medication preparation area after each patient encounter
+Patient-care devices after each use
+Exam rooms and/or chemotherapy suite after each patient encounter (e.g., change paper covering exam table, clean chemotherapy chair)
+Patient-care areas after contamination with body fluids[c]
+Phone:
+Pager:
+Email:
+Monitor medication/vaccine refrigerator temperature log
+Ensure alternative storage method is in place in the event of power failure (specify method)
+[a] Several roles/tasks may be performed by the same person, e.g., Infection Prevention personnel, or by more than one person.
+[b] Cleaning/disinfection of spills of blood or other potentially infectious materials should be assigned to personnel trained to handle such situation; this may include facility staff other than ES/housekeeping staff.
+[c] Ensure this task is assigned to personnel who are available to respond in a timely manner; in some facilities, ES/housekeeping staff may be better equipped to handle this type of cleaning/disinfection.
+Appendix B. Reportable Diseases/Conditions
+[Insert a list of reportable disease/conditions specific to your state and the appropriate contact information for your local and state health authorities. This information may be found at your state department of health website and/or at the Council of State and Territorial Epidemiologists State Reportable Conditions Websites
+Appendix C. CDC Infection Prevention Checklist For Outpatient Settings
+The Infection Prevention Checklist for Outpatient Settings is a companion to the CDC Guide to Infection Prevention for Outpatient Settings: Minimum Expectations for Safe Care.
+There are two sections to the checklist: I) Administration Policies and Facility Practices, and II) Personnel and Patient-Care Observations. For the purpose of evaluating personnel competency and adherence to recommended infection prevention practices, oncology facilities should use Section II of the checklist (i.e, Personnel and Patient-Care Observations) and modify and/or further supplement, as needed, to include specific practices and procedures relevant to their setting. These may include, but are not limited to, assessing personnel adherence to donning appropriate PPE and using aseptic technique (e.g., performing hand hygiene) when accessing central venous catheters.
+Appendix D. Additional Resources
+Detailed information about each of the topics below can be found in the accompanying resources.
+Infection prevention issues unique to blood and marrow transplant centers (a.k.a. bone marrow transplant or stem cell transplant centers)
+Guidelines for Preventing Opportunistic Infections Among Hematopoietic Stem Cell Transplant Recipients
+Guidelines for Preventing Infectious Complications among Hematopoietic Cell Transplantation Recipients: A Global Perspective
+Occupational health requirements, including bloodborne pathogen training, healthcare personnel immunizations, and recommended personal protective equipment for handling antineoplastic agents and other hazardous drugs
+Guideline for Infection Control in Hospital Personnel 1998
+Immunization of Health-Care Workers: Recommendations of the Advisory Committee on Immunization
+OSHA Bloodborne Pathogens and Needlestick Prevention
+OSHA Controlling Occupational Exposure to Hazardous Drugs
+NIOSH List of Antineoplastic and Other Hazardous Drugs in Healthcare Settings 201
+NIOSH Personal Protective Equipment for Health Care Workers Who Work with Hazardous Drugs
+NIOSH Preventing Occupational Exposure to Antineoplastic and Other Hazardous Drugs in Health Care Settings
+Appropriate preparation and handling (e.g., reconstituting, mixing, diluting, compounding) of sterile medications, including antineoplastic agents
+United States Pharmacopeia Chapter <797> Guidebook to Pharmaceutical Compounding—Sterile Preparations
+International Society of Oncology Pharmacy Practitioners Standards of Practice
+American Society of Health-System Pharmacists Guidelines for Handling Hazardous Drugs
+Clinical recommendations and guidance for treatment of patients with cancer, including appropriate antimicrobial prescribing practices and prechemotherapy assessment of neutropenia risk
+National Comprehensive Cancer Network Guidelines and Clinical Resources
+American Society of Clinical Oncology Guideline
+Clinical Practice Guideline for the Use of Antimicrobial Agents in Neutropenic Patients with Cancer: 2010 Update by the Infectious Diseases Society of America
+Practice Guidelines for Outpatient Parenteral Antimicrobial Therapy

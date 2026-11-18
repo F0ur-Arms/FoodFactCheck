@@ -1,0 +1,49 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: About the National Antimicrobial Resistance Monitoring System (NARMS)
+URL: https://www.cdc.gov/narms/about/index.html
+────────────────────────────────────────────────────────────
+
+For Everyone
+At a glance
+NARMS collects information about enteric bacteria from humans, retail meats, and food animals
+NARMS provides data on emerging antimicrobial resistance, ways in which resistance is spread, and differences between resistant and susceptible infections.
+Measuring antimicrobial resistance in bacteria isolated from people helps us understand and prevent transmission of resistant infections.
+Tracking trends in resistance
+NARMS is a US public health surveillance system that tracks antimicrobial resistance in foodborne and other enteric bacteria.
+NARMS is an interagency partnership among the US Centers for Disease Control and Prevention (CDC), the US Food and Drug Administration (FDA), the US Department of Agriculture (USDA), and state and local health departments.
+Different agencies, different sources
+NARMS monitors antimicrobial resistance among enteric bacteria from three sources:
+Humans (CDC)
+Retail meats (FDA)
+Food animals (USDA)
+The NARMS program at CDC helps protect public health by providing information about emerging antimicrobial resistance, the ways in which resistance is spread, and differences between resistant and susceptible infections.
+Keep Reading
+Partners in Antimicrobial Resistance
+What's collected
+CDC NARMS conducts antimicrobial susceptibility testing on human isolatesA of Salmonella, Campylobacter, Shigella, E. coli O157, and Vibrio (other than V. cholerae).
+CDC NARMS also conducts antimicrobial susceptibility testing on human isolates from multistate outbreaks caused by Salmonella, Shigella, and E. coli.
+FDA NARMS conducts serotyping, antimicrobial susceptibility testing, and/or genetic analysis on isolates of Salmonella, Campylobacter, Enterococcus, and E. coli from retail meat and seafood samples. These samples include chicken, ground turkey, ground beef, pork chops, shrimp, tilapia, and salmon.
+USDA NARMS conducts similar tests on isolates of Salmonella, Campylobacter, Enterococcus, and E. coli from food-producing animal specimens. These specimens are collected at federally inspected slaughter and processing plants throughout the United States.
+CDC's Role in NARMS
+CDC tracks antimicrobial resistance and studies patterns of emerging resistance in enteric bacteria.
+Glossary of terms related to antimicrobial resistance
+Definitions of key terms related to antimicrobial resistance.
+How the data are used
+How NARMS helps investigators
+Public health officials use information collected by NARMS to
+Detect emerging trends of resistance
+Link enteric illnesses (resistant and susceptible) to specific sources and risk factors
+Understand genetic mechanisms that confer resistance and the spread of resistance among enteric bacteria
+Collaborate on investigation of outbreaks of enteric disease, including multistate foodborne outbreaks
+Educate consumers about foodborne antimicrobial resistance threats and food safety practices that protect against these threats
+Guide public health priorities
+Provide information and recommendations that promote the judicious use of antimicrobial agents
+Why information collected by NARMS is important
+Antimicrobial use in both humans and animals can lead to the development of antimicrobial resistance in bacteria that cause human infections.
+Resistant bacteria can multiply and spread. They can also share their resistance with other kinds of bacteria to create new resistant bacterial strains.
+Most enteric infections are self-limiting, but antimicrobial agents are essential to treat severe illness. If pathogens are resistant to antimicrobial agents, illness may be prolonged or more severe.
+Measuring antimicrobial resistance in bacteria isolated from people, foods, and food animals is central to understanding and preventing transmission of resistant infections.
+Data provided by NARMS inform the development of public health interventions and policies designed to protect people from the threat of resistant enteric infections.
+What's ahead
+As antimicrobial resistance continues to pose a serious and evolving threat to public health, the 2026–2030 strategic plan positions NARMS to meet that challenge with greater coordination across agencies, stronger partnerships, and enhanced data sharing tools.
+NARMS Strategic Plan for 2026–2030

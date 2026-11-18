@@ -1,0 +1,49 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Supporting Healthy Communities
+URL: https://www.cdc.gov/nssp/about/index.html
+────────────────────────────────────────────────────────────
+
+Jan. 12, 2026
+What to know
+CDC NSSP empowers rapid response to health threats.
+We team up with health care and public health partners to collect data from many sources—without compromising privacy.
+This information provides an early warning system, allowing us to track threats in near real-time.
+CDC also shares data with all Americans through online dashboards.
+Early warning system
+NSSP provides an early warning system to protect Americans from health threats. Syndromic surveillance is at the heart of these efforts.
+How syndromic surveillance works
+A syndrome is a group of related symptoms that, combined, can indicate a specific health condition, disorder, injury, or threat. Emergency department (ED) data are a key source of information, but other sources are useful, too. Examples include laboratory data and even air quality and weather information. Integrating information from many sources helps create connected, sustainable systems. Having complete and accurate data is an excellent foundation for improving health outcomes.
+Here’s how the process typically works:
+People seek treatment at an ED or another health care facility.
+The medical facility sends de-identified data to state and local health departments or Health Information Exchanges.
+Public health departments and Health Information Exchanges contribute data to the NSSP’s BioSense Platform.
+The public health community can access the BioSense Platform for surveillance activities to monitor public health.
+This process is known collectively as syndromic surveillance. Public health officials use data and tools provided by NSSP to protect people from health threats in their communities with speed and efficiency.
+In this way, CDC is investing in everyone’s health.
+Key facts about the BioSense Platform
+The NSSP BioSense Platform is a secure, integrated electronic health information system.
+Patient information is de-identified to protect privacy.
+Data are available as early as 24 hours after a patient’s visit to a participating facility. Because of the speed and efficiency, we call this near real-time.
+The platform helps standardize public health practice. This enables us to continue improving readiness and response.
+NSSP Community of Practice
+We also unite public health professionals through our NSSP Community of Practice. This is a network of people who are committed to protecting their communities from health threats. They share expertise, tools, best practices, and success stories to help improve readiness and response.
+The NSSP Community of Practice includes:
+CDC
+Federal partners
+Local and state health departments
+Academic partners
+Health care facilities
+Vendors including health information exchanges
+These are the everyday heroes who team up to protect our communities.
+These activities help improve readiness and response to health threats. This supports the goals of the American Pandemic Preparedness Plan, which calls for us to be ready to respond quickly to threats.
+Online dashboards
+CDC shares information with the public to help people make decisions about how to protect their health, their families, and their communities. Dashboards provide snapshots of data trends so users can track issues in near real-time.
+Heat & Health Tracker
+Tick Bite Data Tracker
+Respiratory virus surveillance
+By the numbers
+More than 6,900 health care facilities covering 50 states, the District of Columbia, and Guam contribute data to NSSP daily.
+Within 24 hours of a patient’s ED visit, data are available in NSSP for analysis.
+84% of U.S. emergency departments send data to NSSP, often within 24 hours.
+More than 9.6 million electronic health messages are received by NSSP every day.
+Jan. 12, 2026

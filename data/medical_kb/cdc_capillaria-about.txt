@@ -1,0 +1,69 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: About Capillariasis
+URL: https://www.cdc.gov/capillaria/about/index.html
+────────────────────────────────────────────────────────────
+
+Key points
+Capillariasis is an infection caused by a parasite.
+A parasite is an organism (a living thing) that lives on or inside another organism.
+Medication is available to treat capillariasis. Without treatment, the infection can be deadly.
+Overview
+Capillariasis is a parasitic infection in humans caused by two species of nematodes (roundworms):
+Capillaria hepatica (C. hepatica)
+This infection can lead to hepatitis (liver disease).
+C. hepatica is rare disease in humans (usually affects rodents and other wild animals). Despite this, there have been human cases reported on all continents except Australia.
+Capillaria philippinesis (C. philippinesis)
+This infection can lead to diarrhea and emaciation.
+C. philippinesis is frequently found in the Philippines (especially the Luzon region) and Thailand. There are occasionally cases reported from other East and Southeast Asian countries. Rarely cases have been reported in Egypt, the Middle East, and Colombia.
+Signs and symptoms
+C. hepatica
+People infected with a single C. hepatica worm or a few worms often have no signs or symptoms. Female worms lay eggs continuously and when infections with multiple worms occur, symptoms can be severe, and may include
+Hepatitis
+Anemia
+Fever
+Hypereosinophilia
+Death
+C. philippinensis
+When people are first infected with C. philippinensis, they can have the following signs and symptoms:
+General abdominal pain
+Diarrhea
+If the diseases are not treated, later on, people can develop severe disease and experience the following signs and symptoms:
+Nausea
+Vomiting
+Weight loss
+Death
+How it spreads
+C. hepatica
+C. hepatica can be found in the livers of small rodents, monkeys, and prairie dogs, where it can cause cirrhosis (scarring of the liver). When large carnivores eat these animals, they consume the capillarid eggs, which then pass through their stool (poop). When the carnivore poops in soil, the eggs become infective in about 30 days, which can then infect other animals and humans. Alternatively, when the infected rodents, monkeys, or prairie dogs die naturally and decompose, eggs from their livers are released into the soil.
+If humans consume the eggs from the environment, either directly by eating soil (pica) or indirectly through contaminated food or water, the eggs move to the liver and mature to adult worms. C. hepatica can be transmitted human-to-human when eggs are deposited through human feces (poop) into the soil.
+C. philippinensis
+C. philippinensis is often found in small, freshwater fish. When humans consume raw or undercooked infected fish, larvae move to the intestine and mature to adult worms. Female worms deposit eggs in the intestine, which are then released through feces. When infected human feces reach freshwater, fish can get infected and the cycle continues. In some cases eggs may hatch within the human intestine, causing hyperinfection (a massive number of adult worms).
+C. philippinensis is not transmitted from infected humans to other humans; transmission requires the intermediate freshwater fish host. However, adult C. philippinensis worms that grow within the intestine of infected humans can release eggs that hatch into larvae; this could cause hyperinfection in that human host. Left untreated, this can lead to severe disease.
+Prevention
+You can take steps to prevent both types of capillariasis:
+Sanitation and hygiene precautions
+Use sanitation facilities (toilets and latrines) that are out of reach from animals and will not let feces seep into the water or around food supplies.
+Wash your hands with soap and warm water after touching or working with soil and before handling food.
+Teach children the importance of handwashing.
+Food precautions
+Wash fruits and vegetables before eating them.
+Do not eat raw or undercooked fish.
+The FDA recommends the following for fish preparation or storage to kill parasites:
+Cooking
+Cook fish adequately (to an internal temperature of at least 145° F [~63° C]).
+Freezing
+At -4°F (-20°C) or below for 7 days (total time), or
+At -31°F (-35°C) or below until solid, and storing at -31°F (-35°C) or below for 15 hours, or
+At -31°F (-35°C) or below until solid and storing at -4°F (-20°C) or below for 24 hours.
+Learn more about Safe Food Handling.
+Diagnosis
+C. hepatica
+Your healthcare provider can diagnose C. hepatica by performing a liver biopsy, needle biopsy, or after death at autopsy. Healthcare providers do not diagnose by analyzing stool samples.
+C. philippinensis
+Your healthcare provider can diagnose C. philippinensis by taking a biopsy of the small intestine tissue or analyzing stool samples.
+Treatment and recovery
+C. hepatica
+Healthcare providers treat C. hepatica with thiabendazole and albendazole. However, C. hepatica is a rare infection and there is limited clinical experience. Healthcare providers have used steroids to help control liver inflammation.
+C. philippinensis
+Healthcare providers treat C. philippinensis with mebendazole (200mg twice a day for 20 days) or albendazole (400 mg a day for 10 days).
+This information is not meant to be used for self-diagnosis or as a substitute for consultation with a health care provider. If you have any questions about the parasites described above or think that you may have a parasitic infection, consult a health care provider.

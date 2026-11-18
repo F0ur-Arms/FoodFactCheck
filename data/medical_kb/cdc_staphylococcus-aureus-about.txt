@@ -1,0 +1,41 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Staphylococcus aureus Basics
+URL: https://www.cdc.gov/staphylococcus-aureus/about/index.html
+────────────────────────────────────────────────────────────
+
+Key points
+Staphylococcus aureus (staph) is a type of germ that about 30% of people carry in their noses.
+Most of the time, staph does not cause any harm, but it can sometimes cause infections.
+Some types of Staphylococcus aureus are resistant to common antibiotic treatments.
+Overview
+Staphylococcus aureus (staph) is a bacterium commonly found on the skin and in the nose of about 30% of individuals. Most of the time staph does not cause any harm, but it can sometimes cause infections. In healthcare settings, infections can lead to serious or fatal outcomes.
+Signs and symptoms
+Staph infections can look like pimples, boils or other skin conditions.
+In healthcare settings, staph infections can be serious or fatal, leading to:
+Bloodstream infections or sepsis when bacteria get in the bloodstream.
+Pneumonia, which most often affects people with underlying lung disease, including those on mechanical ventilators.
+Endocarditis (infection of the heart valves), which can lead to heart failure or stroke.
+Osteomyelitis (bone infection), caused by staph bacteria traveling in the bloodstream or put there by direct contact such as trauma (puncture wound of the foot).
+Risk factors
+In the community, people are at greater risk of staph infections if they have chronic conditions (e.g., diabetes, cancer, vascular disease, etc.) or inject drugs.
+In health care, the risk of more serious staph infection is higher for patients:
+In intensive care units (ICUs).
+Who have undergone certain types of surgeries.
+With medical devices inserted in their bodies.
+With weakened immune symptoms.
+Causes
+Several different types of staph can cause infections, including:
+Methicillin-resistant Staphylococcus aureus (MRSA)
+Methicillin-susceptible Staphylococcus aureus (MSSA)
+Vancomycin-intermediate Staphylococcus aureus (VISA)
+Vancomycin-resistant Staphylococcus aureus (VRSA)
+Although MRSA is often better known, any staph infection can be dangerous, even if it is not resistant to antibiotics.
+Reducing risk
+Patients can avoid sharing items that contact skin, such as towels, razors and needles, and can also follow safety tips to reduce their risk of staph infection.
+Treatment and recovery
+Healthcare providers can treat most staph infections with antibiotics.
+What CDC is doing
+Providing testing to identify antimicrobial resistance cases, measure resistance and track transmission in a healthcare setting through the Antimicrobial Resistance Laboratory Network.
+Tracking staph infections through the Emerging Infections Program and National Healthcare Safety Network.
+Data is also available on the AR & Patient Safety Portal.
+Working closely with health departments, other federal agencies, healthcare providers and patients to prevent infections caused by staph and slow the spread of resistant germs.

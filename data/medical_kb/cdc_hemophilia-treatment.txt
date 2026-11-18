@@ -1,0 +1,43 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Español
+URL: https://www.cdc.gov/hemophilia/treatment/index.html
+────────────────────────────────────────────────────────────
+
+Treatment of Hemophilia
+Key points
+If you have hemophilia, you need treatment so your blood can clot.
+Treatment products have different ways of helping blood clot.
+Hemophilia treatment centers specialize in caring for people with bleeding disorders.
+Treatment overview
+The standard way to treat both hemophilia A and B is to replace the missing blood clotting factor so that the blood can clot properly. One way to do this is by infusing (injecting into a vein) commercially prepared clotting factor concentrates.
+For hemophilia A, another treatment method is a non-factor product that stands in for, or replaces the function of, the missing factor VIII. This treatment is given by injection under the skin that can be given by people with hemophilia themselves.
+Healthcare providers typically prescribe treatment products for episodic care or prophylactic care. Episodic care is used to stop a patient’s bleeding episodes; prophylactic care is used to prevent bleeding episodes from occurring. People with hemophilia can learn how to perform infusions themselves so that they can stop bleeding episodes and, by performing the infusions on a regular basis, can even prevent most bleeding episodes. Giving factor treatment products at home means that bleeds can be treated more quickly, resulting in less serious bleeding and fewer side effects.
+Treatment centers
+Hemophilia is a complex disorder. Good quality medical care from healthcare providers who know a lot about the disorder can help people with hemophilia prevent some serious problems. This type of specialty care is at a comprehensive hemophilia treatment center (HTC). An HTC provides patients with the care and education to address all issues related to the disorder. The team consists of physicians (hematologists or blood specialists), nurses, social workers, physical therapists, and other healthcare providers who are specialized in the care of people with bleeding disorders.
+Looking for a Hemophilia Treatment Center?‎
+Use the HTC Directory to find a treatment center close to you.
+Hemophilia Treatment Centers
+Treatment medications
+Clotting factor products
+The two main types of clotting factor concentrates available are plasma-derived factor concentrates and recombinant factor concentrates.
+Plasma-derived factor concentrates
+Plasma is the liquid part of blood. It is pale yellow or straw-colored and contains proteins such as antibodies, albumin, and clotting factors. Several factor concentrate treatment products are available that are made from human plasma proteins. All blood and parts of blood, such as plasma, are routinely tested for viruses. The plasma is collected from many people, and then it goes through several processes to separate it into components, such as clotting factors. The clotting proteins are then made into a freeze-dried product, which is tested and treated to kill any potential viruses before it is packaged for use.
+Recombinant factor concentrates
+Until 1992, all factor replacement products were made from human plasma. In 1992, the US Food and Drug Administration (FDA) approved recombinant factor VIII (8) concentrate, which does not come from human plasma. This concentrate is genetically engineered using DNA technology. Commercially prepared factor concentrates are treated to remove or inactivate bloodborne viruses. Additionally, recombinant factors VIII and IX (9) do not contain any plasma or albumin, and therefore, cannot spread any bloodborne viruses.
+Some people who infuse with clotting factor concentrates may develop an inhibitor. Inhibitors make it more difficult to stop a bleeding episode because they prevent the treatment from working.
+Other treatment products
+Hemlibra® (also known as ACE 910 or emicizumab)
+Hemlibra® works by replacing the function of factor VIII, rather than replacing the missing clotting factor VIII directly. It can be used to either prevent or reduce the frequency of bleeding episodes in people with hemophilia A. This treatment product can be given by injection under the skin. Patients who use Hemlibra® for prophylaxis and use clotting factor concentrates to treat breakthrough bleeds can still develop an inhibitor. Traditional laboratory inhibitor testing methods do not work when testing for inhibitors in patients on Hemlibra®; as such, a specialized testing method called the chromogenic Bethesda assay is needed.
+DDAVP® or Stimate® (desmopressin acetate)
+DDAVP® and Stimate® are medications that are similar to a hormone that occurs naturally in the body. The medications release factor VIII from where it is stored in the body tissues. For people with mild, as well as some cases of moderate, hemophilia, this can work to increase the person's own factor VIII levels so that they do not have to use clotting factors to stop bleeding episodes. DDAVP® can be given through a vein and Stimate® via a nasal spray.
+Amicar® (epsilon amino caproic acid)
+Amicar® is a medication that can be given through a vein or by mouth (as a pill or a liquid). It prevents blood clots from breaking down, resulting in a firmer clot, and is often used for bleeding in the mouth or after a tooth has been removed because it blocks a substance found in the saliva (spit) that breaks down clots.
+Roctavian® (valoctocogene roxaparvovec-rvox)
+Roctavian® is a gene therapy that was approved by the FDA on June 29, 2023, for the treatment of severe hemophilia A (factor VIII deficiency) in adults. Roctavian® is made of a virus modified to carry a gene for clotting factor VIII. It is given once as an injection into a vein. The virus carries the gene to cells in the body. Liver cells that get the gene make more factor VIII to increase the levels of factor VIII in the blood. This helps prevent bleeding.
+Roctavian® is approved for use in adults with severe hemophilia who do not have antibodies to the virus used to carry the gene. Patients must be tested for antibodies to this virus (adeno-associated virus serotype 5, or AAV5) using an FDA-approved test to determine if they can be treated with Roctavian®. More information about Roctavian® can be found on the FDA website here.
+Hemgenix® (etranacogene dezaparvovec)
+Hemgenix® is a gene therapy that was approved by the FDA on November 22, 2022, for the treatment of hemophilia B (factor IX deficiency) in adults. Hemgenix® is made of a virus modified to carry a gene for clotting factor IX. It is given once as an injection into a vein. The virus carries the gene to cells in the body. Liver cells that get the gene make more factor IX to increase the levels of factor IX in the blood. This helps prevent bleeding. Hemgenix® can be used to treat adults with hemophilia B who
+Use regular infusions of factor IX to prevent bleeding, or
+Have had life-threatening bleeding, or
+Who have repeated, serious bleeding not caused by injury or trauma.
+More information about Hemgenix® can be found on the FDA website here.

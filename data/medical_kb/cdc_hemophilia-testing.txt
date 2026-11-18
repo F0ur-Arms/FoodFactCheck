@@ -1,0 +1,54 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Diagnosing Hemophilia
+URL: https://www.cdc.gov/hemophilia/testing/index.html
+────────────────────────────────────────────────────────────
+
+Key points
+Hemophilia is diagnosed using screening tests followed by more specific clotting factor tests.
+Screening tests show if blood is clotting properly.
+Clotting factor tests indicate whether a person has hemophilia, the type of hemophilia, and the severity.
+Who should get tested or screened
+Families with a history of hemophilia
+Any family history of bleeding, such as following surgery or injury, or unexplained deaths among brothers, sisters, or male relatives such as maternal uncles, grandfathers, or cousins should be discussed with a doctor to see if hemophilia was a cause. A doctor will often get a thorough family history to find out if a bleeding disorder exists in the family.
+Some babies should be tested for hemophilia soon after birth, including
+Babies born to families with a history of hemophilia
+Babies whose mothers are carriers of hemophilia
+Babies who have bleeding symptoms at birth
+Umbilical cord blood testing is better at finding low levels of factor VIII (8) (the factor that is low in hemophilia A) than it is at finding low levels of factor IX (9) (the factor that is low in hemophilia B). This is because factor IX levels take more time to develop and are not at a normal level until a baby is at least 6 months of age. Therefore, a mildly low level of factor IX at birth does not necessarily mean that the baby has hemophilia B. A repeat test when the baby is older might be needed in some cases. Learn more about the inheritance pattern for hemophilia.
+Families with no previous history of hemophilia
+About 1 in 3 babies who are diagnosed with hemophilia have no other family members with the disorder. A doctor might check for hemophilia in a newborn if
+Bleeding after circumcision of the penis goes on for a long time
+Bleeding goes on for a long time after drawing blood or doing heel sticks (pricking the infant's heel to draw blood for newborn screening tests)
+Bleeding in the head (scalp or brain) after a difficult delivery or after using special devices or instruments to help deliver the baby (for example, vacuum or forceps).
+Unusual, raised bruises or large numbers of bruises
+If a child with hemophilia is not diagnosed during the newborn period, the family might notice unusual bruising once the child begins standing or crawling.
+Those with severe hemophilia can have serious bleeding problems right away and are often diagnosed during the first year of life. People with milder forms of hemophilia might not be diagnosed until later in life.
+When to get tested or screened
+Many people who have or have had family members with hemophilia will ask that their baby be tested soon after birth.
+Types of tests
+Diagnosis includes screening tests and clotting factor tests. Screening tests are blood tests that show if the blood is clotting properly. Clotting factor tests, also called factor assays, determine the clotting activity of factors VIII and IX in the blood. Factors VIII and IX are proteins in the blood that help form clots and stop bleeding.
+Screening tests
+Screening tests are blood tests that show if the blood is clotting properly. Types of screening tests include the following:
+Complete blood count (CBC)
+This test measures the amount of hemoglobin (the red pigment inside red blood cells that carries oxygen), the size and number of red blood cells, and numbers of different types of white blood cells and platelets found in blood. The CBC might be normal in people with hemophilia. However, if a person with hemophilia has unusually heavy bleeding or bleeds for a long time, the hemoglobin and the red blood cell count can be low.
+Activated partial thromboplastin time (APTT) test
+This test measures how long it takes for blood to clot. It measures the clotting ability of factors VIII (8), IX (9), XI (11), and XII (12). If any of these clotting factors is too low, it takes longer than normal for the blood to clot. The results of this test will show a longer clotting time among people with hemophilia A or B.
+Prothrombin time (PT) test
+This test also measures the time it takes for blood to clot. It measures primarily the clotting ability of factors I (1), II (2), V (5), VII (7), and X (10). If any of these factors are too low, it takes longer than normal for the blood to clot. The results of this test will be normal among most people with hemophilia A and B.
+Fibrinogen test
+This test also helps doctors assess a patient's ability to form a blood clot. This test is ordered either along with other blood clotting tests or when a patient has an abnormal PT or APTT test result, or both. Fibrinogen is another name for clotting factor I.
+Clotting factor tests
+Clotting factor tests, also called factor assays, determine the clotting activity of factors VIII and IX in the blood. Factors VIII and IX are proteins in the blood that help form clots and stop bleeding. Clotting factor tests are required to diagnose a bleeding disorder and will show the type of hemophilia and the severity. It is important to know the type and severity in order to create the best treatment plan.
+Hemophilia severity classification
+Baseline clotting factor activity is used to determine hemophilia severity. It is measured prior to receiving any treatment and is used because it best represents a person's inherent clotting factor activity.
+Results are reported as a percentage of a "normal" level of clotting factor. The average normal factor level is 100%, with the normal range generally defined as 50% to 150%.
+The hemophilia severity categories based on clotting factor levels in the table below were defined by the International Society on Thrombosis and Hemostasis (ISTH) in 2001.12
+Severity
+Levels of factor VIII (8) or factor IX (9) in the blood
+Mild hemophilia
+Greater than 5% but less than 40%
+Moderate hemophilia
+1% to 5%
+Severe hemophilia
+Less than 1%
+Table notes. The 2001 ISTH classification did not address individuals with clotting factor levels ≥40% but <50%. However, bleeding has been observed in some individuals with clotting factor levels ≥40% and researchers are taking steps towards classifying these individuals. In 20213, ISTH recommended the following terms for women and girls with an abnormal hemophilia gene who have a clotting factor level ≥40%: "symptomatic carrier" (a person who has clotting factor levels ≥40% and bleeding symptoms) and "asymptomatic carrier" (a person who has clotting factor levels ≥40% who does not have bleeding symptoms). Women and girls with an abnormal hemophilia gene who have a clotting factor level <40% are classified as having mild, moderate, or severe hemophilia depending on their exact clotting factor level.

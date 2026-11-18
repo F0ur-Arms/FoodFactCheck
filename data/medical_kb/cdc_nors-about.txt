@@ -1,0 +1,38 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: About the National Outbreak Reporting System (NORS)
+URL: https://www.cdc.gov/nors/about/index.html
+────────────────────────────────────────────────────────────
+
+Mar. 24, 2026
+At a glance
+The National Outbreak Reporting System (NORS) supports outbreak reporting by partners in state, local, and territorial public health agencies.
+Purpose
+Through NORS, CDC collects reports of all waterborne and foodborne disease outbreaks, certain fungal disease outbreaks, and all enteric disease* outbreaks transmitted by contact with environmental sources, infected people or animals, or unknown modes of transmission.
+Tip
+If you would like to report an outbreak, please contact your local or state health department.
+Directory of health departments
+*Enteric illnesses are characterized by symptoms such as diarrhea, nausea, or vomiting. Some microbes such as E. coli cause enteric illness and may also cause other types of symptoms or conditions, such as hemolytic uremic syndrome.
+What's collected
+NORS collects data on these types of outbreaks in the United States:
+Waterborne disease outbreaks – all outbreaks of respiratory, skin, enteric or other types of illness spread through water, including water that people drink, swim in, or use for other purposes
+Foodborne disease outbreaks – all outbreaks spread through food
+Animal contact disease outbreaks – all outbreaks of enteric illness spread to humans from contact with animals, such as a chicken or pet turtle, or their environments
+Person-to-person transmitted disease outbreaks – all outbreaks of enteric illness spread directly from one person to another through direct contact, such as by handshake
+Environmental contamination outbreaks – all outbreaks of enteric illness spread through contact with other environmental sources, such as dirty linens or surfaces that people touch in bathrooms, as well as outbreaks of blastomycosis, coccidioidomycosis, histoplasmosis, or sporotrichosis
+Other enteric illness outbreaks – all outbreaks of enteric illness spread through other, unknown, or indeterminate means
+Did you know?
+Several CDC surveillance systems use NORS data, including those that collect information on waterborne, foodborne, and animal contact disease outbreaks.
+Learn about the surveillance systems using NORS data.
+Major pathogens reported via NORS include Campylobacter, Clostridium perfringens, Cryptosporidium, E. coli, Giardia, Legionella, Norovirus, Salmonella, and Shigella.
+How data collection works
+NORS is a valuable tool for collecting outbreak data needed to improve public health
+Outbreak investigations are most often initiated by state, local, and territorial public health agencies and by CDC. These agencies report outbreaks through NORS, which is housed in the System for Enteric Disease Response, Investigation, and Coordination (SEDRIC). The system collects information such as
+date and location of the outbreak,
+the number of people who became ill and their symptoms, and
+the pathogen that caused the outbreak.
+CDC checks these data for accuracy and analyzes them to identify national trends and to gather information that could prevent future outbreaks.
+Other organizations that collaborate with CDC on outbreak surveillance and prevention include
+Council of State and Territorial Epidemiologists (CSTE)
+United States Environmental Protection Agency (EPA)
+United States Food and Drug Administration (FDA)
+United States Department of Agriculture (USDA)

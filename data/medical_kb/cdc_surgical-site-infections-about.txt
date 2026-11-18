@@ -1,0 +1,46 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Surgical Site Infection Basics
+URL: https://www.cdc.gov/surgical-site-infections/about/index.html
+────────────────────────────────────────────────────────────
+
+Key points
+A surgical site infection (SSI) is an infection in the part of the body where a surgery took place.
+SSIs can generally be treated with antibiotics but may require additional medical care.
+There are ways to reduce your risk of contracting an SSI.
+Overview
+A surgical site infection (SSI) is a type of healthcare-associated infection (HAI). It is an infection that occurs in the part of the body where a surgery took place.
+Types
+SSIs can occur in:
+Skin
+Tissue
+Organs
+Implanted material, like a hip replacement
+Signs and symptoms
+Redness and pain around the area where you had surgery.
+Cloudy fluid draining from your surgical wound.
+Fever.
+Other signs and symptoms may also occur.
+Reducing risk
+Before surgery:
+Tell your healthcare provider about other medical problems you may have. Health problems such as allergies, diabetes and obesity could affect your surgery and your treatment.
+Quit smoking. Patients who smoke get more infections. Talk to your healthcare provider about how you can quit before your surgery.
+Do not shave near where you will have surgery. Shaving with a razor can irritate your skin and make it easier to develop an infection.
+At the time of surgery:
+Speak up if someone tries to shave you with a razor in the area where you will have surgery. Ask why you need to be shaved in the area and talk with your surgeon if you have any concerns.
+After surgery:
+If you do not see your healthcare provider clean their hands, please ask them to do so.
+Family and friends should not touch the surgical wound or dressings.
+Family and friends should clean their hands with soap and water or an alcohol-based hand rub before and after visiting you. If you do not see them clean their hands, ask them to clean their hands.
+Always clean your hands before and after caring for your wound.
+Before you leave the hospital:
+Make sure you understand how to care for your wound.
+Make sure you know who to contact if you have questions or problems.
+Once you are home:
+If you have any symptoms of an infection, such as redness and pain at the surgery site, drainage, or fever, call your healthcare provider immediately.
+Healthcare providers should always follow Core Infection Control Practices and SSI Prevention Guidelines to reduce the risk of spreading germs to patients.
+Treatment and recovery
+Treatment generally includes antibiotics, but the type of treatment depends on the germ causing the infection. Sometimes, patients need another surgery to treat SSIs.
+What CDC is doing
+Working closely with health departments, other federal agencies, healthcare providers and patients to SSIs.
+Tracking SSIs through the National Healthcare Safety Network.
+Data is also available on the AR & Patient Safety Portal.

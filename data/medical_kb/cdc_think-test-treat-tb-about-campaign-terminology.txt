@@ -1,0 +1,12 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Campaign Terminology
+URL: https://www.cdc.gov/think-test-treat-tb/about/campaign-terminology.html
+────────────────────────────────────────────────────────────
+
+At a glance
+CDC's Think. Test. Treat TB campaign uses "inactive TB" and "active TB disease" in materials for general audiences. Materials for health care providers use "latent TB infection" and "TB disease."
+Overview
+Throughout this campaign, the terms latent TB infection , inactive TB, TB disease, and active TB disease are used.
+Campaign materials and resources use both "latent TB infection" and "inactive TB" to describe a condition in which a person is infected with Mycobacterium tuberculosis but does not currently have TB disease. "Inactive TB" is primarily used in materials for the public/consumer audiences, and "latent TB infection" is primarily used in materials for healthcare providers. Typically, both terms are introduced together and then depending on the audience, the preferred terminology is used in the remaining parts of the campaign material. The terms reflect terminology preferences that CDC identified through qualitative research conducted in 2018-2021 through focus group discussions and in-depth interviews with a variety of populations representing groups at high risk for TB, as well as with health care workers.
+Campaign materials and resources use both TB disease, and active TB disease to indicate that the disease caused by M. tuberculosis is clinically active; patients with TB disease generally have symptoms. Persons with active TB disease have the potential to transmit M. tuberculosis to other persons. Of note, the current clinical classification system used for TB in the United States is based on the pathogenesis of the disease. It is intended mainly as an operational framework for public health programs. Please note, "TB Class 4, Previous TB disease (not clinically active)" refers to individuals who may have past medical history of TB disease, but no evidence of current active TB disease. Sometimes this previous TB disease category has also been referred to as "inactive TB disease."
+In summary, for the purposes of this campaign, "latent TB infection" and "inactive TB" are used to describe a condition in which a person is infected with Mycobacterium tuberculosis but does not currently have TB disease

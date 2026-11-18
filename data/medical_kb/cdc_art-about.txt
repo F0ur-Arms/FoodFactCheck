@@ -1,0 +1,27 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: About ART
+URL: https://www.cdc.gov/art/about/index.html
+────────────────────────────────────────────────────────────
+
+At a glance
+Assisted reproductive technology (ART) includes all fertility treatments or procedures in which either eggs or embryos are handled to help achieve a pregnancy.
+See more information on the definition of ART below.
+Overview
+In general, ART procedures involve surgically removing eggs from a woman's ovaries, combining them with sperm in the laboratory, and returning them to a female patient or a gestational carrier. ART also includes egg and embryo cryopreservation (freezing) and egg and embryo donation. The most common type of ART is in vitro fertilization (IVF). Other types of ART, such as gamete intrafallopian transfer or zygote intrafallopian transfer, are rarely performed.
+ART does NOT include treatments in which only sperm are handled (such as intrauterine insemination). It also does NOT include procedures in which a woman takes drugs only to stimulate egg production without planning to have the eggs surgically retrieved.
+For patients and everyone
+ART Success Rates
+Find the latest ART success rates from reporting fertility clinics in the United States.
+IVF Success Estimator
+Estimate the chance of having a baby using IVF.
+Infertility: Frequently Asked Questions
+Answers to common questions about infertility, including misconceptions, risks, and treatment.
+For public health professionals and researchers
+ART Surveillance
+Learn about ART surveillance and find the most recent national and state ART data.
+NASS Publications
+Review recent publications using National ART Surveillance Data (NASS) data.
+Accessing NASS Data
+Learn about NASS datasets and how to access them.
+Contacts
+Please contact us with any questions or suggestions at ARTinfo@cdc.gov.

@@ -1,0 +1,61 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Testing for Hepatitis C
+URL: https://www.cdc.gov/hepatitis-c/testing/index.html
+────────────────────────────────────────────────────────────
+
+For Everyone
+Nov. 2, 2026
+Key points
+Getting tested for hepatitis C is the only way to find out if you have HCV infection.
+You should get tested for hepatitis C at least once in your life.
+Some people may need periodic testing.
+If you find out you have hepatitis C, your doctor can give you lifesaving treatment.
+Why get tested
+It is important to get tested for hepatitis C, especially if you think you've been exposed. If you do have hepatitis C your doctor can start treatment as soon as possible.
+Left untreated, chronic hepatitis C can cause serious health problems, including liver damage, cirrhosis, liver cancer, and even death.
+Many people do not have symptoms, so testing is the only way to know if you have hepatitis C.
+For Health Care Providers
+Clinical Screening and Diagnosis for Hepatitis C
+Who should be tested
+CDC recommends hepatitis C screening for:
+All adults 18 and older at least once in their lifetime.
+Pregnant women, during each pregnancy.
+CDC recommends at least one-time testing for:
+People who currently inject drugs, or even did so once or long ago.
+People who have human immunodeficiency virus (HIV).
+People with abnormal liver tests, liver disease, or who are on hemodialysis.
+People who received blood or organ donations before July 1992.
+People who received clotting factor concentrate before 1987.
+Health care, emergency medical, and public safety personnel after needle sticks, sharps, or mucosal exposures to hepatitis C virus (HCV)-positive blood.
+Infants and children born to people with known HCV infection.
+CDC recommends periodic testing for:
+People with ongoing risk factors, including people who currently inject drugs and share needles, syringes, or other drug equipment.
+People with certain medical conditions, including those who have ever received maintenance hemodialysis.
+Any person who requests hepatitis C testing.
+Testing methods
+There are several tests for hepatitis C. Consult with your doctor/nurse to determine the type of test you need.
+The first is an HCV antibody test. There are different ways to test for HCV antibodies:
+Lab-based: The doctor or nurse will take a sample of your blood and send it to the lab for analysis, which will take longer to get results.
+Quick test/rapid test: This is usually called a "rapid point of care" test because the doctor or nurse will take a sample of your blood and be able to analyze it in about 30 minutes.
+Home-based: You take a sample of your own blood and send it to a lab to be analyzed.
+All three tests look for antibodies to HCV in your blood. Antibodies are proteins produced and released into the bloodstream as a defense when someone gets infected.
+Antibody tests are used to find out if you have ever been infected with HCV. If the result is positive or reactive it may not mean that you currently have hepatitis C.
+If your antibody test is positive or reactive, the doctor or the lab will automatically do a second test on your blood to see if you still have the virus in your body. This test is called a qualitative nucleic acid test (NAT) for HCV RNA, and it looks for the presence of the virus in your blood.
+If you might have been exposed to HCV within the past 6 months, your doctor should order a NAT for HCV RNA rather than an HCV antibody test.
+How to get tested
+Talk to your doctor to get tested for hepatitis C.
+Testing results
+Based on your results and type of test, you may or may not need follow-up testing.
+Non-reactive antibody test result
+A non-reactive — or negative — antibody test result means you are not currently infected with HCV. If you don't have antibodies in your blood, your doctor won't need to do the follow-up NAT HCV RNA test.
+However, if you think you might have been exposed to hepatitis C in the last 6 months, you will need to be tested again for antibodies.
+Reactive antibody test result
+A reactive — or positive — antibody test result means you have been infected with HCV at some point in your life. Once infected, you will always have antibodies in your blood. This is true if you have cleared the virus, have been cured, or still have the virus in your blood.
+If your antibody test is reactive, the doctor will automatically test your blood sample for the virus using the NAT for HCV RNA.
+If the NAT for HCV RNA is negative, that means you were previously infected with HCV but it is no longer in your body.
+If the NAT test is positive, that confirms you are currently infected with HCV.
+Get tested
+Find fast, free, and confidential testing near you using your zip code.
+Get Tested
+After you get your results
+If you do have a reactive antibody test and a positive NAT for HCV RNA, you will need to talk to your doctor about how to stay healthy. There are treatments that can cure most people with hepatitis C within 8–12 weeks.

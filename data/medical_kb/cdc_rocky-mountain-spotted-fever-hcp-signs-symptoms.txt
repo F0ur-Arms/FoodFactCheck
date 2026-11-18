@@ -1,0 +1,66 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Clinical Signs and Symptoms
+URL: https://www.cdc.gov/rocky-mountain-spotted-fever/hcp/signs-symptoms/index.html
+────────────────────────────────────────────────────────────
+
+What to know
+Rocky Mountain spotted fever (RMSF), is the most severe rickettsiosis in the United States. RMSF is a rapidly progressive disease and without early administration of doxycycline can be fatal within days. Signs and symptoms may change as the illness progresses.
+Signs and Symptoms
+Signs and symptoms of RMSF begin 3 to 12 days after the bite of an infected tick. However, because tick bites are usually not painful, many people do not remember being bitten. Illness generally begins with sudden onset of fever and headache. Most people visit a healthcare provider during the first few days of symptoms.
+Early illness (days 1 to 4)
+Fever
+Headache
+Gastrointestinal symptoms (nausea, vomiting, anorexia)
+Abdominal pain (may mimic appendicitis or acute abdominal pain)
+Myalgia
+Rash (typically occurs 2 to 4 days after the onset of fever)
+Edema around the eyes and on the back of hands
+Late illness (day 5 or later)
+Altered mental status, coma, cerebral edema
+Respiratory compromise (pulmonary edema, acute respiratory distress syndrome)
+Skin and soft tissue necrosis which can result in amputations or skin grafts
+Multiorgan system damage (CNS, renal failure)
+Risk factors for severe illness
+Delayed treatment
+Children less than 10 years old
+Persons with glucose-6-phosphate dehydrogenase (G6PD) deficiency
+Rash
+While 90% of people eventually get a rash with RMSF, less than 50% have it in the first 3 days, when most are seeking medical care. For this reason, you should consider RMSF if other signs and symptoms support a diagnosis, even if a rash is not present.
+Early Rash
+A classic case of RMSF involves a rash that appears 2 to 4 days after the onset of fever as small, flat, pink, macules on the wrists, forearms, and ankles and spreads to include the trunk and sometimes the palms of hands and soles of feet. A rash can be highly variable and people who fail to develop a rash, or develop an atypical rash, are at increased risk of being misdiagnosed.
+Late Rash
+The petechial rash of RMSF does not typically appear until day 5 or 6 of illness.
+Petechiae are a sign of severe disease. Every attempt should be made to treat before petechiae develop.
+Infection in Children
+Children represent less than 6% of spotted fever cases, but 22% of spotted fever fatalities.
+Children with RMSF are less likely to report a headache than adults, but frequently report:
+Nausea
+Vomiting
+Loss of appetite
+Rash
+Less likely
+Other frequently observed signs and symptoms in children with RMSF include:
+Abdominal pain
+Altered mental status
+Edema involving the dorsum of the hands or around the eyes.
+Early treatment with doxycycline saves lives. Doxycycline is the treatment of choice for adults and children of all ages.
+Similar illnesses
+RMSF is the most severe spotted fever rickettsiosis in the United States. Similar, but less severe diseases caused by closely related bacteria can be easily confused with RMSF. Other spotted fevers in the United States include:
+Rickettsia parkeri rickettsiosis, caused by Rickettsia parkeri
+Pacific Coast tick fever, caused by Rickettsia 364D
+Rickettsialpox, caused by Rickettsia akari
+These diseases share many signs and symptoms, including fever, headache, and rash, but are typically less severe than RMSF. Patients with these spotted fevers can also show signs of an eschar (dark necrotic scab at the site of the arthropod bite). Eschars are not common in cases of RMSF.
+Bloodwork
+Look at routine blood tests, such as a complete blood cell count and a chemistry panel when making the diagnosis.
+General laboratory findings can include thrombocytopenia and hyponatremia. Elevated levels of hepatic transaminases may be present. These tests may not appear abnormal in early stages of illness.
+Long-term Effects of RMSF
+R. rickettsii infects the endothelial cells that line the blood vessels causing vasculitis. As infection continues, localized bleeding or clotting in the brain or other organs may occur.
+Patients who had severe RMSF requiring prolonged hospitalization may have long-term health problems. These include:
+Neurological deficits
+Damage to internal organs
+Vascular damage requiring amputation
+Vascular damage
+Loss of fluid from damaged vessels can result in compromised circulation to the extremities, fingers, toes or even limbs. Irreversible injury by ischemic damage may result in amputation of damaged tissue or digits. Those who do not have this kind of vascular damage in the initial stages of the disease typically experience a full recovery.
+No evidence of chronic disease
+There is no evidence that R. rickettsii causes persistent or chronic disease.
+For more in-depth information about signs and symptoms of RMSF, see: Diagnosis and Management of Tickborne Rickettsial Diseases: Rocky Mountain Spotted Fever and Other Spotted Fever Group Rickettsioses, Ehrlichioses, and Anaplasmosis — United States: A Practical Guide for Healthcare and Public Health Professionals (2016) [PDF – 48 pages]

@@ -1,0 +1,46 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Considerations and Information for Fair Exhibitors to Help Prevent Influenza
+URL: https://www.cdc.gov/flu-in-animals/about/fair-exhibitors-information.html
+────────────────────────────────────────────────────────────
+
+For Everyone
+What to know
+CDC tracks human infections with animal influenza A viruses, including those that happen during exhibitions. As you prepare to exhibit animals at a local or state agricultural fair or any other livestock exhibitions, consider important information and actions that can help protect yourself, friends and family, other visitors, and livestock (e.g. pigs, poultry, cattle). This information can help prevent the spread of certain illnesses in public settings like agricultural fairs, where people and animals from many places are in close contact.
+Background
+Livestock fairs and shows are an important learning opportunity for people of all ages interested in agriculture. Animals commonly exhibited at agricultural fairs and shows, including pigs, poultry (e.g., chickens, turkeys, ducks, geese), and cattle, can carry and spread influenza A viruses that are different from human seasonal influenza A viruses. Pigs can be infected with swine influenza A viruses, and poultry can be infected with avian influenza A viruses. In March 2024, avian influenza A(H5N1) virus in dairy cattle was first reported.
+Influenza viruses are more likely to spread in close contact settings, including settings where people and animals from many places come together and are in close contact, like fairs, exhibitions, and shows. While rare, influenza A viruses can spread from animals (including pigs, poultry, and cattle) to people and from people to animals. The main way people are thought to get infected with animal influenza A viruses is by being in close contact with infected animals. It is rare for people to get sick from these viruses, but when they do, the sickness can vary from mild to severe. In some cases, it can lead to hospitalization or death. CDC recommends fair exhibitors take actions to help prevent the spread of influenza A viruses between animals at fairs, and between animals and people. USDA has additional recommendations to prevent the spread of influenza viruses between animals.
+Recommendations to Minimize Influenza Transmission at Dairy Cattle Livestock Exhibitions (usda.gov).
+Take preventive actions
+If you are sick with flu-like illness, stay home to avoid spreading your illness to other people or animals.
+Plan to keep pigs, poultry, and cattle at the fair or exhibition for shorter periods of time, while meeting exhibition timelines to show and exhibit the animal, in order to prevent or interrupt the spread of flu between animals (72 hours or less is ideal).
+Don't take toys, pacifiers, cups, bottles, strollers, or similar items into the animal areas.
+Don't eat, drink, or touch, or put anything in your mouth or touch your eyes while in animal areas (barns, show arenas).
+Wash your hands often with soap and running water after touching animals, animal associated equipment, or their environments (like a barn or enclosure). If soap and water are not available, use an alcohol-based hand sanitizer.
+Where possible, avoid direct contact with pigs, poultry, cattle, and other animals that look or act ill. If you must come in contact with animals that may be ill, then wear personal protective equipment (PPE). This includes wearing protective clothing, gloves, goggles, and a respirator or well-fitting mask that covers your mouth and nose. Parents and caregivers should review considerations for specific groups of people when selecting a respirator or mask for children
+Direct physical contact with the animal includes touching, holding, kissing, being bitten, licked, and scratched.
+If your animals are sick or are from herds with a recent history of respiratory disease, keep them at home to prevent further spread of illness.
+Watch animals for illness (like loss of appetite, fever, tiredness, eye redness, signs of discomfort, cough, or runny nose) before and during the fair. In dairy cattle, decreased milk production can be a sign of influenza virus infection.
+Call the fair veterinarian and/or the fair manager right away if you suspect illness.
+Remove sick animals from the exhibition area right away.
+If possible, avoid close contact with sick animals.
+Clean and disinfect all tack, feeders, waterers, equipment, and show supplies before and after bringing them to the fair or show. Do not share equipment used for other animals.
+People at higher risk of serious flu complications
+Some people (e.g. children younger than 5 years, people 65 years and older, pregnant women, and people with certain chronic medical conditions, and others) are at higher risk of developing serious flu complications and should limit contact with animals (pigs, poultry, cattle) that could carry influenza viruses, if possible.
+If fair exhibitors at higher risk of developing serious flu complications cannot avoid exposure to, or direct contact with, pigs, poultry, cattle, or other animals, they should follow the Personal Protective Equipment for Avian Influenza A Viruses in the Workplace Interim Guidance for Employers. This includes wearing protective clothing, gloves, goggles, and a respirator or well-fitting mask that covers the nose and mouth. Parents and caregivers should review considerations for specific groups of people when selecting a respirator or mask for children.
+What to do if you get sick
+Flu symptoms usually include fever, cough, sore throat, runny or stuffy nose, muscle or body aches, headaches, fatigue, and sometimes vomiting or diarrhea. Eye redness/irritation or eye discharge can also occur.
+If you get any of these symptoms, seek medical care and tell your provider about your contact with animals.
+A health care provider can decide whether influenza testing or antiviral treatment is needed.
+Influenza antiviral drugs can treat people with animal influenza virus infections as well as seasonal flu illness. These medications are recommended for treatment of people with swine or avian influenza symptoms.
+Antiviral drugs work better the sooner you start them after your symptoms begin, so seek medical care promptly if you get symptoms, especially if you are at higher risk of serious flu complications.
+Symptoms of infection
+When people get infected with animal influenza A viruses, they may experience signs and symptoms that are similar to those caused by seasonal influenza A viruses, including:
+-fever or feeling feverish
+-cough
+-sore throat
+-runny or stuffy nose
+-muscle or body aches
+-headaches
+-fatigue
+-Sometimes vomiting or diarrhea
+-eye redness/irritation or eye discharge (This is more commonly reported with human infections with animal influenza viruses than seasonal influenza viruses.)

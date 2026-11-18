@@ -1,0 +1,29 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Yellow Fever: Causes and How It Spreads
+URL: https://www.cdc.gov/yellow-fever/causes-and-spread/index.html
+────────────────────────────────────────────────────────────
+
+For Everyone
+Key points
+Yellow fever is caused by a virus primarily spread to people through the bite of infected mosquitoes.
+Yellow fever virus is maintained in the environment between mosquitoes and non-human primates, like monkeys.
+If infected, people can spread the virus to mosquitoes and rarely to other people though exposure to infected blood.
+Primary cause
+Yellow fever is caused by a virus that is found in Africa and South America.
+About the virus
+Yellow fever virus is an RNA virus that belongs to the genus Flavivirus. It is in the same genus as several other medically important viruses, such as dengue virus, West Nile virus, and St. Louis encephalitis virus.
+How it spreads
+People can become infected with the virus when mosquitoes feed on infected primates (people or monkeys) and then bite them.
+People infected with yellow fever virus have high enough levels of virus in their blood (viremia) during the first few days of illness to spread the virus to uninfected mosquitoes.
+Because of the high level of virus in blood, spread through blood transfusion and organ transplantation could occur.
+There is one case of a mother with yellow fever virus whose infant became infected during delivery (perinatal transmission). Unfortunately, the infant died due to yellow fever.
+The virus does not spread from person to person through coughing, sneezing, or touching.
+Prevent yellow fever
+The best way to protect yourself is to prevent mosquito bites. Vaccination is recommended for some travelers.
+Transmission cycle
+Yellow fever virus is transmitted to people primarily through the bite of infected Aedes or Haemagogus species mosquitoes. Mosquitoes acquire the virus by feeding on infected primates (human or non-human) and then can transmit the virus to other primates (human or non-human). People infected with yellow fever virus are infectious to mosquitoes (referred to as being "viremic") shortly before the onset of fever and up to 5 days after onset.
+Perinatal transmission (around the time of birth) has been documented. There is also a risk of person-to-person transmission via bloodborne and solid organ transplantation routes since the attenuated vaccine virus has been transmitted by these routes.
+Yellow fever virus has three transmission cycles: jungle (sylvatic), intermediate (savannah), and urban.
+The jungle (sylvatic) cycle involves transmission of the virus between non-human primates (monkeys) and mosquito species found in the forest canopy. The virus is transmitted by mosquitoes from monkeys to humans when humans are visiting or working in the jungle.
+In Africa, an intermediate (savannah) cycle exists that involves transmission of virus from mosquitoes to humans living or working in jungle border areas. In this cycle, the virus can be transmitted from monkey to human or from human to human via mosquitoes.
+The urban cycle involves transmission of the virus between humans and urban mosquitoes, primarily Aedes aegypti. The virus is usually brought to the urban setting by a viremic human who was infected in the jungle or savannah.

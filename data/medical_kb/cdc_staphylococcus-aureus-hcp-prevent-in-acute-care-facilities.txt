@@ -1,0 +1,100 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Strategies to Prevent Hospital-onset Staphylococcus aureus Bloodstream Infections in Acute Care Facilities
+URL: https://www.cdc.gov/staphylococcus-aureus/hcp/prevent-in-acute-care-facilities/index.html
+────────────────────────────────────────────────────────────
+
+At a glance
+A summary of strategies for acute care facilities that want to implement interventions to prevent hospital-onset Staphylococcus aureus Bloodstream Infections (HO SA BSIs).
+Introduction & purpose
+The specific interventions listed below are not intended for use in response to an outbreak and are intended for adult inpatient units.
+Infection control practices should be reinforced on an ongoing basis, including the use of competency-based training and monitoring of adherence with feedback of results for practices including hand hygiene, environmental cleaning and disinfection, and use of personal protective equipment. Hospitals should work to implement the CDC Core Elements of Hospital Antibiotic Stewardship Programs.
+Core and supplemental strategies for consideration are listed below. Core strategies are supported by published evidence; supplemental strategies are generally supported by less evidence and could be considered for use when reduction goals are not met after implementation of core interventions or when facilities need to implement a more aggressive prevention strategy.
+The first step in developing a HO SA BSI prevention strategy is to review recent episodes of HO SA BSI to identify common risk factors and underlying syndromes that can help identify the populations to prioritize. Elements that could be reviewed include associated syndromes (e.g., wound infections or pneumonia) that may have led to the BSI, unit types, presence of indwelling devices such as central venous catheters (CVCs), and prior invasive procedures or surgeries. Based on this review of facility-level data, the most impactful core and supplemental strategies can be chosen.
+1. Implement interventions to reduce device and procedure related healthcare-associated infections
+Central line-associated bloodstream infection (CLABSI) prevention practices
+Core strategies:
+Follow evidence-based guidance for the prevention of CLABSIs. Available guidance:
+CDC Guidelines for the Prevention of Intravascular Catheter-Related Infections
+SHEA Strategies to Prevent Central Line-associated Bloodstream Infections in Acute-care Hospitals: 2022 Update
+CDC Guidance on use of CHG-impregnated dressings
+See Table 1 for decolonization and pathogen reduction strategies by patient type and setting including for patients with CVCs.
+Surgical site infection (SSI) prevention practices
+Core strategies:
+Follow evidence-based guidance for the prevention of SSIs. Available guidance:
+CDC Guidelines for the Prevention of Surgical Site Infection, 2017
+SHEA Strategies To Prevent Surgical Site Infections In Acute-care Hospitals: 2022 Update
+Hemodialysis bloodstream infection prevention practices
+Core strategy:
+Follow evidence-based guidance for the prevention of hemodialysis bloodstream infections. Available guidance: CDC Approach to BSI Prevention in Dialysis Facilities
+Ventilator-associated Pneumonia (VAP) prevention practices
+Core strategy:
+Follow evidence-based guidance for the prevention of VAP. Available guidance: Strategies To Prevent Ventilator-associated Pneumonia, Ventilator-associated Events, And Nonventilator Hospital-acquired Pneumonia in Acute-care Hospitals: 2022 Update
+2. Implement decolonization and pathogen reduction strategies for high risk patients during high risk periods
+Core strategy
+Pursue a strategy to reduce carriage of S. aureus among all patients admitted to intensive care units (ICUs) (see table for summary of decolonization and pathogen reduction strategies) including:
+Apply intranasal mupirocin twice a day to each naris for 5 days in conjunction with daily chlorhexidine bathing for duration of ICU admission
+Based on the results of a single trial, intranasal mupirocin may be preferred; however, intranasal iodophor could be considered as an alternative to intranasal mupirocin
+For more information see: Universal ICU Decolonization: An Enhanced Protocol. Agency for Healthcare Research and Quality (AHRQ)
+Supplemental strategy
+Pursue a strategy to reduce carriage of S. aureus for patients hospitalized with CVCs or midline catheters outside the ICU
+Apply intranasal mupirocin twice a day to each naris for 5 days in conjunction with daily chlorhexidine bathing while CVC or midline catheter is present
+Based on the results of a single trial intranasal mupirocin may be preferred however, intranasal iodophor could be considered as an alternative to intranasal mupirocin
+Core strategy
+For patients undergoing high risk surgeries (e.g. cardiothoracic (CT), orthopedic, and neurosurgery), use an intranasal antistaphylococcal antibiotic/antiseptic (e.g. mupirocin or iodophor) and chlorhexidine wash or wipes prior to surgery.A
+Possible regimens:
+Intranasal antistaphylococcal antibiotic/antiseptic
+Mupirocin twice daily to each nare for the 5 days prior to day of surgery OR
+2 applications of nasal Iodophor (at least 5%) to each nare within 2 hours prior to surgery
+Chlorhexidine
+Daily chlorhexidine wash or wipes for up to 5 days prior to surgery
+Supplemental strategy
+Consider chlorhexidine bathing or wipes for up to 5 days prior to surgery for all surgical patients*, not just those undergoing high risk surgeries
+3. Implement interventions to prevent transmission of methicillin-resistant staphylococcus aureus (MRSA) in acute care
+Core strategies
+The Centers for Disease Control and Prevention (CDC) continues to recommend placing patients colonized or infected with MRSA in private rooms and on Contact Precautions in inpatient acute care settings
+Use dedicated patient-care equipment (e.g. blood pressure cuffs, stethoscopes), and single use disposable items (e.g. single patient digital thermometer) whenever possible
+If common use of equipment for multiple patients is unavoidable, clean and disinfect such equipment before use on another patient
+Provide regular competency-based training on use of PPE and monitor adherence
+Place patients with excessive wound drainage (i.e. suggests an increased potential for extensive environmental contamination and risk of transmission) on Contact Precautions and in a private room regardless of Multi-drug resistant organisms (MDRO) carriage status
+Supplemental strategy
+Consider active surveillance testing (screening) for MRSA on admission to acute care facilities. Screening could be limited to high risk patients (e.g., prior healthcare exposure) or admission to high risk settings (e.g., intensive care unit)
+Those found to be colonized with MRSA should be placed in private rooms and on Contact Precautions
+Active surveillance testing could be combined with decolonization or pathogen reduction strategies as described above for high risk patients (i.e. ICU patients and those outside the ICU with CVCs or Midline Catheters)
+4. Develop infrastructure to support HO SA BSI prevention
+Core strategies
+Incorporate reduction of HO SA BSIs into the facility healthcare-associated infection prevention program
+Develop a multidisciplinary workgroup, including nursing, environmental services, and infection prevention to identify and implement strategies and to follow results of interventions
+Monitor facility HO SA BSI counts, and target units with highest number of HO SA BSIs for evaluation and intervention
+Provide HO SA BSI rates to senior leadership, clinical staff, and other stakeholders
+Notify appropriate individuals and facility departments about changes in the incidence (or frequency), complications (including recurrences), or severity of HO SA BSIs
+Review individual HO SA BSI episodes to assess modifiable risk factors including clinical management decisions and the use of infection control measures to identify gaps
+Educate and train all healthcare personnel on prevention practices for HO SA BSI and core infection control practices such as hand hygiene, PPE use, Standard Precautions, Contact Precautions, and environmental cleaning and disinfection
+Routinely audit and conduct competency-based assessments for core infection control practices
+Adherence to hand hygiene, Standard Precautions, and Contact Precautions
+Adequacy of room cleaning and environmental services
+Table 1: Summary of Decolonization and Pathogen Reduction Strategies by Central Venous Catheter (CVC) or Midline Catheter Presence and Unit Type
+Summary of Decolonization and Pathogen Reduction Strategies by Central Venous Catheter (CVC) or Midline Catheter Presence and Unit Type
+Patient Type
+Intensive Care Unit
+non-Intensive Care Unit
+CVC or Midline Catheter Present
+Topical chlorhexidine gluconate (at least 2%) + Intranasal antistaphylococcal antibiotic/antiseptic (e.g. mupirocin or iodophor) (core strategy)
+Topical chlorhexidine gluconate (at least 2%) + Intranasal antistaphylococcal antibiotic/antiseptic (e.g. mupirocin or iodophor) (supplemental strategy)
+No CVC or Midline Catheter present
+Topical chlorhexidine gluconate (at least 2%) + Intranasal antistaphylococcal antibiotic/antiseptic (i.e. mupirocin or iodophor) (core strategy)
+None (note that decolonization or pathogen reduction strategies may apply to pre-operative surgical patients outside the intensive care unit- see section 2)
+References
+O'Grady NP, Alexander M, Burns LA, Dellinger EP, Garland J and the Healthcare Infection Control Practices Advisory Committee (HICPAC). Guidelines for the Prevention of Intravascular Catheter-Related Infections, 2011.
+Buetti N, Marschall J, Drees M, Fakih M, Hadaway L, et al. Strategies to Prevent Central Line-associated Bloodstream Infections In Acute-care Hospitals: 2022 Update. Infection Control & Hospital Epidemiology, Volume 43(5), April 2022, 553-569.
+Berrios-Torres SI, Umscheid CA, Bratzler DW, Leas B, Stone EC, et al. Centers for Disease Control and Prevention Guidelines for the Prevention of Surgical Site Infection, 2017. JAMA Surgery, special web publication, May 2017.
+Calderwood M, Anderson D, Bratzler D, Dellinger E, Garcia-Houchins S, et al. Strategies to Prevent Surgical Site Infections in Acute-care Hospitals: 2022 Update. Infection Control & Hospital Epidemiology, Volume 44(5), May 2023, 695-720.
+Bode LG, Kluytmans JA, Wertheim HF, Bogaers D, Vandenbroucke-Grauls CM, et al. Preventing Surgical-Site Infections in Nasal Carriers of Staphylococcus aureus. New England Journal of Medicine, Volume 362 (1), January 2010, 9-17.
+Perl TM, Cullen JJ, Wenzel RP, Zimmermean MB, Pfaller MA, et al. Intranasal Mupirocin to Prevent Postoperative Staphylococcus aureus Infections. New England Journal of Medicine, Volume 346 (24), June 2002, 1871-1877.
+Schweizer ML, Chang HY, Septimus E, Moody J, Braun B, et al. Association of a Bundled Intervention With Surgical Site Infections Among Patients Undergoing Cardiac, Hip, or Knee Surgery. JAMA, Volume 313 (21), June 2015, 2162-2171.
+Klompas M, Branson R, Cawcutt K, Crist M, Eichenwald E, et al, Strategies to Prevent Ventilator-associated Pneumonia, Ventilator-associated events, and Nonventilator Hospital-acquired Pneumonia in Acute-care Hospitals: 2022 Update. Infection Control & Hospital Epidemiology, Volume 43(6), May 2022, 687-713.
+Huang SS, Septimus E, Kleinman K, Moody J, Hickok J, et al. Targeted Versus Universal Decolonization to Prevent ICU Infection. NEJM, Volume 368 (24), June 2014, 2255-2265.
+Huang SS, Septimus E, Kleinman K, Moody J, Hickok J, et al. Chlorhexidine versus Routine Bathing to Prevent Multi Drug-Resistant Organisms and All-Cause Bloodstream Infection in General Medical and Surgical Units (ABATE Infection trial): A Cluster Randomized Trial. Lancet, Volume 393 (10177), March 2019, 1205-1215.
+Universal ICU Decolonization: An Enhanced Protocol. Agency for Healthcare Research and Quality (AHRQ).
+Core Infection Prevention and Control Practices for Safe Healthcare Delivery in All Settings – Recommendations of the Healthcare Infection Control Practices Advisory Committee. 2017.
+Phillips M, Rosenberg A, Shopsin B, Cuff G, Skeete F, et. al. Preventing surgical site infections: a randomized, open-label trial of nasal mupirocin ointment and nasal povidone-iodine solution. Infect Control Hosp Epidemiol, Volume 35(7), July 2014, 826-32.
+Huang SS, Septimus EJ, Kleinman K, Heim LT, Moody JA, et al. Nasal Iodophor Antiseptic vs Nasal Mupirocin Antibiotic in the Setting of Chlorhexidine Bathing to Prevent Infections in Adult ICUs: A Randomized Clinical Trial. JAMA, Volume 330 (14), October 2023, 1337-1347.

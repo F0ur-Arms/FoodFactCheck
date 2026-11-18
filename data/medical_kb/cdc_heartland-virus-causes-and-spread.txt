@@ -1,0 +1,22 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Heartland: Causes and How It Spreads
+URL: https://www.cdc.gov/heartland-virus/causes-and-spread/index.html
+────────────────────────────────────────────────────────────
+
+For Everyone
+Key points
+Heartland virus disease (Heartland) is caused by a virus spread through the bite of an infected tick.
+The tick that spreads Heartland virus is found in the eastern, southeastern, and south-central United States.
+Primary cause
+Heartland is caused by a virus that has been found in eastern, southeastern, and south-central United States.
+About the virus
+Heartland virus belongs to the genus Bandavirus, family Phenuviridae, which includes viruses that can be transmitted by ticks.
+Severe fever with thrombocytopenia syndrome virus is a related virus found in several countries in Asia and causes similar signs and symptoms to Heartland virus.
+How it spreads
+Information from patients and laboratory studies suggest that the lone star tick (Amblyomma americanum) can spread the virus.
+We do not know if other species of ticks can also spread the virus or if people can be infected in other ways.
+Prevent Heartland
+There are no vaccines or medicines to prevent Heartland. The best way to protect yourself is to prevent tick bites.
+Transmission cycle
+Based on human case reports and laboratory studies, the lone star tick (Amblyomma americanum) is primarily responsible for transmitting Heartland virus. The Asian Longhorn tick (Haemaphysalis longicornis) has also been shown to be a competent vector in the laboratory.
+We do not know if any mammals are reservoirs for the virus, although antibodies against the virus have been found in several species.

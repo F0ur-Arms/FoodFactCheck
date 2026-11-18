@@ -1,0 +1,78 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: About OutbreakNet Enhanced
+URL: https://www.cdc.gov/outbreaknet-enhanced/about/index.html
+────────────────────────────────────────────────────────────
+
+Key points
+OutbreakNet Enhanced improves enteric disease investigation and response in state and local health departments
+Performance metrics demonstrate the impact of OutbreakNet Enhanced resources
+Experiences of OutbreakNet Enhanced sites are shared through success stories and annual summaries
+What is OutbreakNet Enhanced
+OutbreakNet Enhanced (OBNE) is a Centers for Disease Control and Prevention (CDC) program that started in August 2015. OutbreakNet Enhanced supports state and local health departments improve their capacity to detect, investigate, control, and respond to enteric disease outbreaks.
+OutbreakNet Enhanced sites work together and with CDC to share experiences and insights to improve enteric disease outbreak response. Outbreaknet Enhanced activities focus on improving detection and rapid interviewing of cases of
+Salmonella
+Shiga toxin-producing Escherichia coli (STEC)
+Listeria
+Pathogens that demonstrate antimicrobial resistance
+Why it's important
+Each year in the United States foodborne diseases cause:1
+1 in 6 Americans (or about 48 million people) to become ill1
+128,000 hospitalizations1
+3,000 deaths1
+Fast and effective outbreak investigations are needed to identify and remove contaminated food from the market to prevent additional illnesses. Identifying contaminated foods and learning how the contamination happened also help public health officials prevent similar outbreaks in the future. However, most health departments lack the resources to conduct comprehensive enteric disease surveillance and rapid, coordinated outbreak detection and response.
+Program priorities
+OutbreakNet Enhanced sites improve enteric disease outbreak detection and response by:
+Hiring additional staff and students to conduct faster and more complete interviews for all laboratory-confirmed cases of Listeria, Shiga toxin-producing E. coli O157 (STEC), and Salmonella as well as any cases of enteric disease with pathogens that demonstrate antimicrobial resistance. Additional staff and students also increase the capacity for faster and more complete review of surveillance data and improved data sharing.
+Incorporating performance measures into their work plans. These measures are used to conduct process evaluations and identify areas for improvement in enteric disease investigations.
+Using the System for Enteric Disease Response, Investigation, and Coordination (SEDRIC), and the National Outbreak Reporting System (NORS) to improve multistate outbreak collaboration and the timeliness and completeness of enteric disease outbreak reporting.
+Working with an Integrated Food Safety Center of Excellence (Food Safety CoEs) to complete a project to improve outbreak surveillance and response in its jurisdiction. Each OutbreakNet Enhanced site chooses projects based on their needs and develops a partnership with a CoE based on its areas of expertise.
+Attending trainings and conferences to stay current on the latest developments and improvements in enteric disease surveillance and outbreak investigation.
+Outcomes
+OutbreakNet Enhanced sites collaborated with CDC staff to set performance metrics for the program. OBNE metrics are based on measures from the FoodCORE and the Council to Improve Foodborne Outbreak Response (CIFOR). These metrics are primarily process-based and are designed to measure timeliness and completeness of laboratory and epidemiologic aspects of outbreak investigations. By collecting and reviewing performance data, sites are able to identify gaps in their processes and develop targeted strategies for improvement.
+Keep Reading:
+OutbreakNet Enhanced Metrics
+Success Stories
+Success stories illustrate the work OutbreakNet Enhanced sites do to advance public health. Sites detect and respond to outbreaks, train professionals, strengthen systems, and increase the safety of people’s food, water, and environment.
+Keep Reading:
+OutbreakNet Enhanced Success Stories
+How it's funded
+OutbreakNet Enhanced sites were selected through a competitive application process via CDC’s Epidemiology and Laboratory Capacity for Prevention and Control of Emerging Infectious Diseases Cooperative Agreement.
+Funding recipients
+OutbreakNet Enhanced began in 2015 with 11 sites. The program expanded and now comprises of 29 participating sites, including 26 states and 3 large cities.
+The OutbreakNet Enhanced sites are:
+Alabama
+Alaska
+Arizona
+Arkansas
+California
+Chicago
+Washington, D.C.
+Florida
+Georgia
+Hawaii
+Illinois
+Indiana
+Iowa
+Kansas
+Kentucky
+Louisiana
+Massachusetts
+Michigan
+Nebraska
+New Hampshire
+New Mexico
+New York (State)
+Pennsylvania
+Philadelphia
+Rhode Island
+Texas
+Virginia
+Washington
+Wyoming
+OutbreakNet Enhanced sites work closely with other capacity building programs at the state and federal level including:
+Food Safety CoEs
+FoodCORE
+PulseNet
+FoodNet
+EHS-Net
+FDA Rapid Response Teams

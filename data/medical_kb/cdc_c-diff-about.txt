@@ -1,0 +1,78 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: About C. diff
+URL: https://www.cdc.gov/c-diff/about/index.html
+────────────────────────────────────────────────────────────
+
+For Everyone
+Key points
+C. diff is a bacterium (germ) that causes diarrhea and inflammation of the colon. C. diff infection can be life-threatening.
+C. diff can affect anyone. Most cases of C. diff infection occur while or soon after taking antibiotics.
+Talk with a healthcare professional about your risk for developing C. diff infection when starting an antibiotic.
+What it is
+Clostridioides difficile [klos–TRID–e–OY-dees dif–uh–SEEL], also known as Clostridium difficile and often called C. difficile or C. diff, is a bacterium (germ) that causes diarrhea and inflammation of the colon.
+By the numbers
+C. diff is estimated to cause almost half a million infections in the United States each year.1
+Symptoms
+Diarrhea
+Fever
+Stomach tenderness or pain
+Loss of appetite
+Nausea
+Complications
+Common
+Dehydration
+Inflammation of the colon, known as colitis
+Rare
+Severe life-threatening intestinal condition called toxic megacolon
+Sepsis, the body's extreme response to an infection
+Death
+Risk factors
+Antibiotic use
+While C. diff infection can affect anyone, most cases occur while or soon after taking antibiotics. People are up to 10 times more likely to get C. diff infection while taking an antibiotic and during the month after finishing an antibiotic, with longer courses of antibiotics potentially doubling their risk of getting C.diff infection23.
+Health care risk factors
+C. diff infection is more common among patients in healthcare settings, such as hospitals and nursing homes. This is because many people who have C. diff stay or get treated in those facilities.
+Other risk factors
+Older age (65 or older)
+A weakened immune system, such as people with cancer or organ transplants taking drugs that suppress the immune system
+Previous infection with C. diff or known exposure to the germs
+Keep in mind
+You can still get C. diff infection even if you have none of these risk factors.
+Causes and spread
+C. diff spores
+When C. diff germs are outside the body, they become spores. These spores are an inactive form of the germ and have a protective coating allowing them to live for months or years on surfaces and in the soil.
+Spores become active again after being swallowed and reaching the intestines. Once there, they can cause infection if your immune system is weak or you've recently taken antibiotics. However, most healthy people don't get infected even if spores reach their intestines.
+Contact with C. diff in the environment and at home
+C. diff can spread by touching contaminated surfaces or infected people. C. diff germs spread from person to person in poop, but the bacteria are often found in the environment. Finding C. diff germs in the home is not unusual, even when no one in the home has been ill with C. diff infection.
+Antibiotics and the microbiome
+The microbiome is the community of germs (microbes) that live in and on the human body—including skin, mouth, gut, respiratory tract, and urinary tract. A healthy gut microbiome has helpful germs that work together to break down food, make nutrients your body needs, support your body's natural defenses, and protect you from infections.
+Antibiotics kill harmful bacteria that cause infections, but they can also kill helpful bacteria in your gut. This disrupts the balance of your microbiome by reducing the number and variety of helpful germs. When this happens, your body's natural defenses may weaken, allowing C. diff germs to grow and potentially cause an infection.
+The effects of antibiotics on the gut microbiome can last for several months. During this time, if you come in contact with C. diff germs, you can get sick.
+Keep Reading
+About Microbial Ecology
+Prevention
+Any time antibiotics are used, they can increase your risk of developing C. diff infection. Talk with a healthcare professional about your risk for developing C. diff infection when starting an antibiotic, and what to do if you develop symptoms.
+Practice good hygiene
+Reduce the spread of C. diff germs:
+Wash your hands with soap and water every time you use the bathroom and always before you eat.
+Clean and disinfect surfaces and laundry.
+Take steps to reduce your risk and prevent the spread of C. diff infection.
+Keep Reading
+Preventing C. diff
+Diagnosis
+If a healthcare professional suspects C. diff infection, they will review your symptoms and order a lab test of a stool (poop) sample.
+Developing diarrhea is common while on or after taking antibiotics. Not all cases of diarrhea are caused by a C. diff infection. If you develop diarrhea while on or after taking an antibiotic, contact a healthcare professional to discuss your symptoms and be evaluated.
+When immediate care is needed
+If you have been taking antibiotics recently and have symptoms of C. diff infection, contact a healthcare professional.
+Treatment and recovery
+Treatment options
+Antibiotics
+C. diff infection is usually treated with specific antibiotics such as vancomycin or fidaxomicin for at least 10 days.
+If you are taking an antibiotic for another infection, a healthcare professional may stop it or switch it to a different one if it's safe to do so.
+Hospitalization
+If your symptoms are severe, you may need to stay in hospital. The healthcare team will provide additional treatment like fluids to keep you hydrated, and monitor your symptoms to ensure that you don't get worse. They will also take infection control precautions, such as wearing a gown and gloves, and placing you in a private room. This helps prevent the spread of C. diff germsto staff and other patients.
+Reinfection
+Some people may get C. diff infection multiple times. For those with reinfections, innovative treatments, including fecal microbiota transplants, have shown promising results.
+Keep Reading
+After C. diff: Caring for Yourself and Others
+What CDC is doing
+C. diff infections are a serious problem in hospitals, nursing homes, and communities. CDC works with federal and public health partners and supports education, research, and monitoring to help reduce C. diff infections in the United States.

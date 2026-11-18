@@ -1,0 +1,54 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Global Sanitation
+URL: https://www.cdc.gov/global-water-sanitation-hygiene/about/about-global-sanitation.html
+────────────────────────────────────────────────────────────
+
+Key points
+About 1.7 billion people lack access to basic sanitation which is key to preventing the spread of disease.
+Limited access to toilets and hygiene facilities affects health and limits educational opportunities, especially for girls.
+Effectively managing fecal waste is essential for community health and environmental safety.
+Overview
+Sanitation and hygiene are fundamental to public health, development, and survival. Across the globe, challenges persist in providing adequate sanitation for all, leaving billions vulnerable to water-related diseases. As of 2023, an estimated 1.7 billion people lack access to basic sanitation facilities, which includes safe disposal of human waste and access to handwashing stations with soap and water at home.
+The essential role of toilets
+Proper sanitation facilities (such as toilets) promote health by allowing people to dispose of their waste appropriately. This prevents environmental contamination and reduces the risk of disease. However, many people worldwide do not have access to these facilities, leading to improper waste disposal. This situation fails to keep waste from human contact and does not ensure proper waste treatment.
+The absence of basic sanitation facilities can:
+Create unhealthy environments contaminated by human waste. Without proper sanitation, waste from infected individuals may contaminate a community's land and water, increasing others' risk of infection. Proper waste disposal can slow the spread of diseases from germs in in human waste.
+Lead to the spread of diseases or conditions causing widespread illness and death. People without access to proper sanitation often have to live in and drink water from environments contaminated with waste, exposing them to future infections. Inadequate waste disposal promotes the cycle of infection for bacteria and other germs spread through contaminated soil, food, water, and insects like flies.
+Terms to know
+Access to sanitation is determined by the type of sanitation facility used, whether it is shared with other households, and how human waste is disposed. The service level terms and definitions in the table below include how sanitation services are defined by the Joint Monitoring Programme, a collaboration between the World Health Organization (WHO) and UNICEF.
+Note: Improved sanitation facilities are those designed to hygienically separate human waste from human contact and include:
+Flush or pour-flush toilet/latrine to a piped sewer system, septic tank, or pit latrine
+Pit latrine with slab
+Composting toilet
+Container-based sanitation
+Shared sanitation facilities are shared between two or more households, including public toilets.
+Unimproved sanitation facilities do not ensure hygienic separation of human waste from human contact and include:
+Flush/pour flush to an open drain
+Pit latrine without a slab or platform
+Hanging latrine
+Bucket latrine
+Open defecation
+Term
+Definition
+Safely managed service level
+Use of improved facilities not shared with other households and where
+human waste is safely disposed of on-site or removed and treated off-site
+Basic service level
+Use of improved facilities that are not shared with other households
+Limited service level
+Use of improved facilities shared with other households
+Unimproved service level
+Use of an unimproved facility
+Open defecation service level
+Defecation or other disposal of human waste in fields, forests, bushes,
+open bodies of water, beaches, or other open spaces, or disposal with solid
+waste
+Sanitation facilities and children's education
+According to WHO and UNICEF, nearly one third of schools around the world still lack basic water, sanitation, and hygiene services. For girls, appropriate WASH facilities are especially important in ensuring their safe and healthy participation in school and has been associated with improved girls' attendance. Women and girls, lacking private WASH spaces at home and often responsible for family water collection, face significant barriers to school attendance. Installing better WASH services in schools could significantly improve educational participation for girls, especially those menstruating.
+Management of fecal waste
+Sewer systems and wastewater
+Community wastewater management and adequate sewer systems play important roles in sanitation and disease prevention. Wastewater, which contains fecal waste (or poop), can contaminate the local environment and drinking water supply, increasing the risk of disease transmission. To improve health, systems are needed to manage community wastewater and sewage.
+In many countries, sewer systems are not connected to piped networks, and proper wastewater management is not practiced due to lack of resources, poor infrastructure, available technology, and space.
+Fecal sludge management
+Without proper management, onsite sanitation facilities (such as toilets) can fill up, and the fecal waste (called fecal sludge) must be emptied by manual or motorized means and physically transported to a treatment facility.
+These systems introduce challenges like ensuring worker safety, processing waste, and keeping wastewater treatment costs affordable for households. Workers handling fecal waste need proper personal protective equipment (PPE) for their health. Treating fecal sludge, which has more solids than typical wastewater, requires special plants. To make the costs of collecting and treating fecal sludge manageable, communities might need to develop new models for sharing these expenses.

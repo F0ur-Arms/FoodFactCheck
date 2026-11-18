@@ -1,0 +1,59 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Public Health Considerations for Correctional Health
+URL: https://www.cdc.gov/correctional-health/about/index.html
+────────────────────────────────────────────────────────────
+
+Purpose
+To provide people who are justice system-involved, correctional facility staff, public health professionals, community organizations, and anyone else with an interest in correctional health with resources.
+Review CDC resources, guidelines, and data on correctional health and justice-involved populations
+Correctional health is community health
+Correctional health encompasses all aspects of health and well-being for adults and juveniles who are justice system*-involved. This starts at the point of arrest, continues at detention or incarceration, and carries through after they return to their community (called "reentry"). Correctional health also includes the health of families and communities of persons who are justice system-involved, as well as the health administrators and staff who work in facilities.
+Justice System-Involved
+A person who is 'justice system-involved' is any person who is currently or has ever been arrested or incarcerated in a detention or correctional facility. This term also includes those reentering their communities after detention or incarceration, including those on parole or probation. 'Criminal legal system' may also be used as an alternative to 'justice system' to reflect historic and current challenges to achieving justice in the U.S. criminal legal system.
+Persons who are justice system-involved are more likely to experience risk factors for HIV, viral hepatitis, sexually transmitted infections (STIs), tuberculosis (TB), latent TB infection (LTBI), and traumatic brain injuries (TBI) and concussions. The prevalence of these infections, diseases, and injuries is higher than in the general population. Additionally, a high proportion of people with justice system involvement have a history of unstable housing and mental health and substance use disorders, which increases vulnerability and risk for HIV, viral hepatitis, STIs, tuberculosis/latent tuberculosis infection, and injuries like TBI. This puts many in need of linkage to substance use and mental health treatment, employment, and permanent housing upon release. Justice-involvement also leads to family and community instability and adverse childhood events, with 1 in 28 children having a caregiver who is incarcerated.
+Taken together, these multiple health conditions and social determinants of health contribute to the health disparities found in this population and their communities.
+CDC has worked to provide people who are justice system-involved, correctional facility staff, public health professionals, community organizations, and anyone else with an interest in correctional health with data, testing and treatment guidelines, educational materials, and other correctional health resources.
+How CDC supports correctional health
+CDC Correctional Health Guidance and Resources
+Providing correctional facility staff, public health professionals, community organizations, and anyone else with an interest in correctional health with guidance and resources.
+Read More
+Community support
+Funds partners working with health departments to improve health in the communities of justice-involved persons, particularly related to priority pathogens such as HIV, hepatitis, STIs, and TB.
+Develops programs and guidance that address community health disparities and social determinants of health (SDOH).
+Intake / entry
+Develops intake screening and treatment guidance for use by clinicians/administrators of correctional health services and health departments.
+During incarceration
+Works with state, tribal, local, and territorial health departments to investigate disease outbreaks.
+Develops and provides useful health education materials for staff and justice-involved persons.
+Reentry
+Supports projects that improve the continuity of care for people returning to their communities.
+Offers policy and planning guidance that support efforts to improve the continuity of care within communities.
+Surveillance
+Identifies/monitors cases and potential exposures to HIV, viral hepatitis, STIs, TB, and other pathogens among persons who are justice-involved or work in correctional facilities.
+Statistics
+According to the U.S. Bureau of Justice Statistics, over 5 million people are estimated to be under the supervision of U.S. adult correctional systems (in prison or jail, or on probation or parole). Many persons who are justice-involved experience multiple risk factors for HIV, viral hepatitis, sexually transmitted infections (STIs), tuberculosis (TB) and latent TB infection (LTBI), and traumatic brain injuries (TBI) and concussions. The prevalence of these infections, diseases, and injuries among people who are incarcerated is higher than in the general population.
+HIV
+In 2021, about 1.1% of persons incarcerated in state and federal prisons were known to be persons with HIV; this rate was three times higher than the prevalence in the general U.S. population.
+In 2021, 16 U.S. states conducted mandatory HIV testing of all persons under state law enforcement custody, and 23 states and the U.S. Federal Bureau of Prisons offered opt-out HIV testing, accounting for 84% of all persons admitted and sentenced to more than 1 year in the custody of state and federal correctional authorities.
+In a 2013 survey of women across 20 metropolitan areas with high HIV prevalence, women who were recently incarcerated were significantly more likely to have factors that increase their risk for HIV infection than those who were never incarcerated, including receiving money or drugs in exchange for sex with a partner, multiple casual partners, multiple casual condomless partners, and sexually transmitted infection (STI) diagnosis.
+More information on HIV surveillance in the United States.
+Viral hepatitis
+In 2009, a systematic review of 23 studies from incarcerated populations in the U.S. reported a wide chronic hepatitis B virus (HBV) prevalence range of 0.9%–11.4%.
+HBV prevalence has been estimated to be 3 to 38 times higher in correctional settings than in the general population in 2009.
+From 2013–2016, people who were incarcerated were estimated to have a rate of current hepatitis C virus (HCV) infection 10 times higher (10.7% vs 1%) than persons in the general population.
+Approximately 30% of all persons infected with HCV in the United States spend at least part of the year in correctional facilities.
+More information on Viral Hepatitis surveillance in the United States.
+STIs
+Males and females 35 years of age and younger in juvenile and adult detention facilities have been reported to have higher rates of chlamydia and gonorrhea than nonincarcerated persons in the community.
+Jail-based chlamydia screen-and-treat programs can potentially decrease chlamydia prevalence in communities with higher incarceration rates —as much as 13% in large communities and 54% in small communities.
+More information on STIs among persons in correctional facilities.
+Tuberculosis (TB)
+In 2021, 2.4% of persons 15 years of age or older diagnosed with tuberculosis were current residents of correctional facilities at the time of diagnosis.
+From 2003–2013, annual median tuberculosis incidence was about 6 times higher for persons in jails and federal prisons compared with the general population.
+An analysis during 2011–2019 demonstrated that large tuberculosis outbreaks still occur in state prisons and account for a large proportion of total tuberculosis cases in some states.
+For more information on TB risk and people who live or work in correctional facilities.
+Traumatic brain injury (TBI)
+Research in the United States and from other countries suggests almost half (46%) of people in correctional or detention facilities such as prisons and jails have a history of TBI, but the exact number is not known.
+Studies show an association between people in correctional or detention facilities with a history of TBI and mental health problems, such as severe depression and anxiety, substance use disorders, difficulty controlling anger, and suicidal thoughts and/or attempts.
+People in correctional or detention facilities with TBI-related problems may not be screened for a TBI or may face challenges with getting TBI-related care. These challenges may continue after a person is released from the facility.
+Find more information about TBI and other brain injuries.

@@ -1,0 +1,752 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Antibiotics Tested by NARMS
+URL: https://www.cdc.gov/narms/about/antibiotics-tested.html
+────────────────────────────────────────────────────────────
+
+At a glance
+This page provides detailed information on the antibiotics NARMS uses for susceptibility testing of Salmonella, Shigella, E. coli, Campylobacter, and Vibrio species other than V. cholerae.
+Overview
+NARMS tests isolates to determine their antibiotic susceptibility. This task is accomplished by finding the lowest concentration of a particular antibiotic that will inhibit the growth of the bacteria, which is called the minimum inhibitory concentration (MIC).
+Currently, CDC NARMS routinely tests for susceptibility to 17 antibiotics in 12 classes of drugs. The names and classes of antibiotics and the testing methods used for susceptibility testing depend on the type of bacteria being tested.
+What data we collect
+Antibiotics used for susceptibility testing of Salmonella isolates
+CLSI Class
+Antibiotic
+Years
+Tested
+Antibiotic
+Concentration Range
+(μg/mL)
+MIC Interpretive Standard (μg/mL)
+Susceptible
+Intermediate*
+Resistant
+Aminoglycosides
+Amikacin
+1997–2010
+0.5–64
+≤4
+8
+≥16
+Gentamicin
+1996–present
+0.25–16
+≤2
+4
+≥8
+Kanamycin
+1996–2013
+8–64
+≤16
+32
+≥64
+Streptomycin‡
+1996–2013
+32–64
+≤32
+N/A*
+≥64
+2014–2019
+2–64
+≤16
+N/A*
+≥32
+β–lactam combination agents
+Amoxicillin-clavulanic acid
+1996–present
+1/0.5–32/16
+≤8/4
+16/8
+≥32/16
+Piperacillin-tazobactam§
+2011–2015
+0.5–128
+≤16/4
+32/4–64/4
+≥128/4
+Cephems
+Cefepime†,§
+2011–2015
+0.06–32
+≤2
+4-8†
+≥16
+Cefotaxime§
+2011–2015
+0.06–128
+≤1
+2
+≥4
+Cefoxitin
+2000–present
+1–32
+≤8
+16
+≥32
+Ceftazidime§
+2011–2015
+0.06–128
+≤4
+8
+≥16
+Ceftiofur
+1996–2015
+0.12–8
+≤2
+4
+≥8
+Ceftriaxone¶
+1996–present
+0.25–64
+≤1
+2
+≥4
+Cephalothin
+1996–2003
+2–32
+≤8
+16
+≥32
+Folate pathway antagonists
+Sulfamethoxazole
+1996–2003
+16–512
+≤256
+N/A*
+≥512
+Sulfisoxazole
+2004–present
+16–256
+≤256
+N/A*
+≥512
+Trimethoprim-
+sulfamethoxazole
+1996–present
+0.12/2.38–4/76
+≤2/38
+N/A*
+≥4/76
+Lipopeptides
+Colistin
+2020–present
+0.25–8
+See note
+≤2
+≥4
+Macrolides
+Azithromycin**
+2011–present
+0.25–64
+≤16
+N/A*
+≥32
+Monobactams
+Aztreonam§
+2011–2015
+0.06–32
+≤4
+8
+≥16
+Penems
+Imipenem§
+2011–2015
+0.06–16
+≤1
+2
+≥4
+Meropenem
+2016–present
+0.06–4
+≤1
+2
+≥4
+Penicillins
+Ampicillin
+1996–present
+1–32
+≤8
+16
+≥32
+Phenicols
+Chloramphenicol
+1996–present
+2–32
+≤8
+16
+≥32
+Quinolones
+Ciprofloxacin
+1996–present
+0.015–4
+≤0.06
+0.12–0.5
+≥1
+Nalidixic acid
+1996–present
+0.5–32
+≤16
+N/A*
+≥32
+Tetracyclines
+Tetracycline
+1996–present
+4–32
+≤4
+8
+≥16
+*N/A indicates that no MIC range of intermediate susceptibility exists
+†Cefepime MICs above the susceptible range, but below the resistant range are designated by CLSI to be susceptible-dose dependent (S-DD)
+‡CLSI breakpoints are not established for streptomycin; interpretive standards used are NARMS-established breakpoints for resistance monitoring and should not be used to predict clinical efficacy. During 1996–2013 resistance was defined as ≥64 µg/mL; the breakpoint was updated to ≥32 µg/mL in 2014. The 2014 breakpoint could not be applied to previous years due to limited concentrations tested.
+§ Broad-spectrum β-lactam antibiotic only tested for nontyphoidal Salmonella isolates displaying ceftriaxone and/or ceftiofur resistance during 2011–2015.
+**CLSI breakpoints for azithromycin are only established for Salmonella ser. Typhi. Interpretive criteria for Salmonella ser. Typhi are based on MIC distribution data and limited clinical data. The azithromycin interpretive standards used for Salmonella serotypes other than ser. Typhi are NARMS-established breakpoints for resistance monitoring and should not be used to predict clinical efficacy.
+Note: According to the Clinical and Laboratory Standards Institute M100, colistin results for the Enterobacterales are interpreted either as intermediate (I) (MIC ≤ 2 µg/mL) or resistant (R) (MIC ≥4 µg/mL). There is no susceptible category, even for isolates with a low minimum inhibitory concentration (MIC). Some isolates with resistant MICs may be of a group or serotype that has naturally higher MIC distribution compared with other organisms, or isolates may have an acquired mechanism of resistance such as mcr-1. Presence of acquired mechanisms of colistin resistance can be determined by whole genome sequencing or other DNA-based detection methods.
+Antibiotics used for susceptibility testing of Shigella isolates
+CLSI Class
+Antibiotic
+Years
+Tested
+Antibiotic
+Concentration Range
+(μg/mL)
+MIC Interpretive Standard (μg/mL)
+Susceptible
+Intermediate*
+Resistant
+Aminoglycosides
+Amikacin
+1999–2010
+0.5–64
+≤4
+8
+≥16
+Gentamicin
+1999–present
+0.25–16
+≤2
+4
+≥8
+Kanamycin
+1999–2013
+8–64
+≤16
+32
+≥64
+Streptomycin†
+1999–2013
+32–64
+≤32
+N/A*
+≥64
+2014–2019
+2–64
+≤16
+N/A*
+≥32
+β–lactam combination agents
+Amoxicillin-clavulanic acid
+1999–present
+1/0.5–32/16
+≤8/4
+16/8
+≥32/16
+Cephems
+Cefoxitin
+2000–present
+1–32
+≤8
+16
+≥32
+Ceftiofur
+1999–2015
+0.12–8
+≤2
+4
+≥8
+Ceftriaxone
+1999–present
+0.25–64
+≤1
+2
+≥4
+Cephalothin
+1999–2003
+2–32
+≤8
+16
+≥32
+Folate pathway antagonists
+Sulfamethoxazole
+1999–2003
+16–512
+≤256
+N/A*
+≥512
+Sulfisoxazole
+2004–present
+16–256
+≤256
+N/A*
+≥512
+Trimethoprim-
+sulfamethoxazole
+1999–present
+0.12/2.38–4/76
+≤2/38
+N/A*
+≥4/76
+Lipopeptides
+Colistin
+2020–present
+0.25–8
+See note
+≤2
+≥4
+Macrolides
+Azithromycin
+2011–present
+0.25–64
+≤8
+16
+≥32
+Penems
+Meropenem
+2016–present
+0.06–4
+≤1
+2
+≥4
+Penicillins
+Ampicillin
+1999–present
+1–32
+≤8
+16
+≥32
+Phenicols
+Chloramphenicol
+1999–present
+2–32
+≤8
+16
+≥32
+Quinolones
+Ciprofloxacin
+1999–present
+0.015–4
+≤0.25
+0.5
+≥1
+Nalidixic acid
+1999–present
+0.5–32
+≤16
+N/A*
+≥32
+Tetracyclines
+Tetracycline
+1999–present
+4–32
+≤4
+8
+≥16
+*N/A indicates that no MIC range of intermediate susceptibility exists
+†CLSI breakpoints are not established for streptomycin; interpretive standards used are NARMS-established breakpoints for resistance monitoring and should not be used to predict clinical efficacy. During 1999–2013 resistance was defined as ≥64 µg/mL; the breakpoint was updated to ≥32 µg/mL in 2014. The 2014 breakpoint could not be applied to previous years due to limited concentrations tested.
+Note: According to the Clinical and Laboratory Standards Institute M100, colistin results for the Enterobacterales are interpreted either as intermediate (I) (MIC ≤ 2 µg/mL) or resistant (R) (MIC ≥4 µg/mL). There is no susceptible category, even for isolates with a low minimum inhibitory concentration (MIC). Some isolates with resistant MICs may be of a group or serotype that has naturally higher MIC distribution compared with other organisms, or isolates may have an acquired mechanism of resistance such as mcr-1. Presence of acquired mechanisms of colistin resistance can be determined by whole genome sequencing or other DNA-based detection methods.
+Antibiotics used for susceptibility testing of E. coli isolates
+CLSI Class
+Antibiotic
+Years
+Tested
+Antibiotic
+Concentration Range
+(μg/mL)
+MIC Interpretive Standard (μg/mL)
+Susceptible
+Intermediate*
+Resistant
+Aminoglycosides
+Amikacin
+1997–2010
+0.5–64
+≤4
+8
+≥16
+Gentamicin
+1996–present
+0.25–16
+≤2
+4
+≥8
+Kanamycin
+1996–2013
+8–64
+≤16
+32
+≥64
+Streptomycin†
+1996–2013
+32–64
+≤32
+N/A*
+≥64
+2014–2019
+2–64
+≤16
+N/A*
+≥32
+β–lactam combination agents
+Amoxicillin-clavulanic acid
+1996–present
+1/0.5–32/16
+≤8/4
+16/8
+≥32/16
+Cephems
+Cefoxitin
+2000–present
+1–32
+≤8
+16
+≥32
+Ceftiofur
+1996–2015
+0.12–8
+≤2
+4
+≥8
+Ceftriaxone
+1996–present
+0.25–64
+≤1
+2
+≥4
+Cephalothin
+1996–2003
+2–32
+≤8
+16
+≥32
+Folate pathway antagonists
+Sulfamethoxazole
+1996–2003
+16–512
+≤256
+N/A*
+≥512
+Sulfisoxazole
+2004–present
+16–256
+≤256
+N/A*
+≥512
+Trimethoprim-
+sulfamethoxazole
+1996–present
+0.12/2.38–4/76
+≤2/38
+N/A*
+≥4/76
+Lipopeptides
+Colistin
+2020–present
+0.25–8
+See note
+≤2
+≥4
+Macrolides
+Azithromycin§
+2011–present
+0.25–64
+≤16
+N/A*
+≥32
+Penems
+Meropenem
+2016–present
+0.06–4
+≤1
+2
+≥4
+Penicillins
+Ampicillin
+1996–present
+1–32
+≤8
+16
+≥32
+Phenicols
+Chloramphenicol
+1996–present
+2–32
+≤8
+16
+≥32
+Quinolones
+Ciprofloxacin
+1996–present
+0.015–4
+≤0.25
+0.5
+≥1
+Nalidixic acid
+1996–present
+0.5–32
+≤16
+N/A*
+≥32
+Tetracyclines
+Tetracycline
+1996–present
+4–32
+≤4
+8
+≥16
+*N/A indicates that no MIC range of intermediate susceptibility exists
+†CLSI breakpoints are not established for streptomycin; interpretive standards used are NARMS-established breakpoints for resistance monitoring and should not be used to predict clinical efficacy. During 1996–2013 resistance was defined as ≥64 µg/mL; the breakpoint was updated to ≥32 µg/mL in 2014. The 2014 breakpoint could not be applied to previous years due to limited concentrations tested.
+§CLSI breakpoints are not established for azithromycin and E. coli; interpretive standards used are NARMS-established breakpoints for resistance monitoring and should not be used to predict clinical efficacy.
+Note: According to the Clinical and Laboratory Standards Institute M100, colistin results for the Enterobacterales are interpreted either as intermediate (I) (MIC ≤ 2 µg/mL) or resistant (R) (MIC ≥4 µg/mL). There is no susceptible category, even for isolates with a low minimum inhibitory concentration (MIC). Some isolates with resistant MICs may be of a group or serotype that has naturally higher MIC distribution compared with other organisms, or isolates may have an acquired mechanism of resistance such as mcr-1. Presence of acquired mechanisms of colistin resistance can be determined by whole genome sequencing or other DNA-based detection methods.
+Antibiotics used for susceptibility testing of Campylobacter isolates
+CLSI Class
+Antibiotic
+Years Tested
+Antibiotic
+Concentration Range (μg/mL)
+MIC Interpretive Standard (μg/mL)†
+C. jejuni
+C. coli
+Susceptible
+Resistant
+Susceptible
+Resistant
+Aminoglycosides
+Gentamicin
+1998–present
+0.12–32
+0.016–256*
+≤2
+≥4
+≤2
+≥4
+Ketolides
+Telithromycin‡
+2005–2019
+0.015–8
+≤4
+≥8
+≤4‡
+≥8‡
+Lincosamides
+Clindamycin
+1997–present
+0.03–16
+0.016–256*
+≤0.5
+≥1
+≤1
+≥2
+Macrolides
+Azithromycin
+1998–present
+0.015–64
+0.016–256*
+≤0.25
+≥0.5
+≤0.5
+≥1
+Erythromycin
+1997–present
+0.03–64
+0.016–256*
+≤4
+≥8
+≤8
+≥16
+Penems
+Meropenem
+2020–present
+0.004–16
+No EUCAST or NARMS interpretations
+Phenicols
+Chloramphenicol
+1997–2004
+0.016–256*
+≤16
+≥32
+≤16
+≥32
+Florfenicol
+2005–present
+0.12–64
+≤4
+≥8
+≤4
+≥8
+Quinolones
+Ciprofloxacin
+1997–present
+0.015–64
+0.002–32*
+≤0.5
+≥1
+≤0.5
+≥1
+Nalidixic acid
+1997–present
+4–64
+0.016–256*
+≤16
+≥32
+≤32
+≥64
+Tetracyclines
+Tetracycline
+1997–present
+0.12–64
+0.016–256*
+≤1
+≥2
+≤2
+≥4
+*Etest dilution range used before 2005
+†MIC interpretative standard is based on epidemiological cutoff values (ECVs) established by the European Committee on Antimicrobial Susceptibility Testing. This approach was adopted in 2012 and applied to all years. EUCAST uses the terms "wild-type" and "non-wild-type" instead of susceptible and resistant, respectively, to reflect the nature of the populations of bacteria in each group and to highlight that these categories are not to be used to predict clinical efficacy.
+‡ A telithromycin ECV for Campylobacter coli is not currently published by EUCAST. We apply the previously published [PDF – 3 pages] ECV of 4 µg/mL to all C. coli isolates, designating "wild-type" isolates (MIC ≤4 µg/mL) as sensitive and "non-wild-type" isolates (MIC ≥8 µg/mL) as resistant.
+Antibiotics used for susceptibility testing of Vibrio species other than V. cholerae isolates
+CLSI Class
+Antibiotic
+Years Tested
+Antibiotic
+Concentration Range (μg/mL)
+MIC Interpretive Standard (μg/mL)
+Susceptible
+Intermediate*
+Resistant
+Aminoglycosides
+Gentamicin
+2013–present
+0.25–16
+0.064–1024†
+≤4
+8
+≥16
+Kanamycin
+2009–2012
+0.016–256†
+No CLSI or NARMS interpretations
+Streptomycin
+2009–2012;
+2015–2019
+2–64
+0.064–1024†
+No CLSI or NARMS interpretations
+β–lactam combination agents
+Amoxicillin-clavulanic acid
+2015–present
+1/0.5–32/16
+≤8/4
+16/8
+≥32/16
+Cephems
+Cefotaxime
+2013–2014
+0.016–256†
+≤1
+2
+≥4
+Cefoxitin
+2015–present
+1–32
+≤8
+16
+≥32
+Ceftazidime
+2013–2014
+0.016–256†
+≤4
+8
+≥16
+Ceftiofur
+2015
+0.12–8
+No CLSI or NARMS interpretations
+Ceftriaxone
+2015–present
+0.25–64
+No CLSI or NARMS interpretations
+Cephalothin
+2009–2012
+0.016–256†
+No CLSI or NARMS interpretations
+Folate pathway antagonists
+Sulfisoxazole
+2015–present
+16–256
+No CLSI or NARMS interpretations
+Trimethoprim-sulfamethoxazole
+2009–present
+0.12/2.38–4/76
+0.002–32†
+≤2/38
+N/A*
+≥4/76
+Lipopeptides
+Colistin
+2020–present
+0.25–8
+No CLSI or NARMS interpretations
+Macrolides
+Azithromycin
+2015–present
+0.25–64
+See footnote§
+Penems
+Imipenem¶
+2013–2014
+0.002–32†
+≤1
+2
+≥4
+Meropenem
+2016–present
+0.06–4
+≤1
+2
+≥4
+Penicillins
+Ampicillin
+2009–present
+1–32
+0.016–256†
+≤8
+16
+≥32
+Phenicols
+Chloramphenicol
+2009–present
+2–32
+0.016–256†
+No CLSI or NARMS interpretations
+Quinolones
+Ciprofloxacin
+2009–present
+0.015–4
+0.002–32†
+≤1
+2
+≥4
+Nalidixic acid
+2009–present
+0.5–32
+0.016–256†
+No CLSI or NARMS interpretations
+Tetracyclines
+Tetracycline
+2009–present
+4–32
+0.016–256†
+≤4
+8
+≥16
+*N/A indicates that no MIC range of either intermediate or resistant susceptibility exists
+†Etest dilution range used before 2015
+§CLSI has only established a susceptible breakpoint (≤2 µg/mL) for azithromycin and cautions that the utility of this interpretation for Vibrio species other than V. cholerae is uncertain due to limited clinical or in vitro MIC data. Because of this, NARMS will not apply any interpretive criteria to azithromycin MICs for non-choleraeVibrio until further data are available.

@@ -1,0 +1,13 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: CDC Risk Assessment and Reporting of Variant Influenza Viruses
+URL: https://www.cdc.gov/swine-flu/variant-flu-in-humans/risk-and-reporting.html
+────────────────────────────────────────────────────────────
+
+For Everyone
+What to know
+CDC is not currently experiencing widespread outbreaks of variant flu. Influenza viruses that normally circulate in pigs (i.e., swine influenza viruses) do not normally infect humans. However, sporadic or localized outbreaks among people with influenza viruses that normally circulate in swine and not people (i.e., variant influenza viruses) may occur. CDC continues to monitor closely for human infections with variant influenza viruses.
+CDC Risk Assessment
+Sporadic infections and even localized outbreaks among people with variant influenza viruses have occurred. Most influenza variant viruses have not been seen to spread easily person to person. All influenza viruses have the capacity to change. It's possible that variant viruses may change such that they gain the ability to infect people easily and spread easily from person-to-person. CDC continues to monitor closely for variant influenza virus infections and will report cases weekly in FluView.
+Reporting Variant Influenza Viruses
+Domestically, CDC reports these cases in its weekly national influenza surveillance report, FluView. CDC also is required to report the first case of human infection per year of each variant virus subtype to the World Health Organization (WHO) as part of the International Health Regulations (IHR). (For example, the first human cases of H1N1v, H1N2v, or H3N2v that occur in a given year are reported WHO as part of the IHR.)
+The IHR is an international legal instrument, which helps the international community prevent and respond to public health risks with potential global impact. The IHR requires countries to report certain disease outbreaks and public health events, including confirmed cases of human infection with a "novel" (non-human) influenza virus.

@@ -1,0 +1,52 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Heartland and Bourbon Virus Testing Guidance
+URL: https://www.cdc.gov/bourbon-virus/hcp/clinical-diagnosis-treatment/testing-guidance.html
+────────────────────────────────────────────────────────────
+
+For Health Care Providers
+Oct. 30, 2026
+What to know
+For several years, CDC worked with state health departments under IRB-approved protocols to identify additional cases of Heartland or Bourbon virus disease and validate diagnostic tests for these novel pathogens. Enrollment into the protocols has been concluded and CDC Arboviral Diseases Branch now offers routine diagnostic testing for Heartland and Bourbon viruses.
+Who should be tested for Heartland and Bourbon virus disease?
+Testing for Heartland or Bourbon virus should be considered for patients with an acute febrile illness within the past 3 months AND at least one epidemiologic criterion AND at least one clinical criterion.
+Epidemiologic criteria
+Known tick bite, finding tick on body, or potential exposure to ticks through outdoor activities in the 3 weeks prior to illness onset during spring through fall (e.g., April–October); OR
+Resides in or recently traveled to an area with previous evidence of Heartland or Bourbon virus
+Clinical criteria
+Leukopenia (white blood cells <4,500 cells/μL) or thrombocytopenia (platelets <150,000 cells/mL) not explained by another known condition; OR
+Suspected tickborne disease (e.g., ehrlichiosis, Rocky Mountain spotted fever) with no clinical response to appropriate treatment (e.g., doxycycline)
+Samples collected >3 months after symptom onset will not be tested at this time based on limitations of our current understanding of antibody kinetics.
+Prior to submitting specimens, healthcare providers should consult an epidemiologist in their state or local health department to facilitate diagnostic testing and determine if a case meets the criteria.
+Testing for evidence of Heartland and Bourbon virus disease
+Notice
+Some tests are not currently available at CDC. Please refer to the Test Directory for the latest information on which tests CDC can perform.
+The following tests for Heartland and Bourbon virus are currently available at CDC:
+Heartland virus
+Reverse transcription-polymerase chain reaction (RT-PCR)
+IgM microsphere-based immunoassay (MIA)
+Plaque reduction neutralization test (PRNT)
+Bourbon virus
+RT-PCR
+PRNT
+For specimens collected <14 days after onset of symptoms, serum should be submitted for Heartland and Bourbon virus RT-PCR and antibody testing.
+For specimens collected ≥14 days after onset of symptoms, serum specimens should be submitted for antibody testing. If the patient is immunocompromised, RT-PCR also may be performed on serum collected >14 days after onset.
+Because there is no specific IgM antibody test yet available for Bourbon virus, acute and convalescent samples will be needed to make the diagnosis of an acute Bourbon virus infection using serologic assays.
+Submitting specimens to CDC for Heartland and Bourbon virus testing
+If you suspect a patient has Heartland or Bourbon virus disease, please contact your state or local health department for assistance with diagnostic testing. They can assist you with determining if samples should be sent to the CDC Arbovirus Diagnostic Laboratory for further testing.
+All samples should be submitted through the CDC Specimen Test Order and Reporting (CSTOR) Web Portal.
+Note: Testing will not be initiated without the inclusion of:
+Date of illness onset
+Date of specimen collection
+Any pertinent travel history (travel in the past 12 weeks)
+The patient's name (required for submitting specimens)
+Healthcare providers and health departments are encouraged to include the specific epidemiologic and clinical criteria used to determine that testing for Heartland and Bourbon virus disease is appropriate.
+Reporting of Heartland and Bourbon virus disease cases
+Heartland and Bourbon virus disease are not nationally notifiable conditions but they can be reported to ArboNET. CDC requests that states report cases of Heartland and Bourbon virus disease on a voluntary basis using the current CSTE case definition for Arboviral Diseases, Neuroinvasive and Non-neuroinvasive.
+Oct. 30, 2026
+Sources and Page Info
+Print
+Share
+Facebook
+LinkedIn
+Twitter
+Syndicate

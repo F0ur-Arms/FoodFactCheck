@@ -1,0 +1,72 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Connecting Public Health and Medicine
+URL: https://www.cdc.gov/nssp/hcp/about/project-emrge-works.html
+────────────────────────────────────────────────────────────
+
+For Health Care Providers
+What to know
+The medical and public health fields are closely connected but often function as independent entities.
+Project EMRge seeks to increase collaboration among state, tribal, local, and territorial (STLT) public health practitioners and clinicians and hospital staff.
+By sharing data-driven results, Project EMRge helps clinicians see how hospital data inform public health actions and helps public health practitioners better understand hospital workflows.
+Challenge
+Public health and medicine have shared interests, including:
+Detecting potential outbreaks.
+Increasing screening, prevention, and connection to counseling.
+Reducing death and injury through access to preventive care.
+Providing essential planning data for disaster response.
+Despite their connection, the fields of public health and medicine often function as independent entities. This can create gaps in information exchange, increase the chances for misinterpretation, and ultimately affect the ability to respond effectively to an outbreak, natural disaster, or other catastrophic event.
+Opportunity
+Healthcare facilities, including clinicians and emergency department (ED) staff, routinely collect and document clinical data for electronic medical records (EMRs). Public health agencies routinely monitor near real-time EMR data for syndromic surveillance—a method to detect, characterize, and monitor events of public health concern. CDC's National Syndromic Surveillance Program (NSSP) leads the nation's efforts to standardize syndromic data collection, with EDs from all 50 states, the District of Columbia, and Guam voluntarily participating.
+Project EMRge helps bridge the gap between medicine and public health by showing clinicians how their EMR clinical documentation informs public health data and response. It also helps public health agencies understand ED workflow and any impacts on EMR data collection.
+Project EMRge
+Project EMRge connects STLT public health practitioners with clinicians and hospital staff. The project's goal is to strengthen collaboration, improve clinical documentation in EMRs, resolve shared challenges, and close the surveillance feedback loop by sharing public health insights with medicine to support early detection of emerging outbreaks and other events of public health concern.
+Project priorities
+Short term
+Educate clinicians and hospital staff on the essential role of EMR clinical documentation to syndromic surveillance
+Help public health agencies understand ER workflow and its impacts on EMR data collection
+Engage in collaborative data quality improvement by characterizing challenges in using EMRs
+Show clinicians and hospital staff the impacts of their data in action
+Long term
+Improve communication between public health and medicine
+Recognize data limitations and areas where more accurate and complete EMR data are needed for enhanced public health action
+Close the public health surveillance feedback loop on concerning trends, such as disease patterns in the data, and facilitate early outbreak detection and prevention
+Enlist potential research support and identify academic–public health partnerships
+Project EMRge implementation
+State, local, and territorial health departments are conducting outreach with hospitals and hospital groups, to increase awareness about syndromic surveillance and find ways to collaborate.
+Partnerships have emerged with hospital association groups to understand coding practices and how they may impact clinical diagnoses in medical record data.
+State, local, and territorial health departments have presented to local chapters of the American College of American Physicians to bridge the gap between medicine and public health.
+Kansas Department of Health surveyed clinicians about their perception of syndromic surveillance and published the results.
+Benefits to hospitals
+Use evidence-based prevention strategies to connect frequent patients to community-based and other outpatient care services
+Understand hospital visit trends, improve resource allocation, and support emergency care activities
+Improve patient workflow through EDs
+Access complete data to facilitate timely case reporting and investigation
+Provide medical and public health communities with collaborative, response-ready systems
+Enhance clinical documentation to identify and address health disparities
+Benefits to public health agencies
+Learn about clinician and hospital workflow
+Develop a better understanding about data limitations
+Enhance contextual understanding about how medical record data are created
+Develop a network to share early warnings, follow-up on visits of interest, and collaborate on shared concerns
+Connect with the medical community to better respond to public health threats and create comprehensive response-ready systems
+Get involved
+Who can participate?
+Project EMRge welcomes collaboration from healthcare organizations and clinicians, state and local public health agencies, academic partners, and other organizations interested in improving the use of EMR data for public health.
+What does collaboration look like through Project EMRge?
+Partners have opportunities to:
+Connect with state, local, and territorial public health agencies
+Learn about public health workflow in the use of the data
+Receive shared reports with high-level data trends and findings
+Combined efforts to enhance capture of contextual information and other clinical documentation in EMRs
+Collaborate on focused surveillance efforts and case investigations
+Resolve shared issues that affect public health and medicine
+Partner on academic projects using syndromic data sources
+Learn more
+Organizations interested in participating in Project EMRge should contact NSSP at nssp@cdc.gov. The NSSP can provide additional information about the project, discuss collaboration opportunities, and help connect interested organizations with appropriate public health partners, as applicable.
+Sources and Page Info
+Print
+Share
+Facebook
+LinkedIn
+Twitter
+Syndicate

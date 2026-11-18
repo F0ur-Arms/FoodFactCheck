@@ -1,0 +1,31 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: About Non-Ionizing Radiation
+URL: https://www.cdc.gov/radiation-health/about/non-ionizing-radiation.html
+────────────────────────────────────────────────────────────
+
+For Everyone
+Key points
+Non-ionizing radiation exists all around us from many sources.
+Unlike ionizing radiation, non-ionizing radiation does not have enough energy to remove electrons.
+You are exposed to low levels of non-ionizing radiation every day, but intense exposure may result in damage to tissue.
+Overview
+Radiation exists all around us, from both natural and manmade sources, and is in two forms: ionizing and non-ionizing radiation.
+Ionizing radiation is a form of energy that acts by removing electrons from atoms and molecules of materials. These materials include air, water, and living tissue. Ionizing radiation can travel unseen and pass through these materials.
+Keep Reading
+About Ionizing Radiation
+Non-ionizing radiation explained
+Non-ionizing radiation is to the left of ionizing radiation on the electromagnetic spectrum in the figure below.
+Keep Reading
+The Electromagnetic Spectrum: An Overview
+The dividing line between ionizing and non-ionizing radiation occurs in the ultraviolet part of the electromagnetic spectrum. Radiation in the ultraviolet band and at lower energies (to the left of ultraviolet) is called non-ionizing radiation. Radiation to the right of the ultraviolet band and at higher energies is called ionizing radiation.
+Ionizing vs non-ionizing radiation
+Non-ionizing radiation differs from ionizing radiation in the way it acts on materials like air, water, and living tissue.
+Unlike x-rays and other forms of ionizing radiation, non-ionizing radiation does not have enough energy to remove electrons. Non-ionizing radiation can heat substances. For example, the microwave radiation inside a microwave oven heats water and food rapidly.
+Exposure
+You are exposed to low levels of non-ionizing radiation every day. Exposure to highly intense, direct amounts of non-ionizing radiation may result in damage to tissue due to heat. This is not common and mainly of concern in the workplace for those who work on large sources of non-ionizing radiation.
+Risk from ultraviolet radiation exposure
+Ultraviolet radiation is a natural part of solar radiation, and also is released by black lights, tanning beds, and electric arc lighting. UV light reaching the earth's surface is non-ionizing. Normal everyday levels of UV radiation can be helpful, and produce vitamin D. The World Health Organization (WHO) recommends 5 to 15 minutes of sun exposure 2 to 3 times a week.
+Too much UV radiation can cause skin burns, premature aging of the skin, eye damage, and skin cancer. The majority of skin cancers are caused by exposure to ultraviolet radiation.
+Tanning through the use of tanning beds and tanning devices exposes the consumer to UV radiation. Exposure to tanning beds and tanning devices also increases the chance of developing skin cancer.
+Risk from exposure to radiofrequency and microwave radiation
+Intense, direct exposure to radiofrequency and microwave radiation may result in damage to tissue due to heat. These more significant exposures could occur from industrial devices in the workplace.

@@ -1,0 +1,66 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: About Lassa Fever
+URL: https://www.cdc.gov/lassa-fever/about/index.html
+────────────────────────────────────────────────────────────
+
+Key points
+Lassa fever is a viral illness spread by a rat found in parts of West Africa.
+People can get Lassa fever by having contact with infected rats or their saliva, urine or droppings.
+Lassa fever can spread between people.
+Most people with Lassa fever have mild symptoms.
+Lassa fever can be deadly.
+What it is
+Lassa fever is a severe viral illness that comes on quickly once someone is infected. It is spread by the "multimammate rat" or Mastomys natalensis (Mastomys), which is found throughout Sub-Saharan Africa. Currently, only West African multimammate rats are known to carry Lassa virus.
+Lassa fever is found in parts of West Africa, including Sierra Leone, Liberia, Guinea and Nigeria. People who live in neighboring countries are also at risk because the rat that spreads Lassa fever lives throughout the region.
+The first documented case occurred in 1969. Lassa fever is named after the town in Nigeria where the first cases occurred.
+Healthcare providers:
+Review guidance on emergency services, screening, testing, infection control and PPE for viral hemorrhagic fevers, like Lassa fever, here: VHFs for Healthcare Providers
+Signs and symptoms
+About 8 in 10 people who are infected have mild symptoms and are not diagnosed.
+Mild symptoms include:
+Slight fever
+Feeling tired and weak
+Headache
+In some people, the disease may cause more serious symptoms like:
+Bleeding
+Difficulty breathing
+Vomiting
+Facial swelling
+Pain in the chest, back, and abdomen
+Shock
+How long it takes for signs to show
+Signs and symptoms of Lassa fever typically occur 1 to 3 weeks after a person is infected.
+Complications
+Lassa fever can lead to hearing loss, with about 1 out of 3 cases experiencing various levels of deafness. Deafness can occur in both mild and severe cases of Lassa fever. In many cases, the hearing loss is permanent.
+If a pregnant woman is infected, there is a high risk of miscarriage. In these cases, about 95% of fetuses do not survive.
+Exposure risks
+Although Lassa fever is found in West Africa, there's a risk of Lassa virus infection wherever the multimmamate rat is found.
+How it spreads
+Lassa fever is caused by infection with the Lassa virus, which is spread by rodents. These rodents breed quickly and carry the virus in their urine and droppings. They often live in areas where peoples' food supplies are stored.
+People mostly get Lassa fever by eating or breathing in the virus, for example:
+Touching contaminated objects
+Eating food that has the virus
+Getting the virus in open cuts or sores
+Eating rodents
+Breathing in air that has infected urine or droppings
+This may occur when cleaning or sweeping.
+Infection can also occur after coming in contact with the body fluids of an infected person. People with Lassa fever are not contagious until after their symptoms begin. Lassa fever is not spread through casual contact, such as hugging, shaking hands, or sitting near someone.
+The Lassa virus can spread in health care settings when not using proper personal protective equipment (PPE) or properly sterilizing equipment.
+Prevention
+If you go to West Africa, prevent Lassa fever by keeping away from rats. You can also:
+Put food away in rat-proof containers and keep the home clean.
+Avoid eating these rats.
+Trap rats in and around homes.
+Healthcare providers caring for patients with Lassa fever, should take precautions like:
+Wearing protective clothing (masks, gloves, gowns, and goggles)
+Properly sterilizing equipment
+Taking infection control measures
+Isolating infected patients until they are cured
+Controlling rodents at home
+Decreasing rat populations at home in high-risk areas helps control and prevent Lassa fever.
+Diagnosis
+Diagnosing Lassa fever can be difficult because symptoms vary and are similar to symptoms caused by other diseases. Healthcare workers should contact their health department if they suspect Lassa fever in a returning traveler.
+Diagnostic testing can be done in a laboratory with a high level of biosafety and enhanced infection prevention and control precautions.
+The ability to diagnose Lassa fever in areas where it is commonly found can be difficult. This is due to limited laboratory capacity to test patient samples easily and safely.
+Treatment
+Ribavirin, an antiviral drug, has been used to successfully treat patients with Lassa fever. It is most effective when given soon after a patient becomes sick. Patients should also receive supportive care, including rest, hydration, and treatment of symptoms.

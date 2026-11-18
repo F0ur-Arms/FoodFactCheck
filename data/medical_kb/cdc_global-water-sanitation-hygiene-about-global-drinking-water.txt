@@ -1,0 +1,41 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Global Drinking Water
+URL: https://www.cdc.gov/global-water-sanitation-hygiene/about/global-drinking-water.html
+────────────────────────────────────────────────────────────
+
+Key points
+Many international organizations use access to safe drinking water as a way to measure progress against poverty, disease, and death.
+Despite some progress, millions of people around the world still lack access to safe drinking water.
+Why it's important
+An estimated 90% of the world's population uses at least basic drinking water services, according to the World Health Organization (WHO) and UNICEF. If current trends continue, that number will climb to 94% by 2030. However, many millions of people remain without access to basic drinking water services.
+Terms to know
+Access to safe drinking water is determined by the type and the location of water sources used for drinking, as well the quality and availability of those sources.
+The service level terms and definitions in the table below include how drinking water services are defined by the Joint Monitoring Programme, a collaboration between WHO and UNICEF.
+Note: Improved drinking water sources are those, which by nature of their design and construction, have the potential to deliver safe water, and include:
+Piped household water connection
+Public standpipe
+Borehole or tubewell
+Protected dug well
+Protected spring
+Rainwater collection
+Packaged or delivered water
+Water distributer (tanker-truck or cart with small tank/drum)
+Water kiosks
+Bottled water
+Sachet water
+Unimproved drinking water sources are those, which by nature of their design and construction, are unlikely to deliver safe water, and include:
+Unprotected dug well
+Unprotected spring
+Surface water (river, dam, lake, pond, stream, canal, irrigation channel)
+Term
+Definition
+Safely managed water service level
+Drinking water from an improved source accessible on premises, available when needed, and free from fecal and priority chemical contamination
+Basic water service level
+Drinking water from an improved source, provided collection time is not more than 30 minutes round trip, including getting in line and waiting
+Limited water service level
+Drinking water from an improved source with collection time exceeding 30 minutes round trip, including getting in line and waiting
+Unimproved water service level
+Drinking water from an unprotected dug well or unprotected spring
+Surface water service level
+Drinking water directly from a river, dam, lake, pond, stream, canal, or irrigation canal

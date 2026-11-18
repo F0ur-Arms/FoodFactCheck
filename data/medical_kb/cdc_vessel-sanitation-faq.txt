@@ -1,0 +1,68 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Cruise Ship Illness Frequently Asked Questions
+URL: https://www.cdc.gov/vessel-sanitation/faq/index.html
+────────────────────────────────────────────────────────────
+
+For Everyone
+Sept. 2, 2026
+Key points
+Find answers to common questions about gastrointestinal illness outbreaks, our inspections, and more.
+Note that cruise ships under our jurisdiction are those with international voyages with a stop at a U.S. port. Other organizations handle cruise ships outside our jurisdiction.
+Norovirus and gastrointestinal (GI) illness
+Gastrointestinal illnesses, like those caused by norovirus, are very contagious. They can spread quickly in closed and semienclosed environments, such as cruise ships. People joining the cruise ship may bring the virus to other passengers and crew.
+Outbreaks are found, reported, and responded to more quickly on a cruise ship than on land. There are several reasons why:
+People who work on cruise ships are required to immediately notify medical staff of their symptoms. This helps outbreaks get detected more quickly than on land, where these requirements for workers are rarely in place.
+In addition, cruise ships are required to report cases of certain illnesses. This also helps outbreaks get detected earlier than on land.
+Finally, VSP can start an outbreak response without waiting for laboratory results confirming specific pathogens. Most health departments on land, however, have to wait for laboratory results before responding.
+Passengers can also help prevent illnesses from escalating into outbreaks by following our tips for healthy cruising. These include notifying medical staff if they are sick, washing their hands, and more.
+Passengers can take several steps to prevent illness:
+Tell the cruise ship's medical center if they are sick.
+Wash their hands often (and not rely on hand sanitizer).
+Drink plenty of water and get plenty of rest.
+Leave the area if they see someone get sick (vomiting or diarrhea).
+Learn more in our tips for healthy cruising.
+Diapers, including swim diapers and swim shorts, are not leak proof. They might hold in solid feces, but germs can still get into the water. Some cruise ships have designated pools or waterparks suitable for use by children who are in diapers or who are not completely toilet trained. These facilities are designed with extra protective measures.
+If your child is vomiting or having diarrhea, take them to the medical center so they can evaluate their symptoms. Assuming it is just seasickness could lead to spreading a contagious illness to others. Let cruise staff know about any episodes of vomiting or diarrhea—including your own—so cruise staff can ensure proper cleaning and sanitation.
+Yes. In addition to GI illness, VSP addresses other public health issues on cruise ships, including controlling Legionella, managing pests and insects, and ensuring clean air and water.
+CDC also tracks other issues on cruise ships. Learn about other common health concerns and what you can do to prevent illness.
+Gastrointestinal illnesses, including those caused by norovirus, are very contagious. If the medical center advises you to stay in your cabin (isolate), it is important to do so. VSP's standards require passengers (and crew) with certain symptoms isolate for a short period of time. It is difficult to spend part of your vacation isolating, but it helps prevent illnesses from escalating to outbreaks that affect the whole cruise ship.
+In addition, isolating when sick with certain symptoms helps protect groups that are more at risk if they get sick, especially young children, older adults, and people with weakened immune systems. Isolating also helps prevent events from being canceled and other implications of outbreaks.
+If you get sick, even if it's after a cruise, go to the doctor. Make sure to tell them that you recently traveled on a cruise. If you test positive for certain pathogens that we track, the health department will notify us of a positive result. This is so we can follow-up with the cruise line if there is a potential outbreak.
+Gastrointestinal Outbreaks
+An outbreak is when 3% or more of a cruise ship's passengers or crew have specific gastrointestinal symptoms. Explore our outbreak information on specific ships.
+If you don't see your cruise ship posted, there could be several reasons why:
+The number of sick passengers or crew might not have reached the 3% threshold for qualifying as an outbreak.
+The outbreak could have gone undetected. People might not have notified the medical center about being sick.
+The cruise ship might be outside our jurisdiction. We address cruise ships with international voyages with a stop at a U.S. port. Other organizations handle outbreaks outside our jurisdiction.
+It takes time to find the specific germ that caused an outbreak (also known as the causative agent). When an outbreak occurs, people are asked to provide stool or vomitus samples if they have certain symptoms. These samples are tested to determine the causative agent.
+Sometimes we can't determine the causative agent because people did not provide samples or their symptoms started after a voyage ended.
+VSP can recommend a cruise ship stop sailing, but this is rarely needed. Gastrointestinal illness outbreaks are almost always addressed without such measures. We monitor cases, and, when they start to go up, we review the ship's outbreak response and prevention plans. Cruise ships implement the plans to stop illness spread.
+Public health inspections
+To protect public health, VSP evaluates several areas on board:
+Food safety practices to prevent foodborne illness and outbreaks
+Processes and procedures to ensure the quality and safety of water used for drinking, preparing food, bathing, and swimming
+HVAC systems to improve indoor air quality
+Cleaning practices for cabins, common areas, and childcare centers to remove germs and sanitize surfaces
+Pesticide use and other strategies to manage insects and pests that can carry disease
+Medical center procedures for handling sick passengers and crew members
+Equipment and layout in food areas, water systems, and other areas to allow for easy cleaning
+Learn more about our inspections.
+Cruise ships under our jurisdiction are subject to two unannounced inspections each year. We inspect cruise ships to determine how well they are operating and maintaining public health standards. If a cruise ship sails outside of the United States for an extended period, it may not be inspected twice a year. It will be inspected again when it returns to the United States.
+We use a 100-point scale to score cruise ships:
+Inspectors use the current Vessel Sanitation Program (VSP) Environmental Public Health Standards.
+Inspectors deduct points for a single, significant violation or for patterns of similar violations.
+Cruise ships fail inspections when they score 85 or below.
+We post all inspection reports and scores.
+Yes. Cruise ships are responsible for correcting all violations. Cruise ships must correct certain critical violations immediately. Some violations can be corrected during the inspection, while others may take longer to correct. Each cruise ship submits a corrective action statement describing how violations were corrected.
+People sometimes assume that we will recommend a cruise ship not sail if it fails an inspection. While VSP can recommend a cruise ship stop sailing, this is rarely needed.
+Cruise ships are responsible for correcting all violations noted in inspections, and critical violations must be corrected immediately. In addition, cruise ships that fail inspections are reinspected within a reasonable period.
+If you can't find a cruise ship in our inspection database, it's likely the ship is not in our jurisdiction.
+Note: When cruise ships sail outside the United States for an extended period, they will not appear in our database. However, if they return, they are inspected and added back to the database.
+No-sail recommendation
+Is it very rare for VSP to recommend a cruise ship not sail. We would only do so if there are imminent public health risks. Our inspection program aims to identify and address these risks before they become problematic. Examples of imminent public health risks:
+Inability to properly chlorinate potable (drinking) water
+Inability to keep food within safe temperatures
+Inadequate facilities for cleaning and sanitizing food equipment
+Inability to properly dispose of solid or liquid waste
+Inability to control an infectious disease outbreak
+If a cruise line refuses to follow a no-sail recommendation, it can become a no-sail order.

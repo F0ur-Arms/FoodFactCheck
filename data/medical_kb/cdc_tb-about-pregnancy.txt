@@ -1,0 +1,80 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Tuberculosis in Pregnancy
+URL: https://www.cdc.gov/tb/about/pregnancy.html
+────────────────────────────────────────────────────────────
+
+Apr. 17, 2025
+Español
+Key points
+There are special considerations when testing for and treating inactive TB (also known as latent TB infection) and active TB disease during pregnancy.
+Pregnant women who are diagnosed with active TB disease should start treatment right away.
+Overview
+Tuberculosis (TB) is caused by a bacterium (or germ) called Mycobacterium tuberculosis.
+TB usually affects the lungs. TB can also affect other parts of the body, such as the brain, the kidneys, or the spine. TB can also affect multiple parts of the body at the same time. For example, TB can affect both the lungs and lymph nodes.
+Not everyone infected with TB germs becomes sick. As a result, two TB-related conditions exist: inactive TB (or latent TB infection) and active TB disease.
+Inactive TB
+TB germs can live in the body without making you sick. This is called inactive TB. People with inactive TB are infected with TB germs, but they do not have active TB disease.
+They do not feel sick, do not have symptoms of TB disease, and cannot spread TB to others.
+Keep Reading
+About Inactive Tuberculosis
+Active TB disease
+TB germs become active if the immune system can't stop them from growing. When TB germs are active (multiplying in your body), this is called active TB disease. People with active TB disease feel sick. TB germs can spread to people around them, including their baby, before or after birth. Tell your health care provider if you have symptoms of TB disease.
+Keep Reading
+About Active Tuberculosis Disease
+Pregnant women diagnosed with active TB disease can take medicine to treat the disease.
+For Health Care Providers
+Tuberculosis Clinical Care and Treatment During Pregnancy
+Risk factors
+Pregnant women who have recently spent time with someone with active TB disease, or who have a weaker immune system because of certain medications or health conditions such as diabetes, cancer, or HIV should be tested for TB infection, as they may have a higher risk of developing active TB disease once infected.
+Babies born to women with untreated active TB disease may have a lower birth weight than babies born to women without active TB disease. In rare cases, a baby may be born with TB. Babies may also be at risk for TB through close contact with a person with active TB disease.
+Pregnant women may have other risk factors for TB, including:
+Being born in or frequently traveling to countries where TB is common, including some countries in Asia, Africa, and Latin America
+Living in large group settings where TB is more common, such as homeless shelters, prisons, or jails
+Working in places where TB is more likely to spread, such as hospitals, homeless shelters, correctional facilities, and nursing homes
+Talk to your health care provider about your TB risk.
+Keep Reading
+Tuberculosis Risk Factors
+Testing and diagnosis
+Anyone, including pregnant women, with a positive test result for TB infection (TB blood test or TB skin test), symptoms of TB disease, or who have spent time with a person with active TB disease should receive a medical evaluation for TB.
+A medical evaluation for TB disease includes:
+Medical history
+Physical examination
+Test for TB infection (TB blood test or TB skin test)
+Chest x-ray
+Laboratory tests to see if TB germs are present (sputum smear and culture)
+Laboratory tests for drug resistance
+Testing for TB infection
+There are two types of tests for TB infection: the TB blood test and the TB skin test.
+The TB blood test is safe to use during pregnancy but has not been fully evaluated for diagnosing TB infection in pregnant women.
+The TB skin test is both safe and reliable to use throughout pregnancy.
+TB Blood Test
+TB blood tests (also called interferon-gamma release assays or IGRAs) use a blood sample to find out if someone is infected with TB germs. The tests measure how the immune system reacts when a small amount of blood is mixed with TB proteins.
+Tell your health care provider if you have received the TB vaccine (BCG vaccine). The TB vaccine can cause a false positive TB skin test reaction. Unlike the TB skin test, TB blood tests are not affected by the TB vaccine.
+TB Skin Test
+For the TB skin test, a health care provider uses a small needle to put some testing material under the skin. You will need to return to your health care provider in two to three days to see if there is a reaction.
+Understanding TB Blood Test or TB Skin Test Results
+A positive test result for TB infection means you have TB germs in your body. A health care provider will do other tests to determine if you have inactive TB or active TB disease. These tests may include a chest x-ray, and a test of the sputum (phlegm) you cough up.
+A negative test result for TB infection means inactive TB or active TB disease is unlikely, but your health care provider may do more tests, especially if:
+You have symptoms of active TB disease, like coughing, chest pain, fever, weight loss, or tiredness.
+You have HIV.
+You were recently exposed to TB germs.
+Chest x-ray
+Health care providers may use a chest x-ray to look for signs of TB disease of the lungs.
+Laboratory tests
+Your health care provider may collect samples from you. A common sample is a sputum (phlegm) specimen to test for TB of the lungs. Your health care provider may also collect a urine sample, take tissue samples, or do other tests. These tests can find TB germs that may be outside your lungs.
+The laboratory will do tests, such as a smear test and a culture test to see whether there are TB germs in your sample. If the laboratory finds TB germs in your sample, they will also do tests to see which TB medicines can kill the TB germs.
+Diagnosis
+Inactive TB
+If you have a positive TB blood test or TB skin test, but your health care provider does not find evidence of TB disease after a medical evaluation, you may be diagnosed with inactive TB.
+Active TB Disease
+If you have symptoms of TB disease, a positive TB blood test or TB skin test and your health care provider finds evidence of active TB disease during the medical evaluation, you may be diagnosed with active TB disease.
+Treatment and recovery
+Your health care provider will choose TB medicines that are recommended to use during pregnancy and monitor you and your baby during treatment for inactive TB or active TB disease. Tell your health care provider if you have any problems taking your medicine.
+Inactive TB treatment during pregnancy
+In most cases, women who are diagnosed with inactive TB during pregnancy can delay treatment for inactive TB until 2-3 months post-partum. If you have a high risk of developing TB disease once infected, your health care provider may recommend starting treatment for inactive TB right away.
+Active TB disease treatment during pregnancy
+Women who are diagnosed with active TB disease during pregnancy should start treatment right away. Although the TB medicines used in recommended treatment regimens cross the placenta, these medicines are not known to have harmful effects on the baby.
+Breastfeeding
+Rifampin, one of the medicines that health care providers can use to treat TB, can cause orange discoloration of body fluids, including breast milk. This is expected and harmless.
+For Health Care Providers
+Treatment for TB During Pregnancy

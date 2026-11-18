@@ -1,0 +1,53 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: About Ionizing Radiation
+URL: https://www.cdc.gov/radiation-health/about/ionizing-radiation.html
+────────────────────────────────────────────────────────────
+
+For Everyone
+Key points
+Ionizing radiation is a powerful form of energy with medical applications such as diagnostic testing.
+At high enough doses, it can alter your body's cells and DNA.
+Unlike some non-ionizing radiation, it can cause serious harm or cancer with enough exposure.
+Overview
+Radiation exists all around us and is in two forms: ionizing and non-ionizing radiation.
+Non-ionizing radiation is a form of radiation with less energy than ionizing radiation. Non-ionizing radiation does not remove electrons from atoms or molecules of materials that include air, water, and living tissue.
+Keep Reading
+About Non-Ionizing Radiation
+Ionizing radiation explained
+One form of ionizing radiation is electromagnetic waves. Some electromagnetic waves have enough energy and can remove electrons from atoms and molecules of materials. These materials include air, water, and living tissue. Electromagnetic wave radiation can travel unseen and pass through these materials. High energy, ionizing, electromagnetic waves are shown on the right side of the electromagnetic spectrum in the figure below.
+A familiar example of ionizing radiation is that of x-rays, which can penetrate our body and reveal pictures of our bones. We say that x-rays are "ionizing," meaning that they have the unique capability to remove electrons from atoms and molecules.
+Electrons are taken from the matter through which they pass. Ionizing activity can alter molecules within the cells of our body. That action may cause eventual harm (such as cancer). Intense exposures to ionizing radiation may produce visible skin or tissue damage.
+Keep Reading
+Facts About Imaging Procedures
+Other examples of ionizing radiation include alpha and beta particles, from radioactive decay. Neutrons cause "direct" and "indirect" reactions with matter. Neutrons ionize matter by colliding with the atomic nucleus or the electrons which orbit the nucleus.
+Types
+We are exposed to low levels of ionizing radiation every day.
+Sources of ionizing radiation fall into two categories: natural and manmade.
+Ionizing radiation from natural sources
+Ionizing radiation that comes from natural sources is typically at low levels. This means that the usual amount of ionizing radiation from natural sources absorbed by our bodies (dose) is small.
+Keep Reading
+About Health Effects of Radiation
+These low levels of exposure vary with location, altitude and type of building materials used in home construction. You may also be exposed to the radioactive gas radon if your house or building has a leaky foundation.
+In nature, sources of ionizing radiation include:
+Radiation from space (cosmic and solar radiation)
+Radiation from the earth (terrestrial radiation)
+Radon
+Radiation from building materials
+Ionizing radiation from manmade sources
+Every day, we use Ionizing radiation to help us live healthy lives. For example, ionizing radiation is found in smoke detectors and used to disinfect medical instruments and blood. It is also a byproduct of nuclear power generation.
+Our main exposure to ionizing radiation in manmade sources is through the use of diagnostic medical exams.
+Medical exams that use ionizing radiation include:
+X-rays
+CT or CAT (computed tomography) scans
+PET (positron emission tomography) scans
+Fluoroscopy
+Nuclear medicine procedures
+Risk of exposure to ionizing radiation
+Ionizing radiation can penetrate the human body and the radiation energy can be absorbed in tissue. This has the potential to cause harmful effects to people, especially at high levels of exposure.
+Natural sources
+Natural sources of ionizing radiation usually release ionizing radiation at low levels. This means the amounts of radiation absorbed by our bodies (doses) is usually small. Natural sources of ionizing radiation include radioactive elements that are naturally in our body. For example, a very small fraction of the potassium in our bodies is radioactive.
+Radon, however, is a natural radioactive gas found in rock formations. Radon can release higher levels of radiation that can pose health risks. It is the second leading cause of lung cancer in the United States. The levels of radon in your home or building depend on a variety of factors. You can test your home or building to determine whether you are at risk of high levels of radon exposure.
+Manmade sources
+Medical diagnostic exams are the main manmade source of ionizing radiation exposure in the United States. The goal of medical diagnostic imaging is for the benefits to far outweigh the risks.
+You can track the number and type of these medical diagnostic exams that you receive on a regular basis. By tracking your diagnostic exams, you can share your history with your medical provider.
+Consult with your health care professional on how an exam will help. There may be another test that does not contain ionizing radiation may provide the same benefit. Magnetic Resonance Imaging (MRIs) and ultrasound technology are examples of diagnostic exams that do not involve exposure to ionizing radiation.

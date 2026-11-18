@@ -1,0 +1,28 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: What Causes Acute Flaccid Myelitis
+URL: https://www.cdc.gov/acute-flaccid-myelitis/causes/index.html
+────────────────────────────────────────────────────────────
+
+Español
+Key points
+AFM can be caused by viruses, including enteroviruses.
+AFM can also be caused by other viruses, including flaviviruses (West Nile virus, Japanese encephalitis virus), herpesviruses, and adenoviruses.
+Causes
+CDC has been tracking AFM since 2014 when the United States recorded the first increase in AFM cases. Two more increases were observed in 2016 and 2018. These spikes in cases are thought to be caused by enterovirus D68 (EV-D68).
+AFM can also be caused by other viruses, including flaviviruses (West Nile virus, Japanese encephalitis virus), herpesviruses, and adenoviruses.
+What we know
+Most patients developed AFM between August and November.
+At this same time of year, many viruses, including enteroviruses, commonly spread in the U.S.
+Respiratory symptoms and fever from viral infections (such as with enteroviruses) are common, especially in children, and most people recover.
+The increase in 2014 coincided with a national outbreak of severe respiratory illness caused by EV-D68, and increased circulation of EV-D68 was observed in 2016 and 2018.
+EV-D68 was the most common virus detected in specimens from patients with AFM, usually in respiratory specimens.
+AFM patients had antibodies against enteroviruses in their spinal fluid more often than those without AFM. Having antibodies against a virus means that a person was previously infected with that virus.
+Laboratory findings in AFM cases
+CDC tested specimens from AFM patients for various viruses and other pathogens (germs).
+We have found coxsackievirus A16, EV-A71, and EV-D68 in the spinal fluid of a small number of patients with AFM. For all other patients, we didn't find any pathogens in their spinal fluid to confirm a cause. This could be because their body has cleared the pathogen, or the pathogen is hiding in tissues in a way that makes it difficult to detect.
+AFM looks a lot like polio, so we also test stool specimens from AFM patients for poliovirus. If poliovirus is detected, it is considered a case of polio, not a case of AFM.
+What we're still learning
+CDC and partners are continuing to investigate how AFM develops and why a small number of people develop AFM after getting a virus infection.
+How does the virus infect motor neurons in the spinal cord (nerves that make the muscles move)?
+Do the inflammation and immune response caused by the virus further damage the motor neurons?
+Do some people have certain genetic factors that make them more susceptible to the virus than others?

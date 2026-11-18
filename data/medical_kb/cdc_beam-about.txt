@@ -1,0 +1,21 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: About BEAM
+URL: https://www.cdc.gov/beam/about/index.html
+────────────────────────────────────────────────────────────
+
+Feb. 26, 2026
+What to know
+The BEAM (Bacteria, Enterics, Ameba, and Mycotics) Dashboard provides data on enteric bacterial, viral, and parasitic agents, and other foodborne, waterborne, and fungal diseases.
+BEAM pulls data from multiple sources.
+BEAM provides the public, academia, industry, public health partners and regulatory agencies with timely data on pathogen trends and serotype details.
+Overview
+The BEAM (Bacteria, Enterics, Ameba, and Mycotics) Dashboard is an interactive tool to access and visualize data from the System for Enteric Disease Response, Investigation, and Coordination (SEDRIC) and the National Outbreak Reporting System (NORS).
+CDC uses SEDRIC to coordinate surveillance and response to disease outbreaks linked to food or animal contact, including data integration. The NORS View allows users to search and access data from reports of foodborne and waterborne disease outbreaks and enteric (intestinal) disease outbreaks spread by contact with environmental sources, infected people or animals, and other means.
+Other tabs in the BEAM dashboard focus on data for Salmonella, Shiga toxin-producing E. coli (STEC), Shigella and Campylobacter bacteria isolated from human specimens, such as stool or blood. This does include some antimicrobial resistance data.
+Access the Dashboard
+See the dashboard and download data.
+Data sources
+SEDRIC integrates data from multiple sources, including PulseNet, the National Antimicrobial Resistance Monitoring System for Enteric Bacteria (NARMS), the National Outbreak Reporting System (NORS), and Epi Info, as well as investigation data from epidemiologists, environmental health partners, and state and federal regulatory agencies. The current dashboard uses PulseNet and NORS data, and we will integrate other data sources in upcoming versions.
+How to use this information
+This information provides the public, academia, industry, public health partners and regulatory agencies with timely data on pathogen trends and serotype details to inform work to prevent illnesses from food and water and all enteric illnesses from food, animal contact, water, person-to-person transmission, and the environment.
+The dashboard also includes automated analytics describing Salmonella outbreak data for chicken, beef, pork, and turkey, and it will include other food categories soon. Markedly reducing infections caused by Salmonella has been a goal of the U.S. Department of Health and Human Services for decades. However, little progress has been made toward this goal during the past 25 years. Many Salmonella serotypes (types) make people sick. CDC has identified some concerning serotypes causing single-state and multistate outbreaks and is sharing data to inform partners and guide efforts on preventing infection by these types of Salmonella. Although most foodborne illnesses are not part of a recognized outbreak, outbreaks provide important information on the sources of illness, including the foods responsible.

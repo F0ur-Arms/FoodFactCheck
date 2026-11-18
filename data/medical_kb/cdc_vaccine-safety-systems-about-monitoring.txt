@@ -1,0 +1,36 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: How Vaccine Safety Monitoring Works
+URL: https://www.cdc.gov/vaccine-safety-systems/about/monitoring.html
+────────────────────────────────────────────────────────────
+
+At a glance
+Vaccinations are one of the greatest achievements of science and public health. They have contributed to dramatic declines in vaccine-preventable diseases (diseases that vaccines can help prevent or lessen).
+CDC, FDA, other agencies and researchers closely monitor the safety of vaccines in the United States through ongoing analysis of data, early detection of potential safety concerns and prompt public health action if needed.
+Vaccines undergo thorough testing in laboratories and in humans before the FDA approves them for public use.
+Overview
+Vaccinations are one of the greatest success stories in public health. Because of vaccines, smallpox no longer exists outside of laboratories, and polio only occurs in the United States when imported from other countries. Diseases like diphtheria and tetanus were once common before vaccination. Because of safe, widely used vaccines, the number of people who experience the devastating effects of vaccine-preventable diseases like measles, diphtheria and whooping cough is at an all-time low.
+To ensure the continued safety of the U.S. vaccination program, it is important to carefully assess the balance of benefits and risks of vaccination. Vaccines, like any medical product, can have side effects. For example, severe allergic reactions, though rare, can occur after vaccination. CDC monitors for a range of side effects after vaccination and acts quickly to notify the public of new findings or, in some cases, to remove a product from the market when needed.
+Fact‎
+Ultimately, the benefits of vaccination outweigh the risks.
+Importance and impact of safety monitoring
+After new vaccines are approved for public use, scientists continue to analyze data about their safety. This helps find and evaluate potential safety concerns as soon as possible.
+Vaccine safety scientists look for unusual or unexpected patterns of reports of possible health problems called "adverse events." These could be a side effect that is related to the vaccine, or a coincidental event that happened following vaccination. If there is evidence of a potential safety concern, CDC and FDA conduct an assessment to evaluate for safety risks and take public health action if necessary.
+In the last decades, changes in vaccine production and administration as a result of strong vaccine safety monitoring systems have reduced the number of side effects following vaccination and have resulted in safer vaccines.
+How it works
+Before FDA licenses vaccines, researchers test them extensively.
+Keep Reading:
+How Vaccines are Developed and Approved for Use
+CDC then monitors the safety of vaccines through four different systems that work together.
+Keep Reading:
+About CDC’s Vaccine Safety Monitoring Program
+What is CDC doing
+CDC partners with other federal, state, and local agencies; private entities; and other stakeholders to achieve the following:
+Assess vaccine safety.
+Conduct studies that help determine whether a health problem is caused by a specific vaccine.
+Identify health problems possibly related to vaccines.
+Communicate the benefits and risks of vaccines.
+Determine the appropriate public health response to vaccine safety concerns.
+Keep Reading:
+About CDC’s Vaccine Safety Monitoring Program
+Fact‎
+Vaccines remain the most effective tool we possess for preventing disease and improving public health in the future.

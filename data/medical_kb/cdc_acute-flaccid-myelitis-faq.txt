@@ -1,0 +1,39 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Frequently Asked Questions
+URL: https://www.cdc.gov/acute-flaccid-myelitis/faq/index.html
+────────────────────────────────────────────────────────────
+
+Key points
+Acute flaccid myelitis (AFM) is an uncommon but serious neurologic condition.
+Sudden onset of arm or leg weakness, loss of muscle tone, and loss of reflexes are the most common symptoms.
+Get answers to frequently asked questions about acute flaccid myelitis (AFM).
+What can I do if I suspect acute flaccid myelitis (AFM)?
+Seek medical care immediately if you or your child develop any of these symptoms: weakness or loss of muscle tone or reflexes in the arms or legs, facial droop or weakness, difficulty moving the eyes, drooping eyelids, difficulty with swallowing, or slurred speech.
+If a doctor suspects someone has AFM, they should be hospitalized immediately. AFM can worsen rapidly and weaken the muscles used for breathing. The patient might need extra support (like a ventilator) to help them breathe.
+How is AFM different from polio?
+Poliomyelitis is the term used to describe the syndrome of acute flaccid limb weakness and lesions in the grey matter of the spinal cord. Poliomyelitis caused by poliovirus, or polio, rarely occurs in the United States.
+In 2014, the term AFM was adopted to describe poliomyelitis without a known cause and not caused by poliovirus. AFM has some similarities with polio, such as the lesions in the grey matter of the spinal cord and flaccid limb weakness that can result in paralysis. Polio can be prevented by a vaccine.
+Stool specimens that we receive from AFM patients are tested for poliovirus. If poliovirus is detected, it is considered a case of polio, not a case of AFM. We continue to test all specimens from AFM patients to look for viruses, including poliovirus and non-polio enteroviruses.
+Is there a link between vaccinations and AFM?
+We have found no evidence to suggest that vaccinations cause AFM. In 2018, AFM occurred in children who had received vaccines, and also in children who had received no vaccines. Among the AFM patients reviewed in 2018, about 85% had no recorded vaccinations in the 30 days prior to the beginning of their limb weakness. We continue to review the medical history of all reported patients, including past vaccinations, as part of our work.
+Has anyone died from AFM?
+Two patients with confirmed AFM died soon after developing AFM, one in 2017 and one in 2020. We have also learned of deaths in cases confirmed in previous years.
+CDC is gathering information on deaths reported to us from health departments. We are also gathering information as part of our patient outcome data collection. We ask that health departments send information about every death of a person with AFM to CDC.
+Why was there no outbreak of AFM in 2020?
+There have been increases in AFM cases in 2014, 2016, and 2018 across the U.S. Because of this, we anticipated an increase in AFM cases in 2020, but it did not happen. It is likely that prevention measures during the COVID-19 pandemic, such as social distancing, mask wearing, and increased hand washing, reduced the circulation of enteroviruses that can cause AFM. We saw a decrease in other respiratory viruses, such as respiratory syncytial virus and influenza, during 2020 as well.
+It is unclear if we will see another increase in AFM cases and we continue to monitor and evaluate all reported AFM cases closely as part of national surveillance.
+How are AFM cases reported to CDC?
+AFM is not nationally notifiable, but all jurisdictions have some type of requirement for clinicians to report patients under investigation (PUIs) for AFM based on surveillance case definitions, which are developed by CDC and CSTE. Some jurisdictions have made AFM reportable, some require reporting of acute onset of flaccid paralysis without other apparent cause, and some require reporting of new or emerging conditions of public health importance, like AFM.
+Health departments require healthcare providers to report suspected AFM cases. The steps for reporting to CDC are:
+The health department works with healthcare providers to collect medical information and spinal cord MRI images.
+The health department then sends this information to CDC.
+Once we receive a report from the health department, the patient summary form and spinal cord images are reviewed by experts and given a case classification based on the AFM surveillance case definition.
+Once we've made a final case classification, we send that information to the health department who then shares with the clinician, and the clinician shares it with the patient and their family. Clinicians should not wait for CDC's case classification to diagnose or treat their patient.
+Keep Reading:
+FAQ for Clinicians and Health Departments
+How can a patient or their family get information about the case classification?
+To protect patient privacy, CDC does not receive patient information such as names, so we are not able to tell whether a specific patient's records have been sent to us. We encourage patients or family members to reach out to their state health department with questions about their child's case classification. If unable to reach the health department, please email AFMQuestions@cdc.gov and we can help facilitate connection.
+How do case definitions help us understand AFM?
+Similar to other diseases, case definitions for AFM have specific criteria that we use to classify patients' cases as being a confirmed, probable, or suspect case of this illness. If a patient's case does not meet these criteria, it is classified as "not a case" of AFM.
+By focusing on patients with the most similar symptoms (confirmed cases), we can better compare them to understand possible risk factors for and causes of AFM. Even though some patients' cases might not meet the case definitions, the information provided about their case still helps us understand the full spectrum of the illness.
+As we learn more about AFM, we will work with our partners to refine the case definitions. The case classifications are not the same as a diagnosis from a doctor and should not change treatment or patient care.

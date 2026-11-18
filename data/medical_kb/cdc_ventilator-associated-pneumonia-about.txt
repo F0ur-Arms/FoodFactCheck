@@ -1,0 +1,26 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Ventilator-associated Pneumonia Basics
+URL: https://www.cdc.gov/ventilator-associated-pneumonia/about/index.html
+────────────────────────────────────────────────────────────
+
+Key points
+Ventilator-associated pneumonia (VAP) can develop when a patient is on a ventilator.
+VAP can be treated with antibiotics.
+There are ways to reduce the risk of a patient contracting VAP.
+Overview
+Ventilator-associated pneumonia (VAP) is a type of healthcare-associated infection (HAI). It is a lung infection that develops in a person who is on a ventilator.
+Causes
+VAP happens when bacteria get into a patient's lungs and cause an infection.
+Reducing risk
+Quit smoking. Patients who smoke get more infections. Seek information about how to quit before surgery.
+Ask healthcare providers to clean their hands before touching the patient or equipment.
+Ask about raising the head of the bed.
+Ask when the patient can try breathing without a ventilator.
+Ask how often healthcare providers clean the patient's mouth.
+Healthcare providers should always follow Core Infection Prevention and Control Practices to reduce the risk of spreading these germs to patients. Acute care hospitals should use strategies to prevent VAP.
+Treatment and recovery
+Treatment generally includes antibiotics, but the type of antibiotic depends on the bacteria causing the infection. The healthcare provider will decide which antibiotic is best.
+What CDC is doing
+Tracking VAP infections through the National Healthcare Safety Network.
+Data is also available on the AR & Patient Safety Portal.
+Working closely with health departments, other federal agencies, healthcare providers and patients to prevent infections caused by VAP and slow the spread of resistant germs.

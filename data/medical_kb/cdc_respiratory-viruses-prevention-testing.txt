@@ -1,0 +1,28 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Testing and Respiratory Viruses
+URL: https://www.cdc.gov/respiratory-viruses/prevention/testing.html
+────────────────────────────────────────────────────────────
+
+Aug. 18, 2025
+Languages
+Español
+What to know
+Testing for respiratory viruses when you feel sick can help guide decisions to further protect yourself and others.
+Testing may be most helpful if you are at higher risk for getting very sick, so you can seek healthcare quickly and start treatment, if apporpriate.
+An additional strategy to further protect yourself and others
+Testing for respiratory viruses can help you decide what to do next, like getting treatment to reduce your risk of severe illness and taking steps to lower your chances of spreading a virus to others. There are several types of tests for respiratory virus infections.
+Antigen tests for flu and COVID-19 infections detect parts of the virus (antigens) that stimulate an immune response and usually return results quickly (around 15-30 minutes). Self-tests, or at-home tests, are often antigen tests that can be taken anywhere without having to go to a specific testing site.
+Nucleic acid amplification tests (NAATs or "molecular tests"), which include polymerase chain reaction (PCR) tests, detect actual genetic material of the virus. For these tests, samples are usually taken by a healthcare provider and transported to a laboratory. Some NAATs may be performed at the point-of-care and provide results more quickly. Although most antigen tests are usually faster, they are often not as sensitive as NAATs. This means that you might get a negative result with an antigen test, but actually be infected with the virus, especially during seasons when respiratory viruses are circulating at high levels.
+At-home multiplex tests for COVID-19 and flu are also available. A multiplex test is a single test that can detect multiple viruses. Molecular multiplex self-tests are preferred over antigen self-tests.
+How it works
+Testing can help you find out if you are infected with a certain respiratory virus. While testing doesn't change how likely you are to catch or spread respiratory viruses, or how severe your illness might be, it can provide useful information to help you make choices about treatment and take actions to reduce the spread. Molecular testing, such as NAATs, is recommended for patients with symptoms who are suspected of having a respiratory illness like flu and/or COVID-19 to help start timely treatment, if indicated.
+Steps you can take
+Make a plan for getting tested or seeking healthcare quickly if you become sick, especially if you are at higher risk for severe outcomes and could benefit from treatment for respiratory viruses.
+Rapid tests can be used for screening before gathering with others, especially to help protect people in your life who have risk factors for severe illness.
+Steps organizations can take
+Provide employees with paid time off to seek testing for respiratory viruses, as needed.
+Key times for prevention
+All of the prevention strategies can be helpful to reduce risk. Additional measures, like testing, are especially helpful when:
+Respiratory viruses are causing a lot of illness in your community.
+You or the people around you were recently exposed to a respiratory virus, are sick, or are recovering.
+You or the people around you have risk factors for severe illness.

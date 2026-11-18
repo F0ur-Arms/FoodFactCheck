@@ -1,0 +1,39 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: About Body Mass Index (BMI)
+URL: https://www.cdc.gov/bmi/about/index.html
+────────────────────────────────────────────────────────────
+
+Dec. 16, 2025
+Español
+Key points
+BMI is a measure of weight relative to height.
+BMI is a quick, low-cost, and reliable screening measure for underweight, overweight, or obesity.
+BMI is a valuable population health measure used worldwide.
+For individuals, BMI should be considered with other factors, such as blood pressure, cholesterol levels, and physical examination.
+BMI as a measure
+BMI is a calculated measure of a person's body weight (in kilograms) divided by the square of their height (in meters).
+BMI = weight (kg) / height (m)2
+Although BMI does not directly measure body fat, BMI is moderately to strongly associated with other measures that capture the amount, location, and distribution of body fat. One measure is called dual-energy X-ray absorptiometry (or DEXA). It precisely measures body composition. However, DEXA scans are expensive and not widely available.
+Compared to direct measures of body fat, BMI is:
+Quick and simple to calculate.
+Inexpensive.
+Noninvasive.
+Easily collected during routine health care visits.
+BMI does not distinguish between fat, muscle, and bone mass. These all influence a person's weight. BMI does not indicate what types of fat people have. BMI also does not indicate where in the body that people carry fat.
+BMI for screening
+BMI is a quick, safe, and reliable screening measure to assess a person's weight relative to their height. BMIs are often grouped into categories. Some BMI categories are associated with health problems. For example, a BMI in the obesity category often indicates excess weight for height. Too much weight can increase risk for high blood pressure, high cholesterol, and other chronic conditions.
+Routine BMI tracking over time is useful. The tracking can be used to detect weight loss or weight gain and monitor risk for health problems related to weight. For children starting at 2, the American Academy of Pediatrics Bright Futures recommends annual BMI assessment using CDC's growth charts. This assessment is critical for monitoring growth and development in children and dosing medications.
+BMI for population health
+BMI is a well-established and valuable population health measure. It has been used worldwide for decades to assess trends and make comparisons across time, geographic areas, and groups of people. BMI data help states, localities, and public health entities make decisions to improve the health of populations.
+For example, CDC's Adult Obesity Maps are based on BMI data. These maps show the rate of obesity by U.S. state or territory and by race/ethnicity.
+CDC also analyzes BMI data for young children enrolled in the Special Supplemental Nutrition Program for Women, Infants, and Children (WIC). This information is useful to understand how obesity numbers vary by demographic groups and track changes over time.
+BMI for individual health
+BMI is one measure that an individual and their health care provider can use to help determine chronic disease risk. For a more complete picture of an individual's health, consider BMI with other factors:
+Medical history, such as existing health conditions and family history.
+Health behaviors, such as diet, physical activity, and sleep.
+Physical exam findings, such as blood pressure and muscle mass.
+Laboratory findings, such as glucose and cholesterol levels.
+BMI calculators
+For adults aged 20 years and older, use CDC's Adult BMI Calculator to calculate BMI and the corresponding BMI category.
+For children and teens aged 2 through 19 years, use CDC's Child and Teen BMI Calculator. The tool calculates BMI, BMI percentile, and BMI category. In addition, the calculator plots BMI percentile on CDC's growth charts.
+CDC also has computer programs for researchers and others who analyze children's growth data.

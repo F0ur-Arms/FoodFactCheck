@@ -1,0 +1,78 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: About Bovine Tuberculosis in Humans
+URL: https://www.cdc.gov/tb/about/m-bovis.html
+────────────────────────────────────────────────────────────
+
+Key points
+In the United States, most tuberculosis (TB) disease cases in people are caused by germs called Mycobacterium tuberculosis.
+Mycobacterium bovis (M. bovis) is another type of germ that causes TB disease in people.
+M. bovis is most commonly found in cattle and animals such as bison, elk, and deer.
+Overview
+M. bovis is most commonly found in cattle and other animals such as bison, elk, and deer. In people, M. bovis causes TB disease that can affect the lungs, lymph nodes, and other parts of the body.
+However, as with M. tuberculosis, not everyone infected with M. bovis becomes sick.
+Inactive TB
+TB germs can live in the body without making you sick. This is called inactive TB, or latent TB infection. People with inactive TB are infected with TB germs, but they do not have active TB disease. They do not feel sick, do not have any symptoms of active TB disease, and cannot spread TB to others.
+Without treatment, people with inactive TB can develop active TB disease at any time and become sick.
+Active TB Disease
+TB germs become active if the immune system can't stop them from growing. When TB germs are active (multiplying in your body), this is called active TB disease. People with active TB disease feel sick. They may also be able to spread the germs to people they spend time with every day. Without treatment, active TB disease can be fatal.
+Symptoms
+Symptoms of TB disease caused by M. bovis are similar to the symptoms of TB disease caused by M. tuberculosis. Symptoms can include:
+Cough,
+Fever,
+Night sweats, and
+Weight loss
+Other symptoms might occur depending on the part of the body affected by the disease.
+Exposure risks
+Unpasteurized dairy products
+People are most commonly infected with M. bovis by eating or drinking contaminated, unpasteurized dairy products.
+The pasteurization process destroys disease-causing organisms in milk by rapidly heating and then cooling the milk. This process eliminates M. bovis from milk products.
+Wild bison or cervid (deer, elk, or similar animals)
+Infection can also occur from direct contact with a wound, such as what might occur during slaughter or hunting, or by inhaling the bacteria in air exhaled by animals infected with M. bovis.
+People at risk for contact with body fluids or tissue from a wild bison or cervid (for example, deer or elk) into a wound, such as hunters, should promptly seek medical attention and tell their health care providers about the exposure to a wild animal that might carry M. bovis.
+Cattle
+People who spend extended periods in close contact with cattle or other animals that might carry M. bovis, such as dairy workers, should promptly seek medical attention if they have symptoms of TB disease and tell their health care providers they work in close contact with animals.
+People with TB disease caused by M. bovis
+M. bovis can be spread directly from person to person through the air when people with the disease in their lungs cough, speaks, or sings.
+People at risk
+Most people are at very low risk for being infected with M. bovis.
+People who might be at higher risk of M. bovis infection should talk to their health care providers about whether they should be regularly tested for TB infection with a TB blood test or TB skin test.
+People at higher risk include:
+People who work with
+Cattle, bison, or cervids (e.g., deer or elk), or
+Products from these animals such as hides, milk, or meat.
+People in occupations or hobbies that may have increased risk, including
+Ranching,
+Dairy farming,
+Working in a slaughterhouse or as a butcher, or
+Hunting.
+Reducing risk
+Do not consume unpasteurized dairy products.
+Check the label and ingredients of dairy products to make sure the word "pasteurized" is listed.
+Use caution when purchasing homemade dairy products such as
+cheeses or
+products that are sold without complete labeling of the ingredients.
+Seek medical attention if you think you have been exposed to M. bovis, especially if you have symptoms of TB disease.
+Quick facts
+M. bovis causes less than 2% of the total number of cases of TB disease in the United States.
+M. bovis transmission from cattle to people was once common in the United States. Thanks to over a century of disease control in cattle and routine pasteurization of cow's milk, this is much less common.
+Testing
+There are two types of tests that can find TB germs:
+TB blood test
+The TB blood test is also called an interferon-gamma release assay or IGRA. The TB blood test measures how your immune system reacts to the germs that cause TB.
+If you have ever received a vaccine for TB, your health care provider will recommend the TB blood test. Unlike the TB skin test, TB blood tests are not affected by the TB vaccine (BCG vaccine).
+TB skin test
+For the TB skin test, a health care provider uses a small needle to put some testing material under the skin. You will need to return to your health care provider in two to three days to see if there is a reaction.
+If your TB blood test or skin test is positive
+You have TB germs in your body. Your health care provider will do other tests to determine if you have inactive TB or active TB disease.
+These tests may include a chest x-ray, and a test of the sputum (phlegm) you cough up.
+Keep Reading:
+Testing for Tuberculosis
+Treatment and recovery
+Inactive TB or TB disease caused by M. bovis is treated similarly to inactive TB or TB disease caused by M. tuberculosis. In fact, health care providers might not know that a person's TB disease is caused by M. bovis instead of M. tuberculosis.
+M. bovis is usually resistant to pyrazinamide, one of the medicines used to treat active TB disease. However, resistance to just pyrazinamide does not usually cause problems with treatment for TB disease, because TB disease is treated with a combination of several different medicines.
+Keep Reading:
+Treating Tuberculosis
+How animals are affected
+The Cooperative State-Federal Tuberculosis Eradication Program, including the U.S. Department of Agriculture, state animal health agencies, and U.S. livestock producers, has nearly eliminated M. bovis infection from cattle in the United States. Inspectors test more than one million animals a year for TB and have taken steps to eradicate the disease.
+However, M. bovis can be found in wild animals such as bison, elk, and deer. Uninfected cattle that come into contact with these wild animals can become infected.
+Cattle and products from cattle outside the United States, particularly in developing countries, might not have the same level of inspection for M. bovis infection or contamination, respectively. Be cautious when consuming imported dairy products and ensure that the products have been properly pasteurized.

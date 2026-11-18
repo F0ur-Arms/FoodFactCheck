@@ -1,0 +1,23 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Genetic Testing
+URL: https://www.cdc.gov/hearing-loss-children-guide/parents-guide-genetics/about-genetic-testing.html
+────────────────────────────────────────────────────────────
+
+At a glance
+Genetic testing for hearing loss has benefits, risks, and some limitations. Continue reading to find out more.
+About genetic testing
+One type of genetic test involves looking at a person's DNA to see if certain changes are present that are known to cause hearing loss. A person's DNA sample can be obtained from different sources: (1) a small sample of a person's blood, or (2) cheek cells from a person's mouth using a cheek swab or from saliva. The DNA obtained from this method is sometimes unstable and might not be usable. Therefore, blood samples are the preferred source.
+How is DNA tested?‎
+Once a person's DNA sample is obtained, there are different ways to look for gene changes. In the past, tests would look at one gene at a time. If the gene change has been found in the family before, then this very specific test can focus only on that change.
+Technological advances now allow scientists to read the DNA sequence of multiple genes as part of a single genetic test. This test is called a multigene sequencing panel. Only a small amount of blood is needed for this and it usually takes a few weeks to get the results. Multigene sequencing panels for hearing loss can contain hundreds of genes known to cause dominant, recessive, X-linked, and mitochondrial hearing loss, along with genes that might cause hearing loss.
+Because all the genes related to hearing loss are not yet known and because many different genes may work together in different combinations to cause a certain child's hearing loss, the results of genetic testing may not provide all the answers.
+What are the benefits of genetic testing?
+If a gene change is found, it might explain why the person has a condition, such as hearing loss. In some cases, knowing what the gene change is will enable doctors to predict how severe the condition might become and what other symptoms might be expected. Then, the person can get any other medical care that might be needed. Also, knowing the cause of a person’s condition will let him or her know what the chances are of passing the condition on to his or her children. It can also let other family members know the chances that they might have a child with the same condition.
+What are the risks of genetic testing?
+Some people have strong feelings when they get the results of a genetic test. Some people feel angry, sad, or guilty if they find out that they or their child has a change in their genes. It is important to remember that everyone carries gene changes of some kind, and that a person's DNA sequence is no one's "fault."
+Genetic tests are different from other medical tests in that the results provide information about other members of the family, and not just the person being tested. Some family members do not want to know that a gene or DNA change runs in their family. Also, because children get their genes from their parents, genetic tests that involve several family members can reveal personal information, such as a child having been adopted or having a different biological father.
+Sometimes, people are concerned about keeping the results of their medically related genetic tests private. For example, they do not want their friends, relatives, or coworkers to find out. Companies that offer genetic testing are very careful to make sure that test results are kept private. Test results ordered by a health provider in the United States cannot be seen by anyone who is not involved in the testing unless the person tested or his or her parents or guardians give permission.
+What are some limits of genetic testing?
+Not all of the genes that cause hearing loss are known. So, even if a condition runs in a family, it might not be possible to find the gene change that causes it.
+Some tests are hard to do. For example, the gene doesn't sequence well, or the test does not cover all the regions where the DNA sequence can change.
+Sometimes, it is not possible to tell if a change in the DNA is the cause of a condition or just a coincidence.

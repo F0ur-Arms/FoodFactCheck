@@ -1,0 +1,117 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Tuberculosis in Children
+URL: https://www.cdc.gov/tb/about/children.html
+────────────────────────────────────────────────────────────
+
+Key points
+There are special considerations for testing and treating inactive TB (also known as latent TB infection) and active TB disease in children.
+Once infected with tuberculosis (TB) germs, children, especially children younger than 5 years of age, are more likely to get sick with active TB disease.
+Overview
+Tuberculosis (TB) is caused by a bacterium (or germ) called Mycobacterium tuberculosis.
+TB usually affects the lungs. TB can also affect other parts of the body, such as the brain, the kidneys, or the spine. TB can also affect multiple parts of the body at the same time. For example, TB can affect both the lungs and lymph nodes.
+Not everyone infected with TB germs becomes sick. As a result, two TB-related conditions exist: inactive TB (or latent TB infection) and active TB disease.
+Inactive TB
+TB germs can live in the body without making you sick. This is called inactive TB, or latent TB infection. Children with inactive TB are infected with TB germs, but they do not have active TB disease.
+They do not feel sick, do not have any symptoms of TB disease, and cannot spread TB to others.
+Children diagnosed with inactive TB can take medicine to prevent the development of TB disease.
+Keep Reading:
+About Inactive Tuberculosis
+Active TB disease
+TB germs become active if the immune system can't stop them from growing. When TB germs are active (multiplying in your body), this is called active TB disease. Children with active TB disease feel sick. They may also be able to spread the germs to people they spend time with every day.
+Keep Reading:
+About Active Tuberculosis Disease
+Once infected with TB germs, children, especially children younger than 5 years of age, are more likely to get sick with active TB disease and to get sick more quickly than adults.
+Infants and young children are more likely than older children and adults to develop severe forms of TB disease [such as TB disease of the brain (TB meningitis) or miliary TB disease (TB disease in multiple parts of the body)].
+Without treatment, TB disease can be fatal. Children diagnosed with active TB disease can take medicine to treat the disease.
+Symptoms
+Symptoms of active TB disease in children include:
+Cough
+Feelings of sickness or weakness, lethargy, or reduced playfulness
+Weight loss or failure to thrive
+Fever
+Night sweats
+The most common form of TB disease occurs in the lungs, but TB disease can affect other parts of the body as well. Symptoms of TB disease in other parts of the body depend on the area affected. For example, TB disease of the brain (also known as TB meningitis) can cause symptoms such as sleepiness, headache, irritability, and seizures or convulsions.
+Keep Reading:
+Signs and Symptoms of Tuberculosis
+Risk factors
+Anyone can get TB. Because of their age, infants and young children with inactive TB have been infected with TB germs recently and are at higher risk for developing active TB disease.
+Children also have a higher risk for TB if they:
+Live with family members or other adults who have risk factors for TB
+Were born in or frequently travel to countries where TB is common, including some countries in Asia, Africa, and Latin America
+Live or used to live in large group settings where TB is more common, such as homeless shelters, prisons, or jails
+Recently spent time with someone who has active TB disease
+Have a weaker immune system because of certain medications or health conditions such as diabetes, cancer, and HIV
+Keep Reading:
+Tuberculosis Risk Factors
+How it spreads
+TB is spread through the air from one person to another. The TB germs are put into the air when a person with active TB disease of the lungs or throat coughs, speaks, or sings.
+These germs can stay in the air for several hours, depending on the environment. TB germs are more likely to spread in indoor areas or other places with poor air circulation (such as a closed vehicle) than in outdoor areas. Children who breathe in the air become infected with TB.
+Young children are less likely to spread TB germs to others. Health care providers and public health workers will help decide if someone who has been around a child with active TB disease should get tested for TB.
+Keep Reading:
+Tuberculosis: Causes and How It Spreads
+Prevention
+Children diagnosed with inactive TB can take medicine that can help prevent active TB disease from developing.
+Keep Reading:
+Preventing Tuberculosis
+Quick facts
+In 2023, there were 466 cases of TB disease (4.8% of all U.S. TB cases) among children aged 14 years or younger in the United States.
+Testing and diagnosis
+All children with a positive test result for TB infection (TB blood test or TB skin test), symptoms of TB disease, or who have spent time with a person with active TB disease should receive a medical evaluation for TB.
+A medical evaluation for TB disease includes:
+Medical history
+Physical examination
+Test for TB infection (TB blood test or TB skin test)
+Chest x-ray
+Laboratory tests to see if TB germs are present (sputum smear and culture)
+Laboratory tests for drug resistance
+Testing for TB infection
+There are two types of tests for TB infection: the TB blood test and the TB skin test.
+Current CDC guidelines recommend the TB skin test as the method of testing for children younger than 5 years of age, while noting that some experts use TB blood tests in younger children. Health care providers may choose to consult the American Academy of Pediatrics (AAP) guidance on the use of TB blood tests in children.
+TB Blood Test
+TB blood tests (also called interferon-gamma release assays or IGRAs) use a blood sample to find out if someone is infected with TB germs. The tests measure how the immune system reacts when a small amount of blood is mixed with TB proteins.
+If a child is 5 years of age or older and has ever received a vaccine for TB, their health care provider should recommend the TB blood test. Unlike the TB skin test, TB blood tests are not affected by the TB vaccine (BCG vaccine).
+TB Skin Test
+For the TB skin test, a health care provider uses a small needle to put some testing material under the skin. The child will need to return to their health care provider in two to three days to see if there is a reaction.
+Understanding TB Blood Test or TB Skin Test Results
+A positive test result for TB infection means a child has TB germs in their body. A health care provider will do other tests to determine if a child has inactive TB or active TB disease. These tests may include a chest x-ray, and a test of the sputum (phlegm) a child coughs up.
+A negative test result for TB infection means inactive TB or active TB disease is unlikely, but a health care provider may do more tests, especially if a child:
+Has symptoms of active TB disease, like coughing, chest pain, fever, weight loss, or tiredness.
+Has HIV.
+Was recently exposed to TB germs.
+A negative test result for TB infection does not exclude TB infection, and if TB disease is a possibility, health care providers should proceed with medical evaluation for TB disease.
+Chest x-ray
+Health care providers may use a chest x-ray to look for signs of TB disease in a child's lungs.
+Laboratory tests
+A health care provider may collect samples from a child. A common sample is a sputum (phlegm) specimen to test for TB of the lungs.
+Children may be unable to cough up sputum. A health care provider can insert a tube through the mouth or nose and into the stomach to get sputum to test. This procedure is called a gastric aspiration.
+Health care providers may also collect a urine sample, take tissue samples, or do other tests. These tests can find TB germs that may be outside the lungs.
+The laboratory will do tests, such as a smear test and a culture test to see whether there are TB germs in the sample. If the laboratory finds TB germs in the sample, they will also do tests to see which TB medicines can kill the TB germs.
+Diagnosis
+Inactive TB
+If a child has a positive TB blood test or TB skin test result, but their health care provider does not find evidence of TB disease after a medical evaluation, they may be diagnosed with inactive TB. Health care providers must make sure the child does not have active TB disease before beginning treatment for inactive TB.
+Active TB disease
+Confirming the diagnosis of TB disease in children with a laboratory test can be challenging because:
+It is difficult to collect sputum (phlegm) specimens from infants and young children; and
+Children are more likely to have TB disease caused by a smaller number of TB germs in the lungs. This means the laboratory tests used to find TB germs in sputum are less likely to have a positive result.
+Some children are diagnosed with TB disease even when the laboratory does not confirm that TB germs are present but other factors point to TB disease:
+Symptoms of TB disease
+Positive TB blood test or TB skin test result
+Abnormal chest x-ray
+Time spent with person with infectious TB disease.
+Treatment and recovery
+There are several treatments available, and health care providers will consider a child's age, weight, and other factors when prescribing treatment.
+Keep Reading:
+Tuberculosis Clinical Care for Children
+Treating inactive TB in children
+Treatment is recommended for children with inactive TB to prevent them from developing TB disease. Depending on the TB treatment regimen a health care provider prescribes, treatment for inactive TB may take three months, four months, or longer.
+Treating active TB disease in children
+Children with active TB disease will need to take several different TB medicines. This is because there are many TB germs to be killed. Taking several TB medicines will do a better job of killing all the TB germs and prevent them from becoming resistant to the medicines.
+Depending on the TB treatment regimen a health care provider prescribes, treatment for TB disease may take four months, six months, or longer.
+Importance of completing treatment
+It is very important that children or anyone being treated for inactive TB or active TB disease finish the medicine and take the drugs exactly as instructed.
+If a child stops taking the TB medicines before completion, the child can become sick again. If medicines are taken incorrectly, the TB germs that are still alive may become resistant to those drugs. TB that is resistant to drugs is harder and more costly to treat, and treatment can take a long time.
+Directly Observed Therapy (DOT)
+The best way to take medicines for active TB disease (and in some cases, inactive TB) is by receiving directly observed therapy (DOT). Through DOT, a health care worker will visit the child every day or several times a week. These visits may be in-person or virtual (through a smartphone, tablet, or computer). The health care worker will watch the child take their TB medicines and make sure that the TB medicines are working as they should.
+Vaccines
+Bacille Calmette-Guérin (BCG) is a vaccine for TB disease. The vaccine is not generally used in the United States. It is given to infants and small children in countries where TB is common. It protects children from getting severe forms of active TB disease, such as TB meningitis (TB disease of the brain).
+The vaccine can cause a false positive TB skin test reaction. TB blood tests are the preferred tests for people 5 years of age and older who have received the BCG TB vaccine. Tell your child's health care provider if they have received the BCG TB vaccine.

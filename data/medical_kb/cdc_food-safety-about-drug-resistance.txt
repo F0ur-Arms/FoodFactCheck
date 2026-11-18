@@ -1,0 +1,34 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Drug Resistance, Food, and Food Animals
+URL: https://www.cdc.gov/food-safety/about/drug-resistance.html
+────────────────────────────────────────────────────────────
+
+For Everyone
+Nov. 25, 2025
+At a glance
+Drug-resistant germs, or germs that develop the ability to defeat the drugs designed to kill them, can spread between people, animals, and the environment.
+Some bacteria that cause food poisoning are drug-resistant.
+Most people with food poisoning do not need antibiotics to get better. Using antibiotics only when needed protects people from harms caused by unnecessary antibiotic use and fights drug resistance.
+Improving antibiotic and antifungal use in people and food animals can help stop the spread of drug-resistant infections.
+Why it's important
+The American food supply is among the safest in the world, but people can still get food poisoning by eating contaminated foods. Some of the bacteria that cause food poisoning are drug-resistant—meaning they develop the ability to defeat the drugs designed to kill them.
+Someone who has food poisoning caused by drug-resistant bacteria will experience the same symptoms as someone with food poisoning caused by bacteria that antibiotics can kill. Food poisoning symptoms can be mild to life-threatening. Most people with food poisoning do not need antibiotics to get better, but others may need them. While antibiotics can save lives, any time they are used, they can cause side effects and contribute to the development of drug resistance. Drug-resistant infections can be difficult, or impossible, to treat.
+In recent years, CDC investigated many multistate outbreaks caused by drug-resistant germs, including those caused by reoccurring, emerging, and persisting (REP) bacterial strains. These outbreaks have been linked to contaminated food and contact with food animals, pets, pet food, and pet treats.
+Stopping the development and spread of antimicrobial resistance is a key action to protect people, prevent infections, and improve antibiotic and antifungal use.
+How it works
+How drug-resistant germs spread from animals to food
+Drug-resistant germs spread between people, animals, and the environment (water and soil). Like humans, animals carry germs in their gut. This includes drug-resistant germs, which can contaminate food in several ways:
+When animals are slaughtered and processed for food, drug-resistant germs can contaminate meat or other animal products (for example, by spreading from contaminated processing equipment or storage bins).
+Animal feces/excrement (poop) can contain drug-resistant germs and get into the surrounding environment.
+Fruits and vegetables can become contaminated through contact with soil, water, or fertilizer that contains animal poop.
+How drug-resistant germs spread to people
+People can get intestinal infections, including drug-resistant infections, when they handle or eat contaminated food, or come in contact with untreated or un-composted animal poop. They may come in contact with animal poop by touching animals, being in places where animals live, or drinking or swimming in contaminated water. Infections can then spread to other people.
+What CDC is doing
+CDC leads the U.S. public health response to combat drug resistance. CDC's Antimicrobial Resistance (AR) Solutions Initiative invests in national infrastructure to detect, respond to, contain, and prevent drug-resistant infections, including in the food supply. Efforts include:
+Tracking drug-resistant infections and studying how resistance emerges and spreads.
+Detecting and investigating antimicrobial-resistant infections and outbreaks to quickly identify their sources and stop their spread.
+Identifying the sources of drug-resistant infections (including reoccurring, emerging, and persisting infections) that commonly spread through food and animals.
+Strengthening the ability of state and local health departments to detect, respond to, and report drug-resistant infections.
+Educating the public and food workers on infection prevention methods such as safe food handling, safe contact with animals, and proper handwashing.
+Ensuring veterinarians, livestock and poultry producers, and other animal industries (such as pet breeders and aquaculturists) have tools, information, and training on the appropriate use of antibiotic and antifungal drugs.
+Collaborating with federal partners, including the U.S. Food and Drug Administration and the U.S. Department of Agriculture, to improve antibiotic and antifungal drug use in veterinary medicine and agriculture.

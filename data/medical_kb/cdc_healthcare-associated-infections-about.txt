@@ -1,0 +1,51 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: About HAIs
+URL: https://www.cdc.gov/healthcare-associated-infections/about/index.html
+────────────────────────────────────────────────────────────
+
+For Everyone
+Key points
+Healthcare-associated infections (HAIs) are infections that patients get while or soon after receiving health care.
+HAIs are a serious threat to healthcare safety.
+Preventing HAIs is a top priority for CDC and its partners in public health and health care.
+Overview
+While we have made progress, patients, providers and public health workers can do more to keep health care safe and prevent HAIs.
+Causes
+Germs that cause HAIs can spread through unclean hands or improper use or reuse of equipment between patients, providers, staff and visitors. Healthcare procedures can also expose you to germs that cause HAIs.
+Examples of HAIs
+HAIs can be caused by many different germs and include:
+Central line-associated bloodstream infection (CLABSI)
+Catheter-associated urinary tract infection (CAUTI)
+Surgical site infections (SSI)
+Ventilator-associated pneumonia
+Impacts
+HAIs cause sickness, death, and add billions of dollars to healthcare costs each year.
+1 in 38
+On any given day, about 1 in 38 hospital patients has at least one HAI.1
+Recommendations
+Patients and caregivers
+Wash their hands often with soap and water or using alcohol-based hand sanitizer.
+Remind people (including healthcare staff) to clean their hands before touching the patient or handling medical devices.
+Keep Reading
+Tips for Being a Safe Patient
+Healthcare providers
+Healthcare providers should always follow core infection control practices to reduce the risk of spreading these germs to patients.
+What the data show
+CDC publishes data reports to help track national progress and identify focus areas.
+For Public Health
+HAIs: Reports and Data
+What CDC is doing
+Research and data-driven prevention
+Publishing infection prevention guidelines for healthcare safety.
+Publishing HAI data for action through the Antimicrobial Resistance & Patient Safety Portal.
+Advancing the HHS Action Plan to Prevent Healthcare-Associated Infections.
+Collecting data through the National Healthcare Safety Network (NHSN) to identify and track HAIs.
+Researching emerging HAI threats.
+Education and training
+Educating patients and providers on healthcare threats like sepsis and safety practices for medication, long-term care facilities, blood transfusions, organ transplants, dialysis and more.
+Educating health care through Project Firstline.
+Supporting health departments
+Working closely with health departments to prevent HAIs.
+Assisting health departments and healthcare facilities with HAI outbreaks.
+Keep Reading
+About Division of Healthcare Quality Promotion

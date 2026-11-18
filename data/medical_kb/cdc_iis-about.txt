@@ -1,0 +1,29 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Immunization Information Systems Resources
+URL: https://www.cdc.gov/iis/about/index.html
+────────────────────────────────────────────────────────────
+
+Mar. 30, 2026
+About
+Immunization information systems (IIS) are confidential, population-based, computerized databases that record all immunization doses administered by participating providers to persons residing within a given geopolitical area.
+What is IIS ?
+At the point of clinical care, an IIS can provide consolidated immunization histories for use by a vaccination provider in determining appropriate client vaccinations.
+At the population level, an IIS provides aggregate data on vaccinations for use in surveillance and program operations, and in guiding public health action with the goals of improving vaccination rates and reducing vaccine-preventable disease.
+Program Support
+IIS help immunization programs identify populations at high risk for vaccine-preventable diseases and target interventions and resources efficiently.
+Privacy and Confidentiality
+IIS must protect the privacy of all users, including children, families, and providers. According to standards set by CDC, all IIS must have a written privacy policy that clearly defines the following:
+Notification – parents must be notified of the existence of the IIS, what information will be contained in it, and how the information will be used.
+Choice – Parents must be allowed to choose whether to participate in the IIS.
+Use of IIS information – IIS information must only be used for its intended purpose and not be used in a punitive manner.
+Access to and Disclosure of IIS information – Policies must clearly define who has access to IIS information, what constitutes a breach of confidentiality, and what the associated penalties are.
+Data Retention – the period of time that IIS information will be kept.
+Consolidated Records
+IIS combine immunization information from different sources into a single record and provide official immunization records for school, day care, and camp entry requirements.
+Timely Immunization
+IIS remind families when an immunization is due or has been missed.
+Clinical Decision Support
+IIS help providers and parents determine when immunizations are due and help ensure that children get only the vaccinations they need.
+Data Exchange
+IIS are capable of exchanging immunization information with immunization healthcare providers. Data exchange between IIS and other information systems helps ensure timely immunizations, consolidation of records, and allows immunization providers to work more efficiently.
+Mar. 30, 2026

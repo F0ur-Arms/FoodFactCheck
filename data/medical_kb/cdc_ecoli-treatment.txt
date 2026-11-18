@@ -1,0 +1,26 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Treatment of E. coli Infection
+URL: https://www.cdc.gov/ecoli/treatment/index.html
+────────────────────────────────────────────────────────────
+
+Key points
+Some kinds of E. coli can cause diarrhea.
+People with diarrhea should drink extra fluids to prevent dehydration.
+Call the doctor before using anti-diarrheal medication.
+Most people recover without using antibiotics.
+What you need to know
+Fluids
+People with diarrhea should drink plenty of fluids to prevent dehydration. Dehydration is not having enough water in the body.
+Anti-diarrheal medication
+Talk to your healthcare provider before taking anti-diarrheal medication, such as Imodium®.*
+Taking anti-diarrheal medication might help with diarrhea and cramps, but it might make your illness last longer.
+Some people should not use anti-diarrheal medication.
+Do not use anti-diarrheal medication with high fever or bloody diarrhea.
+Do not use anti-diarrheal medication with Shiga toxin-producing E. coli (STEC) infection. Using anti-diarrheal medication with STEC infection can increase the chance of hemolytic uremic syndrome (HUS).
+Do not use anti-diarrheal medication containing bismuth subsalicylate with children younger than 12. Medications with bismuth subsalicylate include Pepto-Bismol® and Kaopectate®.*
+Antibiotics
+Reminder‎
+Most people get better without using antibiotics.
+Antibiotics are sometimes used treat to severe intestinal illness. They also are sometimes used to treat people at risk for severe illness. But the good news is that most people with E. coli infection recover without needing to take antibiotics.
+Do not use antibiotics with STEC infection. Using antibiotics with STEC infection can increase the chance of HUS.
+*The use of trademarks is for identification only and does not imply an endorsement by the Public Health Service or the U.S. Department of Health and Human Services.

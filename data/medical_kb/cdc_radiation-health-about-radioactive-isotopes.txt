@@ -1,0 +1,45 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Properties of Radioactive Isotopes: An Overview
+URL: https://www.cdc.gov/radiation-health/about/radioactive-isotopes.html
+────────────────────────────────────────────────────────────
+
+For Everyone
+Key points
+Radioactive decay occurs when a radioactive atom gives off radiation in the form of energy or particles.
+Radioactive atoms give off radiation to become more stable.
+There are four types of radiation given off by radioactive atoms.
+Overview
+Radioactive decay is the process in which a radioactive atom spontaneously gives off radiation. This radiation is given off in the form of energy or particles to reach a more stable state.
+It is important to distinguish between radioactive material and the radiation it gives off.
+Radioactive decay chains
+Some radionuclides go through a series of transformations before they reach a stable state. For example, uranium-238 ultimately transforms into a stable atom of lead. But in the process, several types of radioactive atoms are generated. This is called a decay chain. When uranium-238 decays, it produces several isotopes of:
+Thorium
+Radium
+Radon
+Bismuth
+Lead
+Types
+There are four types of radiation given off by radioactive atoms. Radioactive atoms give off one or more of these types of radiation to reach a more stable state. Additionally, each type of radiation has different properties that affect how we can detect it and how it can affect us.
+Alpha particles
+Alpha particles are very easy to block, even with something as thin as a sheet of paper. They do not present an external hazard to people because they can't get through our outer layer of dead skin cells.
+However, they can be very damaging to cells inside our bodies if we breathe or eat alpha-emitting radioactive material. Damage can also occur if the radioactive material is introduced through an open wound.
+Beta particle
+Beta particles can be blocked effectively with a few inches of plastic, or even a layer of clothing. However, beta particles can carry enough energy to cause burns on exposed skin. They can present an internal hazard if we breathe or eat beta-emitting radioactive material. Radioactive material may also be introduced through an open wound.
+Gamma rays
+Gamma rays are primarily an external hazard because of their ability to go through material. It takes a few inches of lead or other dense substance to block gamma rays. Gamma rays can be an internal hazard if we breathe or eat gamma-emitting radioactive materials.
+Radioactive material can also be introduced through an open wound. The damage they do to cells inside our bodies is not as severe as that done by alpha and beta particles. The best way to protect yourself from a gamma-emitter is to increase the distance between yourself and the source.
+Neutrons
+Neutrons can travel great distances in the air. As neutrons travel through matter, they crash into atoms. These atoms can become radioactive.
+Neutrons are more effective at damaging cells of the body than are other forms of ionizing radiation, such as x-rays. The best way to protect against neutron radiation is by providing shielding. Good shielding materials against neutrons include thick materials such as, concrete, rock, or dirt. The best shielding against neutrons contains a lot of water or hydrogen.
+Half-Life
+Another feature of each radionuclide is its half-life. Half-life is the length of time it takes for half of the radioactive atoms of a specific radionuclide to decay. After seven half-lives, you will have less than one percent of the original amount of radiation.
+Depending on the radionuclide, this process could be fast or take a very long time. Radioactive half-lives can range from less than a nanosecond, to hours, days, or sometimes millions and billions of years or more.
+Radionuclides used in nuclear medicine procedures have short half-lives.
+For example, technetium-99m, one of the most common medical isotopes used for imaging studies, has a half-life of 6 hours.
+The short half-life of technetium-99m helps keep the dose to the patient low. After 24 hours, the radioactivity from the procedure will be reduced by more than 90%.
+Uranium is a radionuclide that has an extremely long half-life.
+Naturally occurring uranium-238 present in the Earth's crust has a half-life of almost 4.5 billion years.
+If you take a soil sample anywhere in the world, including your backyard, you will find uranium atoms that date back to when the Earth was formed.
+A closer look at half-life
+Let's take a closer look at half-life.
+And after a third half-life, you'll have 12 radioactive atoms. Then 6, then 3, then 1. Eventually, all of the radioactive atoms in that population will reach their more stable state.

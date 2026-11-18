@@ -1,0 +1,54 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Treatment of Severe Malaria
+URL: https://www.cdc.gov/malaria/hcp/clinical-guidance/treatment-of-severe-malaria-1.html
+────────────────────────────────────────────────────────────
+
+For Health Care Providers
+Aug. 17, 2026
+What to know
+Promptly identify severe malaria, defined by specific clinical manifestations or parasitemia of ≥5%, as it can rapidly lead to death.
+Treat severe malaria with intravenous (IV) artesunate as soon as possible, regardless of infecting Plasmodium species.
+If a facility does not have IV artesunate in stock, treat the patient with oral antimalarials until IV artesunate arrives or the patient is transferred to a hospital where it is available.
+Once the initial course of IV artesunate is completed, the parasitemia is ≤1%, and the patient can tolerate oral treatment, a complete oral antimalarial treatment course should be administered.
+As of August 2026, if artemether-lumefantrine is given as the follow-on regimen for P. falciparum, an extended 5-day (10-dose) course should be given.
+Clinical resources
+CDC Malaria Hotline
+Healthcare providers can call the CDC Malaria Hotline for clinical consultation about malaria diagnosis and treatment:
+Monday – Friday, 9 a.m. 5 p.m. EST: (770) 488-7788
+After hours, weekends, and federal holidays: (770) 488-7100
+Reference the Algorithm for Malaria Diagnosis and Treatment in the United States for a summary of the recommended steps to evaluate, diagnose, and treat malaria patients.
+Use the Malaria Treatment Tables for drug recommendations, as well as adult and pediatric dosing.
+Treatment for severe malaria
+Severe malaria can rapidly lead to death. Ideally, treatment should not be initiated until the diagnosis of malaria has been established by laboratory testing. However, if severe malaria is strongly suspected clinically, and immediate, reliable laboratory diagnosis is not possible, presumptive treatment should be initiated while awaiting diagnostic results and/or pending referral of the patient. Patients with severe malaria, regardless of infecting Plasmodium species, should be treated with intravenous (IV) artesunate followed by a complete oral antimalarial treatment course. Intravenous artesunate is well tolerated, with the only contraindication being a known allergy to IV artemisinins. See Malaria Treatment Table 5 for adult and pediatric dosing.
+For the initial course, a dose (2.4mg/kg) of IV artesunate should be administered at 0, 12, and 24 hours. After the initial three doses, the patient's clinical status and parasitemia (assessed on a thin blood smear collected at least 4 hours after the last dose of IV artesunate) should be reassessed. If the parasitemia is >1% or the patient is not able to tolerate oral medications, continue IV artesunate at 2.4mg/kg once daily (for up to a maximum of seven total days of IV artesunate). Reassess parasitemia daily to determine when to stop IV artesunate. Once the parasitemia is ≤1% and the patient can tolerate oral medication, transition to a complete oral antimalarial treatment course (see follow-on oral treatment section below).
+Patients with severe malaria should have blood smears (thick and thin smear) conducted at least daily while hospitalized until a negative result is documented showing no asexual Plasmodium parasites. If a patient is discharged before achieving a negative blood smear, follow-up blood smear(s) should be obtained in an outpatient setting, ideally within one week of completing treatment.
+Higher parasitemia infections are a risk factor for recurrent infection due to recrudescent malaria and for post-artesunate delayed hemolysis.
+CDC does not recommend the use of exchange transfusion as an adjunct procedure for the treatment of severe malaria because it has not been shown to be effective, and treatment with IV artesunate rapidly brings down the parasite load.1
+How to acquire IV artesunate
+Artesunate for Injection™ manufactured by Amivas is FDA-approved and commercially available in the United States.A
+FDA-approved artesunate can be purchased from major drug distributors. Hospitals that do not have Artesunate for InjectionTM in stock should consider the following options when it is needed to treat a patient with severe malaria:
+The hospital pharmacist should call +1-855-5AMIVAS (+1-855-526-4827) to locate the nearest distributor of Artesunate for InjectionTM for a patient emergency. This line is available at all hours. If prompted, the hospital pharmacist should leave a voice message with a callback phone number, and all messages will receive a response within 30 minutes.
+Alternatively, the pharmacist can call the emergency line for the hospital's affiliated distributor. Information and emergency contact numbers for distributors that carry Artesunate for InjectionTM can be found on the manufacturer's website. Emphasize that this is an emergency procurement for a critically ill patient.
+If obtaining Artesunate for InjectionTM from a distributor immediately is not feasible, consider acquiring Artesunate for InjectionTM from a nearby hospital that has it in stock (this can be facilitated by a prearranged agreement) or transferring the patient to a hospital where Artesunate for InjectionTM is available or can be procured more quickly.
+Interim oral treatment
+Clinicians at hospitals where IV artesunate is not in stock should provide interim treatment with an effective oral antimalarial while emergently sourcing IV artesunate from a commercial source or a nearby hospital. If the patient is unable to tolerate oral medications, clinicians will need to consider alternative ways to administer oral medications while awaiting IV artesunate. For example, in cases of nausea and vomiting, administering an anti-emetic prior to the antimalarial may help. For patients who are comatose, a nasogastric tube can be considered.
+The preferred oral antimalarial for interim treatment is artemether-lumefantrine (Coartem®) due to its rapid parasite clearance. Other oral alternatives include atovaquone-proguanil (Malarone™), quinine, or, if no other alternatives are available, mefloquine.
+Intravenous or oral doxycycline/ tetracycline, or clindamycin, are not suitable for interim treatment, as they are slow-acting and not effective for treatment of severe malaria when used alone. As for any malaria treatment, the interim regimen should avoid any medications used for chemoprophylaxis, if possible.
+Once IV artesunate arrives, immediately discontinue the oral medication and start parenteral treatment.
+Follow-on oral treatment
+A full oral antimalarial treatment course is always necessary following IV artesunate, even if it is used for a total of 7 days, to ensure a longer acting partner medication is given along with the short acting artesunate. Once the initial course of IV artesunate is completed, parasitemia is ≤1%, and the patient can tolerate oral medication, a full course of oral follow-on treatment should be administered beginning 8-24 hours after the last dose of IV artesunate. If the parasitemia is ≤1% and the patient is clinically improving but not able to take oral medications, consider administering an antiemetic or administering oral medication through a nasogastric tube.
+Options for follow-on treatment include artemether-lumefantrine (extended 5-day [10-dose] course for P. falciparum), atovaquone-proguanil, quinine plus doxycycline or tetracycline (or clindamycin), or, if no other alternatives are available, mefloquine. If the patient received oral treatment prior to receiving IV artesunate, the same medication can be used as follow-on treatment, but a full course is required. As for any malaria treatment, the regimen selection should not include the medication previously used for chemoprophylaxis. See more information on oral antimalarial treatment in Treatment of Uncomplicated Malaria.
+Infants, children, and pregnant women
+IV artesunate can be used in infants, children, and pregnant women.
+Note that weight-based dosing for both adults and children is based on the actual body weight. Current dosing in small children <20kg (which is different from the 3 mg/kg dosing recommended by WHO) is based on an FDA analysis modeling pharmacokinetics using CDC growth chart data.2
+Post-artesunate delayed hemolysis
+Although rare, post-artesunate delayed hemolysis has been noted following treatment of severe malaria with IV artesunate and less commonly with oral ACTs.34 Higher parasitemia is a risk factor for post-artesunate delayed hemolysis.
+All people treated for severe malaria with IV artesunate should be monitored weekly for up to four weeks after treatment initiation for evidence of hemolytic anemia. If CBC is abnormal, additional laboratory evaluation should include reticulocyte count, haptoglobin, lactate dehydrogenase (LDH), total bilirubin, and a repeat blood smear. Depending on the degree of hemolysis and presence of anemia signs and symptoms, blood transfusion may be needed. Cases of delayed post-artemisinin hemolytic anemia in patients who received Artesunate for InjectionTM should be reported to MedWatch, FDA's Safety Information and Adverse Event Reporting Program, or by phone at (800) FDA-1088 (800-332-1088) or fax at (800) FDA-0178 (800-332-0178).A
+Aug. 17, 2026
+Sources and Page Info
+Print
+Share
+Facebook
+LinkedIn
+Twitter
+Syndicate

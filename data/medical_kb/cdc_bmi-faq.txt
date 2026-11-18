@@ -1,0 +1,72 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Español
+URL: https://www.cdc.gov/bmi/faq/index.html
+────────────────────────────────────────────────────────────
+
+BMI Frequently Asked Questions
+At a glance
+Body mass index (BMI) is a simple, reliable, and low-cost screening measure of health.
+Having a BMI outside the healthy weight range can increase a person's risk for certain health problems.
+BMI is interpreted differently for children and adults.
+Below are several common questions about BMI, how to use it, and how to interpret it.
+Common BMI questions
+BMI is a calculated measure of body weight relative to height. CDC offers calculators to help you calculate BMI. For children and teens 2 through 19, use CDC's BMI Calculator for Child and Teen. For adults 20 and older, use CDC's Adult BMI Calculator.
+To calculate BMI by hand, use the formulas below:
+Metric Units: weight (kg)/[height (m)]2
+Metric Units: [weight (kg)/height (cm)/height (cm)] x 10,000
+U.S. Customary Units: weight (pounds)/[height (in)]2 x 703
+It is important to interpret BMI differently for children and adults. To learn more about interpreting BMI, see Child and Teen BMI Categories or Adult BMI Categories.
+To interpret BMI values for adults 20 and older, use standard BMI categories regardless of age, sex, or race. For example, an adult who is 5 feet 8 inches tall and weighs 200 pounds has a BMI of 30.4. This BMI falls into the obesity category, defined as a BMI of 30.0 or higher. Read more about Adult BMI Categories.
+BMI is a quick, inexpensive, and reliable screening measure to assess a person's weight relative to their height. Having a BMI outside the healthy weight range can increase a person's risk for certain health problems. For example, people with BMIs in the obesity category are at increased risk for type 2 diabetes, heart disease, and other health problems.
+However, BMI is just one measure of health. Consider BMI with other factors—results from a physical exam, laboratory findings, health behaviors, and more. A health care provider can evaluate a person to get a more complete health picture. Read more About BMI.
+For adults 20 or older, enter your height and weight into CDC's Adult BMI Calculator. The tool will then show your BMI and BMI category. For adults, the obesity category is defined as a BMI of 30.0 or higher. Talk to your health care provider about your BMI. It may relate to your risk for chronic diseases.
+For children and teens 2 through 19 years, use CDC's Child and Teen BMI Calculator. The tool will calculate BMI, BMI percentile, and BMI category. You can also view results on a growth chart. For children and teens, the obesity category is defined as a BMI at or above the 95th percentile for sex and age. Talk to your health care provider about your child's BMI. It may relate to overall health and well-being.
+Adults who have obesity are at increased risk for many health problems including:
+High blood pressure and high cholesterol.
+Type 2 diabetes.
+Stroke.
+Many types of cancer.
+Severe COVID-19 illness.
+Mental health conditions, including depression and anxiety.
+Joint problems, such as osteoarthritis.
+Breathing problems, such as asthma and sleep apnea.
+For more information, visit How Overweight and Obesity Affect Your Health.
+For most people, BMI is a good indicator of whether they have too much or too little body fat. However, BMI is not a direct measure of body fat. BMI cannot distinguish fat mass from lean body mass (muscle and bone). BMI also cannot indicate where fat is located in the body.
+BMI is moderately to strongly associated with other measures that do capture the amount, type, and distribution of fat. A health care provider can help evaluate a person's health risks related to their BMI and body fat.
+To learn about trends of obesity in the U.S., visit Adult Obesity Facts, Adult Obesity Prevalence Maps, and Child Obesity Facts.
+Based on BMI alone, people with a lot of muscle might have a BMI that falls in the overweight category (BMI of 25.0 to less than 30.0) or obesity category (BMI of 30.0 or more). However, BMI cannot distinguish between fat, muscle, and bone mass. These all influence a person's weight.
+BMI is just one potential indicator of health. For a more complete picture, health care providers should consider other factors too. These factors may include a patient's medical history, health behaviors, physical exam findings, and laboratory findings. Read more About BMI.
+Child and teen BMI questions
+Calculating BMI in children and teens involves the following steps:
+Measure the child's height and weight. Refer to Measuring Children's Height and Weight for guidance.
+Input the child's height, weight, age, and sex into CDC's Child and Teen BMI Calculator.
+Discuss the results with the child's health care provider if you have questions or concerns.
+Health care providers use percentiles to evaluate children and teen growth patterns. A child's or teen's BMI percentile refers to their BMI compared to a similar group of the same sex and age. This group is called a reference population and is used to create CDC's BMI-for-age growth charts.
+For example, a 7-year-old girl whose BMI is at the 88th percentile has a BMI that is the same or higher than 88% of 7-year-old girls in the reference population. The girl's BMI falls into the overweight category. Overweight is defined as a BMI that is the 85th to less than 95th percentile for sex and age. Read more about Child BMI Categories.
+No, interpret BMI differently for children and teens than for adults.
+Because children and teens are growing, evaluate their BMI compared to other children and teens of the same sex and age. Do this using BMI-for-age percentiles (or BMI percentiles) and CDC BMI-for-Age Growth Charts. Read more about Child BMI Categories.
+Interpret BMI values for adults using standard BMI categories regardless of age or sex. Read more about Adult BMI Categories.
+Obesity during childhood or teenage years is associated with various physical and mental health conditions, including:
+High blood pressure.
+High cholesterol, high triglycerides, and other abnormal lipids.
+Prediabetes and type 2 diabetes.
+Respiratory conditions, such as asthma and sleep apnea.
+Mental health conditions, such as depression and anxiety.
+Low self-esteem and low self-reported quality of life.
+Learn more about the health consequences of obesity for children.
+Encourage or help children and teens to:
+Eat healthy foods.
+Drink water instead of sugary drinks.
+Find physical activities they enjoy and participate in physical activity daily.
+Get enough sleep.
+Limit screen time.
+Take time for self-care and stress reduction. Try strategies such as breathing exercises, meditation, yoga, and journaling.
+For more information, see Tips to Support Healthy Routines for Children and Teens.
+It is common for obesity to track from childhood into adulthood. It is even more common for obesity during the teenage years to track into adulthood. If you are concerned about your child's weight, talk with their health care provider.
+For more information, read about:
+Tips to support healthy habits for your child.
+Benefits of healthy eating.
+Benefits of physical activity for children of any size.
+CDC-Recognized Family Healthy Weight Programs.
+Children and teens with higher body weight can experience teasing, unfair treatment, or stereotypes because of their weight.
+As a parent, you may not know what to do to help your child. Consider reading these resources on how to talk about weight bias and other important information for conversations about weight.

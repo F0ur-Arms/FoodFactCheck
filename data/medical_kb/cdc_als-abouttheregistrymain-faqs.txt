@@ -1,0 +1,229 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Frequently Asked Questions
+URL: https://www.cdc.gov/als/abouttheregistrymain/faqs.html
+────────────────────────────────────────────────────────────
+
+For Everyone
+Sept. 3, 2026
+At a glance
+Frequently Asked Questions about the National ALS Registry. These are some common questions about the Registry and the National ALS Biorepository, and how to get help navigating the Registry website.
+Questions About ALS
+What is ALS?
+ALS is a disease that affects the nerve cells in both the upper and lower parts of the body. This disease causes the nerve cells to stop working and die. The nerves lose the ability to trigger specific muscles, which causes the muscles to become weak and leads to paralysis.
+What causes ALS?
+No one knows what causes most cases of ALS. Scientists have been studying many factors that could be linked with ALS, such as heredity and environmental exposures. Other scientists have looked at diet or injury. No cause has been found for most cases of ALS. In the future, scientists may find that many factors together cause ALS.
+Is ALS linked to the environment?
+Health studies have not found definite environmental factors that are linked with either ALS or other MNDs. Some studies suggested a possible link with exposure to heavy metals (e.g., lead and mercury). Other studies suggested a link with exposure to trace elements, solvents, radiation, and agricultural chemicals. No confirmed link was found with infections, diet, physical activity, and injury.
+How many people with ALS have been identified in the United States?
+Although no one knows for sure, reports suggest less than 30,000 people in the United States have ALS; every year about 5,000 people are told by their doctor that they have the disease. Because no records on ALS have been kept throughout the country, it is hard to estimate the number of ALS cases in the United States. CDC does not require doctors to report ALS cases.
+Is ALS equally common among men and women?
+ALS is slightly more common in men than women, but recent studies suggest that this difference is decreasing over time. Familial ALS is equally common in men and women.
+Is ALS related to age?
+ALS is age related; most people with ALS find out they have it when they are between 55 and 75 years of age.
+How long do people with ALS live?
+Most people live from 2 to 5 years after symptoms develop. How long a person lives with ALS seems to be related to age; people who are younger when the illness starts live slightly longer.
+Can ALS be inherited?
+About 5–10% of ALS cases occur within families. This is called familial ALS and it means that two or more people in a family have ALS. These cases are caused by several inherited factors. The most common is in a gene called SOD1.
+Is familial ALS equally common among men and women?
+Familial ALS is found equally among men and women.
+How long do people with familial ALS live?
+People with familial ALS usually do not fare as well as a person with ALS who are not related, and typically live only one to two years after symptoms appear.
+Do clusters of ALS possibly exist? (I have been told by the doctor that I have ALS. Several other people from my town/school/ community/neighborhood have also been told by their doctor that they have ALS. Could these cases of ALS all be related?)
+It is unknown whether clusters of ALS exist. Although it is possible that cases of ALS are related, studying clusters does not help when trying to determine what factors cause or trigger ALS. While ATSDR does not specifically conduct cluster investigations, suspected clusters of the disease have made it possible to conduct activities to identify the number of ALS cases in selected areas and the possible related environmental factors.
+What are the problems with studying possible clusters of ALS?
+The cause of most cases of ALS is unknown so we don't know what to look for in a person's past.We do not have current or complete data on the number of people with ALS. As a result, we cannot determine the "normal" or "expected" number of cases among a group of people or in a specific area. The expected number of cases of a disease is often found in an existing disease registry, as with cancer. However, there are no registries or ongoing tracking efforts for ALS in the United States.The small number of cases in a possible cluster limits the ability to tell the difference between the number of cases that would occur naturally by chance and a number of cases that is greater than would be expected. Studies with large numbers of people are needed to determine the causes of such a disease.
+What are motor neuron (nerve cell) diseases?
+ALS is one of a group of conditions known as motor neuron diseases (MNDs). ALS affects nerve cells for muscles of both the upper and lower body. ALS accounts for 85 percent of MND cases. Other MNDs affect nerve cells for muscles of either the upper or lower body. Other MNDs include progressive muscular atrophy, progressive bulbar palsy, and primary lateral sclerosis.
+What is MND prognosis?
+Eighty-five percent of people with an MND have ALS. Most persons who are first diagnosed with progressive muscular atrophy, progressive bulbar palsy, or primary lateral sclerosis will develop problems with nerve cells for both upper and lower body muscles. The person will then be told they have ALS.
+Where can I get more information about ALS?
+Please visit our ALS Organizations page for other ALS related websites.
+Where can I find information on clinical trials?
+The National Institutes of Health, a government agency, has a list of clinical trials. Go to the "Clinical Trials" web site to find a list of federally and privately supported clinical trials in the United States and around the world. ClinicalTrials.gov gives you information about a trial's purpose, who may take part, locations, and phone numbers for more details. Use the "ALS Clinical Trials" web site for clinical trials specifically related to ALS.
+Questions About Surveys
+How often do people receive notifications to complete the disease progression survey?
+Once the registration is complete, a Registrant will receive notifications to complete/update 1) Disease Progression (ALSFRS-R) Survey and 2) other risk factor surveys
+Every 3 months from the time of enrollment at the National ALS Registry
+Questions About the ALS Registry
+What is the National ALS Registry?
+In 2009, the federal Agency for Toxic Substances and Disease Registry (ATSDR) started the congressionally mandated National ALS Registry to collect and analyze data on people with ALS in the U.S. In October 2010, people living with ALS in the U.S. could begin enrolling in the Registry via an online portal.
+Why was the ALS registry created?
+The registry was created as a tool to help scientists better understand who gets ALS.
+Who created and is responsible for maintaining the registry?
+ATSDR's Division of Health Studies created and maintains the registry. ATSDR is a federal public health agency located in Atlanta, Georgia. ATSDR maintains several disease registries to help scientists and other researchers learn more about these conditions.
+Why are you allowed to create a registry?
+In 2008, Congress mandated that ATSDR develop a registry to gather and organize information about people living with ALS. ALS Registry Act (Public Law 110-373) .
+What are the goals of the registry?
+The goals of the registry are to collect information that can be used to estimate the number of new cases of ALS that will be found each year. The information is being used to estimate the number of people who have ALS at a specific point in time. Registry information is also being used to better understand who gets ALS and what factors affect the disease. The information may be used also to improve how the disease is managed and how standards of care are developed.
+What makes this registry different than other registries?
+The National ALS Registry is the only registry mandated by Congress. It attempts to identify every person with ALS in the US. Other ALS registries do not actively try to include everyone and are not congressionally mandated.
+Who is paying for the registry?
+The federal government is paying for the registry.
+Who can become a member of the registry?
+The National ALS Registry is open to all people with ALS who are citizens or legal residents of the United States.
+Do I have to take part in the registry?
+No. Some people will be identified because of services they receive, however, you do not have to identify yourself or take any of the additional surveys that may be available.
+Do I have to consent to register in the National ALS Registry?
+Yes, a person must consent to register. To see the consent form, click here National ALS Registry Consent Form
+Can persons diagnosed with Primary Lateral Sclerosis (PLS) join the National ALS Registry?
+Only people diagnosed with ALS can register. Using the registry, we can learn more about whether it is a good tool to track other motor neuron diseases (e.g., PLS).
+Can someone join the registry if they do not have a computer?
+The only way to enroll in the registry is by computer. But the computer does not have to belong to the person with ALS. A family member, caregiver, or friend with a computer may be able to help with enrollment. Many ALSA chapters may be able to help with enrollment. A public computer, for example in a public library, may be an option for a person who does not have a computer or an e-mail address. Many Internet services provide secure, free e-mail accounts.
+What is ATSDR doing to encourage people with ALS to join the Registry?
+ATSDR is working closely with ALS advocacy and support groups, researchers, and healthcare professionals to encourage people living with ALS to join the Registry.
+Where can I get more information about joining the Registry?
+You can find out more about the National ALS Registry online at www.cdc.gov/als. You can call us toll-free at 1-877-442-9719. You can also learn about the Registry through the local chapter of an ALS advocacy or support group:
+The ALS Association (www.alsa.org)
+ALS United (www.alsunited.org)
+The Muscular Dystrophy Association (www.mda.org)
+The Les Turner ALS Foundation (www.lesturnerals.org)
+Why is it necessary to provide my Social Security Number (SSN) when registering in the National ALS Registry?
+We require the last five digits of your SSN to make sure you are counted only one time. ATSDR uses the partial SSNs to compare cases in the web portal with those in the large national databases. Only approved staff working on the National ALS Registry can see your information. This data can only be used for official business.
+How is my private information stored to make sure it is safe?
+Some fields needed to register will be hidden to ensure the security of your data. All your data are encrypted in the registry database. Every night we move the personal identifiable information (PII) of the people who registered that day to a secure database with no internet access.
+Who will have access to my private information?
+Only scientists approved to work on the National ALS Registry can see your private data. Doctors and scientists requesting registry data will not have access to information that would identify individual participants. Any information that is published about people in the registry will be group information. It will not identify any participants.
+How will the information in the registry be used?
+Information in the registry will be used to describe the characteristics of people with ALS. This information can be linked with other data to describe such things as prescription use, medical care, and progression of disease. Some researchers may ask permission to identify people to contact to ask about taking part in specific research studies.
+Can a researcher access National ALS Registry data?
+Right now researchers cannot access data in the National ALS Registry. The Registry does not yet contain enough data to be useful to most researchers.The National ALS Registry contains data both from national databases such as Medicare and from persons with ALS who register. For the data to be most useful, the two sets of information need to be connected. Typically, two years elapse from the time a person receives an ALS diagnosis to the time their information from the national databases comes to the Registry. Persons with ALS only began registering in October, 2010. Because of the time lag, right now the national databases do not include most of the persons who registered.As soon as enough data are available to give an accurate picture of persons with ALS in the US, ATSDR will make the data available. Before this can occur, ATSDR must join the two types of data. The combined data must be checked to be sure they are complete and accurate. When those steps are complete, ATSDR will let researchers look at the data. ATSDR will post updates on the National ALS Registry web site.
+How will you be sure that you have as many persons with ALS as possible?
+Person with ALS who are in national databases will be added to the registry. These databases include patients covered by the Veterans Administration, Medicare, and Medicaid. We prefer that everyone also registers. Registering is the only way that participants can take surveys.
+Can I register a deceased person with ALS in the National ALS Registry?
+People who had ALS and have died cannot be registered. Only those living with ALS can register because:
+What information about me will be in the registry?
+The registry will only contain basic information about you to better characterize who has ALS such as, age, race, sex, and where you live.
+A person must consent for inclusion in the Registry.
+Someone who enrolls a deceased patient may not be able to answer specific questions asked during registration or in the survey modules.
+Registries try to enroll everyone and those who are deceased might not have someone who would enroll them which will bias the registry data.
+Do I tell the ALS Registry a participant has died?
+It is not necessary to report a participant death to the ALS Registry. We will check death data every year. However, if you wish to provide this information, you can contact the System Administrator by phone (1-877-442-9719, from 8am-5pm ET) or email als@cdc.gov. Please provide the participant's name and the date of his/her death.
+Where can I get more information about the registry?
+Please visit our About Registry page.
+How should I answer a risk factor survey question if I cannot find an answer selection that applies to me?
+Survey responses often are limited to the most common responses. If you cannot find an answer choice that applies to you, please select the "Other specify:" option. A text box will open next to the selection where you can type your answer. If you need more help with the risk factor survey modules, please contact the System Administrator.
+How often will new risk factor surveys be available? Will I receive an update about new surveys?
+ATSDR is developing new risk factor surveys to learn more about ALS. You will receive a new survey e-mail if you are taking part in the Registry and have opted to receive email reminders. Only people taking part in the Registry can complete surveys. If you would like to register, please go to National ALS Registry to enroll. You can opt-in for receiving email reminders about new surveys during the registration process or when you update your account page. We will also post new survey announcements on the Registry web site and we will let people know through social media and advocacy groups. Except for the Disease Progression, formerly Quality of Life, survey, each survey can be taken only one time. You can take the Disease Progression survey every six months to update the progression of your disease. You can opt to get an email reminder when you can take the Disease Progression survey again. Please go to your account and update the consent to receive emails.
+Why should I complete the new risk factor surveys?
+The new risk factor surveys will help increase the information available on ALS and make the Registry more useful to researchers. The more that persons with ALS complete the risk-factor surveys, the more accurate and complete the information will be.
+How can I take the new risk factor surveys?
+Risk factor surveys can only be completed by persons with ALS who are enrolled in the Registry
+Should I complete the other surveys before taking the new risk factor surveys?
+You are encouraged to take all of the risk factor surveys, whether new or old. However, there is not a requirement regarding the order of completing the risk factor surveys.
+What do the other risk factor surveys ask about?
+The current surveys ask questions about things like your age, sex, race, family history, job, and physical activity.
+Can I take surveys more than once?
+Except for the Disease Progression (formerly known as the Quality of Life) survey, each survey can be taken only one time. If you registered before January 1, 2014 you can take the Disease Progression survey every six months to update the progression of your disease. Those who registered on or after January 1, 2014 can take the survey three times during the first year and twice a year thereafter. You can opt to get an email reminder when you can take the Disease Progression survey again. Please go to your account and update the consent to receive emails.
+Questions About the Biorepository
+What is the National ALS Biorepository about?
+The National ALS Biorepository (Biorepository) was created by the Agency for Toxic Substances and Disease Registry (ATSDR) to collect, store, and share samples from people taking part in the National ALS Registry.
+What is a Biorepository?
+A biorepository collects and stores samples of biological material. This could include blood, urine, tissue, cells, and DNA. Some information about the participant may also be stored along with a written consent form. These samples will be used for future research.
+Why is this Biorepository important?
+The specimens in this biorepository will complement the Registry's epidemiologic data. It will also add to the total numbers of specimens available for ALS research. This Biorepository will differ from other biorepositories because it will include ALS patients from the entire country. In addition, it will not be limited to those with specific exposures or clinical findings.
+Who can take part in the Biorepository?
+Persons with ALS enrolled in the National ALS Registry.
+How do I sign-up for the Biorepository?
+While joining the Registry, you will be asked if you are interested in learning more about the Biorepository. If yes, you will be asked to provide contact information. If you are already enrolled in the Registry, log into your account and update it to include your interest in the Biorepository.
+Where will the specimens be taken?
+We will come to your home.
+How can I find out more about the biorepository?
+You can visit our webpage at ALS Biorepository or call us toll free at 1-855-874-6912.
+Questions About Creating a Global Unique Identifier (GUID)
+What is a GUID?
+A Global Unique Identifier (GUID) is assigned to each patient's data. The GUID is created using data such as a subject name, date of birth and city of birth.
+Why do I need a GUID?
+The GUID enables tracking and following of patients over time and across diseases, registries, studies and countries. This can all be done without knowing who the person is.
+Is my private information given out with the GUID?
+No. The purpose of the GUID is to be able to link people without giving out private information.
+How is a GUID used?
+A researcher can apply to use Registry data and can request that your GUID be included. This allows us to provide coded data to researchers without giving them your private data such as name or date of birth.
+Do I have to agree to have a GUID to be in the National ALS Registry?
+No you may join the National ALS Registry without agreeing to make a GUID.
+What are the benefits of agreeing to make a GUID?
+You will not benefit directly. However, a GUID makes it possible to combine data from different studies. Being able to combine data could help ALS researchers in the future.
+Questions About the ALS Registry Report
+Why is this report important?
+This is the first report to quantify data from the National ALS Registry. The Registry is the only effort to identify all persons with ALS living in the U.S. The report provides information on how many people were living with ALS in the U.S. from October 19, 2010, through December 31, 2011. We will share more reports as we gather more data.
+What does the report tell us about ALS?
+The report states that a total of 12,187 unique individuals were identified with ALS across the four national databases and through web portal registration during October 19, 2010 – December 31, 2011. This means that 3.9 out of 100,000 people are estimated to have ALS in the U.S. ALS was more common among whites, males, non-Hispanics, and persons aged 60–69 years. Men had a higher rate of ALS than women.
+How did ATSDR get the data in this report?
+ATSDR uses data from national databases and from persons who register. The national databases include information from Medicare, Medicaid, the Veterans Health Administration (VHA), and the Veterans Benefits Administration. Persons with ALS can also use the web to join the Registry and be counted, www.cdc.gov/als.
+Why was incidence (new cases of ALS) not provided in the report?
+Date of diagnosis is needed to calculate incidence. The Registry is made up of people identified in the national databases and those who register. The national databases do not include date of diagnosis. However, we will calculate and publish incidence on a smaller scale using data from our state and metropolitan area surveillance effort data. Information about state and metropolitan surveillance efforts can found at ALS State Metro page.
+Why were specific State/Regional data (e.g., prevalence) about ALS not included in the report?
+We need to have more information before we can analyze specific data for states and regions. We're working now to analyze that information. We plan to publish our findings when they are available.
+Why were comparisons between the ALS surveillance summary report and state/metropolitan projects not included?
+We're currently working to analyze this information and will publish our findings when they are available.
+Why wasn't all of the risk factor survey data presented?
+Some risk factor data were included in the report. We're still analyzing risk factor information from completed surveys. We will publish those findings when they are available.
+Website Questions
+Who do I contact if I have problems logging into the National ALS Registry website?
+You can contact the System Administrator by phone (1-877-442-9719, from 8am-5pm ET) or email als@cdc.gov
+How does a person with ALS register that is unable to use a computer due to his/her illness?
+A person with ALS must consent to take part in the registry; therefore, no one can do it for him or her. However, someone may assist the person in completing the registration process.
+I would like to create person with ALS account, but I can not get pass the validation process. Who should I contact about creating an account?
+Contact the System Administrator.
+I forgot my Username. How can I retrieve it?
+Contact the System Administrator.
+Is there a way to change my Username?
+No. Our system does not allow for you to change your Username.
+I forgot my Password. How can I retrieve it?
+Your password can not be retrieved, but it can be reset via the "Forgot your Username or Password" page. If you have any issues resetting your password, Contact the System Administrator.
+How do I get my username and password if I cannot speak?
+We cannot send a username or password via email. This security measure is in place to protect privacy. A family member or friend can assist by calling the National ALS Registry at 1-877-442-9719 (8am-5pm ET).
+How can I change my Password?
+You can change your password by logging onto your account and clicking "Change Password" on the account homepage or on the account menu under "Account".
+Why do I have to reset my password every 180 days?
+CDC has strong security policies. This protects the privacy of your personal information and the agency's data. The privacy program at CDC requires everyone who enters data into the National ALS Registry to update their account every 180 days. If you do not update your password every 180 days, your account will be locked. If your account is locked, please contact the System Administrator to unlock your account. Nothing will happen to your data in the National ALS Registry, even if your account is locked.
+I received an email notifying me that my registry account is about to be inactive. Why is this happening and what should I do?
+This notice alerts you that you need to access your account. CDC has strong security policies to protect the privacy of your personal information and the agency's data. As part of this privacy protection program, everyone who enters private data into an online CDC system must access their account at least once every 180 days. This helps protect the privacy of those who take part in the National ALS Registry. If your account is locked, please contact the System Administrator to unlock your account. Nothing will happen to your data in the National ALS Registry, even if your account is locked.
+How do I update my account information?
+Update your account information by logging onto your account and clicking "Update Account" on the account homepage or on the account menu under "Account".
+I was told that my email address was associated with another account when trying to create an account, but I have not created an account before. What should I do?
+Contact the System Administrator.
+I am having trouble viewing the National ALS Registry Web site in my web browser. How can I resolve this problem?
+The National ALS Registry's Web site is best viewed using Internet Explorer. If you do not already have Internet Explorer, you can download Internet Explorer for free.
+Can I view the National ALS Registry web portal if I do not use Internet Explorer web browser?
+Yes. Please make sure you have the latest version of Google Chrome, Safari, or Mozilla Firefox installed on your computer.
+Can I join the National ALS Registry if I do not use Internet Explorer web browser?
+Yes. People can join the National ALS Registry by using web browsers like Google Chrome, Safari, or Mozilla Firefox.
+Can I take National ALS Registry surveys if I do not use Internet Explorer web browser?
+Yes. Persons with ALS can take National ALS Registry surveys with web browsers like Google Chrome, Safari, or Mozilla Firefox.
+I cannot get the ALS Clinic Locator to work with my web browser, what should I do?
+If you are using a web browser other than Internet Explorer (e.g. Google Chrome, Safari, and Mozilla Firefox), make sure you have the latest version installed on your computer. Also, you will need to disable the pop-up blocker control on your web browser. Instructions for disabling the pop-up blockers can be found in the help section of your web browser.
+Will my portable web device (e.g. iPad, iPhone, Android, Tablet) work with the National ALS Registry web site?
+Yes, Persons using portable web devices can access and join the National ALS Registry. Surveys can also be taken using some portable devices such as tablets and laptops however, you will not be able to take Surveys on any phone device.
+Will the ALS Clinic Locator work on my portable web device (e.g. iPad, iPhone, Android, Tablet)?
+People with Android based portable devices have to disable pop-up blockers on their web browser for the Clinic Locator to work. You can check your user manual for directions.The Clinic Locator now works on iPads or iPhones as well as Android devices. It has been redesigned using HTML5 web technology.
+Is there a way to increase the font size on the page?
+Yes. Simply click the S, M, L, or XL buttons in the Text Size section located in the upper right corner of the page.
+How Will My Private Information Be Protected?
+People living with ALS are asked to give personal identifiable information when joining the National ALS Registry. This information is a necessary part of enrolling in the registry.
+The registry collects personal identifiable information such as your name, last 5 digits of your social security number (SSN), and your date of birth. Some fields needed to register will be hidden to ensure the security of your data. All of your data are encrypted in the registry database. Every night we move the personal identifiable information of the people who registered during that day to a secure database. This database is not linked to the Internet.
+We use the partial SSNs to compare cases in the Web portal with those in the large national databases. The partial SSNs help us make sure each participant is only counted once. Only scientists approved to work on the National ALS Registry can see participant information. The data collected through the registry are used only for official business.
+Doctors and scientists requesting registry data cannot access information that would identify individual participants. Any information published about people in the registry will be group information. It will not identify any individual participants.
+Questions About Suspected ALS Cases in Your Community
+Amyotrophic Lateral Sclerosis and the Environment
+Amyotrophic lateral sclerosis (ALS), also known as Lou Gehrig's disease, is a fast-progressing motor neuron disease. ALS is rare. Most ALS cases do not have a known cause. Approximately 1 in 10 cases are due to inheritance of mutation in high-risk genes (familial ALS). The causes of the other 90% of cases (sporadic ALS) remain largely unknown.
+Exposures to certain environmental factors which are still being investigated by researchers can cause various undesirable health outcomes. Researchers are investigating whether environmental factors can increase the risk of ALS. There are potential gene-environment interactions in many of the sporadic ALS cases where the biological mechanism of one getting ALS, after being exposed to certain environmental hazards, may be different from one person to the next because of differing genetic makeup (Learn more here). Identifying the populations at risk is difficult due to the many possible environmental exposures, genetic predisposition, and the unknown causes of most ALS cases.
+When an unusually high number of ALS cases are suspected in a community or region, it is called a cluster. A cluster is a greater than expected number of the same diseases or diseases from the same cause, such as exposure to the same environmental factor.
+Generally, identifying an ALS cluster is difficult due to several factors, including:
+Unknown causes for the 90% of ALS
+Different clinical features like where symptoms start and how long they last can make it hard to diagnose correctly
+It's tough to figure out exactly where and when someone got exposed to something and investigate it properly
+It's hard to tell if an odd pattern is just a coincidence, especially when there aren't many cases in that area and time
+Sometimes it takes years to diagnose something after being exposed, or after the biomarkers of exposure have started to decay
+The National ALS Registry can work with state, tribal, local, and territorial health departments at their request to address questions of suspected ALS clusters.
+More resources:
+CDC's Epidemic Intelligence Service investigates urgent public health problems. Learn more about Epi-Aids
+Find your state health department
+Questions? Contact us at National ALS Registry
+Sept. 3, 2026
+Sources and Page Info
+Print
+Share
+Facebook
+LinkedIn
+Twitter
+Syndicate

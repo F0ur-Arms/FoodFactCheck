@@ -1,0 +1,28 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Diagnosis of Parasitic Diseases
+URL: https://www.cdc.gov/parasites/testing-diagnosis/index.html
+────────────────────────────────────────────────────────────
+
+At a glance
+Many kinds of lab tests are available to diagnose parasitic diseases.
+The kind of test(s) your health care provider will order will be based on your signs and symptoms, any other medical conditions you may have, and your travel history.
+Diagnosis may be difficult, so your health care provider may order more than one kind of test.
+What kinds of tests are used to diagnose parasitic diseases?
+See below for a list of some commonly used tests your health care provider may order.
+A fecal (stool) exam, also called an ova and parasite test (O&P)
+This test is used to find parasites that cause diarrhea, loose or watery stools, cramping, flatulence (gas) and other abdominal illness. CDC recommends that three or more stool samples, collected on separate days, be examined. This test looks for ova (eggs) or the parasite. Your health care provider may instruct you to put your stool specimens into special containers with preservative fluid. Specimens not collected in a preservative fluid should be refrigerated, but not frozen, until delivered to the lab or the health care provider’s office. Your health care provider may request that the lab use special stains or that special tests be performed to look for parasites not routinely screened for.
+Endoscopy/Colonoscopy
+Endoscopy is used to find parasites that cause diarrhea, loose or watery stools, cramping, flatulence (gas) and other abdominal illness. This test is used when stool exams do not reveal the cause of your diarrhea. This test is a procedure in which a tube is inserted into the mouth (endoscopy) or rectum (colonoscopy) so that the doctor, usually a gastroenterologist, can examine the intestine. This test looks for the parasite or other abnormalities that may be causing your signs and symptoms.
+Blood tests
+Some, but not all, parasitic infections can be detected by testing your blood. Blood tests look for a specific parasite infection; there is no blood test that will look for all parasitic infections. There are two general kinds of blood tests that your doctor may order:
+Serology This test is used to look for antibodies or for parasite antigens produced when the body is infected with a parasite and the immune system is trying to fight off the invader. This test is done by your health care provider taking a blood sample and sending it to a lab.
+Blood smear This test is used to look for parasites that are found in the blood. By looking at a blood smear under a microscope, parasitic diseases such as filariasis, malaria, or babesiosis, can be diagnosed. This test is done by placing a drop of blood on a microscope slide. The slide is then stained and examined under a microscope.
+X-ray, Magnetic Resonance Imaging (MRI) scan, Computerized Axial Tomography scan (CAT)
+These tests are used to look for some parasitic diseases that may cause lesions in the organs.
+Can my lab work be sent directly to CDC?
+No. CDC is a reference lab for the 50 states and their individual health labs. This means that CDC cannot accept specimens unless they are sent by your state health lab.
+Where should lab specimens be sent for testing?
+Blood testing is done by a variety of labs. Your health care provider will decide where to send the blood samples to.
+Diagnosis of any stool parasite may be difficult; by submitting several stool specimens, your chance of being diagnosed correctly is higher than by submitting just one sample. If you receive a negative lab report, your physician may choose to send another sample to a different lab for confirmation.
+Is it true that labs in the United States cannot diagnose parasites?
+No. Labs throughout the United States are qualified to diagnose parasitic infections. Some labs have more experience than others or use various tests for the same parasite. Therefore, your health care provider may have more than one lab look at a sample if the suspicion of a parasitic infection is strong.

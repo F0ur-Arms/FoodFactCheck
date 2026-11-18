@@ -1,0 +1,44 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: About the Types of Hearing Loss
+URL: https://www.cdc.gov/hearing-loss-children-guide/parents-guide-genetics/about-the-types-of-hearing-loss.html
+────────────────────────────────────────────────────────────
+
+At a glance
+To find out more about the types of hearing loss, how hearing loss is identified, and the causes of hearing loss, keep reading.
+Types of hearing loss
+What are the types of hearing loss? There are a few ways to talk about the different types of hearing loss.
+One way is based on whether or not a baby is born with hearing loss. If the baby is born with hearing loss, it is called congenital. If the hearing loss occurs after the baby is born, it is called acquired.
+Another way depends on whether or not the hearing loss gets worse over time. Hearing loss that gets worse over time is called progressive. Hearing loss that does not change is called non-progressive.
+A third way depends on whether or not other conditions are present. If they are present it is syndromic, if not then it is called non-syndromic.
+A fourth way depends on whether or not hearing loss runs in the family. If it does, it is called familial; if it does not, it is sporadic or de novo.
+A fifth way is based on where in the ear the hearing loss occurs. If the loss occurs in the outer or middle ear it is conductive. If it occurs in the inner ear it is sensorineural. If the loss occurs in both areas, it is mixed.
+Congenital or Acquired‎
+Congenital: This means a person was born with the hearing loss. Babies born with hearing loss can be identified through a newborn hearing screening test. The test often is done before babies leave the hospitals in which they were born. The screening test does not tell the cause of the baby's hearing loss. It can tell only whether the baby might have a hearing loss.
+Acquired: This means a person could hear at birth but developed hearing loss later in life. Acquired hearing loss also can be described by the age at which it starts. If hearing loss starts before the age when children usually begin talking, it is called "pre-lingual," which means "before speaking." If hearing loss starts after the age when children begin talking, it is called "post-lingual," which means "after speaking."
+Progressive or Non-Progressive‎
+Progressive: If the hearing loss gets worse over time, it is called "progressive."
+Non-progressive: If the hearing loss does not change over time, it is "nonprogressive" or stable.
+Syndromic or Non-Syndromic‎
+Syndromic: This means that a person has other conditions besides hearing loss. For example, some people with hearing loss also are blind. There are many different syndromes that have hearing loss as one of the conditions.
+Non-syndromic: This means that the person does not have any other conditions.
+Familial or Sporadic‎
+Familial: If more than one person in a family has hearing loss, it is said to be "familial." That is, it runs in the family.
+Sporadic: If only one person in the family has hearing loss, it is called "sporadic." That is, it does not run in the family.
+Conductive or Sensorineural‎
+The middle ear contains small bones that help send sound from the air to the inner ear. The inner ear changes these sounds into nerve signals that go to the brain. See figure below.
+Conductive: This hearing loss is caused by changes in the outer or middle ear.
+Sensorineural: This hearing loss is caused by changes in the inner ear or in the hearing nerve, or both.
+Mixed: This hearing loss is both conductive and sensorineural.
+How Is hearing loss identified?
+Hearing screening is the first step in the identification process, and it can tell if a young child might have a hearing loss. Hearing screening is easy and is not painful. In fact, babies are often asleep while being screened. It takes a very short time — usually only a few minutes. All babies should have a hearing screening no later than 1 month of age, and in the United States about 98% of newborns are screened before they leave the hospital.
+There are two types of technology used to screen a newborn for hearing loss. The first is otoacoustic emissions (OAEs) and the second is auditory brainstem response (ABR). The OAE screen checks the inner ear response to sound. Because this screening does not rely on a person's response behavior, the child can be asleep during the screening. The ABR screen checks the brain's response to sound, and like the OAE screen, the ABR screen does not rely on a child's response behavior, so the child can also be asleep during this screen.
+If a child does not pass a hearing screening, it's very important for the child to get a full hearing test (often called an audiologic evaluation) as soon as possible, but no later than 3 months of age. Parents who need help finding audiology services for their child can visit the Early Hearing Detection and Intervention Pediatric Audiology Links to Services (EHDI PALS). This free resource includes an online national directory of facilities that offer pediatric hearing services to children who are younger than five years of age.
+How do healthcare providers figure out what caused a person's hearing loss?
+Healthcare providers begin by looking at a person’s physical features, medical history, and family history. Based on this, they classify the hearing loss in the ways described earlier (congenital or acquired during prelingual or post-lingual period, progressive or non-progressive, conductive or sensorineural, syndromic or non-syndromic, and familial or sporadic). The classifications often point to certain causes. The healthcare providers might ask for more medical tests to look for signs of syndromic hearing loss, and they may arrange for genetic tests.
+What causes hearing loss?
+Hearing loss can be caused by changes in or around genes (which are the instructions in the body's cells), or by external events (such as injuries, illness, and certain medications), or both.
+Hearing depends on the biology of the ear and the way the brain makes sense of sounds. Both of these can be influenced by genes. There are many genes involved in hearing. Genes are passed down from biological parents to their child. If a child has hearing loss, one or more genetic changes can be the cause. These genes may influence either the structure of the ear, the way the brain makes sense of sounds, or both. The child could have received the changed gene(s) from one or both parents (familial) or the changed gene occurred in the family only within the child with hearing loss (sporadic).
+There are also non-genetic causes for hearing loss. For example, babies who are born too early or who need help breathing (for example, using a ventilator) are more likely to develop hearing loss than are other babies. Some infections (for example, cytomegalovirus) that the mother has during her pregnancy can cause the baby to have hearing loss. Also, some infections (for example, meningitis) that babies and children sometimes have can cause hearing loss.
+Sometimes, both genes and external (i.e., non-genetic) events work together to cause hearing loss. For example, there are some medicines (known as ototoxic medications) that can cause hearing loss but only among people who also have specific gene changes.
+Keep Reading:
+About Genetics and Hearing Loss

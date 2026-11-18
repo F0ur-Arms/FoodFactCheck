@@ -1,0 +1,74 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: About the National Immunization Surveys (NIS)
+URL: https://www.cdc.gov/nis/about/index.html
+────────────────────────────────────────────────────────────
+
+For Everyone
+Apr. 17, 2026
+Key points
+The NIS are a group of cell phone surveys used to monitor vaccination coverage among children, teens, and adults.
+Estimates of vaccination coverage are determined for immunizations recommended by the Advisory Committee on Immunization Practices (ACIP).
+The NIS provides current, population-based, state and local area estimates of vaccination coverage using a standard survey methodology.
+Overview
+The NIS are a group of cell phone surveys used to monitor vaccination coverage among children 19–35 months (NIS-Child) and teens 13–17 years (NIS-Teen), flu and COVID-19 vaccinations for children 6 months–17 years (NIS-Flu), and coverage for influenza and other respiratory illnesses for adults 18 years and older (NIS-Fall Respiratory Virus Module or NIS-FRVM). The surveys are sponsored and conducted by the National Center for Immunization and Respiratory Diseases (NCIRD) of the Centers for Disease Control and Prevention (CDC) and authorized by the Public Health Service Act [Sections 306].
+The NIS provides current, population-based, state and local area estimates of vaccination coverage among children and teens using a standard survey methodology. The NIS-Child and NIS-Teen surveys collect data through cellular telephone interviews with parents or guardians in all 50 states, the District of Columbia, selected local areas and some U.S. territories (Guam, Puerto Rico, and U.S. Virgin Islands (during odd years only)). Cell phone numbers are randomly selected and called to enroll one or more age-eligible child or teen from the household. The parents and guardians of eligible children are asked during the interview for the names of their children's vaccination providers and permission to contact them. With this permission, a questionnaire is mailed to each child's vaccination provider(s) to collect the information on the types of vaccinations, number of doses, dates of administration, and other administrative data about the health care facility, and children and teens are classified as being up to date for each vaccine based on the ACIP-recommended numbers of doses.
+The NIS-Adult COVID Module (NIS-ACM) was added in April 2021 in response to the COVID-19 pandemic, to assess COVID-19 vaccination coverage in adults 18 years and older. As of October 2025, the NIS-Adult COVID Module (NIS-ACM) has been replaced by the NIS-Fall Respiratory Virus Module (NIS-FRVM).
+Surveys conducted by NORC
+The NIS are run by NORC at the University of Chicago (http://www.norc.org/) under the direction of CDC. If you have any questions about the NIS, please call NORC toll-free at 1-877-220-4805 and leave a detailed message.
+If you prefer to use a TTY, please call the AT&T Relay Service toll-free at 1-800-855-2880 and request that NORC be called at 1-877-220-4805.
+Current and past surveys
+CDC is currently conducting four surveys to assess vaccination coverage in children, adolescents, and adults:
+National Immunization Survey-Child (NIS-Child)
+Purpose and scope
+The NIS-Child was the first NIS, launched in 1994. The target population for the NIS-Child is children who are or will be 19-35 months within a few weeks of being selected to participate in the survey and living in the United States. Data are used to monitor vaccination coverage among 2-year-old children at the national, state, selected local levels, and some in U.S. territories.
+The NIS-Child measures coverage of the following recommended vaccinations:
+Diphtheria and tetanus toxoids and acellular pertussis vaccine (DTaP/DT/DTP)
+Poliovirus vaccine (Polio)
+Measles or Measles-Mumps-Rubella vaccine (MMR)
+Haemophilus influenzae type b vaccine (Hib)
+Hepatitis B vaccine (HepB)
+Varicella zoster (chickenpox) vaccine (VAR)
+Pneumococcal conjugate vaccine (PCV)
+Rotavirus vaccine (ROT)
+Hepatitis A vaccine (HepA)
+Influenza vaccine (Flu)
+NIS-Child collects data in two parts:
+A household telephone survey [91 pages]. This survey is answered by parents and guardians, includes questions about vaccinations for their children 19-35 months, and asks permission to contact vaccination providers (see Frequently Asked Questions about the Surveys for Participants).
+A mail survey of vaccination providers called the Immunization History Questionnaire [4 pages], (Spanish version [4 pages]). This survey is sent to doctors and other vaccination providers when a parent or guardian gives permission to collect data from vaccination providers. The Immunization History Questionnaire includes a reporting form for the types of vaccinations received, the number of doses, and the dates of administration. Questions are also asked about the practice, including the type of health care facility (see Frequently Asked Questions about the Surveys for Vaccination Providers).
+For additional information on results from the NIS-Child, please visit ChildVaxView.
+National Immunization Survey-Teen (NIS-Teen)
+Purpose and Scope
+The NIS-Teen was launched in 2006 to provide national level vaccination coverage estimates and expanded in 2008 to also provide state and local area estimates. The target population for the NIS-Teen is adolescents 13–17 years living in the United States at the time of the interview. Data are used to monitor vaccination coverage among teens at the national, state, and selected local levels, and some in U.S. territories.
+The NIS-Teen includes coverage of the following routine adolescent vaccines:
+Tetanus, diphtheria, acellular pertussis (Tdap)
+Meningococcal conjugate (MenACWY)
+Human papillomavirus (HPV)
+Influenza vaccine (Flu)
+Meningococcal B (MenB)
+NIS-Teen collects information in two parts:
+A household telephone survey [99 pages]. This survey is answered by parents and guardians and includes questions about vaccinations for their teen 13–17 years and asks permission to contact vaccination providers (see Frequently Asked Questions about the Surveys for Participants).
+A mail survey of vaccination providers called the Immunization History Questionnaire [4 pages], (Spanish version [4 pages]). This survey is sent to doctors and other vaccination providers when a parent or guardian gives permission to collect data from vaccination providers. The Immunization History Questionnaire includes a reporting form for the types of vaccinations received, the number of doses, and their dates of administration. Questions are also asked about the practice, including the type of health care facility (see Frequently Asked Questions about the Surveys for Vaccination Providers).
+For additional information on results from the NIS-Teen, please visit TeenVaxView.
+National Immunization Survey-Child Influenza Module (NIS-CIM)
+Purpose and scope
+A short flu and COVID-19 vaccination questionnaire, the National Immunization Survey-Child Influenza Module [39 pages] (NIS-CIM), is conducted from October through June each year for children 6–18 months and 3–12 years (who are not included in the NIS-Child or NIS-Teen). Parents and guardians are asked if their children had a flu vaccination and, if so, in which month and year. If the child received a vaccination, respondents are asked how many vaccine doses the child received and whether it was a flu shot or a flu nasal spray. Additional questions about flu vaccination are also asked. In January 2024, additional questions were added to the NIS-CIM to assess COVID-19 vaccination and intent. These select questions were previously assessed in the NIS-Child COVID module (NIS-CCM) before it was discontinued in December 2023.
+National Immunization Survey-Flu (NIS-Flu)
+The flu and COVID-19 vaccination questions in the NIS-CIM are also included in the NIS-Child and NIS-Teen. The NIS-Flu combines the flu and COVID-19 vaccination responses collected from NIS-Child (children 19–35 months), NIS-Teen (adolescents 13–17 years), and NIS-CIM (children 6–18 months and 3–12 years). NIS-Flu data are used to assess annual flu and COVID-19 vaccination coverage among children 6 months–17 years at the national level, state level, and selected local levels, Guam, Puerto Rico, and U.S. Virgin Islands (odd years only). These NIS-Flu estimates are based on the parent or guardian-reported data only.
+For additional information and seasonal flu estimates, please visit FluVaxView.
+For additional information on results about COVID vaccination, please visit COVIDVaxView.
+National Immunization Survey-Fall Respiratory Virus Module (NIS-FRVM)
+Purpose and scope
+The National Immunization Survey-Fall Respiratory Virus Module (NIS-FRVM) is conducted among adults 18 years and older. The survey is used to monitor COVID-19, RSV, and Flu vaccination uptake and confidence in vaccination among adults. It was launched in October 2025 and replaces the NIS-ACM which ended after April 2025.
+For additional information on results about respiratory diseases vaccination, please visit RespVaxView.
+Previous Surveys
+National Immunization Survey-Adult COVID Module (NIS-ACM)
+Purpose and scope
+The National Immunization Survey-Adult COVID Module (NIS-ACM), is conducted among adults 18 years and older. The survey is used to monitor COVID-19 vaccination uptake and confidence in vaccination among adults. The survey ended data collection after April 2025 and is now collected under The National Immunization Survey-Fall Respiratory Virus Module (NIS-FRVM).
+For additional information on results about COVID-19 vaccination, please visit COVIDVaxView.
+National Immunization Survey-Child COVID Module (NIS-CCM)
+Purpose and scope
+The National Immunization Survey-Child COVID Module [35 pages] (NIS-CCM) was added in July 2021 and was answered by parents and guardians to assess COVID-19 vaccination coverage among children and teens in eligible age groups. Data collection for the NIS-CCM was discontinued on December 31, 2023. Selected questions about COVID-19 vaccination and intent were added to the NIS-CIM, beginning January 2, 2024.
+For additional information on results about COVID vaccination, please visit COVIDVaxView.
+What data we collect
+The surveys collect information on the types of vaccinations, doses administered, dates of administration, type of health care facility, geography, and demographic characteristics such as age, race, ethnicity, urbanicity, insurance coverage, and poverty.
+Apr. 17, 2026

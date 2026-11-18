@@ -1,0 +1,15 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: About Echinococcosis
+URL: https://www.cdc.gov/echinococcosis/about/index.html
+────────────────────────────────────────────────────────────
+
+Key points
+Echinococcosis is a parasitic disease caused by infection with tiny tapeworms.
+Echinococcosis is classified as either cystic echinococcosis or alveolar echinococcosis.
+Each species causes different symptoms and spreads in different ways.
+Species
+Cystic echinocccosis
+Cystic echinocccosis (CE), also known as hydatid disease, is caused by infection with the larval stage of Echinococcus granulosus, a ~ – 7 millimeter long tapeworm found in dogs (definitive host) and sheep, cattle, goats, and pigs (intermediate hosts). Although most infections in humans are asymptomatic, CE causes harmful, slowly enlarging cysts in the liver, lungs, and other organs that often grow unnoticed and neglected for years.
+Alveolar echinococcosis
+Alveolar echinococcosis (AE) disease is caused by infection with the larval stage of Echinococcus multilocularis, a ~1 – 4 millimeter long tapeworm found in foxes, coyotes, and dogs (definitive hosts). Small rodents are intermediate hosts for E. multilocularis. Although cases of AE in animals in endemic areas are relatively common, human cases are rare. AE poses a much greater health threat to people than CE, causing parasitic tumors that can form in the liver, lungs, brain, and other organs. If left untreated, AE can be fatal.
+Learn about the echinococcosis life cycle.

@@ -1,0 +1,78 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Hepatitis C Basics
+URL: https://www.cdc.gov/hepatitis-c/about/index.html
+────────────────────────────────────────────────────────────
+
+For Everyone
+Nov. 2, 2026
+Key points
+Hepatitis C is a liver disease caused by the hepatitis C virus (HCV).
+Many people with hepatitis C don't look or feel sick so might not know they have the virus.
+Left untreated, hepatitis C can lead to serious liver problems, like scarring and cancer.
+About Hepatitis C
+Hepatitis C is a liver disease caused by HCV. Hepatitis C can range from a mild illness lasting a few weeks to a serious, long-term illness.
+Fast facts
+Hepatitis C is one of the most common types of viral hepatitis in the United States.
+It is estimated that more than 2.4 million people - and as many as 4 million people - had hepatitis C from 2017-2020. 1
+After over a decade of consecutive annual increases in acute hepatitis C, the number of acute hepatitis C cases has remained relatively stable since 2021.
+Hepatitis C in 2023
+Rates of acute hepatitis C were highest among non-Hispanic American Indian/Alaska Native people.
+People ages 20–39 years had the highest rates of acute hepatitis C.
+43% of cases with risk information were associated with using injection drugs.
+For Health Care Providers
+Clinical Overview of Hepatitis C
+Types
+The two types of hepatitis C are defined below.
+Acute hepatitis C
+When someone is first infected with HCV, they can either have a very mild illness with few or no symptoms or a serious condition that could require hospitalization.
+Less than half of people who get hepatitis C are able to clear the virus in the first 6 months after infection without treatment.
+Chronic hepatitis C
+Most people who get infected will develop a chronic, or lifelong, infection. Left untreated, chronic hepatitis C can cause serious health problems including liver disease, liver failure, liver cancer, and even death. Chronic hepatitis C is a leading cause of liver cancer and the leading cause of liver transplants in the United States.
+Signs and symptoms
+You can have hepatitis C even if you don't have any symptoms.
+Many people with hepatitis C don't look or feel sick.
+If you do develop symptoms, you will notice them 2-12 weeks after infection with the virus. Signs can include:
+Dark urine or clay-colored stools
+Feeling tired
+Fever
+Joint pain
+Loss of appetite
+Nausea, stomach pain, throwing up
+Yellow skin or eyes (jaundice)
+People with chronic hepatitis C are usually asymptomatic, meaning they do not have symptoms, or have general symptoms like chronic tiredness or depression. Yet even people without symptoms can spread the virus to others.
+Learn more about the signs and symptoms of hepatitis C.
+How it spreads
+Hepatitis C is spread when blood from an HCV-infected person — even microscopic amounts — enters the body of someone who is not infected. Because of how it spreads, certain life circumstances, jobs, and behaviors can increase your risk for hepatitis C.
+It's important to know that even people who have cleared or been cured of the virus can be re-infected.
+Did you know?
+There is no evidence that hepatitis C can spread from food handlers, teachers, or other service providers without blood-to-blood contact.
+There is no evidence to suggest that hepatitis C is spread by sharing eating utensils, hugging, kissing, holding hands, coughing, sneezing, or through food or water.
+You can still go to work, school, childcare or other places even if you have hepatitis C because you can't spread the virus during daily interactions.
+Prevention
+The best way to prevent contracting hepatitis C is to avoid behaviors that can spread the disease like sharing or reusing needles or other personal items that might come into contact with infected blood.
+Learn more about preventing hepatitis C.
+Screening, testing, and diagnosis
+Hepatitis C usually doesn't have symptoms. Getting testing is the only way to know if you have hepatitis C.
+CDC recommends hepatitis C testing for all adults, all pregnant women, and for anyone who may have been recently exposed. If you have been diagnosed with hepatitis C, see your doctor to start begin treatment without delay.
+It is important to get tested especially if you think you've been exposed so your doctor can start treating you with medicine.
+Left untreated, chronic hepatitis C can cause serious health problems, including liver damage, cirrhosis, liver cancer, and even death. You can live without symptoms for years, so testing is the only way to know if you have the virus.
+Testing process
+Your doctor will draw blood to do an HCV antibody test that will show whether you have ever been infected with HCV.
+If you test positive or reactive for HCV antibodies, you will automatically be tested for HCV ribonucleic acid (RNA). The results will tell you whether you have an active infection.
+Your doctor will help interpret and guide you through the results. If you have an active infection, your doctor will diagnose you with hepatitis C and get you started with treatment right away.
+Get tested and seek treatment
+Getting tested is the only way to know if you have hepatitis C. There are treatments available that can cure most people with hepatitis C in 8–12 weeks.
+Hepatitis C Testing
+Treatment and recovery
+There is no vaccine available for hepatitis C.
+The American Association for the Study of Liver Diseases (AASLD) and the Infectious Diseases Society of America (IDSA)2 recommend treatment for all people with hepatitis C, except for pregnant women and children under 3.
+Most treatments involve 8–12 weeks of oral medication (pills). Treatment cures more than 95% of patients with hepatitis C, usually without side effects.
+Learn more about hepatitis C treatment.
+What to expect long-term
+Most people can be cured of hepatitis C with timely treatment.
+If you don't get treatment, you can develop chronic liver disease even if you don't have any symptoms for years.
+What CDC is doing
+To end the public health threat of viral hepatitis, CDC works with health care providers, health departments and community-based organizations to improve access to viral hepatitis prevention, testing, treatment, and care services in the United States.
+In April 2020, CDC issued recommendations calling for all adults, pregnant women, and people with risk factors to get tested for hepatitis C.
+In July 2023, CDC issued new guidance for complete hepatitis C testing to eliminate the need for a separate follow-up appointment for hepatitis C virus RNA testing.
+In October 2023, CDC published recommendations that clinicians should test all infants and children 2-6 months old born to pregnant women with hepatitis C. Infants with detectable hepatitis C virus RNA should be managed in coordination with a health care provider with expertise in pediatric hepatitis C.

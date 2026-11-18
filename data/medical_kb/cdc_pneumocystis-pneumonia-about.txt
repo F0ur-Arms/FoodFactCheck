@@ -1,0 +1,56 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Pneumocystis Pneumonia Basics
+URL: https://www.cdc.gov/pneumocystis-pneumonia/about/index.html
+────────────────────────────────────────────────────────────
+
+For Everyone
+Oct. 21, 2026
+Key points
+Pneumocystis pneumonia (PCP) is a serious lung infection that affects people with weakened immune systems.
+PCP is airborne, spreads from person-to-person, and can cause symptoms such as fever, cough, and chest pain.
+Treatment for PCP must include prescription medication.
+Without treatment, PCP can cause death.
+Overview
+Pneumocystis pneumonia (PCP) is a rare, serious lung infection caused by the fungus Pneumocystis jirovecii. Most people with PCP have a weakened immune system due to a medical condition such as HIV or from medication, like corticosteroids.
+Symptoms
+The symptoms of PCP can develop over several days or weeks and include:
+Fever
+Cough
+Difficulty breathing
+Chest pain
+Chills
+Fatigue (tiredness)
+Risk factors
+Most people who get PCP have weakened immune systems. Some diseases and conditions that increase risk of PCP include:
+HIV/AIDS (About 30% to 40% of people who get PCP have HIV/AIDS)
+Chronic lung diseases
+Cancer
+Inflammatory diseases or autoimmune diseases (for example, lupus or rheumatoid arthritis)
+Solid organ or stem cell transplant
+The other people who get PCP are usually taking medicine (such as corticosteroids) that lowers the body’s ability to fight germs or sickness.
+How it spreads
+PCP spreads from person to person through the air. Some healthy adults can carry the Pneumocystis fungus in their lungs without having symptoms. They can spread it to other people, including those with weakened immune systems.
+Prevention
+There is no vaccine to prevent PCP. Medicine to prevent PCP are recommended for people living with HIV, stem cell transplant patients, and some solid organ transplant patients. Healthcare providers might also prescribe medicine to prevent PCP in other patients, such as people taking long-term, high-dose corticosteroids.
+The medicine most commonly used to prevent PCP is called trimethoprim/sulfamethoxazole (TMP/SMX). Other medicines are available for people who cannot take TMP/SMX.
+Testing
+Healthcare providers test for PCP by taking a sample of mucus (sputum) from the patient's lungs. Sometimes, a small sample of lung tissue (a biopsy) is used to diagnose PCP or take a blood sample.
+Samples are analyzed in clinical laboratories. One method that can be used is polymerase chain reaction (PCR) which detects PCP DNA. A blood test to detect β-D-glucan (a part of the cell wall of many different types of fungi) can also help diagnose PCP.
+Treatment and recovery
+PCP is treated with prescription medication. The most common treatment is trimethoprim/sulfamethoxazole (TMP/SMX), a medication also known as co-trimoxazole and by several different brand names, i.e. Bactrim, Septra, and Cotrim. This medicine is given by mouth or through a vein for 3 weeks.
+TMP/SMX can cause side effects such as rash and fever. Other medications are available for patients who cannot take TMP/SMX.
+Note: Most fungal diseases are treated with antifungal medications. Antibiotics typically are used to treat infections caused by bacteria. Unlike other fungal diseases, PCP is treated with an antibiotic, and antifungal medications do not work to treat it.
+Research
+There is no national surveillance for PCP in the United States. There were 10,590 estimated U.S. hospitalizations due to Pneumocystis pneumonia in 2017.
+History of HIV and PCP
+During the 1980s, clusters of PCP were one of the first signs of the HIV/AIDS epidemic emerging in the United States. It became one of the main AIDS-defining illnesses with an estimated three-in-four people living with HIV/AIDS developing PCP.
+Since then, PCP in people living with HIV has decreased substantially due to antiretroviral therapy and treatment with TMP/SMX. In some developing countries that lack access to these treatments, PCP remains a common infection among people living with HIV.
+Keep Reading
+Fungal Diseases and HIV/AIDs
+More fungal disease resources
+Fungal Diseases
+Fungal diseases and antifungal resistance are increasing worldwide. Misdiagnosis is common.
+Communication and Educational Materials
+Find and download social media graphics, fact sheets, infographics, and animated videos.
+Resources for Healthcare Professionals
+Access job aids and webinars and listen to podcasts featuring world experts in fungal diseases.

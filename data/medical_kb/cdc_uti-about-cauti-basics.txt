@@ -1,0 +1,49 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Catheter-associated Urinary Tract Infection (CAUTI) Basics
+URL: https://www.cdc.gov/uti/about/cauti-basics.html
+────────────────────────────────────────────────────────────
+
+Key points
+A catheter-associated urinary tract infection (CAUTI) occurs when germs enter the urinary tract through a urinary catheter and cause infection.
+CAUTIs are one of the most common types of healthcare-associated infections (HAIs).
+They are preventable and treatable.
+Overview
+A catheter-associated urinary tract infection (CAUTI) occurs when germs enter the urinary tract through a urinary catheter and cause infection. They are one of the most common types of HAIs but are preventable and treatable.
+Signs and symptoms
+Burning or pain below the stomach
+Fever
+Burning while peeing
+Peeing more frequently than usual
+Risk factors
+The most important risk factor for developing a CAUTI is prolonged use of a urinary catheter.
+Causes
+A CAUTI occurs when germs (usually bacteria) enter the body through a urinary catheter and cause infection. The infection can happen in any part of the urinary tract (e.g., kidneys, ureters, bladder, and urethra).
+Reducing risk
+Patients
+Should
+Understand why they need it and frequently ask healthcare providers if the catheter is still needed.
+If the patient has a long-term catheter, they must clean their hands before and after touching the catheter.
+Check the position of the urine bag; it should always be below the level of the bladder.
+Should not
+Tug or pull on the tubing.
+Twist or kink the catheter tubing.
+Healthcare facilities
+Healthcare workers and facilities can prevent CAUTIs and protect patients with proper infection control processes.
+Health Care Providers
+Clinical Safety: Preventing Catheter-associated Urinary Tract Infections (CAUTIs)
+Quick facts
+CAUTIs are one of the most common HAIs.
+About 75% of UTIs developed in hospitals are associated with a urinary catheter.
+15-25% of hospitalized patients use urinary catheters.
+CAUTIs are associated with increased morbidity, mortality, healthcare costs, and length of stay.
+Types of catheters
+Indwelling urinary catheter. A drainage tube is inserted into the bladder through the urethra, left in place and connected to a closed collection system.
+Intermittent ("in-and-out") catheterization. Brief insertion of a catheter into the bladder through the urethra to drain urine followed by removal.
+External catheter. A urine containment device is attached to a urinary drainage bag that fits over or adheres to the genitalia. The most used external catheter is a soft flexible sheath that fits over the penis ("condom" catheter).
+Suprapubic catheter. Surgically inserted into the bladder through an incision in the lower abdomen.
+Treatment and recovery
+Most CAUTIs can be treated with antibiotics and/or removal or change of the catheter. The healthcare provider will determine the best treatment for each patient.
+What CDC is doing
+Tracking CAUTIs through the National Healthcare Safety Network.
+Data is also available on the AR & Patient Safety Portal.
+Working closely with health departments, other federal agencies, healthcare providers and patients to prevent infections caused by CAUTIs and slow the spread of resistant germs.

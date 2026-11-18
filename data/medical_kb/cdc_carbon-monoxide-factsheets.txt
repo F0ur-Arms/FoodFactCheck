@@ -1,0 +1,64 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Fact Sheets and Other Resources
+URL: https://www.cdc.gov/carbon-monoxide/factsheets/index.html
+────────────────────────────────────────────────────────────
+
+Key points
+Find useful information on a number of topics related to carbon monoxide poisoning.
+Fact sheets
+Carbon Monoxide (CO) Poisoning Fact Sheet
+Following these important steps can keep your family safe from CO poisoning.
+Generator Safety Fact Sheet
+Learn how to safely use a generator to protect from CO poisoning.
+Furnace Safety Fact Sheet
+Learn how to protect from CO poisoning while operating a furnace.
+CO poisoning after a disaster
+Clinical guidance
+Clinical Guidance for Carbon Monoxide Poisoning Following Disasters and Severe Weather
+Clinical guidance for carbon monoxide (CO) poisoning diagnosis and treatment
+Additional resources
+Video: Safe use of a portable generator following severe weather
+Video: The Quiet Killer
+Modeling the Effects of Outdoor Gasoline Powered Generator Use on Indoor Carbon Monoxide Exposures — Phase I
+Download
+Modeling the Effects of Outdoor Gasoline Powered Generator Use on Indoor Carbon Monoxide Exposures — Phase II
+Download
+Carbon monoxide poisoning prevention communication toolkit
+Publications
+Shin M, Bronstein AC, Glidden E, Malone M, Chang A, Law R, Boehmer T, Strosnider H, Yip F. “Morbidity and Mortality of Unintentional Carbon Monoxide Poisoning: United States 2005 to 2018.” Annals of Emergency Medicine 2022.
+Chen J, Dignam T, Yip F, García BR, Blanton C, Brown MJ, Sircar K. “Smoke Alarms and Carbon Monoxide Alarms in Households with Children, Puerto Rico, 2010.” Journal of Primary Prevention 2020.
+Roca-Barcelo A, Crabbe H, Ghosh R, Freni-Sterrantino A, Fletcher T, Leonardi G, Hoge C, Hansell AL, Piel FB. “Temporal trends and demographic risk factors for hospital admissions due to carbon monoxide poisoning in England” Preventive Medicine 2020.
+Wilson E, Tomasallo C, Meiman J. "Notes from the Field: Occupational Carbon Monoxide Exposure in an Industrial Kitchen Facility, Wisconsin, 2017." MMWR 2018; 67(28):786.
+Ran T, Nurmagambetov T, Sircar K. “Economic implications of unintentional carbon monoxide poisoning in the United States and the cost and benefit of CO detectors.” American Journal of Emergency Medicine 2017.
+Schnall A, Law, R, Heinzerling A, Sircar K, Damon S, Yip F, Schier J, Bayleyegn T, Wolkin A. “Characterization of Carbon Monoxide Exposure During Hurricane Sandy and Subsequent Nor’easter.” Disaster Medicine and Public Health Preparednes 2017; 11 (5): 562-567.
+Sircar S, Stearns D. “Post-Disaster Carbon Monoxide Surveillance.” in Horney J. Disaster Epidemiology: Methods and Applications.
+Creswell PD, Meiman JG, Nehls-Lowe H, Vogt C, Wozniak RJ, Werner MA, Anderson H. “Exposure to Elevated Carbon Monoxide Levels at an Indoor Ice Arena – Wisconsin, 2014.” MMWR. 2015; 64(45); 1267-1270.
+Anderson AR. “Top Five Chemicals Resulting in Injuries from Acute Chemical Incidents — Hazardous Substances Emergency Events Surveillance, Nine States, 1999–2008.” MMWR. 2015; 64(SS02);39-46.
+Sircar K, Clower J, Shin Mk, Bailey C, King M, Yip F. “Carbon monoxide poisoning deaths in the United States, 1999 to 2012.” American Journal of Emergency Medicine 2015 33 (9): 1140–1145.
+Chen H, Yip FY, Lavonas EJ, Iqbal S, Turner N, RD Cobb, Garbe P. “Using the Exhibited Generalization Approach to Evaluate a Carbon Monoxide Ordinance.” Evaluation and Program Planning. 2014; 47: 35–44.
+Damon SA, Poehlman JA, Rupert DJ, Williams PN. “Storm-Related Carbon Monoxide Poisoning: An Investigation of Target Audience Knowledge and Risk Behaviors.” Social Marketing Quarterly. 2013: 19:188-199.
+Dunn KH, Shulman S, Stock AL, Naeher LP. “Personal carbon monoxide exposures among firefighters at prescribed forest burns in the southeastern United States.” Arch Environ Occup Health. 2013; 68(1):55-9.
+Rupert DJ, Poehlman JA, Damon SA, Williams PN (2013). “Risk and protective behaviours for residential carbon monoxide poisoning.” Injury Prevention; 19(2): 119-123.
+Clower J, Henretig F, Trella J, Hoffman R, Wheeler K, Maxted A, Weng C, Chen J-H, Chang H-G, Blog D, Marcus S, Ruck B, Bronstein A, Yip F, Law R, Wolkin A, Lewis L, Schier J. "Notes from the Field: Carbon Monoxide Exposures Reported to Poison Centers and Related to Hurricane Sandy — Northeastern United States, 2012." MMWR. 2012; 61(44): 905.
+Clower J, Hampson NB, Iqbal S, Yip FY. “Recipients of hyperbaric oxygen treatment for carbon monoxide poisoning and exposure circumstances.” American Journal of Emergency Medicine 2012; 30:846-51.
+Hampson NB, Dunn SL, Yip FY, Clower JH, Weaver LK. “The UHMS/CDC Carbon Monoxide Poisoning Surveillance Program: Three-year data.” Undersea & Hyperbaric Medicine 2012; 39 (2): 667-85.
+Iqbal S, Clower J, Saha S, Boehmer T, Mattson C, Yip FY, Cobb B, Flanders WD. “Carbon Monoxide Alarm Ordinance Awareness and Presence of Alarms at Home.” Journal of Public Health Management and Practice, 2012; 18(3): 272–278.
+Iqbal S, Clower JH, Hernandez SA, Damon SA, Yip FY. “A Review of Disaster-Related Carbon Monoxide Poisoning: Surveillance, Epidemiology, and Opportunities for Prevention.” American Journal of Public Health.
+Iqbal S, Clower JH, King ME, Bell J, Yip FY. “National Carbon Monoxide Poisoning Surveillance Framework and Recent Estimates.” Public Health Reports 2012; 127: 486-496.
+Iqbal S, Clower JH, Saha S, Boehmer T, Mattson C, Yip FY, Cobb B, Flanders WD. “Residential Carbon Monoxide Alarm Prevalence and Ordinance Awareness.” Journal of Public Health Management and Practice 2012; 18 (3): 272-278.
+Iqbal S, Law HZ, Clower JH, Yip FY, Elixhauser A. “Hospital burden of unintentional carbon monoxide poisoning in the United States, 2007.” The American Journal of Emergency Medicine, 2012; 30:657-64.
+Iqbal S, Yip FY. “Carbon Monoxide Poisoning: Health Effects, Surveillance, and Epidemiology.” in Friis RG (ed. ) The Praeger handbook of environmental health. Vol. Two, Santa Barbara: Praeger, 2012.
+Bell J, Bronstein A, Clower JH, Iqbal S, Yip FY, Martin CA, Chang A, Wolkin AF. “Carbon Monoxide Exposures — United States, 2000–2009.” MMWR 2011; 60(30):1014-1017.
+Clower JH, Hampson NB, Iqbal S, Yip FY. “Recipients of hyperbaric oxygen treatment for carbon monoxide poisoning and exposure circumstances.” American Journal of Emergency Medicine.
+Iqbal S, Law HZ, Clower J, Yip FY, Elixhauser A. “National hospital burden of unintentional carbon monoxide poisoning.” American Journal of Emergency Medicine.
+Iqbal S, Clower J, Yip FY, Garbe P. “Carbon monoxide poisoning surveillance.” in Levy BS, Wegman DH, Baron SL, Sokas RK (eds). Occupational and environmental health. 6th Ed. Oxford University Press, 2011.
+King ME, Damon SA. “Attitudes about Carbon Monoxide Safety in the United States: Results from the 2005 and 2006 HealthStyles Survey.” Public Health Reports, 2011; 126 (S1): 100-107.
+Lutterloh EC, Iqbal S, Clower J, Spiller HA, Riggs M, Suggs TJ, Humbaugh KE, Cadwell BL, Thoroughman D. “Carbon monoxide poisoning after an ice storm – Kentucky, 2009.” Public Health Reports, 2011; 126:S(1): 108- 115.
+Iqbal S, Clower J, Boehmer T, Yip F, Garbe P. “Carbon Monoxide Related Hospitalizations in the United States: Evaluation of a Web-based Query System for Public Health Surveillance” Public Health Reports 2010; 125:423-432.
+Mack KA, Liller KD, Damon S. Response to letter to the editor: “CO Detectors prevent CO Poisoning” Am J Lifestyle Medicine 2010; 4:368.
+Murphy M., Iqbal S., Sanchez C., Quinlisk P. “Post-disaster health communication and information sources: The Iowa flood scenario” Disaster Medicine and Public Health Preparedness. 2010; 4(2): 129-134.
+Archived resources
+Archive Date: 3/29/2024
+Rationale
+Routine
+Disaster

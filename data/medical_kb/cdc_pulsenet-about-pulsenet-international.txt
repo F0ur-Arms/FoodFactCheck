@@ -1,0 +1,32 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: About PulseNet International
+URL: https://www.cdc.gov/pulsenet/about/pulsenet-international.html
+────────────────────────────────────────────────────────────
+
+For Everyone
+Sept. 9, 2026
+What to know
+PulseNet International consists of over 100 countries and 8 regions around the globe.
+The network is managed by a PulseNet USA, PulseNet Canada, and representatives from each region.
+How it Works
+PulseNet International works to implement standardized methods in 8 regions globally to share whole genome sequencing data in real-time within regional, and national laboratory networks. Data sharing supports surveillance and outbreak response of foodborne diseases.
+International activities are supported by the following public health partners:
+Association of Public Health Laboratories (APHL)
+Pan-American Health Organization (PAHO)
+APHL and PAHO work with each country's public health laboratories, and other food and agricultural regulatory agencies.
+Priorities
+Priorities for PulseNet International include:
+Providing technical assistance, resources, and training
+Facilitating regular communications and sharing of data
+Developing short and long-term visions for global surveillance activities
+The United States, Canada, most of the European countries on the network have fully transitioned to using whole genome sequencing for foodborne illness surveillance activities. Other regions are working towards developing capabilities for integrating WGS into routine surveillance activities.
+Currently, PulseNet laboratories follow a standardized workflow for generating sequence data. An ongoing development is the addition of a standardized analysis workflow. One other advantage for PulseNet International is the ability to leverage sequencing platforms built for SARS-CoV-2 and exchanging data to better facilitate foodborne disease surveillance.
+Contacts
+PulseNet International Coordinators are the first point of contact for any country or institution interested in joining the network. Coordinator information can be found on each region's webpage.
+PulseNet Eastern Europe Central Asia
+PulseNet Latin America & the Caribbean
+PulseNet Middle East North Africa
+European Food and Waterborne Diseases and Zoonoses Network
+PulseNet Canada
+PulseNet Asia Pacific
+PulseNet Africa

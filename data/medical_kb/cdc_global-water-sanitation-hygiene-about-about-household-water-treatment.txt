@@ -1,0 +1,52 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Household Water Treatment
+URL: https://www.cdc.gov/global-water-sanitation-hygiene/about/about-household-water-treatment.html
+────────────────────────────────────────────────────────────
+
+Apr. 22, 2024
+Key points
+More than 2 billion people don't have access to clean drinking water.
+Boiling water, putting chlorine in it, and using sunlight can make water safe, but these methods cannot remove chemicals.
+Choosing a water treatment method depends on availability, water quality, and what the community needs to keep everyone healthy.
+Overview
+Today, over 2 billion people do not have access to clean drinking water. Treating water at home or locally can make it safe and prevent diseases.
+When choosing a method to clean water for homes or communities, consider:
+Existing water conditions
+Water quality
+Ability to install water, sanitation, and hygiene facilities
+Cultural acceptance
+Accessibility
+Technology availability
+Reliability for long-term use
+Specific local factors
+There are many ways to make water safe from harmful germs. The most common methods are boiling, adding chlorine, using filters, and exposing water to sunlight.
+Water that has fuel, toxic chemicals, or radioactive materials in it will not be made safe by any of these treatment methods. Use bottled water or a different source of water if you know or suspect that your water might be contaminated with fuel or toxic chemicals.
+Ways to make water safe
+Boiling
+Boiling or heating water is the most widely used and effective method to kill disease-causing germs, including viruses, bacteria, and parasites.
+Steps for boiling water:
+Bring clear water to a rolling boil for 1 minute. At elevations above 6,500 feet, boil for 3 minutes.
+After boiling, allow the water to cool before use.
+Store the boiled water in clean, sanitized containers with tight covers.
+If the water has a harmful chemical or radioactive material in it, boiling will not make it drinkable.
+Chlorination
+Chlorination is a type of chemical disinfection. It involves adding chlorine-based products to water to kill bacteria and viruses. Other chemical disinfectants like iodine and chlorine dioxide are also used to disinfect water. Drinking water treated with these chemicals in small amounts is safe and helps prevent disease outbreaks.
+While chlorine is effective against many pathogens, it may not work as well on resistant parasites like Cryptosporidium and Giardia. However, chlorine dioxide tablets, when used according to instructions, can kill Cryptosporidium.
+If the water has a harmful chemical or radioactive material in it, adding a disinfectant will not make it drinkable.
+Flocculation-disinfection
+Flocculation-disinfection is a way to clean water by adding a flocculant-disinfectant powder, such as PUR sachets. This powder makes dirt particles stick together into bigger clumps, or flocs, which are then easy to remove from the water.
+PUR sachets have two main ingredients: powdered ferric sulfate, which helps form the clumps, and calcium hypochlorite, which kills germs.
+Steps for using flocculant powder:
+Mix a sachet with 10 liters of water for 5 minutes
+After mixing, the dirt settles at the bottom
+Pour the water through a cloth into another container to keep it clean for drinking
+This cleaning method works best for water that is cloudy or muddy.
+If the water has a harmful chemical or radioactive material in it, adding a flocculant powder will not make it drinkable.
+Solar disinfection
+Solar disinfection can clean water by using heat and UV radiation to kill bacteria and parasites in water. This method works by:
+Placing contaminated water in a transparent container
+Exposing container to strong sunlight for 6 to 8 hours if sunny, or 2 days if cloudy
+If the water has a harmful chemical or radioactive material in it, solar disinfection will not make it drinkable.
+Slow sand filtration
+Slow sand filtration is a method to clean water that works by removing cloudiness and germs in a single treatment step. When constructed, the filter consists of a tank, a bed of fine sand, a layer of gravel to support the sand, a system of underdrains to collect the filtered water, and a flow regulator to control the filtration rate. No chemicals are added to aid in this filtration process.
+Apr. 22, 2024

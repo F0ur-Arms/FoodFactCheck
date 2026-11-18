@@ -1,0 +1,25 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Cache Valley: Causes and How It Spreads
+URL: https://www.cdc.gov/cache-valley/causes-and-spread/index.html
+────────────────────────────────────────────────────────────
+
+For Everyone
+Key points
+Cache Valley virus disease (Cache Valley) is caused by a virus typically spread through the bite of an infected mosquito.
+Cache Valley virus circulates in the environment between mosquitoes and certain animals (like deer).
+People do not spread the infection except rarely through blood transfusions.
+Primary cause
+Cache Valley is caused by a virus that is found throughout parts of the United States, Canada, Central America, and the Caribbean.
+About the virus
+Cache Valley virus is a mosquito-borne virus in the family Peribunyaviridae, genus Orthobunyavirus, and serogroup Bunyamwera. Subtypes of Cache Valley virus, including Tlacotalpan and Cholul viruses, have been found in Mexico.
+Examples of other viruses of medical importance in the Bunyamwera serogroup related to Cache Valley virus include Maguari and Fort Sherman viruses.
+How it spreads
+Cache Valley virus usually spreads to people and animals through the bites of infected mosquitoes.
+People are considered "dead-end" hosts, meaning they do not spread the virus to uninfected mosquitoes that bite them.
+The virus does not spread from person to person, except rarely by blood transfusion. Because the virus can spread through blood, people who were recently diagnosed with Cache Valley virus infection should not donate blood and bone marrow for 120 days following infection.
+Cache Valley virus does not spread by coughing, sneezing, touching, or other contact with someone who is infected.
+Prevent Cache Valley
+There are no vaccines or medicines to prevent Cache Valley. The best way to protect yourself is to prevent mosquito bites.
+Transmission cycle
+Mosquitoes become infected when they feed on mammals that have the virus in their blood. Infected mosquitoes can then spread the virus to people and animals by biting them.
+Cache Valley virus has been found in many types of mosquitoes (including Anopheles, Culiseta, Coquillettidia, and Aedes species), but it is not known which species are the main ones that spread the virus to humans. The mammals most likely involved in the transmission cycle are deer, cattle, horses, and sheep. Although people are dead-end hosts, person-to-person transmission via blood transfusion has been documented in a rare case.

@@ -1,0 +1,38 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: CDC Style for US Territories and Freely Associated States
+URL: https://www.cdc.gov/island-affairs/about/style-referring-territories.html
+────────────────────────────────────────────────────────────
+
+Key points
+CDC's Office of Island Affairs created a guide for talking about US territories and freely associated states.
+Review tips and fact sheets covering best practices for communicating information related to the US islands.
+Overview
+The Office of Island Affairs in the National Center for State, Tribal, Local, and Territorial Public Health Infrastructure and Workforce (Public Health Infrastructure Center) developed this tip sheet of terms to use when communicating information related to territories and freely associated states. Although they are not the only terms that apply, they reflect terms that CDC and the Public Health Infrastructure Center have used and seen used most often in their work with these jurisdictions.
+Implementation strategies
+5 US territories and 3 freely associated states
+This is the official term used by CDC. It is consistent with the US Department of State and US Department of the Interior.
+Use this term when you refer to all entities and need to say how many there are.
+The 5 US territories and their locations—
+Pacific Ocean: American Samoa (AS), the Commonwealth of the Northern Mariana Islands (CNMI), and Guam (GU).
+Caribbean Sea: Puerto Rico (PR) and the US Virgin Islands (USVI).
+The 3 freely associated states and their locations—
+Pacific Ocean: the Federated States of Micronesia (FSM), the Republic of the Marshall Islands (RMI), and the Republic of Palau (Palau).
+The 3 freely associated states are not US territories, but independent countries with a Compact of Free Association agreement with the United States.
+Do not use periods with "US".
+Do not capitalize "territories" or "freely associated states".
+Each island or group of islands constitutes a singular territory or country and requires a singular verb. For example: The US Virgin Islands (USVI) is located in the Caribbean. The Federated States of Micronesia consists of four states.
+Note: Depending on the editorial style of the materials where these terms are used, the numbers five and three can be spelled out.
+US territories and freely associated states
+Use this term when you refer to all entities and do not need to say how many there are.
+US-Affiliated Pacific Islands (USAPI)
+This alternative term is commonly used by entities and organizations in the Pacific region.
+You can use this term alone to refer to both territories and independent countries in the Pacific region only.
+The USAPI consist of—
+3 US territories: American Samoa (AS), the Commonwealth of the Northern Mariana Islands (CNMI), and Guam (GU).
+3 freely associated states: the Federated States of Micronesia (FSM), the Republic of the Marshall Islands (RMI), and the Republic of Palau (Palau).
+The United States is responsible for the health, education, defense, and other essential operations of these six.
+The acronym "USAPI" refers to multiple island countries. It requires a plural verb and does not need an "s" at the end. For example: The USAPI are populated by...
+USAPI jurisdiction
+The word "jurisdiction" is optional and not needed in most cases. It is a general word that can refer to any political, administrative, or geographic entity, including a state, territory, country, or government.
+Insular areas
+Do not use this term.

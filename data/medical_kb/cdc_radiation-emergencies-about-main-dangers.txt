@@ -1,0 +1,41 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Main Dangers of Radiation Emergencies
+URL: https://www.cdc.gov/radiation-emergencies/about/main-dangers.html
+────────────────────────────────────────────────────────────
+
+What to know
+Impacts from radiation emergencies depend on several factors, primarily the type of emergency, proximity to the incident, and whether you are indoors or outdoors when it happened.
+Main dangers
+Improvised nuclear device (IND)
+People close to the blast site could experience
+Injury or death as a result of the blast
+Moderate to severe burns
+Flash blindness
+Radiation sickness (also called Acute Radiation Syndrome or ARS)
+Contaminated food and water sources
+Dirty bomb or radiological dispersal device (RDD)
+The main danger from a dirty bomb comes from the explosion, not the radiation.
+The explosion from a dirty bomb can cause serious injuries and property damage.
+Only people who are very close to the blast site would be exposed to enough radiation to cause immediate serious illness.
+Radioactive dust and smoke can spread farther away. People may get sick from breathing in the dust or eating or drinking contaminated food or water.
+Radiological exposure device (RED)
+The dangers of a radiological exposure device depend on
+The type and amount of radioactive material
+How long you were near the device
+What parts of your bodies were exposed (total vs. partial body)
+If you were exposed to high levels of radiation, you could develop symptoms of Acute Radiation Syndrome (ARS) or radiation burns.
+Health effects may take hours, days, or weeks to appear. These effects range from mild to severe effects, such as death or cancer. You may also not experience any health effects.
+Nuclear power plant accident
+Radioactive materials in the plume released from the nuclear power plant can settle and contaminate people who are outdoors, buildings, food, water, and livestock.
+Radioactive materials can also get inside the body through breathing or through eating or drinking contaminated food or water.
+If you are living close to the nuclear power plant and are exposed to radiation, you could experience long-term health effects such as cancer.
+Transportation accidents
+The main dangers of transportation accidents involving radiation are contact with and exposure to radioactive material.
+It is very unlikely that accidents involving transport of radioactive material will cause any radiation-related injuries or illnesses.
+Emergency officials have plans in place to safely respond to transportation accidents involving radioactive material.
+Occupational accidents
+You may experience no health effects or health effects ranging from minor to very serious. Severity of health effects is based on several factors:
+The type and amount of radioactive material
+How close you were to the radioactive material
+How long you were near the radioactive material or how long the radioactive material was in or on the body
+What parts of the body were exposed

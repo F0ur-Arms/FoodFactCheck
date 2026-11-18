@@ -1,0 +1,22 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Lyme Disease Vaccine
+URL: https://www.cdc.gov/lyme/about/lyme-disease-vaccine.html
+────────────────────────────────────────────────────────────
+
+Apr. 28, 2026
+What to know
+A vaccine for Lyme disease is not currently available. The only vaccine previously marketed in the United States, LYMERix®, was discontinued by the manufacturer in 2002, citing insufficient consumer demand. Protection provided by this vaccine decreases over time. Therefore, if you received this vaccine before 2002, you are no longer protected against Lyme disease.
+Clinical trials
+Clinical trials of new vaccines for Lyme disease are underway. Valneva and Pfizer have developed a Lyme disease vaccine candidate, LB6V (formerly VLA15), that recently completed Phase 3 human trials. LB6V is a multivalent, protein subunit vaccine that targets the outer surface protein A (OspA) of Borrelia. This vaccine is designed to protect people against North American and European strains of the Lyme disease bacterium.
+The University of Massachusetts Medical School's MassBiologics developed a human monoclonal antibody intended for pre-exposure prophylaxis (PrEP) against Lyme disease. In 2025, MassBiologics licensed the technology to Tonix Pharmaceuticals, which is planning human clinical studies. This approach would provide seasonal protection against Lyme disease and would likely consist of a single shot that people would get each year before exposure to ticks.
+What is CDC doing?
+CDC is conducting research to better understand what concerns healthcare providers and the public may have about any potential Lyme disease vaccine. If a Lyme disease vaccine is approved as safe and effective by the Food and Drug Administration (FDA), CDC will work with the Advisory Committee on Immunization Practices (ACIP) to develop recommendations about who and where in the U.S. the public might benefit from a Lyme disease vaccine. CDC will communicate these recommendations to the public and healthcare providers.
+Additional reading
+Comstedt P, Hanner M, Schüler W, Meinke A, Schlegl R, Lundberg U. Characterization and optimization of a novel vaccine for protection against Lyme borreliosis. Vaccine. 2015;33(44):5982-5988.
+Comstedt P, Schüler W, Meinke A, Lundberg U. The novel Lyme borreliosis vaccine VLA15 shows broad protection against Borrelia species expressing six different OspA serotypes. PLoS One. 2017;12(9):e0184357.
+Devchand R, Koehler L, Hook S, et al. Understanding consumer and clinician perceptions of a potential Lyme disease vaccine. Health Educ Res. 2021 Sep 16. Epub ahead of print.
+Gomes-Solecki M, Arnaboldi PM, Backenson PB, et al. Protective immunity and new vaccines for Lyme disease. Clin Infect Dis. 2020;70(8):1768-1773.
+Hook SA, Hansen AP, Niesobecki SA, et al. Evaluating public acceptability of a potential Lyme disease vaccine using a population-based, cross-sectional survey in high incidence areas of the United States. Vaccine. 2021 Dec 8. Epub ahead of print.
+Shen AK, Mead PS, Beard CB. The Lyme disease vaccine–a public health perspective. Clin Infect Dis 2011 Feb;52 Suppl 3:s247-52.
+Wang Y, Esquivel R, Flingai S, et al. Anti-OspA DNA-encoded monoclonal antibody prevents transmission of spirochetes in tick challenge providing sterilizing immunity in mice. J Infect Dis. 2019;219(7):1146-1150.
+Apr. 28, 2026

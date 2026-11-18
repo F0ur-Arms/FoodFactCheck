@@ -1,0 +1,37 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Español
+URL: https://www.cdc.gov/listeria/causes/dairy.html
+────────────────────────────────────────────────────────────
+
+How Listeria Spread: Soft Cheeses and Raw Milk
+At a glance
+People who eat food contaminated with Listeria bacteria can get a harmful infection.
+Soft cheeses, which are high in moisture, are more likely to be contaminated than hard cheeses.
+Outbreaks of Listeria infection have been linked to many kinds of soft cheeses, including queso fresco and Brie.
+Raw (unpasteurized) milk and products made from it, including cheese, yogurt, and ice cream, also can be contaminated with Listeria.
+Queso fresco-type cheeses and cheeses made with unpasteurized (raw) milk
+Certain cheeses are more likely to make people sick from Listeria than others. This is because some cheeses are made in a way that allows Listeria germs to contaminate the cheese and grow. Queso fresco-type cheeses are one of these cheeses. They are fresh, soft cheeses that do not go through a significant aging process (which can help kill Listeria in other cheeses). They are high-moisture, low-acidity cheeses that can support the growth of Listeria. Cheese made with unpasteurized (raw) milk are more likely to contain Listeria and other germs that make people sick.
+Heating queso fresco-type cheeses or cheeses made with unpasteurized (raw) milk to an internal temperature of 165°F or steaming hot kills harmful germs like Listeria. People at higher risk for listeriosis can choose to still enjoy these cheeses by cooking these cheeses as part of a dish, like enchiladas or casseroles. Wash hands with soap and warm water for at least 20 seconds after handling these cheeses.
+For people who are at higher risk for listeriosis and still want to eat queso fresco-type cheeses, FDA has recommendations for how to reduce the risk of getting sick.
+Recent multistate listeriosis outbreaks linked to queso fresco-type or unpasteurized (raw) milk cheeses:
+2024 outbreak linked to queso fresco and cotija cheese
+2021 outbreak linked to queso fresco cheese
+2017 outbreak linked to soft raw milk cheese
+2014 outbreak linked to quesito casero cheese
+2014 outbreak linked to queso fresco cheese
+Raw (unpasteurized) milk and products made from it
+Raw milk is milk that has not been pasteurized. Pasteurization heats milk to a high enough temperature for a long enough time to kill germs.
+Raw milk and products made from raw milk, including cheese, ice cream, and yogurt, might contain Listeria and other harmful germs.
+It's important to understand that raw milk can be a source of foodborne illness. While good practices on farms can reduce contamination, they cannot guarantee safety from harmful germs. Pasteurized milk offers the same nutritional benefits without the risks of raw milk consumption.
+CDC recommends that everyone choose pasteurized milk and dairy products.
+Multistate outbreak:
+2016 outbreak linked to raw chocolate milk
+Show me the science
+Soft cheeses
+Jackson K, Gould L, Hunter JC, Kucerova Z, Jackson B. Listeriosis outbreaks associated with soft cheeses, United States, 1998–2014. Emerg Infect Dis. 2018;24(6):1116-1118.
+Listen to a CDC podcast about this study or read the podcast transcript [PDF – 3 pages].
+Ibarra-Sánchez LA, Van Tassell ML, Miller MJ. Invited review: Hispanic-style cheeses and their association with Listeria monocytogenes. J Dairy Sci. 2017;100(4):2421-2432.
+Gould LH, Mungai E, Behravesh CB. Outbreaks attributed to cheese: differences between outbreaks caused by unpasteurized and pasteurized dairy products, United States, 1998-2011. Foodborne Pathog Dis. 2014;11(7):545-51.
+Raw milk and milk products
+Committee on Infectious Diseases, Committee on Nutrition. Consumption of raw or unpasteurized milk and milk products by pregnant women and children. 2014;133(1):175-9.
+See more scientific papers on the Listeria publications page.

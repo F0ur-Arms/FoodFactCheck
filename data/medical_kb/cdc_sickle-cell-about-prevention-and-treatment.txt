@@ -1,0 +1,60 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Prevention and Treatment of SCD Complications
+URL: https://www.cdc.gov/sickle-cell/about/prevention-and-treatment.html
+────────────────────────────────────────────────────────────
+
+For Everyone
+Aug. 7, 2026
+Key points
+The focus of sickle cell disease (SCD) management is preventing and treating pain episodes and complications.
+Prevention strategies include lifestyle behaviors, medical screenings, and interventions to prevent infections and other complications.
+Several medications can be taken regularly to prevent or reduce the occurrence of complications.
+Bone marrow transplants and gene therapies are treatment options for some patients.
+General prevention strategies
+Management of SCD is focused on preventing and treating pain episodes and other complications. Prevention strategies include lifestyle behaviors as well as medical screening and interventions to prevent SCD complications.
+Lifestyle behaviors
+There are simple steps that people with SCD can take to help prevent and reduce the occurrence of pain crises, including the following:
+Drink plenty of water.
+Try not to get too hot or too cold.
+Try to avoid places or situations that cause exposure to high altitudes (for example, flying, mountain climbing, or visiting cities with a high altitude).
+Try to avoid places or situations with exposure to low oxygen levels (for example, mountain climbing or exercising extremely hard, such as in military boot camp or when training for an athletic competition).
+Simple steps to prevent harmful infections include the following:
+Wash your hands often. Washing hands with soap and clean water many times each day is one of the best ways people with SCD, their family members, and other caregivers can help prevent an infection.
+Prepare food safely. Bacteria can be especially harmful to children with SCD.
+Medical screenings and interventions to prevent SCD complications
+The medical screenings and interventions described here are consistent with the guidance issued by an expert panel convened by the National Institutes of Health's National Heart, Lung, and Blood Institute (NHLBI) in 2014 to develop recommendations to prevent or reduce complications of SCD.
+Prevention of infections
+Vaccines can protect against harmful infections. It is important that children with SCD get all regular childhood vaccines. Similarly, it is important for children and adults to get the flu vaccine every year, as well as the pneumococcal vaccine and any others recommended by a doctor.
+Penicillin greatly reduces the risk of infections in people with HbSS (the most common form of SCD in which people inherit two hemoglobin S genes) and has been shown to be even more effective when it is started earlier. To decrease the risk of infection, it's important that young children with HbSS take penicillin (or other antibiotic prescribed by a healthcare provider) every day until at least 5 years of age. Penicillin on a daily basis is usually not prescribed for children with other types of SCD unless the severity of the disease is similar to that of HbSS, such as HbS beta0-thalassemia.
+Prevention of vision loss
+Yearly visits to an eye doctor beginning at age 10 to look for damage to the retina (the part of your eye that senses light and sends images to your brain) are important for people with SCD to avoid vision loss. If possible, it's best to see an eye doctor who specializes in diseases of the retina.
+If the retina is damaged by excessive blood vessel growth, laser treatment often can prevent further vision loss.
+Prevention of stroke
+Children who are at risk for stroke can be identified using a special type of exam called transcranial Doppler ultrasound (TCD).
+If the child is found to have an abnormal TCD, a doctor might recommend frequent blood transfusions (a procedure in which new blood is put into a person's body through a small plastic tube inserted into a person's blood vessels) to help prevent a stroke.
+People who have frequent blood transfusions are usually watched closely because there can be serious side effects. For example, because blood contains iron, transfusions can lead to a condition called iron overload, in which too much iron builds up in the body. Iron overload can cause life-threatening damage to the liver, heart, and other organs. Therefore, it is important for people with SCD receiving regular blood transfusions to also receive treatment to reduce excess iron in the body. This type of treatment is known as iron chelation therapy.
+Prevention of severe anemia
+Blood transfusions may be used to treat severe anemia. A sudden worsening of anemia resulting from infection or enlargement of the spleen (an organ in the upper left side of the abdomen) is a common reason for a transfusion.
+As with preventing stroke, frequent blood transfusions can cause iron overload, and iron chelation therapy may be needed to reduce excess iron in the body.
+Management of pain crises
+When pain crises do occur, clinical management may include the following:
+Intravenous fluids (giving fluids directly into a person's vein)
+Pain-reducing medicine
+Hospitalization for severe pain crises
+Medications to prevent or reduce pain crises and other SCD complications
+SCD is a disease that worsens over time. Treatments are available that can prevent complications and lengthen the lives of those who have this condition. These treatment options and their effects can be different for each person, depending on the symptoms and severity of their disease. It is important to understand the benefits and risks of each treatment option. Currently, the Food and Drug Administration (FDA) has approved several medications for SCD.A
+Hydroxyurea (pronounced "hi-DROK-see-yoo-REE-uh")
+L-glutamine (pronounced "L-gloo-ta-meen,"), or ENDARI®
+Crizanlizumab (pronounced "criz-an-liz-u-mab"), or ADAKVEO®
+Further information for each treatment can be found here.
+Did you know?
+In September 2024, Pfizer withdrew voxelotor (also called OXBRYTA®) from the market. The medicine was used to prevent sickling in red blood cells. Pfizer said the benefits of using voxelotor do not outweigh the risks in the approved sickle cell population. More information here.
+Bone marrow transplant
+Bone marrow is a soft, fatty tissue inside the center of the bones, where blood cells are made. A bone marrow or stem cell transplant is a procedure that takes healthy cells from one person—the donor—and puts them into someone whose bone marrow is not working properly. In SCD, the patient's bone marrow is replaced with blood-forming stem cells from a donor who does not have SCD. The new bone marrow then produces red blood cells that are healthy since they do not contain a lot of hemoglobin S.
+For the transplant to work, the bone marrow must be a close match. Usually, the best donor is a brother or sister. Bone marrow or stem cell transplants are most common in cases of severe SCD for children who have minimal organ damage from the disease.
+Gene therapies
+In December 2023, the U.S. FDA approved two cell-based gene therapies for the treatment of SCD in patients 12 years and older:
+Exagamglogene autotemcel (also known as exa-cel), or CASGEVY™
+Lovotibeglogene autotemcel (also known as lovo-cel), or LYFGENIA™
+Both products are made from the patients' own blood stem cells, which are modified, and are given back as a one-time, single-dose infusion as part of a blood stem cell transplant. Prior to treatment, a patients' own stem cells are collected, and then the patient must undergo high-dose chemotherapy, a process that removes cells from the patient's bone marrow so they can be replaced with the modified stem cells.
+More information about both CASGEVY™ and LYFGENIA™ can be found on the FDA website and the Sickle Cell Disease Association of America website.

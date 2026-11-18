@@ -1,0 +1,40 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Folic Acid Safety, Interactions, and Health Outcomes
+URL: https://www.cdc.gov/folic-acid/about/safety.html
+────────────────────────────────────────────────────────────
+
+For Everyone
+Español
+Key points
+All women capable of becoming pregnant should get 400 micrograms of folic acid daily to help prevent neural tube defects.
+Many studies have found folic acid to be safe and effective at recommended amounts.
+Some unmetabolized folic acid can be in blood; most is passed in urine, and no health risks are confirmed.
+Getting the recommended amount of folic acid does not delay detection of vitamin B12 deficiency.
+Overview
+CDC recommends all women capable of becoming pregnant get 400 micrograms (mcg) of folic acid daily. Getting 400 mcg of folic acid each day helps prevent some serious birth defects called neural tube defects (NTDs).
+Folic acid is safe and effective at recommended amounts
+Groups of experts worldwide regularly review all available research on folic acid. Each group has consistently concluded that folic acid is safe and effective at the recommended amounts. Taking 400 mcg of folic acid per day has not been shown to cause harm.
+Randomized control trials and food fortification programs have shown that folic acid helps prevent NTDs.12345 The US Preventive Health Task Force consistently supported recommendations for 400–800 mcg of folic acid as a Grade A recommendation. This means it is a strong recommendation based on consistent findings. Additional information continues to be assessed as it becomes available.
+No health risks identified from unmetabolized folic acid
+Folic acid that the body does not use is called "unmetabolized folic acid." Folic acid is absorbed by the intestines into the bloodstream and then converted to other types of folate by the liver. The liver is capable of processing only a certain amount of folic acid at one time. Unused folic acid in the blood goes to the kidneys and leaves the body in urine.
+Since the beginning of mandatory folic acid fortification, most people have had some unmetabolized folic acid circulating in their blood.6 Although some people have been concerned about unmetabolized folic acid in the blood, no confirmed health risks have been found.789
+Folic acid doesn't delay finding vitamin B12 deficiency
+A recent study looked at anemia among people with vitamin B12 deficiency before and after folic acid fortification. This study found that folic acid fortification did not make it more likely for people to have undetected vitamin B12 deficiency.10
+Also, current laboratory tests can measure a person's vitamin B12 status. This means that vitamin B12 deficiency can be readily detected and diagnosed.
+When taking supplements, more is not better. If you can become pregnant, you should get 400 mcg of folic acid daily. You can get this from vitamins or fortified foods. This is in addition to eating foods rich in folate. However, your doctor may ask you to take more for certain reasons.
+Folic acid's role in supporting health
+Folic acid and hypertension
+Hypertension, or abnormally high blood pressure, increases the risk for having a stroke. A large study in China found that adults with hypertension who took 800 mcg of folic acid daily lowered the occurrence of stroke by 21%.1112
+Folic acid and cardiovascular disease
+A study looked at the results of 30 randomized control trials involving more than 80,000 people. This study suggested a 10% lower risk of stroke among those taking folic acid. The study also found a 4% lower risk of overall cardiovascular (heart and blood vessel) disease among those taking folic acid supplements.13
+Folic acid and arsenic exposure
+In many countries in the world, arsenic in the water results in chronic (constant) arsenic exposure. A randomized control trial in Bangladesh found that taking 400 mcg of folic acid daily for 12 weeks reduced total blood arsenic levels by 13.6%. The authors stated that taking folic acid to lower blood arsenic levels may help reduce the risk of illnesses that can result from arsenic poisoning.14
+Folic acid and anemia
+Low blood folate concentrations can lead to anemia in both men and women. There are different types of anemia, and they have a variety of causes. The type of anemia that can be caused by very low blood folate concentrations is called megaloblastic anemia.15 Folic acid helps prevents this type of anemia and fortification has helped nearly eliminate it in the US.
+What research shows about folic acid and cancer
+Anyone being treated for cancer should talk to their doctors before taking any supplements. Supplements (including those with folic acid) can interfere with cancer medications. It is important to discuss all supplements with your healthcare provider.
+Research on folic acid and cancer risk
+A recent analysis of data from 13 randomized control trials including about 50,000 individuals found no increase or decrease in cancer cases among those taking folic acid. This includes cancers of the large intestine, prostate, lung, breast, and other sites.16
+Folic acid and colorectal cancer
+A 2007 study investigated the effect of 1,000 mcg of folic acid daily on preventing colorectal adenomas (growths). The study found that people who had recently had colorectal adenomas and were taking folic acid supplements had an increased risk of developing additional adenomas after 6 years of follow-up.17 However, many large studies and a meta-analysis (the results of many studies combined together into a single analysis) has not found a relationship between folic acid supplementation and developing additional colorectal adenomas.18192021
+The Centers for Disease Control and Prevention continually monitors the latest research on the effects of folic acid on colorectal cancer.

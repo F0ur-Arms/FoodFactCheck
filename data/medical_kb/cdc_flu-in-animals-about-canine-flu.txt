@@ -1,0 +1,60 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: About Dog Flu
+URL: https://www.cdc.gov/flu-in-animals/about/canine-flu.html
+────────────────────────────────────────────────────────────
+
+Key points
+Canine influenza (dog flu) is a contagious respiratory disease in dogs.
+It is caused by specific type A influenza viruses known to infect, cause illness, and spread in dogs.
+In general, canine influenza viruses are thought to pose a low threat to people.
+Signs and symptoms
+Canine influenza, also known as dog flu, is currently caused by an influenza A(H3N2) virus that spreads in dogs. Dog flu likely poses a low threat to people. Canine influenza A(H3N2) viruses are different from seasonal influenza A(H3N2) viruses that commonly spread among people.
+To date, there is no evidence of spread of canine influenza viruses from dogs to people. There has not been a single reported case of human infection with a canine influenza virus anywhere in the world.
+In 2016, CDC used the Influenza Risk Assessment Tool to evaluate the potential risk of canine influenza A(H3N2) viruses causing a pandemic and found it to be low.
+Evolving viruses
+Influenza viruses are constantly changing. It is possible that a canine influenza A virus could change to gain the ability to infect and spread easily between people. Humans have little immunity against new, non-human (novel) influenza A viruses. Infections in people with novel influenza A viruses are concerning when they occur. If these viruses acquire the ability to spread easily among people, it could result in a pandemic.
+For this reason, the World Health Organization conducts global flu surveillance, which has led to detection of novel influenza A virus infections in humans. Surveillance focuses on novel influenza A viruses of animal origin (such as avian or swine influenza A viruses).
+Signs of Illness in Dogs
+The signs of this illness in dogs include:
+cough,
+runny nose,
+fever,
+lethary,
+eye discharge, and
+reduced appetite.
+However, not all dogs will show signs of illness. The severity of illness associated with canine flu in dogs can range from no signs to severe illness resulting in pneumonia and sometimes death.
+Most dogs recover from dog flu within 2 to 3 weeks. However, some dogs may develop secondary bacterial infections, which can lead to more severe illness and pneumonia. Anyone who has concerns about their pet's health, or whose pet is showing signs of dog flu, should contact their veterinarian.
+Testing is available to confirm canine influenza A(H3N2) virus infection in dogs. Your veterinarian can tell you if testing is appropriate.
+Understanding risk
+H3N2 canine influenza viruses are not endemic in dogs in the United States but multiple, localized outbreaks with regional die-outs continue to occur, seeded by repeated re-introductions from Asia. H3N8 canine influenza viruses have not been reported since 2016 and do not appear to be actively circulating anymore.
+If evidence emerges that canine influenza viruses can infect people with the potential for sustained human-to-human spread, CDC has a plan in place. CDC will execute its existing authorities to limit the introduction and/or spread of that pandemic virus into or within the United States.
+CDC regulations require that dogs be healthy to enter the United States. Dogs may be denied entry or further evaluated if they look like they could be sick with a communicable disease.
+For dogs that appear sick or are dead upon arrival in the United States, CDC can require a veterinary examination or a necropsy (animal autopsy) at the owner's expense.
+Multiple agencies may have regulatory authority over pets such as dogs and cats when entering the United States.
+The United States Department of Agriculture's Animal and Plant Health Inspection Service Veterinary Services has animal health requirements related to bringing a pet dog to the United States from a foreign country.
+How it spreads
+Almost all dogs are susceptible to dog flu infection. Dog flu tends to spread among dogs housed in kennels and shelters.
+Dog flu is thought to spread mainly through respiratory droplets produced when infected dogs cough or sneeze. It can also spread through contact with contaminated surfaces.
+What CDC is doing about dog flu‎
+Current CDC influenza virus regulations apply only to viruses with pandemic potential in people. However, CDC is doing a number of things to be prepared in the unlikely event that dog flu becomes a threat to humans or to animals other than dogs.
+CDC continues to conduct year-round surveillance for seasonal and novel influenza A viruses. All human infections with novel influenza A viruses are fully investigated. Human infections with a novel influenza A virus of animal origin are reportable to CDC.
+CDC has existing collaborative protocols with the U.S. Department of Agriculture's Animal and Plant Health Inspection Service (APHIS), Veterinary Services to work together in the event of outbreaks of novel influenza A viruses. These same protocols would be followed in the event of an outbreak of dog flu among people.
+Third, CDC conducted a risk assessment on the pandemic potential of H3N2 canine influenza viruses using the Influenza Risk Assessment Tool. The assessment found the pandemic risk posed by canine influenza viruses to be low.
+Prevention
+Vaccines to protect dogs against H3N2 dog flu are available in the United States. Your veterinarian can provide additional information about these vaccines and whether you should consider vaccinating your dog.
+Dog owners whose dogs are coughing or showing other signs of respiratory disease should not expose their dog to other dogs or to cats. After exposure to dogs showing signs of respiratory disease, people should clean and disinfect clothing, equipment, surfaces, and hands.
+Biology
+Origins of H3N8 Canine Influenza
+Canine influenza H3N8 viruses originated in horses and spread to dogs. H3N8 equine (horse) influenza (flu) viruses have been known to exist in horses for more than 40 years.
+In 2004, cases of an unknown respiratory illness in dogs were reported in the United States. An investigation showed that this respiratory illness was caused by equine influenza viruses.
+Scientists believe that after jumping from horses to dogs, the virus adapted to cause illness in dogs and spread among them. It spreads especially quickly among dogs housed in kennels and shelters. This is now considered a dog-specific (canine) H3N8 virus.
+In September 2005, this virus was identified by experts as a "newly emerging pathogen in the dog population" in the United States. H3N8 canine influenza viruses have not been reported since 2016 and do not appear to be actively circulating anymore.
+Origins of H3N2 Canine Influenza
+Canine influenza H3N2 viruses originated in birds and spread to dogs. The first H3N2 canine influenza viruses were reported in 2004. There has also been reported spread of H3N2 canine influenza viruses from dogs to cats.
+H3N2 canine influenza viruses were first detected in dogs in South Korea in 2007. These viruses have also been reported in dogs in China, Thailand, and Canada.
+H3N2 canine influenza viruses were first detected in the United States in April 2015. They have now been found in multiple U.S. states and regions. To date, the H3N2 canine viruses reported in the United States have been almost identical genetically to those previously reported in Asia.
+Treatment
+Treatment for dog flu largely consists of supportive care. In milder cases, supportive care may include medication to make your dog more comfortable and fluids to ensure that your dog remains well hydrated. This helps to keep the dog comfortable and hydrated while its body mounts an immune response.
+Broad spectrum antibiotics may be prescribed by your veterinarian if they suspect a secondary bacterial infection.
+Dog flu risk‎
+A small percentage of dogs die from dog flu. Some dogs have asymptomatic infections (no signs of illness), while some have severe illness. Severe illness is characterized by the onset of pneumonia.

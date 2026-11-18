@@ -1,0 +1,37 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Meningococcal Disease and People Receiving Complement Inhibitors
+URL: https://www.cdc.gov/meningococcal/risk-factors/receiving-complement-inhibitors.html
+────────────────────────────────────────────────────────────
+
+Mar. 6, 2026
+Español
+Key points
+Receiving a complement inhibitor greatly increases someone's risk of meningococcal disease.
+Getting vaccinated and taking antibiotics offers some (but not complete) protection.
+People receiving complement inhibitors should seek treatment quickly for symptoms of meningococcal disease.
+Be aware that prompt treatment is important even for those who've been vaccinated or who are taking antibiotics.
+Complement inhibitors greatly increase risk
+Compared to otherwise healthy people, someone receiving a complement inhibitor is up to 2,000 times more likely to get meningococcal disease. Meningococcal disease is often serious and can be deadly.
+Complement inhibitors include:
+C5 inhibitors such as eculizumab (Soliris®) and ravulizumab (Ultomiris™)
+Inhibitors of other complement components such as pegcetacoplan (Empaveli®, Syfovre®) and iptacopan (Fabhalta®)
+Keep Reading
+About Meningococcal Disease
+Seek medical care quickly
+If you take a complement inhibitor and have symptoms of meningococcal disease, get medical care right away. Seek care quickly even if you've been vaccinated or are taking antibiotics. Tell the healthcare provider you're taking a complement inhibitor.
+Who's prescribed complement inhibitors
+Healthcare providers most often prescribe complement inhibitors for the following four rare medical conditions:
+Atypical hemolytic uremic syndrome, a blood disorder (aHUS)
+Generalized myasthenia gravis (gMC), a disorder that leads to muscle weakness
+Neuromyelitis optica spectrum disorder (NMOSD), a disorder of the brain and spinal cord
+Paroxysmal nocturnal hemoglobinuria (PNH), a blood disorder
+Protective factors
+Vaccination
+CDC recommends meningococcal vaccination, including regular booster shots, for people receiving complement inhibitors. Talk to your healthcare provider about staying to date on vaccination.
+Keep Reading
+Meningococcal Vaccination
+Antibiotics
+Some healthcare providers prescribe antibiotics to people receiving complement inhibitors to help prevent meningococcal disease.
+Risk remains despite protective measures
+CDC data suggest that meningococcal vaccines provide incomplete protection against meningococcal disease in people receiving eculizumab. Experts believe this increased risk likely also applies to people receiving some other complement inhibitors, such as ravulizumab.
+People receiving a complement inhibitor can still get meningococcal disease even if they've been vaccinated or are taking antibiotics.

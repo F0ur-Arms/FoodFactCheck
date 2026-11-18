@@ -1,0 +1,49 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: About Enterovirus A-71
+URL: https://www.cdc.gov/non-polio-enterovirus/about/about-enterovirus-a-71.html
+────────────────────────────────────────────────────────────
+
+Key points
+Enterovirus A-71 (EV-A71) is an infectious disease that is more common during summer and fall seasons.
+EV-A71 is known to cause mild illness like hand, foot, and mouth disease.
+There is no vaccine available in the United States to prevent EV-A71.
+What it is
+First identified in the United States in 1969, enterovirus A71 (EV-A71) is one of more than 100 non-polio enteroviruses. Worldwide, EV-A71 is a common cause of hand, foot, and mouth disease (HFMD) in infants and young children.
+You are more likely to get infected with enteroviruses during summer and fall, but infections can happen year-round.
+Signs and symptoms
+EV-A71 can cause a mild illness that clears on its own, such as HFMD, or no symptoms at all.
+On rare occasions, it can cause neurologic diseases, such as:
+Meningitis
+Encephalitis (swelling of the brain and spinal cord)
+Acute flaccid myelitis (AFM)
+Keep Reading:
+Non-Polio Enteroviruses Symptoms and Complications
+Who is at risk
+In general, infants and children are most likely to get infected with enteroviruses and become ill. That’s because they may not yet have immunity (protection) from previous exposures to these viruses. We believe this is also true for EV-A71.
+Adults can get infected with enteroviruses but are less likely than children to show symptoms.
+How it spreads
+If someone is sick with EV-A71, the virus can be found in their:
+Nose and throat secretions, such as saliva, nasal mucus, or sputum (mucus-like secretions from lungs)
+Fluid from blisters
+Poop
+You can get EV-A71 from:
+Contact with droplets that have virus particles after a sick person coughs, sneezes, or talks.
+Touching an infected person or making other close contact, such as hugging.
+Touching an infected person's poop, such as changing diapers, then touching your eyes, nose, or mouth.
+Touching objects and surfaces that have the virus on them, like doorknobs or toys, then touching your eyes, nose, or mouth.
+Prevention
+There is no vaccine available in the United States to prevent EV-A71 infection. To prevent yourself from getting and spreading EV-A71:
+Wash your hands often with soap and water for 20 seconds, especially after changing diapers and using the toilet.
+Avoid close contact with a person with HFMD, such as kissing, hugging, and sharing cups or eating utensils.
+Clean and disinfect frequently touched surfaces and soiled items, including toys.
+Testing and diagnosis
+EV-A71 can only be detected using specific lab tests on specimens from a person's nose and throat or feces (poop). More rarely, cerebrospinal fluid (CSF) can also be tested.
+Many hospitals and some doctor's offices test ill patients to see if they have enterovirus infection. However, most cannot do specific testing to determine the type of enterovirus. CDC and some state health departments test enteroviruses by doing a specialized test called molecular sequencing.
+Keep Reading:
+Laboratory Testing for Non-Polio Enterovirus
+Treatment and recovery
+There is no specific treatment for people with EV-A71 infection. People with neurologic illness or other severe illness may require hospitalization to receive supportive therapy.
+Case studies
+A report published in MMWR describes cases of neurologic disease associated with enterovirus A71 among children in Colorado in 2018.
+Keep Reading:
+Read Notes from the Field

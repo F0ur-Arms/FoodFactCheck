@@ -1,0 +1,30 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Overview
+URL: https://www.cdc.gov/cdi/about/index.html
+────────────────────────────────────────────────────────────
+
+At a glance
+CDI provides valuable surveillance data that public health professionals, researchers, and policymakers can use to track chronic diseases and their risk factors at the national and state level. It compiles estimates from various data sources, including surveys, vital records, and administrative data. It uses standardized definitions to allow comparisons at national and state levels.
+Information about CDIs and the application
+Indicator Definitions: Each indicator has a standardized definition and detailed description. The description explains the indicator’s public health importance, data source, and calculation methods. This information helps users understand the meaning and context of the indicators they are examining.
+Data Visualizations: Interactive maps, graphs, and tables present data in a visually appealing and easy-to-understand format. Users can select specific indicators, time periods, and population groups (defined by sex, race and ethnicity, and age group). These visualizations can help users identify patterns, trends over time, and disparities.
+Data Portal: This web-based interface allows users to easily query and extract the data they need. They can select specific indicators, geographic locations (national or state), subgroups, and time periods to generate customized datasets.
+State Comparison: Users can compare all estimates across states to identify geographic disparities and variations in disease and risk factor prevalence. This information can help users focus their prevention and management strategies and allocate their resources effectively.
+The original set of 73 indicators was released in 1999. It was developed by CDC, the Council of State and Territorial Epidemiologists (CSTE), and the Association of State and Territorial Chronic Disease Program Directors. In 2002, the indicators were revised and expanded to 92 (published in 2004). CDC, CSTE, and the Chronic Disease Directors collaborated on this revision. For this revision, indicators were evaluated for their relevance to chronic disease prevention and control at the state level and for the availability of data on an annual or biannual basis at the state level for most states. In addition, an attempt was made to select indicators consistent with the national Healthy People 2010 objectives.
+During 2012–2013, the indicators were revised and expanded to 202 (published in 2015). CDC, CSTE, and the National Association of Chronic Disease Directors (NACDD) collaborated on this revision. They conducted reviews and made recommendations for updating each indicator based on opinions from subject matter experts.
+Each recommendation was expected to:
+Allow states, territories, and large metropolitan areas to uniformly define, collect, and report chronic disease data related to diseases and conditions with a substantial public health impact.
+Ensure that data were consistent with Healthy People 2020 objectives (if possible).
+Ensure that data were available at the state level for most states and preferably for territories and large metropolitan areas as well.
+In 2022, CDC initiated a process to reexamine the indicators and modernize and enhance the CDI web tool. CDC programs reviewed all the indicators to make recommendations about which ones to retain, modify, or remove. They were also allowed to recommend new indicators.
+Recommendations based on three criteria:
+The disease or condition has a substantial impact on public health.
+Data for the disease or condition are currently available for most states.
+The indicator related to the disease or condition is consistent with public health goals at the national or state level.
+CDC also sought to ensure the CDI web tool complemented the tools hosted by other CDC programs, while retaining its distinctive role as a comprehensive source of data on chronic disease indicators. Feedback on the refresh process and indicators were obtained from state partners through consultation of CDC programs with relevant partners, as well as presentations and discussions with state focused groups and organizations, including CSTE, NACDD, and the Association of State and Territorial Health Officials.
+The result was a refreshed set of 113 indicators—63 of which were retained from the previous version, 20 of which were modified, and 30 of which were new. CDC also redesigned and enhanced the CDI web tool, adding estimates stratified by age group (where applicable) and reorganizing the indicators into 21 topic areas. Landing pages for topic areas were added to provide users easy access to topic-specific estimates.
+Chronic Disease Indicator Tool
+Resource‎
+Visit the Chronic Disease Indicator Tool
+Note to Users
+*9/11/2024: An error was identified in the 2022 estimates for physical inactivity among adults with arthritis. These estimates have been removed and will be updated in the next data release.

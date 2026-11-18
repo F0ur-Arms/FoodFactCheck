@@ -1,0 +1,78 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: About Nontuberculous Mycobacteria (NTM) Infections
+URL: https://www.cdc.gov/nontuberculous-mycobacteria/about/index.html
+────────────────────────────────────────────────────────────
+
+Key points
+Nontuberculous mycobacteria (NTM) are bacteria found in soil, dust and water.
+Although anyone can get an NTM infection, some groups are at increased risk.
+Treatment varies and typically requires seeing a specialist.
+Overview
+Nontuberculous mycobacteria (NTM) are bacteria (germs) found in soil, dust and water.
+Keep in mind
+NTM do not include M. tuberculosis (the cause of tuberculosis) or M. leprae (the cause of Hansen's disease).
+Anyone can get an NTM infection but people with underlying lung disease or weakened immune systems are at increased risk. Health departments and healthcare facilities play an important role in preventing NTM infections.
+Types and strains
+There are more than 190 recognized species (types) of NTM. Some cause disease in humans.
+How it affects your health
+Symptoms
+Symptoms of NTM infection depend on the site of infection but can include:
+Blood in the sputum
+Cough
+Decreased appetite
+Fever
+Loss of energy
+Night sweats
+Rashes
+Shortness of breath
+Weight loss
+Infections it can cause
+Lung infections
+Skin and soft tissue infections (typically from surgery, trauma, injection, etc.)
+Infections in areas in/on the body with medical devices
+Lymph node infections (common in children)
+Infections in blood or other usually sterile locations in the body (more common in patients with weakened immune systems or invasive medical devices or after procedures)
+Exposure risks
+Examples of water sources that can be contaminated with NTM
+Natural water sources such as rivers and streams.
+Municipal water sources, such as water that people drink or shower in.
+Shower heads and sink faucets.
+Hydrotherapy equipment, such as jetted therapy baths.
+Ice machines.
+Decorative fountains and water features.
+Examples of settings that can pose an increased risk
+Tattoo parlors.
+Nail salons.
+Hot tubs or spas.
+Healthcare settings.
+NTM outbreaks typically happen in healthcare settings if procedures expose patients to contaminated water.
+Who is at risk
+Anyone can get an NTM infection. People who already have a lung disease or weakened immune systems are at increased risk.
+Lung infections most commonly occur in patients who already have a lung disease such as:
+Cystic fibrosis
+Bronchiectasis
+Emphysema
+How it spreads
+NTM infections don't typically spread person to person.
+Water or moisture
+NTM can live in water or surfaces in moist environments, such as inside pipes that carry water through buildings. When water contaminated with NTM aerosolizes (turns into a fine mist or spray), like the steam from your shower head or a hot tub, people inhale the bacteria.
+Surgical or injection sites
+NTM can cause infections in sites where people received surgery or injections.
+Prevention
+Healthcare facilities
+Healthcare facilities should develop an effective water management program to prevent healthcare-associated infections caused by NTM.
+Health departments
+Public health departments can support NTM prevention and outbreak response.
+Treatment and recovery
+Specialists and antibiotics
+Treatment typically requires consultation with an infectious disease or pulmonary specialist.
+Treatment varies but often requires a combination of 2 to 3 antibiotics for 6 months to a year or longer.
+Antimicrobial resistance
+NTM are resistant to many antibiotics, making infections more difficult to treat.
+Related conditions
+Mycobacterium abscessus is a group of environmental mycobacteria also found in water, soil, and dust.
+Keep Reading
+About Mycobacterium abscessus
+What CDC is doing
+Tracking NTM infections through the Emerging Infections Program.
+Working closely with health departments, other federal agencies, healthcare providers and patients to prevent infections caused by NTM.

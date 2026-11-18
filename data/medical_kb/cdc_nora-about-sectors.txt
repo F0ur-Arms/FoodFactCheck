@@ -1,0 +1,61 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: NORA Sector and Cross-Sector Approach
+URL: https://www.cdc.gov/nora/about/sectors.html
+────────────────────────────────────────────────────────────
+
+About
+The 10 sector groups follow the North American Industry Classification System (NAICS) from the U.S. Census Bureau.
+There are seven cross-sectors that focus on the major health and safety issues affecting U.S. workers.
+Learn more about the NORA sector and cross-sector groups.
+Sectors
+Sector definitions follow the North American Industry Classification System from the U.S. Census Bureau.
+NAICS provides definitions for 20 sectors which NIOSH aggregated into 10 sector groups as follows. Each of the 10 sectors has a NORA Council.
+NORA Sector Group
+NAICS Code
+Agriculture, Forestry & Fishing (except Wildland Firefighting and including seafood processing)
+11 & 311710
+Construction
+23
+Healthcare & Social Assistance (including Veterinary Medicine/Animal Care)
+62, 54194,& 81291
+Manufacturing (except seafood processing)
+31-33
+Mining (except Oil and Gas Extraction)
+21
+Oil and Gas Extraction
+211, 213111, & 213112
+Public Safety (including Wildland Firefighting)
+92212, 92214, 92216 & 62191
+Services (except Public Safety and Veterinary Medicine/Animal Care)
+51, 52, 53, 54, 55, 56, 61, 71, 72, 81, & 92
+Transportation, Warehousing & Utilities
+48-49 & 22
+Wholesale and Retail Trade
+42 & 44-45
+Cross-sectors
+The seven cross-sectors focus on the major health and safety issues affecting U.S. workers.
+Cancer, Reproductive, Cardiovascular, and Other Chronic Disease Prevention
+Includes many types of occupational cancer, reproductive health, and cardiovascular disease. It also includes evolving areas of occupational neurological and renal disease.
+Hearing Loss Prevention
+Focuses on prevention of occupational hearing loss from hazardous noise exposure and ototoxic substances (chemical, pharmaceutical, metals).
+Immune, Infectious, and Dermal Disease Prevention
+Includes the study of work-related
+Immune diseases, such as contact dermatitis, allergic rhinitis, and asthma.
+Infectious disease, such as influenza, norovirus, and legionella.
+Dermal diseases, which are caused by chemicals that enter the body through the skin and injure individual organs or groups of organs.
+Musculoskeletal Health
+Focuses on preventing musculoskeletal disorders. These are soft-tissue injuries caused by sudden or sustained exposure to repetitive motion, force, vibration, or awkward positions.
+Respiratory Health
+Addresses the harmful effects of hazardous respiratory exposures, focusing on
+Lower airways diseases (e.g., asthma, chronic obstructive lung disease).
+Upper airways diseases (e.g., rhinosinusitis).
+Interstitial lung diseases (e.g., coal workers' pneumoconiosis, asbestosis, silicosis).
+Respiratory infectious diseases (e.g., tuberculosis, influenza, anthrax, emerging infectious diseases).
+Respiratory tract and pleural malignancies (e.g., lung cancer, mesothelioma).
+Emerging exposures and related diseases (e.g., engineered nanomaterials, World Trade Center dust, flavoring chemicals).
+Traumatic Injury Prevention
+Focuses on preventing injuries and related deaths to workers due to sudden events. These events can include such things as falls, motor vehicle crashes, violence, and being caught in or struck by machinery.
+Healthy Work Design and Well-being
+Seeks to improve the design of work, work environments, and management practices in order to advance worker safety, health, and well-being. Worker well-being encompasses positive physical, emotional, mental, and economic health. It also includes how these aspects of health relate to work and worker experiences from a comprehensive and holistic perspective.
+NIOSH sector work
+Learn more about NIOSH sector and cross-sector on the NIOSH Program Portfolio page.

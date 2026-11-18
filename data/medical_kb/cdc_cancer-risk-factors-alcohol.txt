@@ -1,0 +1,52 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Alcohol and Cancer
+URL: https://www.cdc.gov/cancer/risk-factors/alcohol.html
+────────────────────────────────────────────────────────────
+
+Jan. 29, 2026
+Español
+What to know
+You can lower your risk for cancer by drinking less alcohol or not drinking at all.
+All drinks that contain alcohol, including red and white wine, beer, and liquor, increase the risk of cancer.
+Overview
+Drinking alcohol raises your risk of getting several kinds of cancer:
+Mouth
+Throat (pharynx)
+Voice box (larynx)
+Esophagus
+Colon and rectum
+Liver
+Breast (in women)
+Some studies show that drinking three or more drinks that contain alcohol per day increases the risk of stomach and pancreatic cancers. Drinking alcohol may also increase prostate cancer risk. All kinds of drinks that contain alcohol increase the risk of cancer. Drinking less alcohol is better for your health than drinking more.
+Health advice for people who drink alcohol or are thinking of drinking alcohol
+The Dietary Guidelines for Americans recommends that adults of legal drinking age (21 years or older) choose not to drink alcohol or to drink alcohol in moderation (2 drinks or fewer in a day for men, 1 drink or fewer in a day for women).
+If you're taking prescription medicine, including cancer treatment, ask your doctor if it is safe to drink alcohol.
+Frequently asked questions
+Why does drinking alcohol raise cancer risk?
+Studies show that alcohol may increase cancer risk in several ways.
+Alcohol can disrupt cell cycles, increase chronic inflammation, and damage your DNA. DNA is the cell's "instruction manual" that controls how a cell grows and does its job. When DNA is damaged, a cell can grow out of control and become cancer.
+Alcohol can increase levels of hormones, including estrogen. Estrogen plays a role in breast cancer development.
+Alcohol makes it easier for the cells in our mouth to absorb cancer-causing chemicals (called carcinogens). For example, when you use both alcohol and tobacco, the alcohol increases the absorption of carcinogens from the tobacco.
+For more information, see Alcohol and Cancer Risk (National Cancer Institute).
+How many people die from cancers associated with alcohol use?
+Each year, about 20,000 adults in the United States die from alcohol-associated cancers. It is estimated most of these deaths may have been avoided if all adults had followed the recommended limits on alcohol use in the Dietary Guidelines for Americans instead of drinking above them.
+How can I lower my cancer risk?
+You can drink less alcohol or choose not to drink. You can use this tool to check your alcohol use. Talk with your doctor if you have concerns about your drinking.
+If you have had cancer treatment, CDC's Talk to Someone simulation explains how alcohol can affect your health.
+How can doctors help their patients?
+Doctors can tell their patients that drinking alcohol increases cancer risk. Doctors can ask adult patients about their alcohol use and offer behavioral counseling to those who drink excessively.
+How can communities develop environments that reduce drinking alcohol?
+Communities can create social and physical environments that support people in drinking less alcohol. Learn how these effective alcohol policies work to protect people from alcohol-related harms, including increasing the risk of cancer.
+Number of new cancers associated with alcohol
+CDC's Data Visualizations tool provides data on new alcohol-associated cancers in the United States. For example:
+More than 538,000 alcohol-associated cancers occurred in the United States in 2022, including more than 160,000 among men and 378,000 among women.
+Breast cancer is the most common alcohol-associated cancer among women. Colorectal cancer is the most common alcohol-associated cancer among men.
+About 86% of new alcohol-associated cancers occur in people 50 or older.
+Note: The data for alcohol-associated cancers are based only on cancer type and do not estimate the proportion of cancers caused by alcohol.
+What CDC is doing
+CDC:
+Supports states and communities through the National Comprehensive Cancer Control Program to address alcohol use.
+Funds states to study how alcohol affects public health so they can prevent excessive alcohol use.
+Tracks trends in excessive alcohol use and related harms in adolescents and adults in the United States.
+Offers resources for measuring alcohol outlet density in communities. This information can improve built environments to protect against cancer risk factors.
+Works with health plans, providers, and national health organizations to make alcohol screening and brief intervention a routine part of health care in primary care settings.

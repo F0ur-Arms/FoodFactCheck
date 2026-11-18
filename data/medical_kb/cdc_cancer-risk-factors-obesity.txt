@@ -1,0 +1,49 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Obesity and Cancer
+URL: https://www.cdc.gov/cancer/risk-factors/obesity.html
+────────────────────────────────────────────────────────────
+
+For Everyone
+Aug. 28, 2026
+Español
+Key points
+Being overweight or having obesity increases your risk of getting cancer.
+Keeping a healthy weight is an important step you can take to lower your risk of getting cancer.
+Overview
+People are overweight or have obesity when they weigh more than what doctors consider a healthy weight for their height.
+Body mass index (BMI) is used as a screening tool for overweight and obesity. For adults, a person with a BMI from 25.0 to 29.9 is considered overweight. A person with a BMI that is 30.0 or higher has obesity. About 2 in 5 adults in the United States have obesity.
+For children and teens, BMI is calculated the same way, but interpreted in a different way. A child's or teen's BMI is compared to those of the same sex and age. About 1 in 5 children and adolescents in the United States have obesity.
+Obesity-associated cancers
+Being overweight or having obesity are associated with a higher risk of getting 13 types of cancer. These cancers make up 40% of all cancers diagnosed in the United States each year.
+Adenocarcinoma of the esophagus.
+Breast (in women who have gone through menopause).
+Colon and rectum.
+Uterus.
+Gallbladder.
+Upper stomach.
+Kidneys.
+Liver.
+Ovaries.
+Pancreas.
+Thyroid.
+Meningioma (a type of brain cancer).
+Multiple myeloma.
+How overweight and obesity can lead to cancer
+Overweight and obesity can cause long-lasting inflammation and higher than normal levels of insulin, insulin-like growth factor, and sex hormones. These changes may lead to cancer. The risk of cancer increases with the more excess weight a person gains and the longer a person is overweight.
+How to lower your risk
+To reduce your risk of obesity-associated cancer, you can follow a healthy eating plan and get regular physical activity. If you are concerned about your weight or your child's weight, talk to your doctor.
+"Talk to Someone" Simulation
+Talk to Someone: Physical Activity and Nutrition gives tips for cancer survivors to improve physical activity and healthy eating.
+How doctors can help their patients prevent or treat obesity
+Health care providers can help patients reach a healthy weight in several ways. For example, they can:
+Measure patients' weight, height, and BMI.
+Explain that keeping a healthy weight can lower a person's cancer risk.
+Connect patients and families with community services that provide healthy food and ways to be active.
+Refer patients with a high BMI who want to lose weight to intensive lifestyle programs. These programs help patients change their physical activity and diet to lower their weight. The US Preventive Services Task Force recommends such programs for adults and children, and the American Academy of Pediatrics recommends programs for children.
+Discuss the use of medications, surgery, and other treatments for excess weight in older children and adults.
+Number of new cancers associated with obesity
+CDC's Data Visualizations tool provides data on new obesity-associated cancers in the United States. For example:
+More than 716,000 obesity-associated cancers occurred in the United States in 2022, including more than 220,000 among men and 495,000 among women.
+Breast cancer after menopause is the most common obesity-associated cancer among women. Colorectal cancer is the most common obesity-associated cancer among men.
+More than 90% of new obesity-associated cancers occur in people who are 50 or older.
+Note: The data for obesity-associated cancers are based only on cancer type and do not estimate the proportion of cancers caused by obesity.

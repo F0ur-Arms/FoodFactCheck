@@ -1,0 +1,20 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Flu Vaccine Effectiveness Studies for Children and Older Adults
+URL: https://www.cdc.gov/flu-vaccines-work/risk-groups/index.html
+────────────────────────────────────────────────────────────
+
+For Everyone
+What to know
+Influenza (flu) vaccines are approved for people 6 months and older. CDC recommends annual flu vaccination, with some differences in recommendations for people in two age groups. Learn how flu vaccine effectiveness studies have informed the different flu vaccination recommendations for some children and adults 65 years and older.
+In children
+Flu vaccination provides a similar level of protection against flu illness in children to that seen among adults 18-64 years. In several studies, flu vaccine effectiveness was higher among “fully vaccinated” children who received two doses of flu vaccine the first season that they were vaccinated (as recommended) compared to "partially vaccinated" children who only received a single dose of flu vaccine during the first year they were vaccinated1234. These data support the current recommendation that some children 6 months to 8 years old should get two doses of flu vaccine, including:
+Children in this age group getting vaccinated for the first time,
+Children who have only previously received one dose of flu vaccine, and
+Children whose flu vaccination history is unknown.
+Keep Reading
+Flu and Children
+In older adults
+In numerous studies since 2010, standard dose flu vaccines offered some protection to adults 65 years and older against flu illness resulting in a doctor's visit as well as flu-related hospitalization, but protection was inconsistent in this age group during some flu seasons4567. As a result, beginning with the 2022–2023 flu season, CDC recommends preferential use of higher dose and adjuvanted flu vaccines (if available) among people 65 years and older. The preference applies to Fluzone High-Dose inactivated flu vaccine, Flublok recombinant flu vaccine and Fluad adjuvanted inactivated flu vaccine. There are other flu vaccines approved for use in people 65 years and older. If one of the preferential vaccines is not available at the time of administration, people in this age group should get a standard-dose unadjuvanted inactivated flu vaccine instead.
+Keep Reading
+Flu and People 65 Years and Older
+This preferential recommendation was based on a review of available studies which suggested that, in this age group, these vaccines were potentially more effective than standard dose unadjuvanted flu vaccines. Because influenza viruses and the effectiveness of flu vaccines can vary from one season to another, it is not known whether, during any given flu season, if one of the preferentially recommended flu vaccines will always be more effective among people 65 years and older. There is no preferential flu vaccine recommendation for other age groups.

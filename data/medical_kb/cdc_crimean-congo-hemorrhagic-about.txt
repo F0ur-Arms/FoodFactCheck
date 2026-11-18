@@ -1,0 +1,61 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: About Crimean-Congo Hemorrhagic Fever
+URL: https://www.cdc.gov/crimean-congo-hemorrhagic/about/index.html
+────────────────────────────────────────────────────────────
+
+Key points
+Crimean-Congo hemorrhagic fever (CCHF) is a rare, serious viral disease spread to humans by tick bites or infected animal blood.
+CCHF is the most widespread viral hemorrhagic fever, found in Eastern and Southern Europe, the Mediterranean, northwestern China, central Asia, Africa, the Middle East, and the Indian subcontinent.
+Healthcare workers and people in close contact with livestock are at higher risk for CCHF.
+Overview
+CCHF is caused by the Crimean-Congo hemorrhagic fever virus, which is spread by ticks. The CCHF virus can cause sudden illness. CCHF can spread between humans through contact with infectious blood or body fluids. It can result in severe bleeding and death. There's no cure for CCHF.
+Healthcare providers:
+Review guidance on emergency services, screening, testing, infection control and PPE for viral hemorrhagic fevers, like CCHF, here: Site Index | Viral Hemorrhagic Fevers (VHFs) | CDC
+Signs and symptoms
+CCHF symptoms usually appear suddenly and may include:
+High fever
+Severe headache
+Back and joint pain
+Stomach pain and vomiting
+Red eyes and flushed face
+Red spots on the roof of the mouth
+Jaundice
+Changes in mood and sensory perception
+Agitation
+Drowsiness
+Bleeding
+People with CCHF are usually sick for about two weeks. Around the fourth day of illness, large areas of severe bruising, severe nosebleeds, and uncontrolled bleeding at injection sites can develop.
+Up to 50% of people hospitalized with CCHF will die.
+How long it takes for signs to show
+Symptoms can start 1-14 days after being exposed to the virus.
+Risk factors
+The following groups of people are at a higher risk of CHHF:
+People in close contact with livestock in areas where CCHF is found
+Healthcare workers caring for someone with CCHF without proper PPE
+How it spreads
+CCHF virus spreads through:
+Tick bites from infected hard ticks (Ixodid)
+Contact with blood or body fluids of infected animals or humans
+Improperly sterilized medical equipment
+Healthcare acquired infections are common.
+Prevention
+To prevent CCHF:
+Use DEET-containing insect repellent to prevent tick bites.
+Wear gloves, long sleeves, and pants when handling animals where CCHF is found.
+Avoid contact with body fluids of potentially infected animals or people.
+If CCHF is suspected and the patient is clinically stable: Healthcare providers should use PPE for clinically stable suspect VHF patients.
+If CCHF is suspected and the patient is clinically unstable (for example, hemodynamic instability, vomiting) OR CCHF is confirmed regardless of clinical stability: Healthcare providers should use PPE for clinically unstable VHF patients.
+Testing and diagnosis
+Healthcare providers diagnose CCHF with the following tests:
+Real-time polymerase chain reaction (RT-PCR)
+Detection of antibodies in the blood
+CCHF is a notifiable condition. Healthcare providers should notify their health department if they suspect a patient has CCHF.
+Treatment and recovery
+There is no specific treatment or cure for CCHF.
+Supportive care includes fluid balance, giving oxygen, managing blood pressure, and treating other infections.
+An antiviral called Ribavirin has shown some benefits in treating CCHF patients.
+Recovery is slow, and the long-term effects are not well-studied.
+More research is needed to determine the efficacy of ribavirin and other antiviral drugs in treating CCHF.
+Vaccines
+Currently, there is no widely available or approved vaccine for human use to prevent CCHF.
+One type of vaccine is used on a small scale in Eastern Europe. However, more research is needed to determine the efficacy of this vaccine in preventing CCHF.

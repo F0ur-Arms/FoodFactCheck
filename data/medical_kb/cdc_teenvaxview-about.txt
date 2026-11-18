@@ -1,0 +1,51 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: About TeenVaxView
+URL: https://www.cdc.gov/teenvaxview/about/index.html
+────────────────────────────────────────────────────────────
+
+For Everyone
+Sept. 3, 2026
+About
+Vaccination is an essential part of keeping adolescents healthy and protected from serious diseases. Vaccines are recommended for adolescents to protect against diseases like whooping cough, meningococcal disease, and cancers caused by human papillomavirus (HPV). Adolescents should also get any vaccines they missed in childhood.
+Data sources
+The NIS-Teen is a mobile phone survey used to monitor relevant vaccination coverage among adolescents ages 13–17 years. It is part of a group of surveys that monitor:
+vaccination coverage among children ages 19–35 months
+flu vaccination for children ages 6 months–17 years
+COVID-19 vaccination for children and adolescents in eligible age groups and for adults ages 18 years and older.
+The NIS-Teen provides a "report card" to let us know how well we are protecting our nation's adolescents against vaccine-preventable diseases. This mobile telephone survey of parents or guardians is followed by a questionnaire mailed to vaccination providers to obtain the adolescent's' vaccination history. For data and documentation related to NIS-Teen please see NIS-Teen Data and Documentation for 2015 to Present.
+Objectives, targets, and indicators
+Objectives, targets, and indicators are science-based goals for adolescent vaccination coverage geared toward reducing illness and death from vaccine-preventable diseases.
+Every 10 years, Healthy People provides science-based national objectives for improving the health of all Americans. The HP 2030 objective IID-08 includes specific targets on increasing HPV vaccination coverage among adolescents.
+HEDIS measures are tools used by health plans to measure performance on childhood vaccinations, including childhood immunization status.
+The Core Set of Children's Health Care Quality Measures for Medicaid and CHIP (Child Core Set) includes childhood immunization status measures.
+Information for specific groups
+Healthcare professionals play an integral role in preventing serious diseases through vaccination. You can reduce illness among adolescents by recommending appropriate vaccinations at every health visit, taking the time to answer parent's questions, implementing standing orders, and using reminder/recall systems.
+Your work ensures high vaccination coverage in local communities and helps keep adolescents safe and healthy. Learn how you as a healthcare professional can protect more children in your area.
+Health care professionals may also be asked to help the NIS provide accurate information about childhood vaccinations. It is very important to continue to fill out the Immunization History Questionnaire (IHQ) for CDC to track accurate vaccination coverage at national, state, and selected local levels. The survey could not be completed without their dedicated support. Find the IHQ and other materials on the National Immunization Survey site.
+The diseases that vaccines prevent can be very serious—even life-threatening. That's why CDC's recommended adolescent immunization schedule is designed to protect adolescents before they are exposed to these diseases. Making sure adolescents receive all their recommended vaccines helps protect them from several serious diseases by the time they reach 18 years of age:
+Tdap vaccine to protect against tetanus, diphtheria, acellular pertussis
+Meningococcal conjugate (MenACWY) vaccine to protect against meningococcal disease from several serogroups
+HPV vaccine to protect against human papillomavirus
+Influenza (flu) vaccine to protect against seasonal flu
+Meningococcal B (MenB) vaccine to project against meningococcal disease from serogroup B
+Learn more about the about the specific vaccines recommended for adolescents and the diseases they prevent.
+The National Immunization Surveys (NIS) are conducted in households across the country by phone. The majority of the telephone numbers are randomly selected by a computer so it is possible that your phone number may be contacted. Here is a letter from the Director of the Immunization Services Division (ISD), which describes the surveys [2 pages].
+Your participation is voluntary and no information that identifies any individual is ever shared or released. All survey responses and personal data are kept confidential in accordance with strict Federal regulations. Survey results are analyzed and published in reports to benefit local, state, and national public health programs.
+Have Additional Questions? See answers to frequently asked questions.
+Get the facts and figures you need to tell the story of adolescent vaccination coverage in your area and throughout the nation.
+Resources include:
+Results for vaccination coverage among teens—note that this page will allow you to look at specific vaccines and trends over time for those vaccines
+Local areas sampled by NIS-Teen
+Previous year's publications
+Frequently Asked Questions
+Other VaxView vaccination coverage websites
+The VaxView websites provide vaccination coverage data for all ages. Monitoring coverage for recommended vaccinations across the country helps CDC assess how well local areas, states, and the nation are protected from vaccine-preventable diseases.
+Find additional vaccination coverage data on the VaxView Vaccination Coverage main page.
+Sept. 3, 2026
+Sources and Page Info
+Print
+Share
+Facebook
+LinkedIn
+Twitter
+Syndicate

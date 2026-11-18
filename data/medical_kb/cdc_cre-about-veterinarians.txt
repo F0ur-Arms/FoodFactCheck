@@ -1,0 +1,61 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Carbapenem-resistant Enterobacterales and Veterinarian Basics
+URL: https://www.cdc.gov/cre/about/veterinarians.html
+────────────────────────────────────────────────────────────
+
+Key points
+Pets can get carbapenem-resistant Enterobacterales (CRE) infections.
+Antibiotics can treat many CRE infections, but not in all cases.
+Veterinarians may report confirmed CRE cases to their area's public health or animal health official.
+Veterinary staff and pet owners can reduce the risk of CRE infections.
+Overview
+Terms to know
+Carbapenems: antibiotic drugs used to treat antimicrobial-resistant infections. There are three carbapenem antibiotics currently available in the U.S.: meropenem, ertapenem, and imipenem.
+Antimicrobial Resistance: Antimicrobial resistance happens when germs like bacteria and fungi develop the ability to defeat the drugs designed to kill them. That means the germs are not killed and continue to grow in the body. Antimicrobial-resistant infections can be difficult, and sometimes impossible, to treat.
+Enterobacterales: Enterobacterales are a group of bacteria (germs). Many Enterobacterales are normally found in the animal and human gut but can also cause infections.
+Colonization: when humans or animals carry CRE in their gut without it causing infection or symptoms. People and animals colonized with CRE can shed CRE into the environment and spread the germ to others.
+Carbapenem-resistant Enterobacterales (CRE) are resistant to one or several carbapenems. carbapenemase-producing CRE (CP-CRE) are a subset of CRE that are a particularly important public health risk.
+People at risk
+For veterinarians
+Healthy people rarely get CRE infections. Veterinary staff can reduce their risk of contracting CRE infections from animals; see Reducing Risk information below.
+For pet owners
+Regardless of their risk of infection, veterinarians should encourage all owners of CRE-colonized or infected animals to protect themselves.
+Keep Reading:
+Carbapenem-resistant Enterobacterales and Animals Basics
+How it spreads
+CRE and CP-CRE can spread between animals and between animals and humans123. This happens through contact with:
+Colonized or infected animals or their feces.
+Dirty hands of veterinary personnel and pet owners.
+Dirty medical equipment and devices.
+Dirty surfaces.
+There is limited data about how often CRE and CP-CRE spread in veterinary settings, but there are cases of it happening. 4Allowing animals colonized or infected with CRE to share urination and defecation relief areas may make it easier for CRE and CP-CRE to spread.
+Scientists are still working to understand how long animals carry and spread CRE. They may carry it longer if they receive antibiotics.5
+Reducing risk
+The National Association of State Public Health Veterinarians (NASPHV) standard precautions can prevent CRE from spreading within a veterinary facility and between animals and humans. Precautions for veterinarians include:
+Cleaning their hands:
+Before and after contact with an animal or its feces, body fluids, vomit, etc.
+Cleaning hands after contact with anything that had contact with animals.
+Cleaning hands after contact with surfaces in animal areas; and after removing gloves.
+Cleaning and disinfecting equipment and surfaces between use and when dirty.
+Cleaning surfaces with an EPA-registered disinfectant, cleaning high-touch surfaces (e.g., exam tables, doorknobs, cage latches, faucet handles, and sinks).
+Cleaning animal cages, toys, and food and water bowls between uses and when visibly dirty.
+Cleaning litter boxes at least once daily.
+Use barrier precautions (e.g., personal protective equipment like gowns and gloves).
+Isolate animals with suspected or confirmed infectious diseases, including animals colonized or infected with CRE.
+Educating veterinary staff about CRE and these measures to prevent spread to veterinary staff and between animals.
+Limiting staff to eating, drinking, smoking, applying makeup, etc. in breakrooms or selected areas.
+Keeping staff food or drink items in refrigerators not used for animals, biologics, or laboratory specimens.
+Washing and storing staff dishes away from animal-care and animal food preparation areas.
+Testing
+You may need to request more advanced susceptibility testing to pick the right antibiotic for a CRE infection. Veterinarians can contact their veterinary diagnostic laboratory or state public health veterinarian about CRE and CP-CRE testing availability.
+Handling cases in veterinary facilities
+If you identify an animal infected or colonized with CRE or CP-CRE, it's important to act fast. Steps to take include:
+Follow the National Association of State Public Health Veterinarians (NASPHV) standard precautions.
+Notify the owner that their animal has CRE and share CDC's CRE and Animal Basics webpage.
+If the animal first came from a different facility, notify them.
+Review your facility's clinical cultures from the past six months and for the next three months to check for additional CRE cases.
+Contact your public health department or animal health official to help prevent additional cases.
+Make sure you know the reporting requirements in your area. In many jurisdictions, you must report confirmed CRE cases to a public health or animal health official.
+Treatment and recovery
+Antibiotics can treat many CRE infections, but not in all cases. Antimicrobial-resistant infections may take longer to treat and can be more expensive to treat.
+Antibiotics do not decolonize CRE-colonized animals; in fact, they may prolong colonization and make it easier for the animal to spread the bacteria. Decolonization usually occurs over time but is likely to happen more quickly in healthy animals who rarely get antibiotics.

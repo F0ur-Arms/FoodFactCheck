@@ -1,0 +1,36 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Vancomycin-resistant Enterococci (VRE) Basics
+URL: https://www.cdc.gov/vre/about/index.html
+────────────────────────────────────────────────────────────
+
+Key points
+Vancomycin-resistant Enterococci (VRE) infections usually occur in healthcare settings.
+Good infection control practices can prevent cases.
+Antibiotics can treat VRE infections.
+Overview
+Enterococci are bacteria normally found in the human intestines, female genital tract and environment (e.g., soil and water). VRE are resistant to vancomycin, the drug often used to treat infections caused by enterococci. Most VRE infections occur in hospitals.
+In 2017, VRE caused an estimated 54,500 infections among hospitalized patients and 5,400 estimated deaths in the United States.1
+Who is at risk
+People who have taken antibiotics, including vancomycin, for long periods of time.
+People who have had surgery.
+People with medical devices in their bodies (e.g., catheters).
+Hospital patients, especially those with weakened immune systems.
+How it spreads
+Contact with contaminated surfaces or equipment.
+Person-to-person contact, often via contaminated hands.
+VRE does not spread through the air by coughing or sneezing.
+Reducing risk
+Patients and caregivers should:
+Regularly clean their hands with soap and water or using alcohol-based hand sanitizer.
+Clean their hands before and after caring for wounds or touching a medical device, after using the bathroom and before cooking.
+Wear gloves whenever they might come into contact with body fluids (e.g., stool (poop) or bandages from infected wounds).
+Inform healthcare providers if they or someone they care for has VRE.
+Allow healthcare staff to clean their room daily when in a healthcare setting.
+Healthcare providers should always follow core infection control practices to reduce the risk of spreading these germs to patients.
+Treatment and recovery
+VRE infections are treated with antibiotics other than vancomycin. To pick the best antibiotic, healthcare providers will send a specimen to the laboratory.
+In some cases, people can carry VRE without being infected, known as colonization. Colonization does not require antibiotics.
+What CDC is doing
+Tracking VRE infections through the National Healthcare Safety Network.
+Data is also available on the AR & Patient Safety Portal.
+Working closely with health departments, other federal agencies, healthcare providers and patients to prevent infections caused by VRE and slow the spread of resistant germs.

@@ -1,0 +1,69 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: About Cat Flu
+URL: https://www.cdc.gov/flu-in-animals/about/cat-flu.html
+────────────────────────────────────────────────────────────
+
+For Everyone
+Apr. 16, 2024
+Key points
+Cats can be infected with influenza viruses from cats, birds and people.
+Influenza can spread in cats in the same way as it does in people.
+Influenza virus infection generally results in mild illness in cats, but avian influenza virus infections in cats can result in severe illness and death.
+CDC believes cat influenza poses a low risk to human health, but risk could vary based on the virus and exposure.
+Effects
+Causes
+Cats can be infected with influenza viruses and can spread influenza viruses to each other (cat-to-cat). Though uncommon, cats can be infected with avian influenza (bird flu) or human seasonal influenza viruses. Some scientific studies suggest that it is not uncommon for people to infect cats with seasonal influenza viruses. Less is known about the risk of an infected cat spreading flu to people.
+Infections people commonly refer to as "cat flu" are usually caused by feline calicivirus and feline herpes virus. Feline calicivirus and feline herpes virus cannot be transmitted to humans. Neither of these viruses is related to influenza viruses.
+Signs of illness
+While rare, influenza virus infection in cats has generally resulted in mild illness and some infected cats will not develop symptoms. However, cats infected with influenza virus can develop respiratory illness with the following signs:
+Sneezing
+Coughing
+Fever
+Discharge from the nose or eyes
+Lack of energy
+Loss of appetite
+Neurological symptoms such as paralysis and seizures
+Some cats infected with influenza virus could become severely ill with other complications, including pneumonia or secondary bacterial infections. Some cats infected with avian influenza viruses like highly pathogenic avian influenza A(H5N1) virus can become severely ill and die.
+Keep in mind
+If you own a pet exhibiting flu signs, do not cuddle with or allow your sick animal to kiss or lick your face.
+Human health risk of cat influenza
+CDC believes that the risk of humans becoming infected with an influenza virus from an infected cat is low, but risk is likely dependent on the characteristics of the virus and the duration and intensity of exposure. In general, not much is known about the risk of an infected cat spreading flu to people. Rarely, cat to human transmission of avian influenza viruses has occurred in the past.
+People considered at higher risk of serious flu complications should avoid contact with pets that appear sick.
+How it spreads
+Influenza in cats is thought to spread the same way as it does in people. This includes through direct contact, droplets containing virus in the air, and contaminated surfaces.
+Direct contact
+Examples include playing or sleeping together, licking, or nuzzling.
+Droplets through the air
+Sick cats may cough or sneeze, which can expel droplets containing the virus into the air. Another cat can then breathe in the droplets, or they can enter a cat's eyes, nose, or mouth.
+Virus can also be present in the discharge from an infected cat's nose.
+Cats can also be exposed to influenza viruses from people when infected people cough or sneeze.
+Contaminated surfaces
+Flu viruses can also contaminate the pet's environment, such as in litter boxes, on shared food/ water bowls, and cage surfaces.
+How flu can spread from cat to person
+Direct contact
+Generally, a person can get infected with an influenza virus when enough of the virus gets into their eyes, nose, or mouth. Viruses in cat saliva may be transferred onto the cat's coat during grooming and can then spread to people during contact.
+Droplets through the air
+Sick cats may cough or sneeze, which can expel droplets containing the virus into the air. A person can then breathe in the droplets, or they can enter a person's eyes, nose, or mouth. Virus can also be present in the discharge from an infected cat's nose.
+Contaminated surfaces
+Influenza viruses can also contaminate the pet's environment, such as in litter boxes, on food/ water bowls, and cage surfaces. A person can potentially become infected by touching a contaminated surface and then touching their eyes, nose or mouth.
+Prevention
+Even cats that appear healthy can spread germs to people and other animals. That's why it's important to take steps to reduce the risk of disease transmission between people and pets. CDC has long-standing guidance for cat owners which includes washing your hands with soap and running water after cleaning a litter box or touching cat saliva or stool.
+These precautions are even more important for people who are at higher risk of serious flu complications, such as those who are being treated for cancer, or who have other chronic health conditions such as diabetes, heart disease, liver disease or kidney disease or women who are pregnant. Any influenza virus infection can be more serious in these people.
+Prevent the spread of flu between pets and people.‎
+Thoroughly washing your hands after touching a surface that may have been contaminated is an important precaution you can take.
+Taking precautions are even more important for people who are considered at higher risk of flu-related complications. A full list of people considered at higher risk of flu-related complications is available.
+Hand washing
+Thoroughly washing your hands after touching a surface that may have been contaminated is an important precaution you can take.
+Hand Washing Tips
+What we're still learning
+As part of CDC's mission to protect the public from emerging health threats, CDC monitors changes in influenza viruses found in human and animal populations. There is potential for a pandemic (a global outbreak of disease) to occur when a new animal virus gains the ability to infect humans and has the ability to spread efficiently from person to person. For these reasons, these incidents must be carefully investigated, and appropriate actions taken to ensure that there is no ongoing spread of the novel virus among people.
+Past Bird Flu Outbreaks in Cats
+2016: H7N2 Outbreak in Cats, New York City
+An outbreak of low pathogenic avian influenza A (H7N2) virus (LPAI H7N2) occurred among cats in animal shelters in New York City. One human infection was detected in a person who had close, prolonged, unprotected exposure to the respiratory secretions of H7N2 infected cats at an affected shelter.
+2023: H5N1 Outbreak in Cats, Poland
+The World Health Organization (WHO) reported an outbreak of influenza A(H5N1) bird flu among 34 domestic cats across 8 provinces in Poland. Many of the infected cats showed neurological signs like paralysis and seizures and became severely ill or died. The source of the H5N1 exposure remains unclear. Investigators found no evidence that the virus spread from cat-to-cat or that illness in cat owners or people with exposure to infected cats occurred.
+Treatment
+Cats infected with influenza virus
+Contact your cat's veterinarian if they are experiencing signs of respiratory illness. The veterinarian will help determine the cause and best course of treatment.
+Person infected with influenza virus
+Flu antiviral drugs are used to treat seasonal flu illness in children and adults. In rare cases where a human is infected with avian influenza virus from a cat, antiviral drugs should be provided.

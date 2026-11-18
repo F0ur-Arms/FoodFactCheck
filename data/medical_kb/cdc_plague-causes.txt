@@ -1,0 +1,21 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: How Plague Spreads
+URL: https://www.cdc.gov/plague/causes/index.html
+────────────────────────────────────────────────────────────
+
+Key points
+The bacterium that causes plague, Yersinia pestis, is transmitted by fleas and cycles naturally among wild rodents.
+People usually get plague after being bitten by an infected rodent flea or by handling an infected animal.
+People can also become infected through exposure to sick pets, especially cats.
+How it spreads
+The plague bacteria can be transmitted to humans in the following ways:
+Flea bites. Plague bacteria are most often transmitted by the bite of an infected flea. During plague epizootics, many rodents die, causing hungry fleas to seek other sources of blood. People and animals that visit places where rodents have recently died from plague are at risk of being infected from flea bites. Dogs and cats may also bring plague-infected fleas into the home. Flea bite exposure may result in primary bubonic plague or septicemic plague.
+Contact with contaminated fluid or tissue. Humans can become infected when handling tissue or body fluids of a plague-infected animal. For example, a hunter skinning a rabbit or other infected animal without using proper precautions (e.g., gloves) could become infected with plague bacteria. This form of exposure most commonly results in bubonic plague or septicemic plague.
+Infectious droplets. Humans and animals with plague pneumonia can sometimes cough droplets containing plague bacteria into the air. These bacteria-containing droplets can cause pneumonic plague in another person if inhaled. Typically, this requires direct and close contact with the person or animal with pneumonic plague. Transmission of these droplets is the only way that plague can spread between people. Person-to-person spread has not been documented in the United States since 1924, but there continue to be rare cases of pneumonic plague among people exposed to sick cats. Cats are particularly susceptible to plague and can be infected by eating infected rodents. Cats with plague pose a risk of transmitting infectious plague droplets to their owners or to veterinarians.
+Ecology
+The bacteria that cause plague, Y. pestis, maintain their existence in a cycle involving rodents and their fleas. Plague occurs in rural and semi-rural areas of the western United States, primarily in semi-arid upland forests and grasslands where many types of rodent species can be involved. Many types of animals, such as rock squirrels, wood rats, ground squirrels, prairie dogs, chipmunks, mice, voles, and rabbits can be affected by plague. Wild carnivores can become infected by eating other infected animals.
+Scientists think that plague bacteria circulate at low rates within populations of certain rodents without causing excessive rodent die-off. These infected animals and their fleas serve as long-term reservoirs for the bacteria. This is called the enzootic cycle.
+Occasionally, other species become infected, causing an outbreak among animals, called an epizootic. Humans are usually more at risk during, or shortly after, a plague epizootic.
+In parts of the developing world, plague can sometimes occur in urban areas with dense rat infestations. The last urban outbreak of rat-associated plague in the United States occurred in Los Angeles in 1924-1925.
+Keep Reading
+PlagueEcologyUS.pdf

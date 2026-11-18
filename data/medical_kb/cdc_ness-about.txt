@@ -1,0 +1,49 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: About NESS
+URL: https://www.cdc.gov/ness/about/index.html
+────────────────────────────────────────────────────────────
+
+Apr. 24, 2026
+At a glance
+The National Enterovirus Surveillance System (NESS) monitors enteroviruses and parechoviruses in the United States. Participating laboratories report basic specimen data. Public health practitioners, researchers, and clinicians use NESS to determine circulation patterns of individual enterovirus and parechovirus types.
+Purpose
+The National Enterovirus Surveillance System (NESS) is a passive, voluntary surveillance system that collects basic data on specimens positive for enterovirus or human parechovirus, including serotype. NESS has been collecting laboratory data on types of enteroviruses (including coxsackieviruses and echoviruses) and parechoviruses in the United States since the 1960s.
+Type-based enterovirus and parechovirus surveillance in the United States helps to:
+Determine long-term patterns of circulation for individual enteroviruses and parechoviruses.
+Interpret trends in enterovirus and parechovirus diseases (e.g., aseptic meningitis) by associating them with circulating types.
+Identify outbreaks associated with circulating types.
+Guide development of new diagnostic tests and therapies.
+Monitor poliovirus detections, by supplementing clinician-based poliomyelitis testing in the United States. Both paralytic poliomyelitis and non-paralytic poliovirus infections are nationally notifiable.
+How data collection works
+NESS uses REDCap to collect electronic data. Laboratories across the U.S report on the types of enteroviruses and parechoviruses. The web-based NESS system has been available to participating laboratories since July 2009. It makes reporting to CDC easier and allows for more timely recognition of enterovirus and parechovirus outbreaks and viral trends in activity.
+Laboratories with capacity to serotype are encouraged to report to NESS to help improve geographic and temporal surveillance.
+Collaborating public health and commercial laboratories report monthly to CDC positive enterovirus and parechovirus detections by:
+Serotype
+Specimen type
+Collection date
+Age
+Sex
+Submit a request to NESS
+Want to contribute or request access to NESS data? Fill out and submit the form.
+Contact NESS
+CDC laboratory testing
+CDC laboratories routinely conduct testing for non-polio enteroviruses and parechoviruses, including:
+Qualitative molecular testing; pan-enterovirus and pan-parechovirus
+Molecular testing, followed by sequencing to identify enterovirus and parechovirus types (formerly serotypes)
+Testing for less common picornaviruses (excluding Hepatitis A)
+CDC also helps state laboratories by:
+Transferring new diagnostic technologies and providing training on how to perform these techniques,
+Helping them identify enteroviruses and parechoviruses they have not been able to type, and
+Providing guidance on how to properly collect and ship clinical specimens to CDC for confirming and typing picornaviruses.
+For protocols, contact PicornaLab@cdc.gov.
+For Public Health
+Non-Polio Enterovirus Specimen Collection
+Latest publications
+Delahoy MJ, English R, Getachew H, Ng TFF, Kidd S. Neonatal Enterovirus and Parechovirus Infections: National Enterovirus Surveillance System, United States, 2004–2023. The Pediatric Infectious Disease Journal. 2026; 45(2):120-125.
+CDC. Enterovirus and parechovirus surveillance, United States, 2014 — 2016. MMWR. 2018; 67(18);515–8.
+CDC. Enterovirus and human parechovirus surveillance – United States, 2009-2013. MMWR. 2015;64(34):940-3.
+Midgley CM, Watson JT, Nix WA, Curns AT, Rogers SL, Brown BA, et al. Severe respiratory illness associated with a nationwide outbreak of enterovirus D68 in the USA (2014): a descriptive epidemiological investigation. The Lancet. 2015. Available online 5 Oct 2015.
+CDC. Non-polio enteroviruses and human parechovirus—United States, 2006–2008. MMWR. 2010;59(48);1577-1580.
+Nix WA, Maher K, Pallansch MA, Oberste, MS. Parechovirus typing in clinical specimens by nested or semi-nested VP1 PCR coupled with sequencing. J Clin Virol. 2010;48:202-207.
+Oberste MS, Penaranda S, Rogers SL, Henderson E, Nix WA. Comparative evaluation of Taqman real-time PCR and semi-nested VP1 PCR for detection of enteroviruses in clinical specimens. J Clin Virol. 2010;49:73-74.
+Apr. 24, 2026

@@ -1,0 +1,33 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: About Gram-negative Bacteria
+URL: https://www.cdc.gov/gram-negative-bacteria/about/index.html
+────────────────────────────────────────────────────────────
+
+Key points
+Gram-negative bacteria can cause serious infections in healthcare settings.
+Infections from these bacteria are becoming increasingly difficult to treat due to antimicrobial resistance.
+To prevent these infections, healthcare providers should follow recommended infection control practices.
+Overview
+Gram-negative bacteria cause infections such as pneumonia, bloodstream infections, wound or surgical site infections, and meningitis in healthcare settings. These infections can be hard to treat since the bacteria causing them can become resistant to common antibiotics. Resistance to most or all antibiotics has also been reported.
+Types
+Klebsiella
+Acinetobacter
+Pseudomonas aeruginosa
+E. coli
+And more
+Who is at risk
+Patients in healthcare settings are at highest risk.
+Prevention
+Patients and caregivers should follow CDC guidelines on patient safety.
+Healthcare providers and facilities should follow core infection control practices to reduce the risk of spreading these germs to patients.
+Testing
+CDC collaborates with laboratories to identify and recommend tests to detect gram-negative bacteria.
+Keep Reading:
+Laboratory Testing for Gram Negative
+Treatment
+Gram-negative infections can be difficult to treat. Some types of gram-negative bacteria can become resistant to multiple drugs, including (and increasingly) antibiotics like carbapenems.
+What CDC is doing
+Providing testing to identify antimicrobial resistance cases, measure resistance and track transmission in a healthcare setting through the Antimicrobial Resistance Laboratory Network.
+Tracking gram-negative bacteria infections through the Emerging Infections Program and National Healthcare Safety Network.
+Data is also available on the AR & Patient Safety Portal.
+Working closely with health departments, other federal agencies, healthcare providers and patients to prevent infections caused by gram-negative bacteria and slow the spread of resistant germs.

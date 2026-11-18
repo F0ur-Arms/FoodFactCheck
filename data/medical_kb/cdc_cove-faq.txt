@@ -1,0 +1,15 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: COVE Frequently Asked Questions
+URL: https://www.cdc.gov/cove/faq/index.html
+────────────────────────────────────────────────────────────
+
+What to know
+A collection of Frequently Asked Questions about the COVE project
+When is COVE code updated LIVE?
+The standard release schedule is the last Tuesday of the month. There are some variations for Holidays and the like.
+Where is best place to start troubleshooting?
+The data loaded into the COVE editor needs to meet a specific set of configuration requirements to be converted into a visualization. Many of the issues we see in troubleshooting visualizations starts with the data. Visit the Data Formatting Toolkit to see how you can best format your data to avoid this issue. You can view how the editor is interpreting your data set in the Data preview tab after selecting your visualization type.
+Configurations Options to build each of the example visualizations are found under each example. If you're not seeing the result you expect, check back with your configuration selections.
+How do I get help?
+To find out more about the COVE project and contribution visit our GitHub. Requests for assistance can be made there by creating an issue.
+For inquiries inside CDC about building data visualizations in the WCMS and feature requests, reach out to your WCMS POC (search the intranet for your contact). If they are unable to help, they can submit support questions on your behalf.

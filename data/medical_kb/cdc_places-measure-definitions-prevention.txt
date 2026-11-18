@@ -1,0 +1,162 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Prevention
+URL: https://www.cdc.gov/places/measure-definitions/prevention.html
+────────────────────────────────────────────────────────────
+
+Dec. 11, 2025
+What to know
+The PLACES Prevention data capture the use of key preventive health practices and services, such as cancer screenings and vaccinations. The data provides a snapshot of community-level engagement in health maintenance practices to guide improvements in public health strategies and health care service delivery. Data sources used include the Behavioral Risk Factor Surveillance System (BRFSS) and the American Community Survey (ACS).
+Lack of health insurance among adults aged 18–64 years
+Population
+Adults aged 18–64 years
+Model-Based Measure
+A multilevel regression and post-stratification approach was applied to BRFSS and ACS data to compute a detailed probability among adults aged 18–64 who report having no current health insurance coverage. The probability was then applied to the detailed population estimates at the appropriate geographic level to generate the prevalence. The 95% confidence interval was derived using Monte Carlo simulation. Detailed methods are available here.
+Measure Type
+Prevalence (crude and age-adjusted)
+Time Period of Case Definition
+Current
+Summary
+In 2023, about 10.9% of U.S. adults aged 18–64 years did not have health insurance.1 People with low income and from some racial and ethnic minority groups are more likely not to have insurance.1 Without health insurance, people are less likely to receive preventive services, which puts them at increased risk for developing diseases or disabilities and for death.23 Federal social assistance programs that provide health coverage to families with lower incomes can help improve health insurance coverage.4
+Notes
+Because individuals might move in and out of health insurance, this indicator might underestimate the prevalence of a lack of health insurance.
+Related Objectives or Recommendations
+Healthy People 2030 objective: AHS‑01. Increase the proportion of people with health insurance.
+Routine checkup within the past year among adults
+Population
+All Adults
+Model-Based Measure
+A multilevel regression and post-stratification approach was applied to BRFSS and ACS data to compute a detailed probability among adults who report having been to a doctor for a routine checkup (e.g., a general physical exam, not an exam for a specific injury, illness, or condition) in the previous year. The probability was then applied to the detailed population estimates at the appropriate geographic level to generate the prevalence. The 95% confidence interval was derived using Monte Carlo simulation. Detailed methods are available here.
+Measure Type
+Prevalence (crude and age-adjusted)
+Time Period of Case Definition
+Previous year
+Summary
+In 2022, about 3 in 4 of U.S. adults (76.2%) visited a doctor for a routine checkup in the past year.5 Uninsured adults, adults with lower incomes, and adults belonging to some racial and ethnic groups are less likely to get a routine checkup.56
+"Regular checkups" includes receiving recommended vaccinations, screenings, and blood tests in addition to checking blood pressure, weight, and cholesterol with the purpose of maintaining wellness.78
+Regular checkups can reduce disease and premature death from chronic conditions (e.g., cardiovascular disease, cancer, chronic lower respiratory diseases, and diabetes).78 Federal and state programs that provide health coverage to adults with lower incomes can help improve routine checkups among adults.6
+Notes
+None
+Related Objectives or Recommendations
+None
+Visited dentist or dental clinic in the past year among adults
+Population
+All Adults
+Model-Based Measure
+A multilevel regression and post-stratification approach was applied to BRFSS and ACS data to compute a detailed probability among adults who report having been to the dentist or dental clinic in the past year. The probability was then applied to the detailed population estimates at the appropriate geographic level to generate the prevalence. The 95% confidence interval was derived using Monte Carlo simulation. Detailed methods are available here.
+Measure Type
+Prevalence (crude and age-adjusted)
+Time Period of Case Definition
+In the past year
+Summary
+Routine dental visits allow for oral health education, preventive care services, and early detection and treatment of oral diseases such as dental caries (cavities), periodontal (gum) disease, and oral cancer.910 Estimates from the 2022 Behavioral Risk Factor Surveillance System (BRFSS) indicated that 63.9% of adults aged ≥18 years reported having a past-year dental visit.5
+In 2014, adults reported financial barriers to accessing dental care (12.8%) three times more frequently than this measure was reported for children and adolescents (4.3%).11 Studies found lower dental care use among adults with lower income, less education, and no health care coverage and among adults who were non-Hispanic Black, smoked, had dental or other chronic diseases, or lived in rural area.9101213
+Increasing use of the oral health care system is a Healthy People 2030 Leading Health Indicator, representing a high-priority objective to reduce health disparities and improve the oral health of the nation.14
+Notes
+This indicator does not convey reasons for dental visits and is self-reported. Survey questions are part of the BRFSS rotating core, currently collected in even years.
+Related Objectives or Recommendations
+Healthy People 2030 objective: OH-08. Increase use of oral health care system.
+Taking medicine to control high blood pressure among adults with high blood pressure
+Population
+All Adults
+Model-Based Measure
+A multilevel regression and post-stratification approach was applied to BRFSS and ACS data to compute a detailed probability among adults with high blood pressure who reported currently taking medicine for high blood pressure. The probability was then applied to the detailed population estimates at the appropriate geographic level to generate the prevalence. The 95% confidence interval was derived using Monte Carlo simulation. Detailed methods are available here.
+Measure Type
+Prevalence (crude and age-adjusted)
+Time Period of Case Definition
+Current
+Summary
+According to the American College of Cardiology/American Heart Association (ACC/AHA) 2017 hypertension (high blood pressure) guideline, hypertension is defined as a blood pressure ≥130/≥80 mmHg.15 An estimated 120 million U.S. adults (48.1%) have hypertension—nearly 1 in 2 adults aged 18 years and older.16 An estimated 1 in 5 adults with hypertension are recommended lifestyle modification only—about 25.0 million U.S. adults.16 The rest, 4 in 5 adults with hypertension, are recommended prescription medication with lifestyle modification—about 94.9 million U.S. adults.16
+Many adults who are recommended to take medication are untreated. This includes 34.8 million US adults, two-thirds (23.4 million) of whom have a blood pressure of 140/90 mm Hg or higher.16 In addition, many adults already taking medication may need their treatment modified to achieve control. This includes 33.2 million US adults who are taking medication but have a blood pressure of 130/80 mm Hg or higher, over half (18.8 million) of whom have a blood pressure of 140/90 mm Hg or higher.16
+On average, a 5 mm Hg reduction of systolic blood pressure reduced the risk of a major cardiovascular event by about 10%. The corresponding proportional risk reductions for stroke, heart failure, ischemic heart disease, and cardiovascular death were 13%, 13%, 8%, and 5%, respectively.17
+Notes
+This measure does not include people with hypertension who have their blood pressure successfully controlled through lifestyle changes and without medication. It only measures those who recall being told they have high blood pressure and not those who have not been told they have high blood pressure. This information is not validated against actual blood pressure measurements or medical records. Survey questions are part of the BRFSS rotating core (odd years).
+Related Objectives or Recommendations
+Healthy People 2030 objective: HDS-05. Increase control of high blood pressure in adults.
+Cholesterol screening among adults
+Population
+All Adults
+Model-Based Measure
+A multilevel regression and post-stratification approach was applied to BRFSS and ACS data to compute a detailed probability among respondents aged ≥18 years who report having their cholesterol checked within the previous 5 years. The probability was then applied to the detailed population estimates at the appropriate geographic level to generate the prevalence. The 95% confidence interval was derived using Monte Carlo simulation. Detailed methods are available here.
+Measure Type
+Prevalence (crude and age-adjusted)
+Time Period of Case Definition
+Previous 5 years
+Summary
+In 2023, among U.S. states, the District of Columbia, and territories, a median of 12.9% of adults aged ≥18 years had not had their cholesterol checked within the past 5 years or never had their cholesterol checked.18 In 2017–2020, about 10% of adults aged 20 years and older had total cholesterol above 240 mg/dL. About 17% had high-density lipoprotein (HDL, or “good”) cholesterol levels below 40 mg/dL.19 Slightly more than half of U.S. adults (54.5%, or 47 million people) who could benefit from cholesterol medicine are currently taking it.20
+High cholesterol commonly has no symptoms, so many people don’t know that their cholesterol is too high. Having high blood cholesterol raises the risk for heart disease, the nation's leading cause of death in 2021, and for stroke, the fifth leading cause of death. Lifestyle changes and medications can reduce cholesterol and prevent heart disease among people with elevated serum cholesterol.21
+Notes
+The validity and reliability of this measure can be low because patients might not be aware of the specific tests conducted on their blood samples collected in clinical settings.
+Related Objectives or Recommendations
+Healthy People 2030 objective HDS-6: Reduce cholesterol in adults.
+Mammography use among women aged 50–74 years
+Population
+Women aged 50–74 years
+Model-Based Measure
+A multilevel regression and post-stratification approach was applied to BRFSS and ACS data to compute a detailed probability among women aged 50–74 years who report having had a mammogram within the previous 2 years. The probability was then applied to the detailed population estimates at the appropriate geographic level to generate the prevalence. The 95% confidence interval was derived using Monte Carlo simulation. Detailed methods are available here.
+Measure Type
+Prevalence (crude and age-adjusted)
+Time Period of Case Definition
+Previous 2 years
+Summary
+Female breast cancer is a leading cause of cancer death and more than 42,000 women died from the disease in 2022.22 Screening can detect breast cancer early when treatment is more likely to be effective. In 2016, the U.S. Preventive Services Task Force recommended that women aged 50–74 years and at average risk for breast cancer get a mammogram every 2 years and that women aged 40–49 years should talk to their doctor or other health care provider about when to start and how often to get a mammogram.23 In 2024,
+the U.S. Preventive Services Task Force updated their recommendation—women aged 40–74 years should get a mammogram every 2 years.24
+Notes
+Recommendations for mammography screening are not always consistent among national groups. Survey questions are part of the BRFSS rotating Core (even years).
+Related Objectives or Recommendations
+Healthy People 2030 objective: C-05. Increase the proportion of females who get screened for breast cancer.
+Cervical cancer screening among women aged 21–65 years
+Not available in 2024 and 2025 release
+Population
+Women aged 21–65 years
+Model-Based Measure
+A multilevel regression and post-stratification approach was applied to BRFSS and ACS data to compute a detailed probability among female respondents aged 21–65 years who did not report having had a hysterectomy and who report having had a Papanicolaou (Pap) test within the previous 3 years OR female respondents aged 30–65 years who reported having had a human papilloma virus (HPV) test alone or in combination with a PAP test (also known as a co-test) within the previous 5 years. The probability was then applied to the detailed population estimates at the appropriate geographic level to generate the prevalence.
+The 95% confidence interval was derived using Monte Carlo simulation. Detailed methods are available here.
+Measure Type
+Prevalence (crude and age-adjusted)
+Time Period of Case Definition
+For age 21–65: Previous 3 years for Pap test alone
+For age 30–65 only: Previous 5 years for HPV test alone or in combination with a Pap test (co-test).
+Summary
+In 2022, more than 4,000 women died from cervical cancer.22 Screening can help prevent cervical cancer or find it early, when treatment is more likely to be effective. The U.S. Preventive Services Task Force (USPSTF) recommends screening for cervical cancer every 3 years with cervical cytology alone in women aged 21 to 29 years. For women aged 30 to 65 years, the USPSTF recommends screening every 3 years with cervical cytology (Pap test) alone, every 5 years with high-risk human papillomavirus (hrHPV) testing alone, or every 5 years with hrHPV testing in combination with cytology (co-testing).25
+Notes
+In August 2018, the USPSTF changed its cervical cancer screening recommendation to include another type of screening (hrHPV testing alone every 5 years). Estimates of people getting cervical cancer screening since 2018 are not comparable to previous years. Recommendations for cervical cancer screening are not always consistent among national groups. Survey questions are part of the BRFSS rotating core (even years).
+Related Objectives or Recommendations
+Healthy People 2030 objective: C-09. Increase the proportion of females who get screened for cervical cancer.
+Colorectal cancer screening among adults aged 45–75 years
+Population
+Adults aged 45–75 years
+Model-Based Measure
+A multilevel regression and post-stratification approach was applied to BRFSS and ACS data to compute a detailed probability among adults aged 45–75 years who report having one of the following: a fecal occult blood test (FOBT) within the previous year, a fecal immunochemical test (FIT)-DNA test within the previous 3 years, a sigmoidoscopy within the previous 5 years, a sigmoidoscopy within the previous 10 years with a FIT in the past year, a colonoscopy within the previous 10 years, or a CT colonography (virtual colonoscopy) within the previous 5 years. The probability was then applied to the detailed population estimates at the appropriate geographic level to generate the prevalence.
+The 95% confidence interval was derived using Monte Carlo simulation. Detailed methods are available here.
+Measure Type
+Prevalence (crude and age-adjusted)
+Time Period of Case Definition
+Previous year for FOBT alone, previous 3 years for FIT-DNA test alone, previous 5 years for sigmoidoscopy alone, 10 years for a sigmoidoscopy combined with a FIT in the past year, 10 years for a colonoscopy alone, and every 5 years for CT colonography (virtual colonoscopy) alone.
+Summary
+Colorectal cancer is a leading cause of cancer incidence and death.22 In 2021, nearly 142,000 people were diagnosed with colorectal cancer.26 In 2022, more than 54,000 people died from the disease.22 Screening can prevent colorectal cancer by detecting and removing precancerous polyps and can detect cancer early when treatment is more likely to be effective. The U.S. Preventive Services Task Force recommends that adults aged 45-75 be screened for colorectal cancer.27 There are different time intervals and several types of tests for colorectal cancer screening, such as stool tests (including one that detects altered DNA in the stool), flexible sigmoidoscopy, colonoscopy, and computed tomography (CT) colonoscopy (or virtual colonoscopy).27
+Notes
+In May 2021, the U.S. Preventive Services Task Force changed its colorectal cancer screening recommendation. The age at which adults at average risk of getting colorectal cancer were recommended to begin screening was lowered from 50 to 45.27 The 2020 BRFSS colorectal cancer screening questions changed to list five test types (FIT, sigmoidoscopy, colonoscopy, FIT-DNA, and CT colonography) instead of three test types (FIT, sigmoidoscopy, and colonoscopy).
+Estimates of people getting colorectal cancer screening since 2021 are not comparable to previous years. Recommendations for colorectal cancer screening are not always consistent among national groups. Survey questions are part of the BRFSS rotating core (even years).
+Related Objectives or Recommendations
+Healthy People 2030 objective: C-07. Increase the proportion of adults who get screened for colorectal cancer.
+Older adults aged ≥65 years who are up to date on a core set of clinical preventive services by sex
+Discontinued in the 2024 release.
+Population
+Adults aged 65 years and older
+Model-Based Measure
+A multilevel regression and post-stratification approach was applied to BRFSS and ACS data to compute a detailed probability among adults aged 65 years and older by sex as follows:
+Women: Number of women aged ≥65 years reporting having received all of the following: an influenza vaccination in the past year; a pneumococcal vaccination (PPV) ever; either a fecal occult blood test (FOBT or FIT) within the previous year, a FIT-DNA test within the previous 3 years, a sigmoidoscopy within the previous 5 years, a sigmoidoscopy within the previous 10 years with a FOBT in the previous year, a colonoscopy within the previous 10 years, or a CT colonography (virtual colonoscopy) within the previous 5 years; and a mammogram in the past 2 years.
+Men: Number of men aged ≥65 years reporting having received all of the following: an influenza vaccination in the past year; a pneumococcal vaccination (PPV) ever; and either a fecal occult blood test (FOBT or FIT) within the previous year, a FIT-DNA test within the previous 3 years, a sigmoidoscopy within the previous 5 years, a sigmoidoscopy within the previous 10 years with a FOBT in the previous year, a colonoscopy within the previous 10 years, or a CT colonography (virtual colonoscopy) within the previous 5 years.
+The probability was then applied to the detailed population estimates at the appropriate geographic level to generate the prevalence. The 95% confidence interval was derived using Monte Carlo simulation. Detailed methods are available here.
+Measure Type
+Prevalence (crude and age-adjusted)
+Time Period of Case Definition
+Calendar year
+Summary
+By 2060, almost one quarter of the U.S. population will be age 65 or older.28 Older adults are at higher risk for chronic health problems, like diabetes, osteoporosis, and Alzheimer’s disease.29 In 2018, 64% of adults aged ≥65 years had two or more chronic conditions.3031 Older adults are also at high risk for developing chronic illnesses and related disabilities.
+National experts agree on a set of recommended clinical preventive services for adults aged ≥65 years that can help detect many of these diseases and either delay their onset or identify them early in more treatable stages. These services include influenza vaccination, pneumococcal vaccination, colorectal cancer screening, and mammography screening for women.32
+Notes
+This measure is limited to a select set of clinical preventive services by age and sex for which data are available in the BRFSS. Data for all these services are not available every year because some questions are only asked in alternating years. This indicator should not be assumed to cover all recommended clinical preventive services for this age group. Some services are recommended for adults at different age groups or with certain age limits. Thus, this measure may underestimate the prevalence for some preventive services, such as colonoscopy and mammography use.
+Related Objectives or Recommendations
+None
+Dec. 11, 2025

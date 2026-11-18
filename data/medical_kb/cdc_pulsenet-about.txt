@@ -1,0 +1,62 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: About PulseNet
+URL: https://www.cdc.gov/pulsenet/about/index.html
+────────────────────────────────────────────────────────────
+
+For Everyone
+Sept. 9, 2026
+What to know
+PulseNet is a national laboratory network that uses DNA fingerprinting to identify bacteria making people sick and detect potential outbreaks.
+There is at least one PulseNet laboratory in every state as well as an international network.
+Overview
+PulseNet is a national laboratory network consisting of 83 public health and food regulatory laboratories. PulseNet gathers information into a national database to identify bacteria making people sick and detect potential outbreaks.
+PulseNet is a national laboratory network that connects foodborne, waterborne, and One Health–related illness cases to detect outbreaks. PulseNet uses the DNA fingerprints of bacteria making people sick to detect thousands of local and multistate outbreaks.
+Since the network began in 1996, PulseNet has improved food safety systems through identifying outbreaks early. This allows investigators to find the source, alert the public sooner, and identify gaps in food safety systems that would not otherwise be recognized. PulseNet International performs a similar role for foodborne illnesses globally.
+Mission
+To connect foodborne illness cases together using the DNA 'fingerprints' of the bacteria making people sick in order to detect outbreaks.
+History
+PulseNet was developed in response to the 1993 Escherichia coli O157:H7 outbreak that caused more than 700 people to get sick, and four deaths. CDC determined outbreaks could be identified sooner if all public health laboratories could perform the same DNA fingerprinting on bacteria from patients.
+For Public Health
+PulseNet Timeline
+How it impacts lives
+PulseNet is effective because all of the laboratories in the network identify foodborne bacteria in real time. PulseNet, along with other foodborne surveillance systems, is the best tool for detecting problems within the food safety systems that may otherwise go unnoticed.
+Identifying problems allows CDC to take rapid action, identify the contaminated food(s), and remove it from the market. Long term, PulseNet and public health partners can pinpoint defective food manufacturing processes which can be changed to make the food supply safer.
+PulseNet saves lives, time, and money
+1+ billion
+pounds of contaminated foods have been recalled thanks to PulseNet
+Foodborne outbreak detection by PulseNet has led to safer food handling and cleaner production facilities for many foods such as:
+Beef
+Leafy greens
+Peanut products
+Sprouts
+Ready-to-eat foods
+Poultry
+Flour
+Deli meats
+And more!
+For Public Health
+PulseNet: Today and Beyond
+Program priorities
+PulseNet monitors and detects outbreaks for these foodborne illness-causing bacteria:
+Campylobacter
+Clostridium botulinum
+Cronobacter
+Escherichia coli O157 and other Shiga-toxin producing E. coli
+Listeria monocytogenes
+Salmonella
+Shigella
+Vibrio cholerae
+Vibrio parahaemolyticus
+See Also
+PulseNet: About Our Work [NEW FOR L1]
+Contacts
+For general PulseNet questions, please e-mail pulsenet@cdc.gov
+For PulseNet laboratory protocols or troubleshooting, please e-mail pulsenetngslab@cdc.gov
+Sept. 9, 2026
+Sources and Page Info
+Print
+Share
+Facebook
+LinkedIn
+Twitter
+Syndicate

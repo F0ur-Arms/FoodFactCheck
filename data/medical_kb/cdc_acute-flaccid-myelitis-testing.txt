@@ -1,0 +1,30 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Testing and Diagnosis for AFM
+URL: https://www.cdc.gov/acute-flaccid-myelitis/testing/index.html
+────────────────────────────────────────────────────────────
+
+Español
+Key points
+Seek medical care right away if you or your child develops symptoms of AFM.
+It is important that the tests used to diagnose AFM are done quickly after a patient develops symptoms.
+Testing and examinations can help clinicians diagnose AFM or other neurologic conditions.
+Testing is important
+Clinicians diagnose AFM by taking a thorough medical history, doing a physical exam, and performing an MRI to review pictures of the spinal cord.
+Currently, there is no specific treatment for AFM, but clinicians may recommend different interventions based on each patient.
+It is important that the tests to help with diagnosis (MRI and laboratory testing of the CSF, respiratory fluid, blood and stool) are done as soon as possible after a patient develops symptoms.
+Testing methods
+The following tests can be used to help diagnose AFM. A clinician may:
+Examine the nervous system
+A clinician can examine a patient’s nervous system and the places on the body where he or she has weakness, poor muscle tone, and decreased reflexes.
+Do an MRI
+A clinician can also do an MRI (magnetic resonance imaging) to look at a patient’s brain and spinal cord for changes in the grey matter of the spinal cord that might indicate AFM.
+Do lab tests
+A clinician may do lab tests on the cerebrospinal fluid (the fluid around the brain and spinal cord) to look for signs of inflammation.
+Check nerve conduction
+A clinician may check nerve conduction (impulse sent along a nerve fiber) and response to help detect where the weakness is occurring.
+Testing results
+AFM can be difficult to diagnose because it shares many of the same symptoms as other neurologic diseases, like transverse myelitis and Guillain-Barre syndrome. Clinicians should consider consulting with specialists in neurology and infectious diseases to assist with the diagnosis of AFM. With the help of testing and examinations, clinicians can distinguish between AFM and other neurologic conditions.
+After a diagnosis
+Treatment
+There is no specific treatment for AFM, but a clinician who specializes in diseases like AFM may recommend certain interventions on a case-by-case basis. For example, clinicians may recommend physical or occupational therapy to help with arm or leg weakness caused by AFM. Physical rehabilitation might improve long-term outcomes if implemented during the initial phase of illness.
+CDC is working closely with national experts to better understand how to treat AFM and will update our clinical guidance with new information when available. We are also working to understand the long-term outcomes of people with AFM.

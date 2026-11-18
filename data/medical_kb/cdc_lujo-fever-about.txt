@@ -1,0 +1,45 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: About Lujo Hemorrhagic Fever
+URL: https://www.cdc.gov/lujo-fever/about/index.html
+────────────────────────────────────────────────────────────
+
+Dec. 10, 2025
+Key points
+Lujo hemorrhagic fever (LUHF) is a rare viral disease that is likely spread by rodents.
+Up to 80 percent of people with the disease will die.
+There is no treatment for LUHF.
+There has been one reported outbreak of LUHF, which occurred in southern Africa.
+Overview
+Lujo hemorrhagic fever (LUHF) is a disease caused by the Lujo virus. The Lujo virus spreads to people through contact with infected rodents or their urine, droppings, or saliva. Scientists are still learning about LUHF and don't know exactly which rodent(s) spreads the virus.
+Most of what is known about LUHF comes from the only documented outbreak. This outbreak occurred in 2008 in Zambia and was later imported into South Africa when the first patient was transferred there for care. Four healthcare workers caring for the patient also became infected. Four out of the five people who were infected died from the disease.
+Resource
+Healthcare providers can review guidance on emergency services, screening, testing, infection control and PPE for viral hemorrhagic fevers like LUHF.
+Signs and symptoms
+The symptoms of LUHF are similar to severe Lassa fever. About seven to 13 days after infection, LUHF starts with fever, headache, and muscle pain.
+The disease quickly gets worse and includes:
+Rash on the face and torso
+Face and neck swelling
+Sore throat
+Diarrhea
+In cases where people died, patients briefly felt better before they experienced rapid deterioration, trouble breathing, and problems with the heart and nervous system (brain, nerves). Patients died 10 to 13 days after their symptoms began.
+Even though "hemorrhagic" is part of its name, bleeding is not a typical symptom of LUHF.
+How it spreads
+LUHF is caused by infection with Lujo virus, which is spread by rodents. People who work in fields in southern Africa are at greatest risk for LUHF as they're more likely to have contact with infected rodents or their urine, droppings, or saliva by:
+Breathing in air with an infected rodent's urine, droppings, or nesting materials
+Touching objects contaminated by an infected rodent
+Being bitten or scratched by an infected rodent
+Eating food contaminated by an infected rodent
+Infection can also happen after a person has contact with body fluids or objects contaminated by body fluids of a person with LUHF. Sexual partners of these field workers therefore may also be at higher risk. There is a risk of miscarriage during pregnancy.
+The Lujo virus can spread in healthcare settings when people are not using appropriate personal protective equipment (PPE) around patients or properly sterilizing equipment used on patients.
+Prevention
+If you are in a place where LUHF occurs, avoid areas with rodent infestations or signs of rodent infestation, like droppings.
+To protect themselves, healthcare providers should use appropriate PPE depending on the state of the patient:
+Use PPE for clinically stable VHF patients if the patient with suspected LUFH is clinically stable.
+Use PPE for clinically unstable VHF patients if the patient has confirmed LUHF or is clinically unstable.
+Researchers studying Lujo virus must work only in Biosafety Level 4 (BSL-4) laboratories, which have stringent safety and security conditions. In the United States, Lujo virus is classified as a Select Agent.
+Keep Reading
+Controlling Wild Rodent Infestations
+Treatment and recovery
+There is no cure for LUHF. Patients should receive supportive care including rest, hydration, and treatment for symptoms.
+The drug Ribavirin may hold promise in the treatment of LUHF but more research is needed.
+Dec. 10, 2025

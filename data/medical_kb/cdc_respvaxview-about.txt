@@ -1,0 +1,26 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: RespVaxView
+URL: https://www.cdc.gov/respvaxview/about/index.html
+────────────────────────────────────────────────────────────
+
+Dec. 3, 2025
+At a glance
+This page provides access to COVID-19, flu, and RSV vaccination dashboards. These dashboards provide in-depth vaccination data from a variety of data sources including surveys, healthcare claims, electronic medical records, and immunization information systems data.
+About vaccination coverage
+Vaccination coverage is the estimated percentage of people who have received specific vaccines. Vaccination coverage information is used to identify areas and groups with lower vaccination coverage so public health departments, healthcare partners, and schools can take action to help improve vaccination coverage and protect everyone from vaccine-preventable diseases. Survey data are currently the primary source for tracking vaccination coverage for COVID-19, RSV, and flu weekly. Other available data sources are used to provide additional insight into the vaccination landscape.
+Data Updates
+Dashboards
+Weekly COVID-19 Vaccination Dashboard
+Get weekly COVID-19 vaccination data for local areas, states, HHS regions, and the nation.
+Weekly Flu Vaccination Dashboard
+Get weekly flu vaccination data for local areas, states, HHS regions, and the nation.
+Weekly RSV Vaccination Dashboard
+Get weekly RSV vaccination data for local areas, states, HHS regions, and the nation.
+Monthly Respiratory Vaccination Coverage, Confidence, and Demand
+Monthly dashboards expand on weekly data and associated vaccination attitudes and behaviors.
+Other VaxViews and Publications
+The VaxView websites provide vaccination coverage data for all ages. Monitoring coverage for recommended vaccinations across the country shows how well local areas, states, and the nation are protected from vaccine-preventable diseases.
+Find additional vaccination coverage data on the VaxView Vaccination Coverage main page. Reports and publications are available for flu, COVID-19, and RSV.
+Protect yourself from COVID-19, Flu, and RSV
+It is common to get sick from respiratory viruses such as COVID-19, flu, and respiratory syncytial virus (RSV), especially in the fall and winter. There are actions you can take to protect yourself and others.
+Dec. 3, 2025

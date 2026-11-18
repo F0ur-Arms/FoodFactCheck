@@ -1,0 +1,69 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Risk Factors for Meningococcal Disease
+URL: https://www.cdc.gov/meningococcal/risk-factors/index.html
+────────────────────────────────────────────────────────────
+
+Mar. 30, 2026
+Español
+Key points
+Anyone can get meningococcal disease, but certain people are at increased risk.
+A person's risk can vary due to many factors.
+Learn which factors put people at increased risk for meningococcal disease.
+What increases risk
+Factors that increase someone's risk for meningococcal disease include:
+Age
+Certain medical conditions
+Certain medicines
+Close or lengthy contact with someone with meningococcal disease
+Places and settings where people work, live, and travel
+People at increased risk
+Age
+Infants, teens and young adults, and older adults have the highest rates of meningococcal disease in the United States. Specifically, healthcare providers more commonly diagnose meningococcal disease in
+Children younger than 1 year old
+Teens and young adults 16 through 23 years old
+Adults 65 years and older
+For Public Health
+Meningococcal Disease Surveillance and Trends
+Conditions that can increase risk
+Certain medical conditions weaken the immune system and increase someone's risk for meningococcal disease:
+Complement component deficiencies
+Functional and anatomic asplenia
+HIV infection
+Complement component deficiencies
+Complement component deficiencies refer to disorders of the 'complement system,' which helps the body fight off infections. People may have deficiencies of complement components like C3, C5-9, properdin, factor H, and factor D.
+These disorders are very rare and usually genetic.
+Functional and anatomic asplenia
+The spleen is an important organ for fighting meningococcal infections because it helps produce antibodies and filter bacteria. People can have one of two types of asplenia:
+Anatomic asplenia: Not having a spleen (if it was surgically removed)
+Functional asplenia: Having a spleen that doesn't work like it should
+People with sickle cell anemia have functional asplenia.
+HIV infection
+A low CD4 count or high viral load increases risk for meningococcal disease for people with HIV.
+Fact sheet: What people with HIV need to know
+This fact sheet describes common outcomes of meningococcal disease, a rare but very serious illness. People with HIV are at increased risk for meningococcal disease and should get a meningococcal conjugate vaccine.
+Read or download the fact sheet
+Behaviors that can increase risk
+Receiving medicines
+People who receive complement inhibitors such as eculizumab (Soliris®) and ravulizumab (Ultomiris™) are at increased risk for meningococcal disease.
+Healthcare providers most commonly prescribe complement inhibitors for four rare medical conditions:
+Atypical hemolytic uremic syndrome, a blood disorder
+Generalized myasthenia gravis, a disorder that leads to muscle weakness
+Neuromyelitis optica spectrum disorder, a disorder of the brain and spinal cord
+Paroxysmal nocturnal hemoglobinuria, a blood disorder
+Complement inhibitors increase meningococcal disease risk
+Neither vaccination nor preventive antibiotics can prevent all cases of meningococcal disease in people who receive complement inhibitors. If you take a complement inhibitor and have symptoms of meningococcal disease, get medical care right away. Tell the healthcare provider you're taking a complement inhibitor.
+Learn more about this risk
+Having close or lengthy contact
+People with close or lengthy contact with someone with meningococcal disease are at increased risk of getting sick, especially
+Anyone with direct contact with the patient's oral secretions, such as a kissing partner
+People in the same household
+Roommates
+Keep Reading
+About Meningococcal Disease
+Places with increased risk
+Where people work, live, and travel can also increase their risk for meningococcal disease.
+The following groups can be at increased risk:
+Microbiologists who work with the bacteria that cause meningococcal disease
+College students, compared to other teens and young adults
+Military recruits, likely due to age and living in a crowded setting (i.e., military training facilities)
+Travelers to the meningitis belt in sub-Saharan Africa

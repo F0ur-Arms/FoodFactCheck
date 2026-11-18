@@ -1,0 +1,82 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: V-safe Frequently Asked Questions
+URL: https://www.cdc.gov/vaccine-safety-systems/v-safe/faqs.html
+────────────────────────────────────────────────────────────
+
+For Everyone
+V-safe Update
+Starting on November 12, 2026, V-safe expanded to include health surveys and check-ins for the mRNA flu vaccine. This page will be updated to reflect this change.
+At a glance
+V-safe is a vaccine safety monitoring system that lets you share with CDC how you or your family member (such as, a dependent) feels after COVID-19 or RSV vaccination.
+Your participation in V-safe helps CDC monitor the safety of COVID-19 and RSV vaccines.
+V-safe is one of the systems that CDC uses to monitor the safety of vaccines in the United States.
+This page provides answers to frequently asked questions about V-safe.
+Participation and quitting
+How long will I continue to receive check-in reminders?
+During the first week after you get your vaccine, V-safe will send you a text message or email each day to ask how you are feeling. Then, V-safe will send a text or email once a week for up to 6 weeks.
+If you signed up for V-safe for the RSV vaccine for pregnant women, check-ins will continue until you report that you've delivered or that you are no longer pregnant (for up to 10 weeks).
+What if I want to stop participating in V-safe?
+Participation in V-safe is voluntary and you can opt out at any time. To opt out, text 'STOP' when you receive a V-safe text message or click 'unsubscribe' in a V-safe email. You can also opt out of reminders in V-safe by navigating to your My Account tab. Select Edit Information for the Account Owner. Change your communication preferences to 'I prefer not to receive any communication from V-safe' and select Save.
+You can opt back in by updating your preferred method of contact to email or SMS (text) in your user profile. You can also start receiving reminders again by replying ’START’ to a V-safe text message or email you previously received.
+Are there other ways I can share my experience after I stop participating in V-safe?
+You can submit reports of any side effect or health problem after vaccination to the Vaccine Adverse Event Reporting System (VAERS). VAERS accepts reports at any time after vaccination.
+The Vaccine Adverse Event Reporting System (VAERS) is one of the systems CDC uses to monitor the safety of vaccines. V-safe allows reporting to VAERS. Information provided to V-safe can be used to start a VAERS report. If you report seeking medical care after vaccination, V-safe will ask you to complete a report describing your side effects or health problems to VAERS. If you decide to submit a VAERS report, some of your V-safe information (like your name) will automatically be added to your VAERS report. Before submitting your VAERS report, you will have a chance to add more details about your vaccination experience. Reusing an existing account.
+Reusing an existing account
+I participated in V-safe for COVID-19 (during 2021-22) or monkeypox vaccination. Can I enter my RSV vaccine in my current V-safe account?
+No. If you previously registered for an account before October 2023 after receiving COVID-19 or monkeypox vaccines (during 2021-22), you will need to create a new account at vsafe.cdc.gov to share your experience with any new vaccine(s).
+Do I need to create a new V-safe account for each new vaccine I receive?
+No. Once you sign up for V-safe, you can use the same account to share information about other vaccines you have received. To learn more on this process, visit telling us about the vaccine you received.
+Error messages
+What should I do if I get an error message during sign up?
+Carefully check the information you entered, especially the verification code V-safe sends you. If all your information is correct, try clearing the cache, closing the browser window, and starting over. If you need additional assistance, CDC-INFO is available Monday–Friday, 8 a.m. – 8 p.m. ET (closed on federal holidays). Call 800-232-4636 (800-CDC-INFO) or TTY 888-232-6348, or email CDC-INFO for detailed assistance. English and Spanish are available.
+What should I do if I am traveling abroad and get an error message?
+You can only access check-ins from within the United States and U.S. territories. If you are traveling outside of the United States or U.S. territories, check-ins are not accessible from mobile devices or email.
+How to access V-safe
+Can I participate in V-safe if I don’t have a smartphone?
+Yes, you can access V-safe without a smartphone. V-safe is available using a computer or tablet with internet access.
+Do I need to download an app or pay to use V-safe?
+No. You do not need to download an app to use V-safe. V-safe is free and contains no advertisements.
+Expired check-in links
+When do V-safe text and email links expire?
+Daily check-ins
+Links for daily check-ins expire at 11:59 p.m. local time on the day you receive the link, so it's important to finish the check-in quickly. Once the link expires, the check-in is no longer available for completion.
+Weekly check-ins
+Links for weekly check-ins expire at 11:59 p.m. local time on day 6 after you receive the link. Once the link expires, the check-in is no longer available for completion.
+Final check-in
+The final survey expires at 11:59 p.m. local time on day 6 after you receive the link. Once the link expires, the check-in is no longer available for completion.
+Saving and editing check-in responses
+I was not able to finish my check-in. Can I save and come back to my response?
+Daily check-ins
+If you are not able to finish your daily check-in at first, you can try again until 11:59 p.m. that day.
+Weekly check-ins
+If you are not able to finish your weekly check-in at first, you can try again until 11:59 p.m. six days after you receive the link.
+Can I edit a check-in response after submitting?
+You will not be able to make changes to your responses once they have been submitted.
+Confidentiality
+Is my health information safe?
+Your personal information in V-safe is protected so that it stays confidential and private. V-safe uses existing information systems managed by CDC, FDA, and other federal agencies that employ strict data and information system security measures.
+If you have questions regarding privacy, please visit our privacy policy page.
+If I enter side effects into V-safe, does it alert my doctor?
+No. V-safe does not alert your doctor or any healthcare provider of side effect(s) or health problems that you report. If you have side effect(s) or health problems that concern you at any time following vaccination, contact your healthcare provider, or go to the emergency room.
+In addition, if you have not been able to report how you are feeling in V-safe (because of a missed or expired check-in), you can report side effect(s) or health problems following vaccination to VAERS.
+Will CDC ever call me directly to follow up on my V-safe responses?
+No, CDC will not call you directly.
+Other questions
+What are the V-safe text message (SMS) terms of use?
+When registering for and using V-safe, you will receive regular notifications via text message.
+To opt out of receiving text messages at any time, text ’STOP’ to the short code. You can opt back in by changing your preferred method of contact in your user profile.
+If you need additional assistance, CDC-INFO is available Monday–Friday, 8 a.m. – 8 p.m. ET (closed on federal holidays). Call 800-232-4636 (800-CDC-INFO) or TTY 888-232-6348, or email CDC-INFO for detailed assistance. English and Spanish are available.
+Wireless providers are not liable for delayed or undelivered messages.
+Message and data rates may apply.
+Message frequency varies. Please see "How long will I continue to receive check-in reminders" above for additional details.
+If you have any questions about your text plan or data plan, it is best to contact your wireless provider.
+I have a question not shown on this page. How do I get an answer?
+Call or Email CDC-INFO
+CDC-INFO is available Monday–Friday, 8 a.m. – 8 p.m. ET (closed on federal holidays). Call 800-232-4636 (800-CDC-INFO) or TTY 888-232-6348, or email CDC-INFO for detailed assistance. English and Spanish languages are available.
+Sources and Page Info
+Print
+Share
+Facebook
+LinkedIn
+Twitter
+Syndicate

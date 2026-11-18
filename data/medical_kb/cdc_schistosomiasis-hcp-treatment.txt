@@ -1,0 +1,38 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Clinical Care of Schistosomiasis
+URL: https://www.cdc.gov/schistosomiasis/hcp/treatment/index.html
+────────────────────────────────────────────────────────────
+
+Key points
+Praziquantel is effective at treating infections with all major Schistosoma species.
+Host immune response differences may impact individual response to treatment with praziquantel.
+Oral praziquantel is available for human use in the United States.
+Treatment recommendations
+Praziquantel is effective at treating infections with all major Schistosoma species. The timing of treatment is important since praziquantel is most effective against the adult worm and requires the presence of a mature antibody response to the parasite. One study has suggested an effect of praziquantel on schistosome eggs lodged in tissues. For travelers, treatment should occur at least 6 to 8 weeks after last exposure to potentially contaminated freshwater.
+Possible resistance
+Limited evidence of parasite resistance to praziquantel has been reported based on low cure rates in recently exposed or heavily infected populations. However, widespread clinical resistance has not occurred. Thus, praziquantel remains the drug of choice for treatment of schistosomiasis.
+Immune responses
+Host immune response differences may impact individual response to treatment with praziquantel. The immune response in lightly infected patients may be less robust and repeat treatment may be needed after 2 – 4 weeks to increase effectiveness. If the pre-treatment stool or urine examination was positive for schistosome eggs, follow up examination at 1 – 2 months post-treatment is suggested to help confirm successful cure.
+Species
+Drug
+Dosage and Duration
+Schistosoma mansoni, S. haematobium, S. intercalatum
+Praziquantel
+40 mg/kg per day orally in two divided doses for one day
+S. japonicum, S. mekongi
+Praziquantel
+60 mg/kg per day orally in three divided doses for one day
+Oral praziquantel is available for human use in the United States.
+Children and Pregnancy
+There is a lack of safety trial data for the use of praziquantel in children less than 4 years of age or women who are pregnant. However, this drug has been distributed widely in mass drug administration programs and the World Health Organization (WHO) now recommends that children at least 2 years of age and women who are pregnant should be treated as part of those campaigns based on extensive experience with the drug and review of the veterinary and human evidence.
+Similarly, WHO reports growing evidence that infected children as young as 1-year-old can be effectively treated with praziquantel without serious side effects. The drug is commonly available in the form of large, hard-to-swallow pills; however, pediatric PZQ in the form of a dispersible tablet is available in some countries. It is not FDA approved in the U.S.
+This information is provided as an informational resource for licensed health care providers as guidance only. It is not intended as a substitute for professional judgment.
+Care precautions
+Treatment in Pregnancy
+Praziquantel is a pregnancy category B drug. There are no adequate and well-controlled studies in pregnant women. However, the available evidence suggests no difference in adverse birth outcomes in the children of women who were accidentally treated with praziquantel during mass drug administration (MDA) campaigns compared with those who were not. In MDA campaigns for which the World Health Organization (WHO) has determined that the benefit of treatment outweighs the risk, WHO encourages the use of praziquantel in any stage of pregnancy. For individual patients in clinical settings, healthcare providers should consider the risk of treatment in infected pregnant women with the risk of disease progression in the absence of treatment.
+Pregnancy Category B: Either animal-reproduction studies have not demonstrated a fetal risk plus there are no controlled studies in pregnant women, or animal-reproduction studies have shown an adverse effect (other than a decrease in fertility) that was not confirmed in controlled studies in women in the first trimester (and there is no evidence of a risk in later trimesters).
+Treatment During Lactation
+Praziquantel is excreted in low concentrations in breast milk. According to WHO guidelines for MDA campaigns, the use of praziquantel during lactation is encouraged. For individual patients in clinical settings, healthcare providers should consider the risk of treatment in infected breastfeeding women with the risk of disease progression in the absence of treatment.
+Treatment in Pediatric Patients
+A recent study states that "Arpraziquantel, a first-line orodispersible tablet, showed high efficacy and favourable safety in preschool-aged children with schistosomiasis."1
+1N'Goran EK, Odiere MR, Assandé Aka R, Ouattara M, Aka NAD, Ogutu B, Rawago F, Bagchus WM, Bödding M, Kourany-Lefoll E, Tappert A, Yin X, Bezuidenhout D, Badenhorst H, Huber E, Dälken B, Haj-Ali Saflo O. Efficacy, safety, and palatability of arpraziquantel (L-praziquantel) orodispersible tablets in children aged 3 months to 6 years infected with Schistosoma in Côte d'Ivoire and Kenya: an open-label, partly randomised, phase 3 trial. Lancet Infect Dis. 2023 Jul;23(7):867-876. doi: 10.1016/S1473-3099(23)00048-8. Epub 2023 Mar 6. PMID: 36893784.

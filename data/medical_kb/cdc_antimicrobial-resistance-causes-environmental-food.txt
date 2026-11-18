@@ -1,0 +1,75 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Antimicrobial Resistance in the Environment and the Food Supply: Causes and How It Spreads
+URL: https://www.cdc.gov/antimicrobial-resistance/causes/environmental-food.html
+────────────────────────────────────────────────────────────
+
+For Everyone
+Nov. 1, 2024
+Key points
+Antimicrobial resistance (AR) is one of the most urgent threats to public health.
+AR is a One Health issue, meaning the health of people, animals and the environment are connected.
+The U.S. food supply is among the safest in the world, but people can still get sick from foodborne infections or contact with animals and their environment.
+Human activity can introduce antibiotics, antifungals and antimicrobial-resistant germs into the environment.
+How antimicrobial-resistant germs spread in the environment and the food supply
+New CDC AR Data Available
+The 2026 update to the AR Threats Report is now live and provides the most comprehensive estimates of the impact of drug resistance on human health in the United States to date. Explore the report.
+The environment
+Human activity can contaminate the environment (water and soil) with antibiotics and antifungals, which can speed up the development and spread of AR. Animals carry germs in their gut, including antimicrobial-resistant germs.
+These germs can spread between animals and in their environments (such as on farms, in animal markets, during transport and during processing).
+Contamination and spread can occur from:
+Human and animal waste.
+Use of antibiotics and antifungals such as pesticides on plants or crops.
+Pharmaceutical manufacturing waste.
+Contact between people, animals, the environment and food through common activities.
+The food supply
+The American food supply is among the safest in the world, but people can still get sick from foodborne infections or from having contact with food animals.
+People can get antimicrobial-resistant infections from food in different ways, including:
+Handling or eating meat, seafood, milk or eggs that are raw or undercooked and contaminated with antimicrobial-resistant germs.
+Handling or eating fruits and vegetables contaminated with antimicrobial-resistant germs through contact with soil or water containing untreated or un-composted waste.
+Contact with untreated or un-composted animal waste, either directly or when it gets into soil or water and the environment.
+Contact with food or companion animals without proper handwashing.
+Where antimicrobial-resistant germs spread in the environment and the food supply
+Human waste
+Fecal waste (poop) can carry traces of previously consumed antibiotics, antifungals, and antimicrobial-resistant germs. This waste and wastewater can contribute to the development and spread of antimicrobial-resistant germs in the environment, and possibly have a negative impact on human health.
+Wastewater treatment plants (WWTPs) reduce contaminants in wastewater before discharging the treated water into waterways. However, some antibiotic and antifungal residues and resistant germs and genes can survive treatment because wastewater treatment systems are not specifically designed to kill or remove them.
+Studies have found measurable levels of antimicrobial-resistant bacteria in surface waters (rivers, coastal waters) because of sewage leaks, overflow, or release of untreated or undertreated wastewater discharge. This caused illness in some people who were exposed to these germs through contaminated water.
+Water and sanitation systems, and the degree to which they prevent or spread resistance, vary greatly throughout the world and between communities. Many countries face challenges in providing adequate sanitation—the ability to dispose of human waste safely and maintain hygienic conditions.
+Globally, most human waste is discharged directly into the environment without treatment. This includes open defecation and discarding untreated waste into waterways. Advancements in sanitation systems and improving antibiotic and antifungal use will help slow the development of resistance.
+Animal waste
+Antibiotics and antifungals are sometimes given to food animals to treat, control and prevent diseases. Like human waste, manure from food-producing animals treated with antibiotics and antifungals can carry drug residues and resistant germs. This could contaminate the surrounding soil and nearby water sources.
+When animals are slaughtered and processed for food, germs in the animal waste can contaminate meat or other animal products. Fruits, vegetables and other produce can become contaminated through contact with soil or water containing untreated or un-composted waste from animals.
+Animal waste is often used as fertilizer on agricultural lands to help with plant growth. While more research is needed, using untreated or un-composted animal manure that contains residues or resistant germs as fertilizer can contribute to the development and spread of resistant germs through the environment.
+Agriculture and pesticides
+Various diseases can infect plants and crops (e.g., wheat, oranges, corn). These diseases can be difficult to control and extremely damaging because they can impact farm income and the food supply.
+Antibiotics and antifungals (fungicides) are sometimes applied as pesticides to manage plant and crop diseases. However, using antibiotics and fungicides in agriculture can contribute to antimicrobial resistance in the environment by contaminating soil and water. For example, stormwater and irrigation water from farmland can contaminate nearby bodies of water with resistant germs and antibiotic or antifungal residues.
+This contamination can affect human health when the pesticides are the same as, or closely related to, antibiotics and antifungals used in human medicine. For example, triazoles are the most widely used fungicides on plants and crops but are also similar to important human antifungal medicines used to prevent or treat fungal infections caused by germs like Aspergillus fumigatus.
+Patients with azole-resistant A. fumigatus infections are up to 33% more likely to die than patients with infections that can be treated with azoles. Use of triazole fungicides in the environment increased more than four times from 2006 to 2016 in the U.S. alone. Appropriate use of azoles in human medicine and agriculture can help combat resistance.
+Aquaculture
+Antibiotics and antifungals are used worldwide in aquaculture (the farming of fish and seafood) to control disease. Using antibiotics and antifungals in aquaculture can contaminate the local aquatic environment with these drugs and residues. There are limited data on antibiotic and antifungal use in aquaculture and its impacts on human health.
+Drinking water
+Safe water is water that is clean to drink, accessible when needed, and free from germs and chemicals. Globally, access to safe water and basic sanitation can reduce the spread of resistant germs in the environment and between people, causing fewer waterborne infections and the need for antibiotics and antifungals.
+Worldwide, in 2017, 780 million people did not have access to at least basic water services. Additionally, more than 2 billion people lacked access to basic sanitation (more than 25% of the world's population). The World Health Organization estimates that if everyone had access to improved drinking water and sanitation, diarrheal illnesses that are treated with antibiotics would be reduced by 60%. Learn more about how antimicrobial resistance spreads across the world and how to protect yourself from waterborne diseases.
+How to prevent spread
+Combating AR in the environment and food supply, improving antibiotic and antifungal use and preventing infections are key actions to protect people. Addressing AR in the environment is key to using a One Health approach to combat this threat.
+Keep Reading
+Controlling the Emergence and Spread of Antimicrobial Resistance
+Keep Reading
+Controlling Antimicrobial Resistance: Livestock and Poultry Producers
+Keep Reading
+Controlling Antimicrobial Resistance: Healthcare Providers and Veterinarians
+Understanding risk
+Anyone can get food poisoning, but certain groups of people are more likely to get very sick from food poisoning.
+People at risk for severe infections include:
+Young children.
+Pregnant women.
+Older adults.
+People with other health conditions.
+Learn more about signs and symptoms of foodborne illnesses caused by antimicrobial-resistant germs.
+What we're still learning
+When antibiotics, antifungals or resistant bacteria and fungi are introduced into the environment, there is an opportunity for these elements to interact with other germs, including those naturally occurring in these settings.
+Traces of antibiotics and antifungals, germs resistant to them and genes that cause resistance traits are present and can spread in waterways and soils. However, scientists do not fully understand the risk of AR in the environment on human health.1
+CDC and partners are doing innovative research to better understand the spread of resistance in the environment and the impact on human health.
+Keep Reading
+U.S. Actions & Events to Combat Antimicrobial Resistance
+Keep Reading
+Antimicrobial Resistance Investments & Action

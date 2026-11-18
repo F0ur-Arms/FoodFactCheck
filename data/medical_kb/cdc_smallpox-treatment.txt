@@ -1,0 +1,32 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Treatment of Smallpox
+URL: https://www.cdc.gov/smallpox/treatment/index.html
+────────────────────────────────────────────────────────────
+
+Oct. 23, 2024
+What to know
+There is no treatment for smallpox that has been tested in people who are sick with the disease and proven effective.
+Some antiviral drugs have been approved to treat smallpox but have not been tested in sick people.
+Treatment options
+Antiviral drugs
+In July 2018, the FDA approved tecovirimat (TPOXX) for treatment of smallpox. In laboratory tests, tecovirimat has been shown to stop the growth of the virus that causes smallpox and to be effective in treating animals that had diseases similar to smallpox. Tecovirimat has not been tested in people who are sick with smallpox, but it has been given to healthy people. Test results in healthy people showed that it is safe and causes only minor side effects. In addition to treating smallpox disease, tecovirimat could also be used under an investigational new drug (IND) protocol to treat adverse reactions from vaccinia virus vaccination.
+In June 2021, the FDA approved brincidofovir (TEMBEXA) for treatment of smallpox. In laboratory tests, brincidofovir has been shown to stop the growth of the virus that causes smallpox and to be effective in treating animals that had diseases similar to smallpox. Brincidofovir has not been tested in people who are sick with smallpox, but it has been given to healthy people and people with other viral infections. Test results in people who received brincidofovir for bone marrow transplants showed the most common side effects were diarrhea, nausea, vomiting, and abdominal pain.
+In laboratory tests, cidofovir has also been shown to stop the growth of the virus that causes smallpox and to be effective in treating animals that had diseases similar to smallpox. Cidofovir has not been tested in people who are sick with smallpox, but has been tested in healthy people and in those with other viral illnesses. Cidofovir is not FDA-approved for the treatment of any orthopoxvirus infections, including smallpox or monkeypox, but is commercially available. Clinicians could choose to use cidofovir to treat patients with orthopoxvirus infection based on individual risk-benefit assessment under practice of medicine.
+Because these drugs were not tested in people sick with smallpox, it is not known if a person with smallpox would benefit from treatment with them. However, their use may be considered if there is ever a smallpox outbreak.
+Tecovirimat and brincidofovir are currently stockpiled by the Assistant Secretary for Preparedness and Response (ASPR) Strategic National Stockpile, which has medicine and medical supplies to protect the American public if there is a public health emergency, including one involving smallpox.
+Antiviral Drugs for the Treatment of Smallpox Disease
+Drug
+FDA approved for smallpox treatment?
+Available in Strategic National Stockpile?
+Regulatory mechanism for smallpox treatment
+Tecovirimat
+Yes
+FDA-approved use
+Cidofovir
+No
+No (commercially available)
+N/A (practice of medicine)
+Brincidofovir
+Yes
+FDA-approved use
+Oct. 23, 2024

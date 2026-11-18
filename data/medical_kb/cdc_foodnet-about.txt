@@ -1,0 +1,128 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: About FoodNet
+URL: https://www.cdc.gov/foodnet/about/index.html
+────────────────────────────────────────────────────────────
+
+Apr. 28, 2026
+At a glance
+FoodNet is a collaboration among CDC, USDA, FDA, and 10 state health departments.
+FoodNet tracks infections caused by eight pathogens in a surveillance area that includes 16% of the U.S. population.
+Personnel at each FoodNet site routinely communicate with clinical laboratories and collect detailed information about infections.
+Overview
+History of FoodNet
+Historically, the Foodborne Diseases Active Surveillance Network (FoodNet) has conducted surveillance for Campylobacter, Cyclospora, Listeria, Salmonella, Shiga toxin-producing E. coli (STEC), Shigella, Vibrio, and Yersinia infections diagnosed by laboratory testing of samples from patients. FoodNet also conducted surveillance for Cryptosporidium through 2017.
+FoodNet today
+Reporting for data collected on or after July 1, 2025, is optional for all pathogens except Salmonella and STEC.
+Narrowing FoodNet's reporting requirements is, in part, because the surveillance landscape has changed since the collaboration began in 1995. Today, other surveillance systems monitor for infection with FoodNet pathogens. Changes to the reporting requirements and associated activities allow FoodNet staff to prioritize core activities, while maintaining both the infrastructure and quality FoodNet represents.
+Keep in mind
+FoodNet's active surveillance activities were not designed to detect outbreaks of foodborne illness. No recent changes have been made to how CDC and our federal, state, and local partners detect and investigate outbreaks through existing epidemiologic or laboratory systems, such as the national laboratory network PulseNet.
+Reporting at a glance
+Pathogen or condition
+FoodNet reporting years
+Other CDC surveillance
+Bacteria
+Reporting started
+Reporting ended
+Reporting became optional
+Campylobacter
+1996
+--
+2025
+LEDS*, NNDSS†
+Listeria
+1996
+--
+2025
+Listeria Initiative, NNDSS
+Salmonella
+1996
+--
+LEDS, NNDSS
+Shigella
+1996
+--
+2025
+LEDS, NNDSS
+STEC‡ O157
+1996
+--
+LEDS (differentiates between O157 and non-O157), NNDSS (does not differentiate)
+STEC non-O157
+2000
+--
+LEDS (differentiates between O157 and non-O157), NNDSS (does not differentiate)
+Vibrio
+1996
+--
+2025
+COVIS§, NNDSS
+Yersinia
+1996
+--
+2025
+NNDSS
+Parasites
+Reporting started
+Reporting ended
+Reporting became optional
+Cyclospora
+1997
+--
+2025
+NNDSS
+Cryptosporidium
+1997
+2017
+--
+CryptoNet, NNDSS
+Condition
+Reporting started
+Reporting ended
+Reporting became optional
+Pediatric HUS
+1997
+--
+2025
+NNDSS (does not collect etiology information)
+*Laboratory-based Enteric Disease Surveillance. LEDS collects reports of infections confirmed by state and regional public health laboratories; at this time, it does not collect data directly from FoodNet sites.
+†National Notifiable Diseases Surveillance System
+‡ Shiga toxin-producing Escherichia coli
+§Cholera and Other Vibrio Illness Surveillance
+Objectives
+Determine the burden of foodborne illness in the United States
+Monitor trends in the burden of specific foodborne illness over time
+Attribute the burden of foodborne illness to specific foods and settings
+Disseminate information that can lead to improvements in public health practice and the development of interventions to reduce the burden of foodborne illness
+Emerging infections
+FoodNet is the principal foodborne disease component of CDC's Emerging Infections Program.
+The Emerging Infections Program prevents and controls infectious diseases by providing the highest quality scientific information to monitor emergencies, evaluate public health interventions, inform policy, and measure progress in foodborne disease prevention.
+Participating sites
+FoodNet was established in July 1995 and is a collaborative program among CDC, 10 state health departments, USDA's Food Safety and Inspection Service (USDA-FSIS), and FDA.
+FoodNet personnel located at state health departments regularly contact the clinical laboratories in Colorado, Connecticut, Georgia, Maryland, Minnesota, New Mexico, Oregon, Tennessee and selected counties in California and New York to get reports of infections diagnosed in residents of these areas.
+What data we collect
+FoodNet accomplishes its work through active surveillance; surveys of laboratories, physicians, and the general population; and population-based epidemiologic studies.
+Active laboratory surveillance
+FoodNet is an active surveillance system, meaning that public health officials routinely communicate with more than 700 clinical laboratories serving the surveillance area to identify new infections and conduct periodic audits to ensure that all infections are reported.
+FoodNet collects information on laboratory-diagnosed infections identified by culture or culture-independent diagnostic test (CIDT) for bacterial pathogens and microscopy or polymerase chain reaction (PCR) for parasites.
+Diagnostics at a glance
+Personnel at each FoodNet site collect information about infections and share that information with CDC through FoodNet's database. The information includes
+Hospitalizations occurring within 7 days of the specimen collection date,
+The patient's status (alive or dead) at hospital discharge (or at 7 days after the specimen collection date if the patient is not hospitalized),
+Whether the patient traveled abroad in the 7 days before illness began, and
+Selected food and environmental exposures.
+Hemolytic uremic syndrome surveillance
+FoodNet conducts surveillance for physician-diagnosed hemolytic uremic syndrome (HUS) through a network of pediatric nephrologists and infection-control practitioners. FoodNet staff also review hospital discharge data for pediatric HUS cases to validate surveillance reports and identify additional cases by using ICD-10-CM/ICD-11 codes specifying HUS, acute renal failure with the hemolytic anemia and thrombocytopenia, or thrombotic thrombocytopenic purpura with diarrhea caused by an unknown pathogen or E. coli. Reporting for data collected on or after July 1, 2025, is optional for HUS.
+Surveillance projects
+In addition to routine surveillance, FoodNet occasionally conducts special surveillance projects. In 2002, two sites conducted population-based surveillance for reactive arthritis associated with Campylobacter, Salmonella, Shigella, Yersinia, and STEC infections. In 2009, FoodNet conducted a pilot surveillance program for community-acquired Clostridioides difficile infections (formerly known as Clostridium difficile) in Connecticut and New York. In 2010, FoodNet conducted a pilot surveillance program for Cronobacter sakazakii infections in selected sites.
+How information is collected
+The burden of illness pyramid is a model for understanding foodborne disease reporting, and illustrates steps that must occur for an episode of illness in the population to be registered in surveillance.
+Starting from the bottom of the pyramid:
+Some members of the general population are exposed to an organism;
+Some of these exposed people become ill;
+Some of these ill people seek medical care;
+A specimen is obtained from some of these people and submitted to a clinical laboratory;
+A laboratory tests some of these specimens for a given pathogen;
+The laboratory identifies the causative organism in some of these tested specimens and thereby confirms the case; and
+The laboratory-confirmed case is reported to a local or state health department.
+FoodNet conducts laboratory surveys, physician surveys, and population surveys to collect information about each of these steps. This information is used to calculate estimates of the actual number of people who become ill. Other information is used to estimate the proportion of these illnesses transmitted by food.
+Apr. 28, 2026

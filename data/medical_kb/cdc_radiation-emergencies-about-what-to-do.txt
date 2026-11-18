@@ -1,0 +1,36 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: What to Do for Different Types of Radiation Emergencies
+URL: https://www.cdc.gov/radiation-emergencies/about/what-to-do.html
+────────────────────────────────────────────────────────────
+
+For Everyone
+At a glance
+You may need to take different actions to protect yourself in different radiation emergencies. The best way to protect yourself is to get inside, stay inside, and stay tuned.
+What to do
+Improvised nuclear device (IND)
+The best way to protect yourself if an IND explodes is to get inside, stay inside, and stay tuned.
+Dirty bomb or radiological dispersal device (RDD)
+The best way to protect yourself if an RDD explodes is to get inside, stay inside, and stay tuned.
+Radiological exposure device (RED)
+Report a suspected RED to law enforcement officials immediately. Stay as far away from the suspected RED as possible.
+If a RED is identified and you believe you have been exposed, listen for instructions from state radiation control officials and contact your doctor.
+Nuclear power plant accident
+In the event of a nuclear power plant accident, the best thing to do is to get inside, stay inside, and stay tuned for instructions from emergency officials.
+Prior to an event, you can get emergency information materials from the power company that operates your local nuclear power plant or your local emergency services office.
+Transportation accidents
+Report any transportation accidents involving radiation to emergency responders immediately. Stay as far away from the site of the accident as possible. Do not touch any cargo from the transport container.
+Occupational accidents
+If you work with radiation sources, be familiar with safety precautions and procedures, and complete required radiation safety trainings.
+Report any occupational accidents involving radiation to safety officials immediately. Stay as far away from the site of the accident as possible.
+If you believe you have been exposed, listen for instructions from radiation safety officials and contact your doctor.
+Reminder
+The best way to protect yourself in a radiation emergency is to get inside, stay inside, and stay tuned.
+More information
+Preparing for a Radiation Emergency
+If a radiation emergency occurs, you can take actions to protect yourself and your loved ones.
+What to Do: Get Inside
+During a radiation emergency, get inside as soon as possible.
+What to Do: Stay Inside
+Learn how to staying inside may reduce harm during a radiation emergency.
+What to Do: Stay Tuned
+Learn how to stay tuned to important information during a radiation emergency.

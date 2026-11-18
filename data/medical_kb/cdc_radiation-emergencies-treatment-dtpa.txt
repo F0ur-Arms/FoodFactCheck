@@ -1,0 +1,56 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Treating Radiation Exposure with DTPA
+URL: https://www.cdc.gov/radiation-emergencies/treatment/dtpa.html
+────────────────────────────────────────────────────────────
+
+Key points
+DTPA (Diethylenetriamine pentaacetate) is a medicine that helps reduce radioactive material in the body.
+DTPA helps the body remove radioactive contamination through urine.
+DTPA works best when given shortly after radioactive material has entered the body.
+Treatment overview
+DTPA (Diethylenetriamine pentaacetate) is a medicine that can bind to radioactive plutonium, americium, and curium to decrease the amount of time it takes to get radioactive plutonium, americium, and curium out of the body.
+DTPA cannot bind all of the radioactive plutonium, americium, and curium that might get into a person's body after a radiation emergency. It also cannot prevent them from entering the body.
+How it works
+DTPA comes in two forms: calcium (Ca-DTPA) and zinc (Zn-DTPA). Radioactive materials (bound to DTPA) are then passed from the body in the urine.
+DTPA works best when given shortly after radioactive plutonium, americium, and curium have entered the body. The more quickly radioactive material is removed from the body, the fewer and less serious the health effects will be.
+Ca-DTPA is more effective than Zn-DTPA when given within the first day after internal contamination has happened. After 24 hours have passed, Ca-DTPA and Zn-DTPA are equally effective.
+After 24 hours, DTPA binds less effectively to radioactive plutonium, americium, and curium. However, DTPA can still work to remove these radioactive materials from the body several days or even weeks after a person has been internally contaminated.
+Taking DTPA
+Before taking DTPA
+Doctors and public health authorities will work together to decide who likely will benefit from DTPA treatment.
+For doctors who may be administering DTPA for patients, use the following guidelines:
+Infants (including breastfed infants) and children less than 12 years of age can be given either Ca-DTPA or Zn-DTPA.
+The dosage of DTPA should be based on the child's size and weight.
+The safety and effectiveness of the inhaled route of DTPA has not been studied in children.
+Young adults and adults internally contaminated with plutonium, americium, or curium should receive Ca-DTPA if treated within the first 24 hours after contamination. After 24 hours, if additional treatment is needed, adults should receive Zn-DTPA. If Zn-DTPA is not available, patients may receive Ca-DTPA together with a vitamin and mineral supplement that contains zinc.
+Women who are pregnant should be treated with Zn-DTPA, unless they have very high levels of internal contamination with plutonium, americium, or curium.
+Ca-DTPA should be used in women who are pregnant only to treat very high levels of internal radioactive contamination.
+In this case, doctors and public health authorities may prescribe a single dose of Ca-DTPA, together with a vitamin and mineral supplement that contains zinc, as the first treatment.
+After the first dose of Ca-DTPA, treatment should continue 24 hours later with a daily dose of Zn-DTPA, as needed.
+Breastfeeding women who are internally contaminated with plutonium, americium, or curium can be treated with Ca-DTPA or Zn-DTPA.
+Using DTPA
+DTPA can be injected directly into a vein in the arm or dripped into a vein from a bag (intravenously [IV]).
+Adults who have inhaled plutonium, americium, or curium can be treated with DTPA mist that is breathed into the lungs.
+Inhaling DTPA might cause some people, especially those with asthma, to cough or wheeze.
+The safety and effectiveness of inhaled DTPA has not been shown in children.
+DTPA should be taken only as long as needed, as determined by a doctor.
+Doctors might collect samples of blood, urine, and feces during DTPA treatment. These samples can tell the doctors how much radioactivity you are passing and how much remains in your body.
+The length of treatment with DTPA will depend on:
+The amount of radioactive material in your body.
+How well your body gets rid of the radioactive material with the help of DTPA.
+Side effects
+People who are given repeat doses of Ca-DTPA within a short period of time may have:
+Nausea
+Vomiting
+Diarrhea
+Chills
+Fever
+Itching
+Muscle cramps
+Other side effects may include headache, light-headedness, chest pain, and a metallic taste in the mouth.
+Ca-DTPA should be used cautiously in patients with a blood disease called hemochromatosis.
+Ca-DTPA (and Zn-DTPA) bind to important minerals that the body needs (zinc, magnesium, and manganese). As a precaution, patients receiving long-term treatment with DTPA should be given a vitamin and mineral supplement that contains zinc.
+Getting DPTA
+DTPA can only be administered by a doctor.
+During a radiation emergency, doctors will provide DTPA treatment as needed.
+More detailed information on DTPA can be found at the FDA website.

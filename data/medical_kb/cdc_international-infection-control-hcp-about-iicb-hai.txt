@@ -1,0 +1,47 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: About International Infection Control Branch - Healthcare-Associated Infections
+URL: https://www.cdc.gov/international-infection-control/hcp/about/iicb-hai.html
+────────────────────────────────────────────────────────────
+
+Mar. 29, 2024
+Key points
+CDC's International Infection Control Branch (IICB) supports countries in building the surveillance and infection prevention and control (IPC) capacity needed to detect and prevent healthcare-associated infections (HAIs).
+Why it matters
+HAIs are infections that occur in patients while they are receiving health care. HAIs can cause illness and death and are a threat to patient safety.
+15% of hospitalized patients in low- and middle-income countries
+HAIs are more common in low- and middle-income countries, with an estimated 15% of hospitalized patients in these countries acquiring an HAI annually1.
+Most HAIs are preventable. Strong surveillance and IPC programs are essential for preventing HAIs in healthcare facilities.
+Priorities
+IICB works with partners on the following priorities to protect patients and healthcare personnel globally:
+Develop and implement IPC programs, policies, guidance and best practices at global, national and local levels.
+Facilitate IPC training and mentorship programs that help healthcare facilities comply with IPC standards.
+Conduct and support innovative studies and activities to inform HAI prevention and response efforts.
+Develop and strengthen HAI surveillance and prevention tools and networks to improve detection and response to HAI threats.
+What we've accomplished
+Program, policy, guidance and best practices
+Developed the Africa IPC Legal Framework endorsed by the African Union in 2022, which helps Member States implement and strengthen IPC programs at the national, subnational and healthcare facility level.
+Developed Best Practices for Environmental Cleaning in Healthcare Facilities in Resource-Limited Settings and a companion implementation toolkit to help healthcare facilities put the best practices into action.
+Supported WHO with developing the first ever Global IPC Strategy, which provides countries with strategic directions to implement programs for prevention and control of HAIs, including antimicrobial-resistant infections.
+Facilitating IPC training and mentorship programs
+Initiated and established the East Africa IPC Network, including 20 hospitals in Ethiopia, Kenya, Tanzania and Uganda. This network reduces the incidence of healthcare-associated COVID-19 and other HAIs by improving compliance with IPC standards.
+Developed and implemented IPC training programs for IPC specialists in Ethiopia, Nigeria, Sierra Leone and Uganda. These programs strengthen in-country capacity to prevent HAIs and respond to outbreaks.
+Provided IPC and AR technical support to leadership at the Vietnam Ministry of Health and training and mentorship to over 50 member hospitals of their IPC and AR surveillance networks.
+Innovative studies and activities
+Evaluated bloodstream infections (BSIs) in 4,073 newborns in India, leading to the implementation of prevention measures and initiation of a study to investigate causes of newborn BSIs.
+Evaluated a target assessment tool for BSI prevention in 7 neonatal intensive care units (NICUs) in Brazil, Colombia and Paraguay. Now, more than 200 healthcare providers in these NICUs use the tool to address gaps in IPC.
+Helped healthcare facilities with limited resources in Brazil, Indonesia and the Philippines better estimate HAI prevalence, identify HAI/AR pathogens and determine major infection sites. Accomplished this work as part of the Global Action in Healthcare Network (GAIHN).
+Developing and strengthening surveillance and prevention tools and networks
+Developed and tested a set of digital tools and training materials through GAIHN to improve HAI data collection and analysis for better IPC-program decision making and to support outbreak response.
+Implemented surgical site infection surveillance in India, Sierra Leone, Nigeria and Kenya.
+Implemented the first nationally representative HAI surveillance networks to monitor trends in healthcare-associated bloodstream and urinary tract infections in India and Vietnam.
+Story from the field
+Improving IPC in Nigeria
+In 2020, CDC's IICB and the Nigeria Centre for Disease Control and Prevention (NCDC) established a network of hospitals that are building IPC programs aligned with the WHO Core Components for IPC. This group, called the Orange Network, produces centers of excellence that spread IPC best practices throughout Nigeria.
+The first step of the network's approach is developing facility IPC teams. NCDC provides continuous training and mentorship for IPC team members that prepares them to lead IPC activities at their facilities.
+The Orange Network now includes 41 public hospitals, with at least one facility in each Nigerian state and the Federal Capital Territory. All facilities now have well-established IPC programs with many showing demonstrable improvements on WHO IPC assessment scores. Network facilities have also been leaders in responding to outbreaks for diseases like COVID-19 and Lassa fever as well as surveillance for HAIs, starting with surgical site infections.
+For Public Health
+Success Stories
+PEPFAR collaboration
+IICB supports strengthening IPC programs as part of the President's Emergency Plan for AIDS Relief (PEPFAR).
+Through this collaboration, IICB and PEPFAR partners create guidance and tools to facilitate IPC implementation, improve practices and support IPC monitoring and evaluation in PEPFAR-supported healthcare facilities. They also develop strategies to integrate IPC into program level planning and encourage prioritization of IPC at the facility level.
+With over 70,000 PEPFAR-supported facilities in more than 50 countries, these resources and strategies can improve the safety of healthcare delivery for patients and healthcare providers worldwide.

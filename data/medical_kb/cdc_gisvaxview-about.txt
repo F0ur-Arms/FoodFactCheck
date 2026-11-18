@@ -1,0 +1,95 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: About GISVaxView
+URL: https://www.cdc.gov/gisvaxview/about/index.html
+────────────────────────────────────────────────────────────
+
+For Everyone
+Aug. 27, 2026
+About
+GISVaxView (geographic information system), an application for mapping geospatial vaccination related data across the lifespan, was retired as of August 27, 2026.
+Purpose
+The GISVaxView Interactive! was developed to provide jurisdictions and other partners geospatial data and tools to inform planning, implementation, and evaluation of vaccine activities and outcomes. The system allowed visitors to better understand the local-level indicators that contribute to vaccine confidence and coverage, visualize data for populations at increased risk, identify community resources and barriers, and connect community stakeholders. This system was designed based on feedback from CDC stakeholders along with health planners and data analysts from several local health departments.
+The Vaccine Activity Planner application included COVID-19, Flu, and RSV vaccination data for adults from the National Immunization Survey Adult COVID Module (NIS-ACM) and was built upon CDC's COVID-19 Vaccination Mapping Tool which was discontinued in April 2024. This complemented CDC's respiratory virus season weekly vaccination dashboards RespVaxView.
+Data Notes Overview
+The data layers that were featured in this application were open source from CDC and other organizations listed below. CDC does not guarantee the accuracy of data from non-CDC organizations. Please refer to each organization’s website or the data source website for the methodology and limitations of each data layer. Links will be reviewed periodically and updated, as needed.
+Data Source Information
+American Community Survey (ACS)
+Bureau of Labor Statistics (BLS)
+Centers for Disease Control and Prevention (CDC)
+National Center for Education Statistics (NCES)
+Open Street Map
+United States Census Bureau (Census 2020)
+Data Layer Information by Topics
+Vaccination layers
+The vaccination data layers listed below are available on RespVaxView.
+Monthly COVID-19 Vaccine State Level Coverage Adult (IIS)
+Monthly COVID-19 Vaccine State Level Coverage Child (IIS)
+Monthly COVID-19 State Level Vaccine Coverage and Intent (CDC NIS-ACM)
+Monthly Flu Vaccine State Level Coverage Adult (IIS)
+Monthly Flu Vaccine State Level Coverage Child (IIS)
+Monthly Flu State Level Vaccine Coverage and Intent (CDC NIS-ACM)
+Monthly Nirsevimab Vaccine State Level Coverage (IIS)
+Monthly RSV Infant Protection National (CDC NIS-ACM)
+Monthly RSV National Level Vaccine Coverage and Intent (CDC NIS-ACM)
+Monthly RSV Vaccine State Level Coverage (IIS)
+Weekly COVID-19 Vaccine State Level Coverage Child (CDC NIS-Flu)
+Weekly COVID-19 Vaccine National and State Level Coverage and Intent Adult (CDC NIS-FRVM)
+Weekly Flu Vaccine State Level Coverage Child (CDC NIS-Flu)
+Weekly Flu Vaccine National and State Level Coverage and Intent Adult (CDC NIS-FRVM)
+Weekly RSV Vaccine State Level Uptake and Intent (CDC NIS-ACM)
+Non-vaccination health layers
+These data layers may not be up to date.
+Cancer Prevalence by Census Tract (CDC PLACES)
+COPD Prevalence by Census Tract (CDC PLACES)
+Health Insurance Coverage by Tract (Census ACS)
+Obesity Prevalence by Census Tract (CDC PLACES)
+These data layers may not be up to date.
+Colleges and Universities (NCES)
+Libraries (OpenStreetMap)
+Medical Facilities (OpenStreetMap)
+Places of Worship (OpenStreetMap)
+Private Schools (NCES)
+Public Schools (NCES)
+Prior Vaccines.gov Providers
+School Districts Boundaries (NCES)
+These data layers may not be up to date.
+Educational Attainment by Tract (Census ACS)
+Federal Poverty Status by Tract (Census ACS)
+Internet Connectivity by Tract (Census ACS)
+Median Household Income by Tract (Census ACS)
+School Enrollment by Tract (Census ACS)
+Social Vulnerability Index by Tracts (CDC/ATSDR)
+Social Vulnerability Index – Socioeconomic Theme by Tracts (CDC/ATSDR)
+Unemployment by County, Monthly (BLS)
+These data layers may not be up to date.
+Children with Grandparent Householder by Tract (Census ACS)
+Dependent Population by Tract (Census ACS)
+Disability by Type by Tract (Census ACS)
+Household Size by Tract (Census ACS)
+Living Arrangements by Tract (Census ACS)
+Mothers of Children Under 17 by PUMAs (Census-ACS-PUMS)
+Multigenerational Households by PUMAs (Census – ACS-PUMS)
+Social Vulnerability Index – Household Composition/Disability Theme by Tracts (CDC/ATSDR)
+These data layers may not be up to date.
+English Ability and Linguistic Isolation by Tract (Census ACS)
+Language Spoken at Home by Tract (Census ACS)
+Nativity and Citizenship by Tract (Census ACS)
+Place of Birth by Tract (Census ACS)
+Race and Hispanic Origin by Tract (Census ACS)
+Social Vulnerability Index – Minority/Language Theme by Tracts (CDC/ATSDR)
+These data layers may not be up to date.
+Group Quarters Population by Blocks (Census 2020)
+Housing Units in Structure by Tract (Census ACS)
+Neighborhood Redlining Grade, 1930s (University of Richmond – Home Owners' Loan Corporation)
+Social Vulnerability Index – Housing/Transportation Theme by Tracts (CDC/ATSDR)
+Other VaxView Vaccination Coverage Websites
+The VaxView websites provide vaccination coverage data for all ages. Monitoring coverage for recommended vaccinations across the country helps CDC assess how well local areas, states, and the nation are protected from vaccine-preventable diseases.
+Find additional vaccination coverage data on the VaxView Vaccination Coverage main page.
+Aug. 27, 2026
+Sources and Page Info
+Print
+Share
+Facebook
+LinkedIn
+Twitter
+Syndicate

@@ -1,0 +1,86 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Preventing Liver Cancer Among Opioid Users
+URL: https://www.cdc.gov/liver-cancer/prevention/index.html
+────────────────────────────────────────────────────────────
+
+Key points
+The opioid epidemic has increased the number of people who inject drugs. This may contribute to the increase in liver cancer in the United States.
+CDC conducted a demonstration project to work with local organizations to increase awareness of the link between injecting drugs and getting hepatitis and liver cancer.
+Background
+Liver cancer can be caused by long-term infections with hepatitis C virus (HCV) or hepatitis B virus (HBV). The opioid epidemic has increased the number of people who inject drugs. This may lead to an increased risk of HBV and HCV through use of shared equipment.1 These factors may contribute to the increase in liver cancer in the United States.2
+Although the risk of developing liver cancer is low, surviving liver cancer is very hard. For every 100,000 people, 8 new liver and intrahepatic bile duct cancer cases are reported, and 7 people die of these diseases. This is according to 2019 data from United States Cancer Statistics.3
+CDC conducted a demonstration project to build sustainable partnerships with local organizations. Its goal was to improve knowledge and awareness of the link between injecting drugs and getting hepatitis and liver cancer. Four National Comprehensive Cancer Control Program (NCCCP) recipients in Iowa, Mississippi, West Virginia, and the American Indian Cancer Foundation (AICAF), which serves Native communities in Minnesota, participated in the project.
+Iowa
+Provider education
+Improving delivery of viral hepatitis services
+Mississippi
+Provider education
+Patient education
+Native Communities
+Provider education
+Syringe services programs
+West Virginia
+Provider education
+Demonstration project strategies
+Provider education
+Educating health care providers about the link between the opioid crisis and increased rates of viral hepatitis and liver cancer can improve their knowledge and awareness of liver cancer and their ability and intention to:
+Talk about these topics with their colleagues and patients.
+Identify patients at risk.
+Refer patients at risk for HBV and HCV screening and HBV vaccination.
+NCCCP recipients worked with partners to:
+Develop and distribute provider education materials.
+Plan, host, and record live educational activities through webinars and Project ECHO® educational sessions.
+Offer continuing medical education (CME) credits for completed educational sessions.
+Collect data to track participation in webinars and ECHO educational sessions, as well as changes in knowledge, awareness, ability, and intent of providers who received materials and participated in the webinars and sessions.
+Patient education
+Educating patients at risk for liver cancer—about the link between the opioid crisis and increased rates of viral hepatitis and liver cancer—can improve their knowledge and awareness of liver cancer. It can also improve their ability and intention to talk about these topics with their health care provider, be screened for HBV and HCV, and be vaccinated for HBV.
+Staff from one NCCCP recipient worked with partners to:
+Distribute patient education materials.
+Conduct in-person educational sessions.
+Collect data to track participation in the in-person sessions and changes in knowledge, awareness, ability, and intent of patients who participated.
+Improving delivery of viral hepatitis services
+Encouraging providers to identify patients at risk for HBV and HCV, assess for risk factors such as opioid or injection drug use, and follow guidelines for testing based on patient age and risk level can help improve the delivery of viral hepatitis services.
+Staff from one NCCCP recipient worked with partners to:
+Provide an opportunity for community-focused primary care providers who participated in the ECHO educational sessions to present cases of HCV-positive patients and seek consultation to determine the appropriate course of treatment.
+Review and revise the case presentation form so that providers could better assess for risk factors (such as opioid or injection drug use) and HBV infection status (current or past).
+Collect data to track the number and types of cases presented and courses of treatment recommended.
+Implementing syringe services programs
+Syringe services programs are community-based prevention programs that can provide a range of services, such as:
+Links to substance use disorder treatment.
+Access to and disposal of sterile syringes and injection equipment.
+Education about overdose and safer injection practices.
+Vaccination, testing, and links to care and treatment for infectious diseases.
+Staff from one NCCCP recipient worked with partners to:
+Conduct community engagement and outreach, including distribution and collection of harm reduction materials.
+Provide mobile HBV and HCV screening and medical services during outreach events.
+Collect data to track hepatitis screening, treatment, and the distribution and collection of harm reduction materials.
+Project achievements
+Provider education
+2 webinars were delivered. 66 providers attended the webinars and 48 providers stated their intention to apply for CME credit.
+8 educational sessions were delivered. 251 providers participated in the ECHO sessions.A 85 providers were awarded CMEs.
+8 educational materials were developed. More than 300 providers received the materials.
+Patient education
+2 in-person educational sessions were delivered.
+41 patients participated in the sessions.
+Improving delivery of viral hepatitis services
+14 ECHO sessions on HCV were conducted. 99 cases were presented across all sessions. Of these cases:
+All cases were for patients diagnosed with chronic HCV.
+52 unique providers participated across all sessions.
+42 hepatitis A vaccines and 48 HBV vaccines were administered.
+14 patients were in the queue to begin HCV treatment.
+11 patients started HCV treatment.B
+5 patients completed HCV treatment.
+Implementing syringe services programs
+1 new data collection system was developed to monitor progress.
+145 outreach events or locations were visited, including encampment street outreach events in South Minneapolis and onsite testing events at a local community clinic.
+28 clients were screened for HBV, 38 clients were screened for HCV, and 115 clients were treated for HCV.
+More than 100,000 clean syringes and other harm reduction materials were distributed during outreach events, including encampment street outreach events in South Minneapolis and onsite testing events at a local community clinic.
+39,135 harm reduction materials were collected.
+Lessons learned
+NCCCP recipients encountered several challenges, including the COVID-19 public health emergency, contracting issues, limited staffing and staff changes, competing staff priorities, and limited funding. Recipients learned it is essential to maintain flexibility and be creative and willing to change plans when challenges arise.
+When starting a new project, early and frequent engagement with partners will help ensure that contracts are established in a timely fashion. This approach was especially important during the COVID-19 public health emergency.
+Technical assistance is a strong facilitator for success. CDC helped NCCCP recipients plan, implement, and evaluate their efforts and troubleshoot challenges throughout the project. CDC also helped recipients develop content for educational materials and sessions, measures for evaluation, and questions for data collection instruments.
+Simultaneous strategy implementation and evaluation helps ensure that NCCCP recipients and partners have a clear understanding of the work.
+When developing educational content, it is helpful to adapt information from credible sources that already exist rather than creating new content.
+Related research
+Implementing promising strategies to reduce the risk for viral hepatitis and liver cancer among people who inject drugs

@@ -1,0 +1,77 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: About Microbial Ecology
+URL: https://www.cdc.gov/antimicrobial-resistance/about/about-microbial-ecology.html
+────────────────────────────────────────────────────────────
+
+Apr. 1, 2026
+Key points
+Germs, or microbes, are found everywhere, including on and in people, animals and the environment, where they exist in communities called microbiomes.
+CDC invests in research around microbial ecology.
+Research has shown that treatments focused on microbial ecology and protecting a person's microbiome can protect people from infections, including healthcare-associated and antimicrobial-resistant infections, so that people live longer, healthier lives.
+Overview
+Germs, or microbes, are found everywhere, including on and in people, animals and the environment, where they exist in communities called microbiomes. People have their own microbiomes (e.g., on their skin, in the gut) that help maintain good health and protect people from infections.
+CDC invests in research around microbial ecology, which looks at the relationships within and across these microbial communities to determine how germs interact with one another and their environment. Microbial ecology includes interactions of individuals and their microbiomes with other people, animals, plants, food and surfaces (e.g., healthcare bed rails or counter tops), all of which can serve as sources, or reservoirs, of pathogens (germs) that can lead to infection. This innovative work helps scientists better understand the role of microbial ecology in human health and how to leverage its role to develop and implement life-saving tools.
+Sometimes a microbiome can become unbalanced. For example, when a person takes antibiotics or antifungals, the drugs kill both pathogens (germs) that cause infections and beneficial germs that protect our body from infection. This results in an unbalanced microbiome.
+Research has shown that therapeutics (treatments) focused on microbial ecology and protecting a person's microbiome can protect people from infections, including healthcare-associated and antimicrobial-resistant infections, so that people live longer, healthier lives.
+Although scientists know that microbial ecology plays important roles in maintaining human health, there are unanswered scientific questions. It is critical to understand the relationships and interactions within microbial communities to prevent infections and their spread, improve antibiotic and antifungal use and slow the spread of antimicrobial resistance. Continued research will help public health scientists better understand microbial ecology treatment options to save lives.
+Terms to know
+Colonization: When a germ or microbe is found on or in the body but does not cause symptoms or disease. Finding the microbe multiple times over time could represent persistent colonization.
+Diversity: The variety and composition of microbes present in a microbial community. Diversity can be evaluated at different levels (e.g., genus, species, strain, operational taxonomic units). Diversity can be measured using an index, such as alpha (within a community) or beta (among two or more communities) diversity.
+Dominance: When a particular microbe makes up a large portion of a microbial community (e.g., >30%). An increased portion of a particular microbe may be associated with development of infection, sepsis, or other adverse outcomes.
+Ecological pressure: Any force(s) that impact living organisms (i.e., microbes) and/or their environment.
+Endogenous infection: When a person gets an infection caused by a pathogen that is already colonizing a part of their body (e.g., S. aureus in their nose).
+Exogenous infection: When a person gets an infection from a pathogen that recently spread to them from another person or from a contaminated surface.
+Fitness: Any trait that allows a microbe at any taxonomic level (e.g., genus, species, strain) or a community of microbes to thrive in the environment.
+Infection: When a microbe (e.g., bacteria, fungi) causes disease in a living organism (e.g., person, animal).
+Microbes: Tiny living organisms, including bacteria and fungi, that can mostly only be seen with a microscope. Often referred to as germs.
+Microbial ecology: The study of the relationships and interactions within microbial communities (e.g., environment-host-microbe) within a defined space.
+Microbiome: A community of naturally occurring germs within a defined space, such as in and on our bodies. Microbial communities are found on our skin, and in our mouth, respiratory tract, urinary tract, and gut.
+Microbiota: Microbes living in a microbiome. Microbiota in our bodies can work together to help keep us from getting sick.
+Microbial strain: Germs with very similar genetics and one or more genetic traits that makes them different from other strains. These different genetic traits can sometimes help the germ survive and multiply in certain environments (i.e., fitness).
+Strain selection: External pressure (e.g., antibiotic) applied to microbes. Microbes that withstand the pressure survive.
+Virulence: A measure of the ability or likelihood to cause disease.
+Virulence factor: A trait that allows a microbe to grow, multiply, and cause disease in a host (e.g., person, animal).
+How colonization can cause infections
+Germs (pathogens) can cause an infection by entering the body through various body sites and via medical devices. Additionally, when a microbiome is disrupted, pathogens, including antimicrobial-resistant pathogens, can take over, or dominate.
+Dominance of one or several pathogens puts people at increased risk for infection, including recurring C. difficile infection, antimicrobial-resistant infections, skin infections or sepsis. This is especially true for vulnerable people and critically ill patients, such as surgical patients and newborns in the intensive care unit. For example, a 2019 CDC-funded study found that patients who had a high number of antimicrobial-resistant Klebsiella pneumoniae (K. pneumoniae) in their microbiomes were at higher risk for K. pneumoniae bloodstream infections, which can be life-threatening.
+When a person is colonized and it leads to infection, it often happens like this:
+1. Lucy is colonized with antimicrobial-resistant Pathogen A.
+Lucy goes to the hospital for surgery. Lucy is either already colonized with antimicrobial-resistant Pathogen A, which is not causing an infection, or she becomes colonized with Pathogen A soon after admission. This could happen by person-to-person spread or from contaminated surfaces. Lucy and her healthcare providers do not know that Lucy is colonized.
+Lucy is at higher risk for an infection following her procedure and can spread Pathogen A to others. Because Pathogen A is antimicrobial-resistant, it may cause an infection that is difficult or impossible to treat.
+2. Lucy's microbiome becomes disrupted, allowing Pathogen A to dominate her microbiome.
+Lucy is given antibiotics through an IV to help prevent infections that could happen following her surgery. Her gut's beneficial germs are wiped out by the antibiotics in addition to some pathogens, resulting in an unbalanced microbiome.
+However, because Pathogen A is antimicrobial-resistant, it is not killed and remains. It now outcompetes and outnumbers the beneficial germs, becoming dominant in Lucy's microbiome.
+3. Pathogen A starts to invade the body, causing an infection.
+An unbalanced microbiome puts Lucy at higher risk for infection because her body's defense is low. Pathogen A starts to spread onto the skin causing an infection at the IV site. Pathogen A also continues to spread to the surrounding environment and to other people.
+About Microbial Ecology
+CDC studies microbial ecology to protect people from infections.
+Download
+How pathogen reduction and decolonization works
+Increased risk of infection
+People receiving medical care in healthcare facilities, like hospitals and nursing homes, can get healthcare-associated infections. This often happens during or after procedures like surgery, or from devices like catheters or ventilators. Sometimes healthcare-associated infections (HAIs) are caused by antimicrobial-resistant pathogens, making them difﬁcult to treat.
+People can be colonized with pathogens without symptoms of an infection, and this increases their risk for infection. They can spread these pathogens to others through person-to-person contact or contaminated surfaces. When people are critically ill, have recently undergone surgery, received transplants or are in intensive care units or have compromised immune systems, they are at even higher risk for infection when they are also colonized with pathogens.
+Colonization screenings
+When a healthcare facility identifies certain antimicrobial-resistant pathogens within their facility, CDC recommends colonization screening. Colonization screening is an infection prevention method using laboratory testing to identify patients who are colonized with resistant pathogens. Checking patients who are at risk for colonization helps guide infection control to prevent spread.
+Types of intervention strategies
+Healthy microbial communities with beneficial bacteria help our body protect against pathogen colonization, dominance and infection. Healthcare providers and infection preventionists can use intervention strategies to reduce or eliminate colonized pathogens in people to protect them from infection and prevent the spread of the colonizing pathogens. These strategies include:
+Pathogen reduction, a strategy that decreases the number of bacterial or fungal pathogens that might lead to infection.
+Decolonization, a type of pathogen reduction that eliminates the colonizing pathogens. A primary goal of decolonization is to remove pathogens from specific places on our body, such as skin (e.g., surgery sites) and mucosal surfaces (e.g., nose, gastrointestinal tract). These specific body sites (skin, mouth, respiratory tract, urinary tract, gut) are home to microbiomes, communities of naturally occurring germs.
+Pathogen reduction and decolonization strategies
+Traditional therapeutic strategies or medical interventions to reduce colonizing pathogens or decolonize people include:
+Topical treatments, such as antiseptic agents like chlorhexidine gluconate used for bathing.
+Antibiotic prophylaxis, such as antibiotics like neomycin or aminoglycosides.
+Nasal ointment for the nose, such as mupirocin or povidone-iodine.
+These traditional strategies or interventions help avoid the loss of beneficial germs and disrupting microbiomes by:
+Limiting application to a certain body site/individual microbiome (e.g., in the gut or the nasopharynx, the top part of throat) or targeting specific pathogens.
+Decreasing the use of antibiotics and antifungals needed to treat infections, which can help slow antimicrobial resistance.
+Specifically targeting those at highest risk for becoming infected - due to identified risk factors or those already found to be colonized with the pathogen using a lab test.
+Emerging pathogen reduction/decolonization strategies
+While not yet approved by the U.S. Food and Drug Administration (FDA) specifically for this purpose, certain microbiome therapeutics for the treatment of recurrent Clostridioides difficile infection, such as fecal microbiota transplantation (used under enforcement discretion) and two approved live biotherapeutic products (i.e. Rebiota and VOWST), are known to reduce the number of antimicrobial-resistant pathogens in treated patients. Pathogen reduction and decolonization in the future may involve the use of bacteriophages (phages) which are viruses that only infect bacteria, along with other live biotherapeutic products (e.g., ingesting beneficial germs). Phage products have not been approved for this use by the U.S. Food and Drug Administration (FDA). As part of the National Action Plan for Combating Antibiotic-Resistant Bacteria, CDC and FDA are working together to discuss approaches to evaluate the safety and efficacy of these products.
+What CDC is doing
+Pathogen reduction and decolonization strategies can prevent infections and stop the spread of pathogens and their genes. CDC invests in innovative research projects to identify and implement new ways to respond to antimicrobial resistance. CDC funds research on pathogen reduction and decolonization, but more research is needed to develop new therapeutic strategies to address colonization, microbiomes, and healthcare-associated and antimicrobial-resistant infections.
+Examples of CDC research include:
+Identifying and sharing effective public health approaches to protect people's microbiomes. CDC and NIH co-edited a supplement issue in the Journal of Infectious Diseases (JID) titled The State of Microbiome Science at the Intersection of Infectious Diseases and Antimicrobial Resistance.
+Studying the connection between antibiotics and microbiomes, including new ways to protect and restore the microbiome.
+Studying non-traditional treatment strategies for the remediation of antimicrobial-resistant pathogens in contaminated handwashing sinks and plumbing systems in healthcare facilities involving use of lytic bacteriophages (bacterial viruses).
+Data from these projects help CDC better protect people by, for example, uncovering places antimicrobial-resistant germs live and spread, improving outbreak response, and strengthening infection prevention practices.
+Apr. 1, 2026

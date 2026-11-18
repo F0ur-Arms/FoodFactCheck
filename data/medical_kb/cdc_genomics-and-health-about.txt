@@ -1,0 +1,51 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Genetics Basics
+URL: https://www.cdc.gov/genomics-and-health/about/index.html
+────────────────────────────────────────────────────────────
+
+What to know
+This page provides information about basic genetic concepts such as DNA, genes, chromosomes, and gene expression.
+Genes play a role in almost every human trait and disease.
+Advances in our understanding of how genes work have led to improvements in health care and public health.
+Overview
+Your genes affect many things about you, including how you look (for example, your eye color or height) and how your body works (for example, your blood type). In some cases, your genes are linked to diseases that run in your family. In other cases, your genes influence how your body reacts to health conditions, such as infections; to medicines or other treatments for health conditions; or to certain behaviors, such as smoking or alcohol use.
+Better understanding of how genes affect health can improve health in many ways. Knowing if someone has a genetic difference that makes them more likely to get a disease can help them take steps to prevent the disease or find it earlier, when it is easier to treat. If someone already has symptoms of a disease or condition, finding out the genetic difference that causes that disease or condition can help the healthcare provider understand what health outcomes the person might have in the future. Improved understanding of how genes are linked to disease can lead to better treatments for those diseases.
+This page provides information about basic genetic concepts such as DNA, genes, chromosomes, and gene expression.
+Terms to know
+DNA
+DNA (which is short for deoxyribonucleic acid) contains the instructions for making your body work. DNA is made up of two strands that wind around each other and looks like a twisting ladder (a shape called a double helix). Each DNA strand includes chemicals called nitrogen bases, which make up the DNA code. There are four different bases, T (thymine), A (adenine), C (cytosine), and G (guanine). Each base on one strand of DNA is paired with a base on the other strand. The paired bases form the "rungs of the DNA ladder".
+The bases are in different orders on different parts of the DNA strand. DNA is "read" by the order of the bases, that is by the order of the Ts, Cs, Gs, and As. The order of these bases is what is known as the DNA sequence. The DNA in almost all living things is made up of the same parts. What's different is the DNA sequence.
+Inheritance
+Genetic inheritance is the process of passing down DNA from parents to children.
+Genome
+Your genome is all of the DNA in your body.
+Chromosomes
+DNA is packaged into small units called chromosomes. A chromosome contains a single, long piece of DNA with many different genes. You inherit your chromosomes from your parents. Chromosomes come in pairs. Humans have 46 chromosomes, in 23 pairs. Children randomly get one of each pair of chromosomes from their mother and one of each pair from their father. There are 22 pairs of numbered chromosomes, called autosomes, and the chromosomes that form the 23rd pair are called the sex chromosomes. They determine if a person is born a male or female. A female has two X chromosomes, and a male has one X and one Y chromosome. Each daughter gets an X from her mother and an X from her father. Each son gets an X from his mother and a Y from his father.
+Genes and proteins
+Each chromosome has many genes. Genes are specific sections of DNA that have instructions for making proteins. Proteins make up most of the parts of your body and make your body work the right way.
+You have two copies of every gene. You inherit one copy from your father and one copy from your mother. The genes people inherit from their parents can determine many things. For example, genes affect what a person will look like and whether the person might have certain diseases.
+Alleles
+Alleles are forms of the same gene that may have small differences in their sequence of DNA bases. These differences contribute to each person's unique features. Each person has two alleles for each gene, one from each parent. If the alleles of a gene are the same, the person is considered homozygous for the gene. If the alleles are different, the person is considered heterozygous for the gene.
+Most of the time, differences between alleles do not have much of an effect on the protein that is made. However, sometimes different alleles can result in differences in traits, such as blood type. Some alleles are associated with health problems or genetic disorders. In these alleles, the differences in the sequence of DNA bases affects the body's ability to make a certain protein.
+Because your genes were passed down from your parents, you and your family members share many gene alleles. The more closely related you are, the more gene alleles you have in common.
+Cells
+Cells are the basic units of life. The human body contains trillions of cells. There are many different types of cells that make up the many different tissues and organs in the body. For example, skin cells, blood cells, heart cells, brain cells, and kidney cells are just a few of the cell types that perform different vital functions in the body.
+The basic structure of a cell is a jelly-like substance known as cytoplasm, which is surrounded by a membrane to hold it together. Within the cytoplasm are various specialized structures that are important to the work of the cell. One of these structures is the cell nucleus, which contains the DNA packaged in chromosomes.
+Gene expression
+Gene expression refers to the process of making proteins using the instructions from genes. A person's DNA includes many genes that have instructions for making proteins. Additionally, certain sections of DNA are not part of a gene but are important in making sure the genes are working properly. These DNA sections provide directions about where in the body each protein should be made, when it should be made, and how much should be made.
+For the most part, every cell in a person's body contains exactly the same DNA and genes, but inside individual cells some genes are active ("turned on") while others are not. Differences in how genes are used (expressed) to make proteins are why the different parts of your body look and work differently. For example, gene expression in the muscles is different from gene expression in the nerves.
+Gene expression can change as you age. Also, your behaviors, such as smoking or exercise, or exposures in your environment can affect gene expression.
+DNA methylation
+DNA methylation works by adding a chemical (known as a methyl group) to DNA. This chemical can also be removed from the DNA through a process called demethylation. Typically, methylation turns genes "off" and demethylation turns genes "on."
+DNA methylation is one of the ways the body controls gene expression. Methylation and demethylation do not change the DNA code (the sequence of the DNA bases), but they help determine how much protein is made.
+Genetic change (mutation, gene variant, genetic variant)
+A genetic change (sometimes called a mutation, gene variant, or genetic variant) is a change in a DNA base sequence. While not all genetic changes will cause problems, sometimes, changes in genes can lead to changes in proteins and then the proteins don't work the way they are supposed to. This can lead to disease.
+Some genetic changes can be passed on from parent to child (inherited). These genetic changes occur in the germ cells, which are the cells that create sperm or eggs. Genetic changes that occur in the other cells in the body (known as somatic cells) do not get passed on to a person's children.
+Genetic changes happen when new cells are being made and the DNA is copied. Also, exposures, such as high levels of radiation, can damage the DNA and cause genetic changes. However, most exposures will not result in genetic changes because each cell in the body has a system in place to check for DNA damage and repair the damage once it's found.
+Copy number variation (CNV)
+Copy number variation (CNV) refers to a feature of the genome, in which various sections of a person's DNA are repeated. While this happens in all people, the number of repeats (or copies) varies from one person to the next. CNVs play an important role in creating genetic diversity in humans. However, some CNVs are linked to diseases.
+Environmental factors
+Environmental factors include exposures related to where we live, such as air pollution; behaviors, such as smoking and exercise; and other health-related factors, such as the foods that we eat.
+Epigenetics
+Epigenetics refers to the ways a person's behaviors and the environment can cause changes that affect the way the genes work. Epigenetics turns genes "on" and "off" and thus is related to gene expression.
+Epigenetics change as people age, both as part of normal development and aging and because of exposure to environmental factors that happen over the course of a person's life. There are several different ways an environmental factor can cause an epigenetic change to occur. One of the most common ways is by causing changes to DNA methylation. DNA methylation works by adding a chemical (known as a methyl group) to DNA. This chemical can also be removed from the DNA through a process called demethylation. Typically, methylation turns genes "off" and demethylation turns genes "on." Thus, environmental factors can impact the amount of protein a cell makes. Less protein might be made if an environmental factor causes an increase in DNA methylation, and more protein might be made if a factor causes an increase in demethylation.

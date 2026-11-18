@@ -1,0 +1,12 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Comparing DNA Sequencing Technology
+URL: https://www.cdc.gov/advanced-molecular-detection/about/comparing-dna-sequencing-technology.html
+────────────────────────────────────────────────────────────
+
+What to know
+DNA sequencing enables scientists to decode the DNA of organisms that cause sickness and disease. Next-generation sequencing (NGS) technology dramatically decreased sequencing costs while increasing the volume and complexity of sequence data produced. NGS offers key advantages for surveillance and outbreak response.
+NGS machines provide detailed information faster than conventional machines.
+Conventional sequencing methods often have a low-throughput, meaning they are limited by the amount of DNA that can be processed at a given time. And conventional machines can decode short segments of 1,000 DNA base pairs at a time. Over the course of a day, they can sequence approximately 2.1 million DNA base pairs.
+Alternatively, next-generation sequencing machines have a higher-throughput which allows scientists to sequence massive amounts of DNA at once. These devices can decode a whole genome with 5,000,000 DNA base pairs. In one day, NGS machines can sequence over 8 billion DNA base pairs.
+NGS machines provide flexibility
+Like conventional machines, desktop NGS machines are often used in the laboratory. However, handheld NGS devices can be used in remote field locations as a practical option for infectious disease surveillance, diagnostics, and public health research.

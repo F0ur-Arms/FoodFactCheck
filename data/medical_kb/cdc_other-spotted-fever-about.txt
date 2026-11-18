@@ -1,0 +1,42 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: About Other Spotted Fever Rickettsioses
+URL: https://www.cdc.gov/other-spotted-fever/about/index.html
+────────────────────────────────────────────────────────────
+
+Key points
+Spotted fever rickettsioses are a group of diseases caused by closely related bacteria. These bacteria are spread to people through the bite of infected ticks and mites.
+Symptoms can include a dark scab (eschar) at the site of the tick or mite bite, fever, headache, rash, and muscle aches.
+Your healthcare provider may order certain blood tests to look for evidence of spotted fever infection.
+Doxycycline is the recommended treatment for people of all ages.
+Overview
+Spotted fever rickettsioses (spotted fevers) are a group of diseases caused by closely related bacteria, spotted fever group Rickettsia. These bacteria are spread to people through the bite of infected mites and ticks. The most serious reported spotted fever in the United States is Rocky Mountain spotted fever (RMSF).
+Other causes of spotted fevers in the United States include:
+Rickettsia parkeri rickettsiosis, caused by Rickettsia parkeri
+Pacific Coast tick fever, caused by Rickettsia rickettsii subspecies californica (formerly Rickettsia species 364D)
+Rickettsialpox, caused by Rickettsia akari
+Spotted fevers can range from mild to life-threatening. Doxycycline is the treatment of choice for all spotted fever infections.
+Signs and symptoms
+The first sign of many spotted fevers (including Rickettsia parkeri rickettsiosis, Pacific Coast tick fever, or rickettsialpox) is generally a dark scab at the site of tick or mite bite, known as an eschar. Eschars usually develop a few days to a week following the bite of an infected tick or mite.
+Several days after an eschar develops, patients can develop other signs and symptoms.
+Signs and symptoms can include:
+Fever
+Headache
+Rash
+Muscle aches
+R. parkeri rickettsiosis, Pacific Coast tick fever, and rickettsialpox are less severe than RMSF; however, it can be difficult to distinguish between RMSF and other spotted fevers, especially during early stages of these diseases. Ticks are typically found in grassy or wooded environments. See your healthcare provider if you become ill after having been bitten by a tick, or having spent time in areas where ticks may live. Rickettsialpox is spread by mites carried by the common house mouse. Be sure to mention any time spent in areas where mice may be found.
+Causes
+Rickettsia parkeri rickettsiosis, caused by infection with R. parkeri, is spread by the Gulf Coast tick, Amblyomma maculatum, which is distributed primarily in the southeastern United States, with focal populations in the northeastern, midwestern, and southwestern United States.
+Pacific Coast tick fever is caused by the bacteria R. rickettsii subsp. californica (previously referred to as Rickettsia sp. 364D). Pacific Coast tick fever is spread by the bite of infected Pacific Coast ticks, Dermacentor occidentalis, which can be found along the western coastline in California, Oregon, and Washington.
+Rickettsialpox is caused by R. akari. Unlike the other spotted fevers described here, R. akari is spread through the bite of infected mouse mites (Liponyssoides sanguineus). Cases occur occasionally throughout the United States, but are most often reported out of the northeastern United States, particularly New York City.
+Prevention
+Prevent spotted fever illness by preventing tick bites, preventing ticks on your pets, and preventing ticks in your yard. Prevent rickettsialpox by controlling rodent infestations.
+Keep Reading:
+Preventing Tick Bites
+Testing and diagnosis
+The signs and symptoms of spotted fevers are similar to those of many other diseases. See your healthcare provider if you develop the signs and symptoms of spotted fevers.
+Be sure to tell your healthcare provider if you become ill and have recently been bitten by a tick, exposed to mice, or have spent time in areas where ticks or mice may be found.
+Your healthcare provider may order certain blood tests to look for evidence of spotted fever infection.
+The results of these tests can take weeks. If your healthcare provider thinks your illness might be a spotted fever, they should recommend antibiotic treatment before results are available.
+Treatment
+Some spotted fevers are not life-threatening and can resolve over time, even without treatment. For others, especially RMSF, early treatment with the antibiotic doxycycline can be lifesaving.
+Doxycycline is the recommended antibiotic treatment for all spotted fevers, including RMSF in adults and children of all ages.

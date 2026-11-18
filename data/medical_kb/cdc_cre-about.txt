@@ -1,0 +1,50 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: About Carbapenem-resistant Enterobacterales (CRE)
+URL: https://www.cdc.gov/cre/about/index.html
+────────────────────────────────────────────────────────────
+
+Dec. 17, 2025
+Key points
+People and animals can get carbapenem-resistant Enterobacterales (CRE) infections.
+CRE infections can be prevented.
+Overview
+Enterobacterales are a group of bacteria (germs) that are a normal part of the human and animal gut but can also cause infections. Carbapenem-resistant Enterobacterales (CRE) are germs resistant to one or several antibiotics called carbapenems.
+In the United States in 2020, there were approximately 12,700 infections and more than 1,100 deaths due to CRE.1 The annual incidence of CRE rose 18% from 2019 to 2023.2
+Types
+CRE can include germs like Escherichia coli (E. coli) and Klebsiella pneumoniae (K. pneumoniae) if they develop resistance to carbapenems.
+New Delhi metallo-β-lactamase producing carbapenem-resistant Enterobacterales (NDM-CRE) are a type of CRE bacteria that cause infections, which are extremely hard to treat. NDM-CRE are spreading rapidly in the United States with an increase of 461% between 2019 and 2023.2
+Signs and symptoms
+Pneumonia
+Bloodstream infections
+Urinary tract infections
+Wound infections
+Meningitis
+Who is at risk
+Patients in healthcare settings are at most risk for CRE, especially those who:
+Require devices like ventilators (breathing machines), urinary (bladder) catheters, or intravenous (vein) catheters.
+Are taking long courses of certain antibiotics.
+Have weakened immune systems.
+Healthy people usually do not get CRE infections.
+How it spreads
+Person-to-person contact from dirty hands, wounds, or stool (poop).
+Contaminated medical equipment and devices.
+A few reports described spread between animals and humans and animal-to-animal spread.
+In some cases, people or animals can carry the germs on or in their body without being infected, known as colonization.
+Reducing risk
+Take antibiotics exactly as your healthcare provider recommends.
+Follow patient safety tips in healthcare settings.
+Keep your hands clean.
+Treatment and recovery
+CRE infections are difficult to treat. They are resistant to most antibiotics, including carbapenems, drugs often used to treat multidrug-resistant bacterial infections. Healthcare providers make treatment decisions for CRE infections on a case-by-case basis. If your provider prescribes antibiotics, take them exactly as instructed and finish the full course, even if you feel better.
+Colonized patients often do not require treatment.
+Animal impact
+Animals can get CRE from many sources, including colonized people or animals. The risk of pet owners getting CRE from their pet is low.
+Scientists are still working to understand how long animals carry CRE, but they may carry it longer if they are exposed or if they receive antibiotics.3
+Talk to your veterinarian about CRE and if your pet has a history of CRE.
+Keep Reading
+Carbapenem-resistant Enterobacterales and Animals Basics
+What CDC is doing
+Providing testing to identify antimicrobial resistance cases, measure resistance and track transmission in a healthcare setting through the Antimicrobial Resistance Laboratory Network.
+Tracking CRE infections through the Emerging Infections Program and National Healthcare Safety Network.
+Data is also available on the AR & Patient Safety Portal.
+Working closely with health departments, other federal agencies, healthcare providers and patients to prevent infections caused by CRE and slow the spread of resistant germs.

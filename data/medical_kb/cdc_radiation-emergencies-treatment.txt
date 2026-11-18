@@ -1,0 +1,24 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Treatment of Radiation Exposure and Contamination
+URL: https://www.cdc.gov/radiation-emergencies/treatment/index.html
+────────────────────────────────────────────────────────────
+
+Key points
+There are different medications that can help limit or treat the health effects of certain types of radiation.
+A medical professional will know which treatment is right for you.
+Treatment methods
+Treatment for internal contamination
+During a radiological or nuclear emergency, radioactive materials may be released into the air and then breathed into the lungs. They may also get into the body through open wounds.
+Radioactive materials can also contaminate the local food supply and water and get into the body through eating or drinking. This is called internal contamination.
+Removing internal contamination from the body will help reduce the risk for health effects. Small amounts of internal contamination may not need treatment.
+Some medical treatments are available for limiting or removing internal contamination depending on the type of radioactive material involved. These treatments include the following:
+Potassium iodide (KI)
+Prussian blue
+DTPA (Diethylenetriamine pentaacetate)
+Keep in mind‎
+Medical professionals will determine if treatments are needed.
+Treatment for radiation exposure
+During a radiation emergency, a person who is exposed to a very high dose of radiation over a very short time may experience bone marrow suppression. Bone marrow suppression means the marrow produces less blood cells.
+Bone marrow suppression occurs with Acute Radiation Syndrome. Medications that speed up blood cell production, including Neupogen, may help the body heal and protect from infections. Medical professionals will determine if treatments are needed.
+Neupogen: General Information for the Public
+Neupogen: General Information for Clinicians

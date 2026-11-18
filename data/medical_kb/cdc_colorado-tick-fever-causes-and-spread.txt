@@ -1,0 +1,21 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Colorado Tick Fever: Causes and How It Spreads
+URL: https://www.cdc.gov/colorado-tick-fever/causes-and-spread/index.html
+────────────────────────────────────────────────────────────
+
+For Everyone
+Key points
+Colorado tick fever is caused by a virus typically spread through the bite of an infected Rocky Mountain wood tick (Dermacentor andersoni).
+Colorado tick fever virus circulates in the environment between ticks and small rodents found in the Rocky Mountains.
+Colorado tick fever virus also is rarely spread through blood transfusion.
+Primary cause
+Colorado tick fever is caused by a virus that is found in the western United States and western Canada at 4,000–10,000 feet above sea level.
+About the virus
+Colorado tick fever virus is a member of the family Reoviridae, subfamily Spinareovirinae, genus Coltivirus. The virus contains 12 segments of double-stranded RNA. The virus genome is relatively large compared to other arthropod-borne viruses at ~29,000 base pairs.
+How it spreads
+People become infected with Colorado tick fever virus from the bite of an infected Rocky Mountain wood tick (Dermacentor andersoni).
+The virus does not spread from person to person, except in rare instances by blood transfusion and from mother to baby around the time of birth (perinatal transmission). Since Colorado tick fever virus can remain in red blood cells for several months, blood and bone marrow should not be donated for 6 months following infection.
+Prevent Colorado tick fever
+There are no vaccines or medicines to prevent Colorado tick fever. The best way to protect yourself is to prevent tick bites.
+Transmission cycle
+Ticks become infected with Colorado tick fever virus when they feed on the blood of a reservoir animal (an animal that has the virus circulating in its bloodstream). The most important reservoirs for Colorado tick fever virus are small rodents such as squirrels, chipmunks, and mice. After the tick becomes infected, it transmits the virus to other hosts (animal or human) while it feeds. Person-to-person transmission via bloodborne and perinatal routes has been documented in rare cases.

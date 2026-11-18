@@ -1,0 +1,46 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: IIS Frequently Asked Questions
+URL: https://www.cdc.gov/iis/resources-refs/faq.html
+────────────────────────────────────────────────────────────
+
+Apr. 7, 2026
+What to know
+This page contains frequently asked questions about Immunization Information Systems.
+Below are the frequently asked questions about Immunization Information Systems, the data in them and how individuals can ensure the privacy of and gain access to their immunization records.
+Q: What are Immunization Information Systems?
+A: IISs are confidential, population-based databases that record all vaccine doses administered by participating providers in a specific geographic area.
+Q: Why do Immunization Information Systems exist?
+A: A primary use of the IIS is to make sure that all individuals have all of their immunizations and that the information regarding immunizations received and immunizations needed is available when your doctor needs it. All of the immunizations given are based on a schedule that tells providers when certain shots should be given. The immunization schedule is complex and does change. An IIS, helps doctors decide which shots should be given and when.
+Q: What information is in an IIS?
+A: Information in an IIS is different in every state, but should contain at least the following information: patient name (first, middle, and last), patient birth date, patient sex, patient birth state/country, patient address, mother’s name, the types and dates of vaccines given, the lot number for and manufacturer of the vaccine and the date the shot was given.
+Q: How is my immunization record and information protected?
+A: State or jurisdictional law requires that information in the IIS be kept confidential. Only you, your doctor, or healthcare workers who assist you have access to the information. The information will not be shared with any other people or any other agency.
+Q: Who do I contact to see if my child is in an IIS or if I want a copy of my child’s immunization record?
+A: You must contact your provider, or local or state immunization program. Use this web page for finding the IIS in your jurisdiction. Contacts for Immunization Records
+Q: What can an IIS do for a provider practice?
+A: An IIS simplifies immunization record keeping, provides quicker access to immunization records, and helps keep track of a patient’s immunization status. IIS can also help: (1) easily find immunizations for individuals new to a practice, (2) provide official copies of immunization records, (3) reduce or eliminate chart pulls needed for coverage assessment and Healthcare Effectiveness Data and Information Set (HEDIS) reviews, and (4) facilitate routine doses administered reports for vaccine accountability.
+Q: What will participation in an IIS cost a provider practice?
+A: There is no charge for providers to use an IIS, although incorporating use of the IIS into your office’s daily procedures will take an investment of time and effort.
+Q: Is reporting to an IIS subject to the HIPAA Privacy Rule?
+A: No. Reporting of immunizations to an IIS are exempt from the Health Insurance Portability and Accountability Act of 1996 (HIPAA) Privacy Rule since it is considered a public health activity.
+Q: How is information in the IIS kept confidential?
+A: IIS must protect the privacy of all users, including children, families, and providers. According to standards set by CDC, all IIS are required to have a written privacy policy that clearly defines notice of inclusion in the IIS, access, to, and use and disclosure of IIS data. For more information, ask the IIS in your area for a copy of their confidentiality policy.
+Q: Do IIS really help improve immunization?
+A: Yes. For journal articles documenting IIS effectiveness, visit CDC’s IIS publications database.
+Q: What do other healthcare providers think about IIS?
+A: Policy Statements and Letters of Support or Endorsement of IIS have been written by the following organizations: American Academy of Pediatrics, American Medical Association, National Association of Pediatric Nurses, Associates and Practitioners, National Medical Association
+Q: Can pharmacists participate in an IIS?
+A: Yes. Pharmacists that administer vaccines and are interested in participating in the IIS, should contact the IIS in their jurisdiction.
+Q: Can the IIS exchange data with Electronic Medical Records (EMR) or Electronic Health Records (EHR)?
+A: IIS have capacity to electronically exchange data with clinical systems including electronic medical records. The capacity and direction of this exchange depends on the technical capacity of the electronic medical record system and the IIS. IIS use the industry standard Health Level 7 (HL7) protocol to exchange immunization information.
+Q: What type of equipment do I need to electronically link with the IIS?
+A: Exchanging immunization information with IIS can be done in a variety of different ways. The electronic health record (EHR) application used in the practice should have the ability to create an interface file that conforms to a standard exchange format. Depending on the type of clinical application and clinical workflow, the IIS may be accessible directly from with the clinical application. Additional software requirements may be necessary for authentication, encryption and sending the file to the IIS. IIS and clinical applications are encouraged to find solutions to reduce the burden of duplicate data entry.
+Q: How is a client’s immunization record and information protected?
+A: IIS users must be authorized to have access to data stored in an IIS. Users must sign an agreement and follow strict confidentiality and security policies. Protection of IIS data is managed through state privacy, confidentiality, and security laws and through compliance with federal privacy rules and regulations. Some important factors that have helped facilitate IIS development include:
+Laws specifically authorizing the Department of Health to establish and maintain an immunization information system. Some laws require reporting to the IIS; other laws allow reporting. Both types of laws may address liability concerns.
+Statutory provisions providing immunities from civil and/or criminal liability for providers who make good faith disclosures to immunization information systems or rely on information in immunization information systems.
+Other important statutory provisions include:
+penalties for improper disclosure of information
+provisions defining with whom immunization information can be shared (e.g., providers, schools, health department)
+provisions allowing parents to opt out or limit access to immunization registry information. While opt out and consent provisions are particularly important to some religious groups, victims of domestic violence, and others, in fact only a small percentage of people exercises these options.
+Apr. 7, 2026

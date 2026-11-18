@@ -1,0 +1,57 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: About International Infection Control Branch - Antimicrobial Resistance
+URL: https://www.cdc.gov/international-infection-control/hcp/about/iicb-ar.html
+────────────────────────────────────────────────────────────
+
+Mar. 29, 2024
+Key points
+CDC's International Infection Control Branch (IICB) helps countries improve their capacity to detect and combat antimicrobial resistance (AR) in healthcare settings.
+IICB's work helps prevent antimicrobial-resistant pathogens from spreading within hospitals, to communities or across international borders.
+Why it matters
+AR happens when pathogens like bacteria and fungi develop the ability to defeat the drugs designed to kill them. Resistant infections can be difficult, and sometimes impossible, to treat.
+AR is present in all regions of the world, and new variants are emerging. In 2019, AR is estimated to have killed at least 1.27 million people worldwide1 and contributed to nearly 5 million deaths, more than either HIV or malaria. That same year, WHO declared AR to be one of the top 10 public health threats facing humanity.
+Five of the six most lethal antimicrobial-resistant bacteria are predominantly found in healthcare settings, and antimicrobial-resistant bacteria are being detected in hospitals more often.
+Priorities
+IICB works with partners on the following priorities to protect patients and healthcare personnel globally:
+Develop and implement AR policies, guidance and best practices to prevent the emergence of AR threats and stop their spread at global, national and local levels.
+Conduct and support innovative studies and activities to inform AR surveillance, infection prevention and response efforts.
+Strengthen laboratories and surveillance programs at regional, national and local levels to improve the ability to detect and monitor AR.
+Develop global and national networks of AR surveillance and infection prevention programs to better understand AR threats and coordinate efforts to detect and respond to them.
+IICB Resources
+For access to guidance, tools and trainings that IICB has created together with our partners, please visit the IICB Resources page.
+What we've accomplished
+Policy, guidance and best practices
+Developed Core Elements of Human Antibiotic Stewardship in Resource-limited Settings to guide the development of policies and programs that promote the appropriate use of antibiotics.
+Supported development of global guidelines on preventing healthcare-associated infections and AR surveillance and infection prevention.
+Collaborated with the Association of Southeast Asian Nations (ASEAN) to develop the ASEAN-U.S. IPC Task Force through which governments in Southeast Asia compare experiences and develop materials to enhance IPC and AR activities.
+Innovative studies and activities
+Evaluated the impact of the COVID-19 pandemic on trends in inpatient antibiotic use in six hospitals in Southeast Asia (Indonesia and Philippines) and 6 hospitals in South America (Brazil, Argentina, and Chile).
+Completed a study in Argentina with the Global Action in Healthcare Network (GAIHN) showing that hospitals can use locally-available rectal swabs for a laboratory method that speeds carbapenemase detection in hospitals, making the method a feasible option for hospitals in the country.
+Used data from Antibiotic Resistance in Communities and Hospitals (ARCH) studies to identify and respond to the source of an outbreak of an antimicrobial-resistant bacteria in a neonatal intensive care unit in Botswana.
+Laboratory and surveillance program strengthening
+Developed and launched the Laboratory Assessment of Antibiotic Resistance Testing Capacity (LAARC), which is used in hundreds of laboratories across dozens of low- and middle-income countries to identify and correct laboratory practices that can contribute to inaccurate AR data.
+Supported the development of educational networks to train laboratory professionals in Kenya, India and Ethiopia.
+Worked with 15 hospitals in Brazil to enhance laboratory capacity to detect antimicrobial-resistant pathogens and increase the number of clinical laboratories reporting to the national AR surveillance program, which shares critical AR data with the WHO Global Antimicrobial Resistance and Use Surveillance System (GLASS).
+Development of global and national networks of AR surveillance and infection prevention programs
+Launched GAIHN in 2021, a part of CDC's Global Antimicrobial Resistance Laboratory and Response Network, to address emerging infectious disease threats in global healthcare settings.
+Supported WHO GLASS and developed approaches to improve AR surveillance data across its Member States.
+Developed a network of 21 hospitals and 4 regional laboratories focused on improving AR detection and response in Thailand.
+For Public Health
+Success Stories
+Story from the field
+Antibiotic Resistance in Communities and Healthcare (ARCH)
+Current global AR surveillance systems only collect clinically recognized AR infections. In low- and middle-income countries where laboratory and diagnostic capacity is often limited, AR colonization data can provide a more complete picture of AR in communities and hospitals.
+Colonization means germs are present on or in a person's body and are alive and growing. People can be colonized with pathogens without symptoms of an infection.
+Colonization can increase a person's risk for infection. People who are colonized can also unknowingly spread germs to others through person-to-person contact or contaminated surfaces in shared settings.
+The Antibiotic Resistance in Communities and Healthcare (ARCH) consortium, part of CDC's Global Antimicrobial Resistance Laboratory and Response Network, is a network of partners in Bangladesh, Botswana, Chile, Kenya and Guatemala tracking the amount and spread of colonization in hospitals and communities and studying predictors and outcomes of colonization.
+Data from the ARCH studies will help us understand:
+The source of new resistance threats.
+How widespread the threats are.
+How we can tailor prevention strategies to lessen the impact.
+For Public Health
+Innovative Studies Investigate Spread of Antimicrobial Resistance in Communities and Hospitals
+Global Networks
+CDC works with nearly 30 organizations around the world to combat AR and other healthcare threats through two global networks: the Global Action in Healthcare Network (GAIHN) and the Global Antimicrobial Resistance Laboratory and Response Network.
+These networks complement one another to identify and stop today's infectious disease threats. They recognize existing global work underway or already accomplished by CDC, public health partners and countries and strive to expand those successes with further coordination, capabilities and advancements.
+Keep Reading
+About Global Action in Healthcare Network

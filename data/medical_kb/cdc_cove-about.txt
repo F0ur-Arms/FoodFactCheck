@@ -1,0 +1,30 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: About CDC Open-Source Visualization Editor (COVE)
+URL: https://www.cdc.gov/cove/about/index.html
+────────────────────────────────────────────────────────────
+
+At a glance
+The CDC Open-Source Visualization Editor (COVE) is a data visualization building platform that was initially developed for CDC’s Web Content Management System (WCMS). Its open-source nature allows for contribution and use both inside and outside the agency.
+Easily turn spreadsheets to data visualizations
+Within minutes to a few hours, COVE can easily launch modern, user-tested, interactive data visualizations and dashboards. These visualizations are 508-compliant, mobile-friendly.
+The COVE editor uses your JSON or CSV data files to guide you through building a data visualization that helps you tell your story.
+Initially developed for CDC use as a part of the Digital Communication Modernization initiative, the COVE editor is actively used in CDC's WCMS as a visualization building module.
+COVE is not just for agency use and development. From its initial design, the COVE editor is an open-source platform.
+Benefits
+COVE data visualizations have modernized to:
+Optimize graphics for web and mobile delivery
+Make visualizations quick and straightforward to build and deploy
+Reduce steps for 508 compliance certification
+Increase ability to share improvements
+Ongoing development
+The COVE editor is constantly being updated and enhanced with new features by the COVE team and contributors.
+Developers inside and outside the agency are welcome to contribute.
+To find out more about contribution visit our GitHub and read the CONTRIBUTING.md
+The newest updates to the CDC COVE editor can be found on the What's New page.
+Gallery and How-To instruction
+This COVE site serves as both a gallery of available visualizations used by CDC and instruction on how to build data visualizations in the editor.
+Visit the COVE Visualization Types page to see how CDC uses the available visualizations.
+Visit the Configuration Options page to dive into the robust editor tabs and how they allow CDC web developers to set-up and customize their visualizations.
+Contacts
+To find out more about the COVE project and contribution visit our GitHub.
+For inquiries inside CDC about building data visualizations in the WCMS and feature requests, reach out to your WCMS POC (search the intranet for your contact). If they are unable to help, they can submit support questions on your behalf.

@@ -1,0 +1,101 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Risk Assessment and Monitoring in Healthcare Settings
+URL: https://www.cdc.gov/monkeypox/hcp/infection-control/risk-assessment-monitoring.html
+────────────────────────────────────────────────────────────
+
+Feb. 9, 2026
+What to know
+CDC has guidance for monitoring and postexposure prophylaxis if people are exposed to monkeypox virus in a healthcare setting.
+Monitoring should include assessing the person for signs and symptoms of monkeypox, then taking action if symptoms develop.
+Monitoring should take place for 21 days post-exposure.
+Overview
+Each risk level category in the table below highlights the need for monitoring and helps determine the need for post-exposure prophylaxis (PEP) for healthcare personnel (HCP) or patients who experience exposure to monkeypox virus (MPXV) in a healthcare setting. The exposure risk level of any incident may be recategorized to another risk level at the discretion of occupational health services, infection prevention and control services, or public health authorities based on the unique circumstances of each exposure incident.
+The categories in the table represent situations that, to date, have been associated with transmission or where there is a theoretical risk of transmission. Absence of a specific exposure in the table is not intended to imply that there is no risk associated with the exposure, but based on current evidence, such exposures likely pose lower risk for transmission than those described below.
+Correct and consistent use of personal protective equipment (PPE) and adherence to other recommended infection prevention and control practices when caring for a patient with MPXV infection prevents transmission to HCP. However, unrecognized errors during the use of PPE (e.g., self-contaminating when removing contaminated PPE) may create opportunities for transmission to HCP.
+Therefore, in the absence of an exposure described below, HCP who enter a contaminated patient room or care area while wearing recommended PPE should be aware of the signs and symptoms of monkeypox; if any signs or symptoms of monkeypox occur, HCP should notify occupational health services for further evaluation and should not report to work (or should leave work, if signs or symptoms develop while at work) pending evaluation.
+Risk exposure assessment and recommendations
+How to monitor HCP
+Decisions on how to monitor exposed HCP are at the discretion of the occupational health program and public health authorities. Passive approaches to HCP monitoring might include educating and requesting HCP self-reporting of signs or symptoms of disease to occupational health, while active approaches might include telephone and video calls to HCP for symptom and temperature check-ins or in-person presentation to occupational health for regular assessments.
+In general, the type of monitoring used often reflects the risk for transmission with more active-monitoring approaches used for higher risk exposures, including check-ins on tolerability of and adherence to PEP. Self-monitoring approaches are usually sufficient for exposures that carry a lesser risk for transmission. Even higher risk exposures may be appropriate for a self-monitoring strategy if occupational health services or public health authorities determine that it is appropriate. Ultimately, the person's exposure risk level, their reliability in reporting symptoms that might develop, the number of persons needing monitoring, time since exposure, receipt of PEP, and available resources, are all factors when determining the type of monitoring to be used.
+High risk of exposure
+Characteristics
+Unprotected contact between an exposed individual's broken
+skin or mucous membranes and the skin lesions or bodily fluids from a person
+with monkeypox (e.g., inadvertent splashes of infected person's saliva to the
+eyes or mouth of a person, sharps injury with contaminated sharp), or their
+materials (e.g., linens, clothing) visibly contaminated with body fluids, dried
+lesion exudate, or crusts
+Recommendations
+Monitoring:
+Yes
+PEPA: Yes; however, no additional doses are recommended if the exposed
+individual previously received all recommended
+doses of monkeypox vaccine
+Intermediate Risk of Exposure
+Characteristics
+Absence of exposures above AND any of the following:
+Unprotected
+contact between an exposed individual's intact skin or clothing and the
+skin lesions or bodily fluids from a person with monkeypox or their
+materials (e.g., linens, clothing) visibly contaminated with body fluids,
+dried lesion exudate, or crusts -OR-
+Being
+inside the person with monkeypox's room without wearing all recommended
+PPE while the person with monkeypox is receiving any medical procedures
+that may create aerosols from oral secretions (e.g., cardiopulmonary
+resuscitation, intubation) or during activities that may resuspend dried
+lesion exudates or crusts (e.g., shaking of soiled linens) -OR-
+Examining
+the oral cavity of a person with monkeypox with oral or laryngeal lesions
+while not wearing all recommended PPE
+Recommendations
+Monitoring: Yes
+PEPA:
+Informed clinical decision-making recommended on an individual basis to
+determine whether benefits of PEP outweigh the risksB; no
+additional doses are recommended if the exposed individual previously
+received all
+recommended doses of monkeypox vaccine
+Uncertain to Minimal Risk of Exposure
+Characteristics
+Absence of exposures above AND:
+Unprotected
+contact with a person with monkeypox who has completely covered lesions
+(e.g., bandaged, covered with clothing), AND no contact with their skin
+lesions, bodily fluids, or any materials (e.g., linens or clothing)
+visibly contaminated with body fluids, dried lesion exudate, or crusts
+Recommendations
+Monitoring:
+At discretion of facility and public health authority
+PEPA:
+No
+No Identifiable Risk of Exposure
+Characteristics
+Absence of exposures above AND
+No contact with the person with monkeypox, their potentially contaminated surfaces or materials, and at most only transient time spent around the person with monkeypoxRecommendations
+Monitoring: No
+PEPB: No
+Work restrictions for HCP
+Asymptomatic HCP with exposures to MPXV do not need to be excluded from work but should be monitored (e.g., at least a daily assessment conducted by the exposed HCP for signs and symptoms of monkeypox infection) for 21 days after their last exposure.
+If symptoms develop
+If symptoms develop, HCP should be managed as described below. If pox infection is ruled out, they may still have work restrictions recommended if their diagnosis is one where restriction from work is recommended (e.g., varicella).
+During the 21-day monitoring period:
+If rash occurs, HCP should be excluded from work until:
+The rash can be evaluated
+Testing is performed if indicated, AND
+The results of testing are available and are negative for MPXV
+If other symptoms are present, but there is no rash, HCP should be excluded from work for 5 days after the development of any new symptom, even if this 5-day period extends beyond the original 21-day monitoring period.
+If 5 days have passed without the development of any new symptom and a thorough skin examination reveals no skin changes, HCP could return to work with permission from their occupational health program.
+If a new symptom develops again at any point during the 21-day monitoring period, then HCP should be excluded from work, and a new 5-day isolation period should begin.
+As a precaution, HCP with exposures categorized higher than 'No identifiable risk' in the above table should not donate blood, cells, tissue, breast milk, or semen while they are being monitored for symptoms. Given the morbidity and mortality among individuals awaiting organ transplantation, HCP who have been exposed but are asymptomatic and without evidence of MPXV infection could be considered for organ donation following appropriate risk-benefit considerations.
+Keep in mind
+HCP with confirmed monkeypox should be excluded from work until all lesions have crusted, those crusts have separated, and a fresh layer of healthy skin has formed underneath. Ultimately, the decision on when to return to work will be made with their occupational health program, and potentially with input from public health authorities.
+Ultimately, the decision on when to return to work will be made with their occupational health program, and potentially with input from public health authorities.
+Infection Prevention and Control in Healthcare Settings
+Infection prevention and control guidance for monkeypox in healthcare settings
+Definition
+Healthcare personnel (HCP) refers to all paid and unpaid people serving in healthcare settings who have the potential for direct or indirect exposure to patients or infectious materials, including body substances (e.g., blood, tissue, and specific body fluids); contaminated medical supplies, devices, and equipment; contaminated environmental surfaces; or contaminated air. These HCP include, but are not limited to, emergency medical service personnel, nurses, nursing assistants, physicians, technicians, therapists, phlebotomists, pharmacists, students and trainees, contractual staff not employed by the healthcare facility, and persons not directly involved in patient care, but who could be exposed to infectious agents that can be transmitted in the healthcare setting (e.g., clerical, dietary, environmental services, laundry, security, engineering and facilities management, administrative, billing, and volunteer personnel).
+Healthcare settings refers to places where healthcare is delivered and includes, but is not limited to, acute care facilities, long-term acute-care facilities, inpatient rehabilitation facilities, nursing homes, home healthcare, vehicles where healthcare is delivered (e.g., mobile clinics), and outpatient facilities, such as dialysis centers, physician offices, dental offices, and others.
+Active monitoring typically involves in-person visits, regular communications (e.g., phone calls, video conferences) between occupational health services, public health representatives, and the person being monitored.
+Self-monitoring typically involves people self-reporting symptoms to occupational health programs or health departments if symptoms appear.
+Feb. 9, 2026

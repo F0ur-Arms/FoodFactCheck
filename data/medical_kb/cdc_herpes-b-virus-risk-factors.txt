@@ -1,0 +1,41 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Risk Factors for B Virus
+URL: https://www.cdc.gov/herpes-b-virus/risk-factors/index.html
+────────────────────────────────────────────────────────────
+
+Key points
+People who are usually exposed to macaque monkeys or their specimens have a higher risk of getting B virus infection.
+Follow appropriate laboratory and animal facility protocols to reduce the spread of B virus.
+What increases risk
+Contact with macaque monkeys increases your risk of getting a B virus infection. Laboratory workers, veterinarians, and people exposed to macaque monkeys, or their specimens, have a higher risk of infection than other people.
+Places with increased risk
+Primate facilities. Macaque monkeys housed in primate facilities usually become infected with B virus by the time they reach adulthood. However, even when they are infected with B virus, monkeys typically do not have symptoms, or have just mild disease.
+Laboratories. The virus may also be found in the lab. Cells coming from an infected monkey B virus can survive for hours on surfaces, particularly when moist. B virus can remain viable (able to live) in a monkey’s central nervous system tissues and saliva, and in monkey kidney cell cultures. B virus can also be found in a macaque's feces (poop) and urine (pee).
+Infected monkeys are more likely to shed (pass) the virus when they are stressed or immunosuppressed (weakened immune system).
+Keep Reading:
+B Virus: Causes and How It Spreads
+Conditions for virus survival
+In addition to wet surfaces, B virus can also survive up to 7 days at 37°C or for weeks at 4°C, and it is stable at −70°C. Studies under conditions of virus desiccation (dry surfaces) have not been done. However, it is presumed that survival times will be comparable to those of other herpesviruses that affect mammals (typically 3 to 6 hours).
+Prevention
+How to best protect against B virus‎
+There are no vaccines that can protect you against B virus infection. To avoid getting B virus, stay away macaque monkeys, do not touch or feed them, and follow appropriate laboratory and animal facility protocols.
+When working with animals
+While exposures from unpredictable, potentially aggressive animals are not completely preventable. Follow appropriate laboratory and animal facility protocols to reduce the spread of B virus.
+When working with B virus–susceptible monkeys:
+Use humane restrain methods to reduce the risk of bites and scratches.
+Use proper personal protective equipment, including a lab coat, gloves, and a face shield.
+Clean any bites, scratches, or exposure to the tissues or secretions of macaques immediately.
+Send samples from the person exposed to B virus and the associated monkey for B virus diagnostic testing.
+Keep Reading:
+Laboratory Testing for B Virus
+When cleaning surfaces
+On external surfaces, B virus is susceptible to:
+1% sodium hypochlorite
+70% ethanol
+2% glutaraldehyde
+Formaldehyde
+The virus can also be inactivated by:
+Heat treatment at 50°–60°C for at least 30 minutes
+Lipid solvents
+Exposure to acidic pH
+Detergents

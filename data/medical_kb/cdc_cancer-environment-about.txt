@@ -1,0 +1,68 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: About Unusual Patterns of Cancer
+URL: https://www.cdc.gov/cancer-environment/about/index.html
+────────────────────────────────────────────────────────────
+
+For Everyone
+Key points
+Given the frequency with which cancers are diagnosed, sometimes situations arise where an unusual number of cancers are diagnosed among people in a particular location.
+Not all unusual patterns of cancer are cancer clusters.
+Contact your state, tribal, local, or territorial health department or cancer registry if you think your community is experiencing more cancer than usual.
+Overview
+Cancer is a group of diseases in which some of the body’s cells grow uncontrollably and spread to other parts of the body. As a group, cancers are very common.
+Given the frequency with which cancers are diagnosed, sometimes situations arise where an unusual number of cancers are diagnosed among people in a particular location. These unusual numbers may be from chance, or they may result from the following:
+Different cancer screening practices
+Different access to health care, which may reflect other social and economic factors
+Genetic susceptibility to a particular cancer
+Behavioral risks and social determinants of health
+Occupational exposures
+Environmental exposures
+Many causes of cancer are unknown. However, some environmental exposures have been shown to be related to the development of cancer in specific organs or part of the body. For example, if you are exposed to asbestos, you could develop mesothelioma.
+Definitions
+Some unusual patterns of cancer are considered a cancer cluster.
+A cancer cluster is defined as a greater than expected number of the same or etiologically related cancer cases that occurs within a group of people in a geographic area over a defined period of time. Etiology refers to causes and risk factors associated with the development of disease. For example, exposure to the sun can cause skin cancer.
+The definition of a cancer cluster can be further explained as follows:
+A greater than expected number
+When the number of observed cases is greater than typically observed in a similar setting.
+Of the same or etiologically related cancer cases
+Cases are of the same type, are within a family of tumors (for example Ewing's family of tumors) or have a known or suggested link to the same specific environmental or chemical exposures. It is possible to consider multiple cancer types when such a known exposure (for example, radiation or a specific chemical) is linked to more than one cancer type or when more than one contaminant or exposure type has been identified.
+Within a group of people
+The population in which the cancer cases are occurring is defined by its demographic factors (for example, race/ethnicity, age, and sex).
+In a geographic area
+The geographic area may be based upon pre-existing geopolitical boundaries (for example, census tract, county, or ZIP code/ZIP code tabulation area). It may be defined according to the nature and extent of potential exposures that may cross multiple or partial boundaries. For example, air pollution from a hazardous waste incinerator which may cross multiple counties or census tracts. These geographic boundaries are used to determine the number of cancer cases as they relate to the total population in this predefined area. It is possible to create or obscure a cluster inadvertently by modifying the area of interest.
+Over a defined period of time
+The time frame used to establish the beginning and end dates for analysis. The time period chosen for analysis will affect both the total cases observed and the calculation of the expected incidence of cancer in the population.
+Keep in mind
+Not every unusual pattern of cancer will meet the above definition of a cancer cluster. Unusual patterns of cancer that meet some of the criteria described above and also have plausible environmental concerns still warrant further evaluation or assessment by local or state health departments.
+Reporting cancer concerns
+If you suspect your community or workplace may be experiencing more cases of cancer than expected, or if you'd like information such as cancer statistics or trends in your area, contact your state, tribal, local, or territorial health department or state/territory cancer registry. A state, tribal, local, or territorial health department provides the first response to reports of unusual patterns of cancer.
+For information about cancer in the workplace, please see the National Institute for Occupational Safety and Health website.
+Examining unusual patterns of cancer
+State, tribal, local, and territorial health departments, along with cancer registries, respond to questions about unusual patterns of cancer.
+Usually, health departments start by gathering information about the unusual pattern of cancer, including the expected cancer rate, types of cancer, number of cases, and the age, sex, race, address, occupation, and age at diagnosis of the people with cancer.
+CDC/ATSDR has created a decision-making tool that can be used by health departments for determining the need to further assess an unusual pattern of cancer. The tool contains a set of criteria that can be used to assess the cancer(s) of concern and/or related environmental risk factors. These criteria promote further assessment of unusual patterns of cancer.
+Reducing your risk of developing cancer
+In general, cancers have a variety of risk factors related to behavioral, lifestyle, occupational, and environmental risks.
+For many cancers, you can reduce your risk of developing cancer by adopting a healthy lifestyle that includes avoiding tobacco use, excessive alcohol consumption, and sun exposure; increasing physical activity; maintaining a recommended body weight; and eating a healthy and nutritious diet. Taking advantage of cancer screening also will reduce your risk.
+For more information about preventing cancer, visit the following websites
+CDC's Division of Cancer Prevention and Control
+The National Institutes of Health's National Cancer Institute
+American Cancer Society
+What CDC is doing
+The federal role in responding to unusual patterns of cancer is limited. As needed, state, tribal, local, or territorial health departments may request technical assistance in response to unusual patterns of cancer from CDC/ATSDR. CDC/ATSDR may provide technical recommendations and make referrals to the appropriate state, tribal, local, or territorial health department or cancer registry.
+ATSDR is directed by congressional mandate to perform specific functions concerning the effect on public health of hazardous substances in the environment.
+These functions include the following:
+Public health assessments of waste sites
+Health consultations concerning specific hazardous substances
+Health surveillance and registries
+Response to emergency releases of hazardous substances
+Applied research in support of public health assessments
+Information development and dissemination
+Education and training concerning hazardous substances
+Contact your state, tribal, local, or territorial health department or state/territory cancer registry for inquiries regarding unusual patterns of cancer being investigated in your community.
+More information
+For more information about cancer in the workplace, visit the National Institute for Occupational Safety and Health website.
+The Guidelines for Examining Unusual Patterns of Cancer and Environmental Concerns provide more information on how unusual patterns of cancer are investigated.
+Questions?
+For questions about unusual patterns of cancer in your community, reach out to your state, tribal, local, or territorial health department or cancer registry.
+Contact Information

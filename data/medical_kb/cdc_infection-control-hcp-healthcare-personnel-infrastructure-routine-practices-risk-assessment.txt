@@ -1,0 +1,84 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: 3. Assessment and Reduction of Risks for Infection among Healthcare Personnel Populations
+URL: https://www.cdc.gov/infection-control/hcp/healthcare-personnel-infrastructure-routine-practices/risk-assessment.html
+────────────────────────────────────────────────────────────
+
+Infection Control in Healthcare Personnel
+For Health Care Providers
+Mar. 21, 2024
+Healthcare Personnel: Part II
+What to know
+Guideline: Infection Control in Healthcare Personnel
+Segment: Part I Infrastructure and Routine Practices
+Summary: Recommendations and resources for the assessment and reduction of risks for infection among healthcare personnel.
+Recommendations
+Additional Recommendations
+See section 1. Leadership and Management for additional related recommendations.
+For healthcare organization leaders and administrators
+Number
+Recommendation
+3.a.
+Regularly meet with occupational health services leaders to review results of risk assessments related to occupational infection prevention and control, set performance goals, and charge relevant healthcare organization departments and individuals to reduce risks.
+For occupational health services leaders and staff
+Number
+Recommendation
+3.b.
+Conduct, or collaborate with other healthcare organization departments or individuals in, regular risk assessments and risk reduction activities related to occupational infection prevention and control.
+3.c.
+Notify healthcare organization leaders and departments about hazards identified and risk reduction plans, progress, and priorities for healthcare personnel.
+Background
+HCP are at risk of infectious exposures in the workplace that vary depending on their job duties and other factors12. Assessments can be conducted to identify actual or potential infection risks for populations of HCP and to inform measures that reduce those risks. Risk assessments can also yield data used for performance measurement, facility accreditation, service improvements, regulatory compliance, and other quality assurance activities (see section 1. Leadership and Management). Risk assessments may be prompted by the desire to create a safer workplace; federal, state, or local requirements; and by incidents, such as reports of exposures or illnesses among HCP, infectious disease outbreaks, and device and equipment failures resulting in HCP exposures or injuries.
+Approaches to risk assessment and reduction
+Depending on HCO management structure and type of risk, OHS may lead some risk assessment and reduction activities or collaborate with other HCO departments, such as IPC services, that lead these efforts (see section 2. Communication and Collaboration). Such activities could include improving access to services by providing resources at off-site job locations during work hours, or working with supply management counterparts to ensure HCP access to correct PPE. Box 3. Examples of Hazard Identification, Risk Assessment, and Risk Reduction Activities lists examples of risk assessments and reduction strategies that might commonly involve OHS.
+Controlling exposures to occupational infections is a fundamental method of protecting HCP. Traditionally, a hierarchy of controls (Figure 1. Hierarchy of Controls) has been used as a means of determining how to implement feasible and effective control solutions3. The hierarchy ranks controls according to their reliability and effectiveness, leading with "Elimination" of a potential hazard, whereby it is completely removed, and ending with "PPE" that relies on correct, consistent use.
+Abbreviations
+CoP = Conditions of Participation
+HCO = Healthcare Organization
+HCP = Healthcare Personnel
+IPC = Infection Prevention and Control
+NHSN = National Healthcare Safety Network
+OHS = Occupational Health Services
+OSHA = Occupational Safety and Health Administration
+PPE = Personal Protective Equipment
+TB = Tuberculosis
+Selected requirements related to the assessment and reduction of occupational infection risks
+Occupational IPC assessment activities are supported or required by federal, state, or local regulations, payers, and accreditation agencies. Requirements include, but are not limited to:
+OSHA requires HCO to maintain logs of work-related injuries and illnesses meeting certain criteria, including infectious diseases exposures45. Review of these logs can identify trends in occupational exposures or acquired infectious diseases among HCP that warrant mitigation.
+OSHA requires employers to conduct workplace evaluations to assess implementation of an Exposure Control plan for all affected employees56.
+OSHA requires employers to evaluate respiratory hazards in the workplace, and to implement a respiratory protection program, if needed7.
+CMS requires that some HCOs report HCP influenza immunization coverage to the National Healthcare Safety Network (NHSN) as a CoP8.
+The Joint Commission standards require establishing an influenza vaccination program for staff, setting incremental vaccination goals to increase coverage, and reporting HCP influenza immunization rates to key stakeholders9.
+OSHA further supports risk assessment and reduction activities with online information and tools, including a job hazard analysis booklet and "eTools" about workplace health and safety topics1011. OSHA also offers some employers free consultation on evaluating workplace hazards and control methods without risk of citations or fines, provided that the employer corrects identified hazards12.
+Box 3. Examples of Hazard Identification, Risk Assessment, and Risk Reduction Activities in which Occupational Health Services Might Participate
+Examples of hazards, risk assessment methods, and activities or plans to reduce risk..
+Possible Hazard(s) Identified
+Example Assessment Method
+Risk Reduction Plan Example
+(Control Addressed) [a]
+Sharps injuries among surgeons when suturing fascia with sharp suture needles
+Review of logs of sharps injuries (e.g., OSHA 300 forms)
+Revise HCO policies (e.g., HCO equipment purchasing, operating room procedures) to use blunt-tipped suture needles for suturing fascia (elimination/substitution)
+Sharps injuries on a single unit/floor linked to inconvenient sharps container placement
+Review of logs of sharps injuries (e.g., OSHA 300 forms)
+Move sharps containers to accessible locations (engineering control)
+Sharps injuries among HCP using a newly introduced syringe with a sharps safety feature; HCP reported no training on using the new device
+Review of logs of sharps injuries (e.g., OSHA 300 forms)
+Develop procedures for HCP training on new products prior to use (administrative control)
+Lowest influenza immunization coverage among HCP in an outpatient, free-standing facility; immunizations were not offered on-site
+Review of HCP immunization records and interviews with HCP
+Offer on-site immunization of HCP at outpatient sites during work hours (administrative control)
+HCP TB infections over the past 6 months on one hospital unit
+Review of HCP health records and interviews with HCP
+Repair of malfunctioning negative pressure in an airborne infection isolation room (engineering control)
+HCP who presented to OHS over the past 6 months had come to work when already ill; reasons included fear of consequences for missing work and lack of paid sick leave
+Review of HCP health records and interviews with HCP
+Revise sick leave policies to ensure they are non-punitive and inform HCP of the changes (administrative control)
+Figure 1. Hierarchy of Controls
+Mar. 21, 2024
+Sources and Page Info
+Print
+Share
+Facebook
+LinkedIn
+Twitter
+Syndicate

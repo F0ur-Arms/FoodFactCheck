@@ -1,0 +1,44 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Central Line-associated Bloodstream Infection (CLABSI) Basics
+URL: https://www.cdc.gov/clabsi/about/index.html
+────────────────────────────────────────────────────────────
+
+Key points
+Central line-associated bloodstream infections (CLABSIs) occur when germs enter the bloodstream through a central line.
+CLABSIs are preventable.
+Overview
+Importance
+Central line-associated bloodstream infections (CLABSIs) result in thousands of deaths each year and billions of dollars in added costs to the U.S. healthcare system – but they are preventable.
+Central lines
+A central line (also known as a central venous catheter) is a catheter (tube) that healthcare providers often place in a large vein in the neck, chest or groin.
+Central lines are different from peripheral IVs (shorter IVs placed in the hand, arm or foot for vein access); central lines access a major vein close to the heart, can remain in place for weeks or months, and are much more likely to be a source of serious infection.
+Central lines are commonly used in intensive care units.
+Purpose of central lines
+Give medicines for treatment of pain, infection or other medical issues (e.g., cancer or heart problems).
+Provide fluids or nutrition.
+Help conduct certain medical tests.
+Types
+Types of central lines
+Peripherally inserted central catheter (PICC). Placed into a vein in the arm.
+Tunneled catheter. Passed under the skin and placed into a vein in the chest or neck. Providers can insert medicine right into the catheter.
+Implanted port. Surgically placed under the skin. Providers insert medicines using a needle placed through the skin into the catheter. An implanted port is not as visible as a tunneled catheter, does not require as much daily care, and does not get in the way of a patient's regular activities as much as a PICC line or a tunneled catheter might.
+Healthcare providers use the type that is best for each patient's care.
+Signs and symptoms
+People with CLABSIs may experience:
+Fever
+Red skin and soreness around the central line
+Causes
+CLABSIs occur when germs (usually bacteria or fungi) enter the bloodstream through the central line.
+Prevention
+Healthcare providers
+Healthcare providers should follow recommended infection control guidelines to reduce the risk of CLABSIs.
+Patients
+Speak up. Talk to your healthcare providers about any questions or worries. Ask what they're doing to protect you.
+Ask a healthcare provider about your options and the pros and cons of a central line, if one is needed. If so, ask them to help you understand the need for it and how long it will be in place.
+Avoid touching the tubing and where it exits the skin as much as possible.
+Keep Reading
+Tips for Being a Safe Patient
+What CDC is doing
+Tracking CLABSIs through the National Healthcare Safety Network.
+Data is also available on the AR & Patient Safety Portal
+Working closely with health departments, other federal agencies, healthcare providers and patients to prevent CLABSIs and slow the spread of resistant germs.

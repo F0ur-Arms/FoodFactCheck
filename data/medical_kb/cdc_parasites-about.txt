@@ -1,0 +1,27 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Español
+URL: https://www.cdc.gov/parasites/about/index.html
+────────────────────────────────────────────────────────────
+
+About Parasites
+Key points
+A parasite is an organism that lives on or in a host organism and gets its food from or at the expense of its host.
+There are three main classes of parasites that can cause disease in humans: protozoa, helminths, and ectoparasites.
+Protozoa
+Protozoa are microscopic, one-celled organisms that can be free-living or parasitic in nature. They are able to multiply in humans, which contributes to their survival and also permits serious infections to develop from just a single organism. Transmission of protozoa that live in a human's intestine to another human typically occurs through a fecal-oral route (for example, contaminated food or water or person-to-person contact). Protozoa that live in the blood or tissue of humans are transmitted to other humans by an arthropod vector (for example, through the bite of a mosquito or sand fly).
+The protozoa that are infectious to humans can be classified into four groups based on their mode of movement:
+Sarcodina – the ameba, e.g., Entamoeba
+Mastigophora – the flagellates, e.g., Giardia, Leishmania
+Ciliophora – the ciliates, e.g., Balantidium
+Sporozoa – organisms whose adult stage is not motile e.g., Plasmodium, Cryptosporidium
+Helminths
+Helminths are large, multicellular organisms that are generally visible to the naked eye in their adult stages. Like protozoa, helminths can be either free-living or parasitic in nature. In their adult form, helminths cannot multiply in humans. There are three main groups of helminths (derived from the Greek word for worms) that are human parasites:
+Flatworms (platyhelminths) – these include the trematodes (flukes) and cestodes (tapeworms).
+Thorny-headed worms (acanthocephalins) – the adult forms of these worms reside in the gastrointestinal tract. The acanthocephala are thought to be intermediate between the cestodes and nematodes.
+Roundworms (nematodes) – the adult forms of these worms can reside in the gastrointestinal tract, blood, lymphatic system or subcutaneous tissues. Alternatively, the immature (larval) states can cause disease through their infection of various body tissues. Some consider the helminths to also include the segmented worms (annelids)—the only ones important medically are the leeches. Of note, these organisms are not typically considered parasites.
+Ectoparasites
+Although the term ectoparasites can broadly include blood-sucking arthropods such as mosquitoes (because they are dependent on a blood meal from a human host for their survival), this term is generally used more narrowly to refer to organisms such as ticks, fleas, lice, and mites that attach or burrow into the skin and remain there for relatively long periods of time (e.g., weeks to months). Arthropods are important in causing diseases in their own right, but are even more important as vectors, or transmitters, of many different pathogens that in turn cause tremendous morbidity and mortality from the diseases they cause.
+Parasitic Infections
+Parasitic infections cause a tremendous burden of disease in both the tropics and subtropics as well as in more temperate climates. Of all parasitic diseases, malaria causes the most deaths globally. Malaria kills more than 400,000 people each year, most of them young children in sub-Saharan Africa.
+The Neglected Tropical Diseases (NTDs), which have suffered from a lack of attention by the public health community, include parasitic diseases such as lymphatic filariasis, onchocerciasis, and Guinea worm disease. The NTDs affect more than 1 billion people worldwide, largely in rural areas of low-income countries. These diseases extract a large toll on endemic populations, including lost ability to attend school or work, stunting of growth in children, impairment of cognitive skills and development in young children, and the serious economic burden placed on entire countries.
+However, parasitic infections also affect persons living in developed countries, including the United States.

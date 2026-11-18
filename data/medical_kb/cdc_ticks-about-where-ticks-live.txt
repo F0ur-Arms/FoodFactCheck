@@ -1,0 +1,58 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Where Ticks Live
+URL: https://www.cdc.gov/ticks/about/where-ticks-live.html
+────────────────────────────────────────────────────────────
+
+For Everyone
+Key points
+Of the many different tick species found throughout the world, only a select few bite and transmit bacteria, viruses, and parasites (pathogens) that cause diseases in people.
+The below maps show the general distribution of ticks that transmit diseases to humans in the contiguous United States.
+Tick surveillance information
+Even though a specific tick species is found in a region of the United States, it does not necessarily mean it transmits a specific disease in that area. Disease transmission is influenced by multiple factors beyond mere tick presence.
+For detailed information about ticks in your county, visit the interactive Tick Surveillance maps.
+*Populations of ticks may be found outside shaded areas. Naturally occurring populations of the ticks described below do not occur in Alaska; however, the brown dog tick occurs in Hawaii.
+American dog tick (Dermacentor variabilis, D. similis)
+Where found: D. variabilis is widely distributed east of the Rocky Mountains. Also occurs in limited areas west of the Rocky Mountains. Newly described D. similis is found west of the Rocky Mountains. More research is needed to understand the role of these species in disease transmission. See a map that shows where American dog ticks live by county in the United States.
+Transmits: Tularemia and Rocky Mountain spotted fever.
+Comments: The highest risk of being bitten occurs during spring and summer. Adult females are most likely to bite humans.
+About this map.A
+Asian longhorned tick (Haemaphysalis longicornis)
+See image guidance
+Where found: As of April 12, 2024, longhorned ticks have been found in Arkansas, Connecticut, Delaware, Georgia, Illinois, Indiana, Kentucky, Maryland, Massachusetts, Missouri, New Jersey, New York, North Carolina, Ohio, Pennsylvania, Rhode Island, South Carolina, Tennessee, Virginia, and West Virginia. Not normally found in the Western Hemisphere, these ticks were reported for the first time in the United States in 2017.
+The United States Department of Agriculture (USDA) maintains a map of where longhorned ticks have been found in the U.S.
+Transmits: Compared with well-known native ticks (such as the blacklegged tick, lone star tick and American dog tick), the Asian longhorned tick appears to be less attracted to humans.
+In other countries, pathogens spread via bites from these ticks can make people and animals seriously ill.
+With ongoing testing of ticks collected in the United States, it is likely that some ticks will be found to contain pathogens that can be harmful to people. However, we do not yet know if and how often these ticks are able to pass these pathogens along to people and make them ill.
+One recent experimental study found that this tick is not likely to contribute to the spread of Lyme disease bacteria in the United States.
+Another laboratory study found that this tick has the ability to carry and spread the bacteria that causes Rocky Mountain spotted fever (Rickettsia rickettsii). The bacteria that cause Rocky Mountain spotted fever have not yet been found in these ticks in nature.
+Research is ongoing.
+Comments: Asian longhorned ticks have been found on pets, livestock, wildlife, and people. The female ticks can lay eggs and reproduce without mating. Thousands of ticks may be found at a time in grass or shrubs or on an animal.
+Blacklegged tick (Ixodes scapularis)
+Where found: Widely distributed across the eastern United States. See a map that shows where blacklegged ticks live by county in the United States.
+Transmits: Anaplasma phagocytophilum (anaplasmosis), Babesia microti (babesiosis), Borrelia burgdorferi and B. mayonii (which cause Lyme disease), B. miyamotoi (hard tick relapsing fever), Ehrlichia muris eauclairensis (ehrlichiosis), and Powassan virus (Powassan virus disease).
+Comments: The greatest risk of being bitten exists in the spring, summer, and fall. However, adults may be out searching for a host any time winter temperatures are above freezing. Stages most likely to bite humans are nymphs and adult females.
+About this map.B
+Brown dog tick (Rhipicephalus sanguineus)
+Where found: Worldwide.
+Transmits: Rocky Mountain spotted fever (in the southwestern U.S. and along the U.S.-Mexico border).
+Comments: Dogs are the primary host for the brown dog tick in each of its life stages, but the tick may also bite humans or other mammals.
+About this map.A
+Gulf Coast tick (Amblyomma maculatum)
+Where found: Primarily in the southeastern United States, with focal populations in the northeastern, midwestern, and southwestern United Sates.
+Transmits: Rickettsia parkeri rickettsiosis, a form of spotted fever.
+Comments: Adult ticks have been associated with transmission of R. parkeri to humans.
+About this map.A
+Lone star tick (Amblyomma americanum)
+Where found: Widely distributed in the Northeast, South, and Midwest of the United States. See a map that shows where lone star ticks live by county in the United States.
+Transmits: Bourbon virus, Ehrlichia chaffeensis and Ehrlichia ewingii (which cause human ehrlichiosis), Heartland virus, and tularemia. A circular rash of unknown cause (STARI) sometimes follows the bite of the lone star tick, and growing evidence suggests that alpha-gal syndrome (red meat allergy) may be triggered by the bite of lone star ticks.
+Comments: A very aggressive tick that bites humans. The adult female is distinguished by a white dot or "lone star" on her back. Lone star tick saliva can be irritating; redness and discomfort at a bite site does not necessarily indicate an infection. The nymph and adult females most frequently bite humans and transmit disease.
+Rocky Mountain wood tick (Dermacentor andersoni)
+Where found: Rocky Mountain states and southwestern Canada from elevations of 4,000 to 10,500 feet.
+Transmits: Rocky Mountain spotted fever, Colorado tick fever, and tularemia.
+Comments: Adult ticks are primarily associated with pathogen transmission to humans.
+About this map.A
+Western blacklegged tick (Ixodes pacificus)
+Where found: Along the Pacific coast of the United States, particularly northern California.A See a map that shows where western blacklegged ticks live by county in the United States.
+Transmits: Anaplasma phagocytophilum (anaplasmosis), Borrelia burgdorferi (Lyme disease), and B. miyamotoi (hard tick relapsing fever).
+Comments: Although all life stages bite humans, nymphs and adult females are more often reported on humans.
+About this map.A

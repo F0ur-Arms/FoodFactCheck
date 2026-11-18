@@ -1,0 +1,94 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Testing Algorithm for Coccidioidomycosis
+URL: https://www.cdc.gov/valley-fever/hcp/testing-algorithm/index.html
+────────────────────────────────────────────────────────────
+
+For Health Care Providers
+Nov. 9, 2026
+What to know
+Coccidioidomycosis (Valley fever) is an invasive fungal disease that often presents as community-acquired pneumonia in primary and urgent care settings.
+Coccidioidomycosis cannot be reliably distinguished from other causes of respiratory illness by signs or symptoms alone.
+Clinicians in urgent care and outpatient settings can use this algorithm to help make determinations about clinical testing.
+When to consider testing for coccidioidomycosis
+Coccidioidomycosis (Valley fever) is an invasive fungal disease that often presents as community-acquired pneumonia (CAP) in primary and urgent care settings. It is endemic in parts of the U.S. and the world.
+Coccidioidomycosis cannot be reliably distinguished from other causes of respiratory illness by signs or symptoms alone. It is commonly misdiagnosed and inappropriately treated with antibiotics—up to 70% of patients may receive inappropriate antibacterial drugs.1 In highly endemic regions for coccidioidomycosis, erythema nodosum is commonly the presenting symptom.2
+Testing for coccidioidomycosis may be considered on the initial patient encounter or at a secondary visit, depending on situational factors.
+1. Consider testing on an initial presentation of community-acquired pneumonia (CAP) or erythema nodosum following recent respiratory symptoms who:
+Have a link to known outbreak, or
+Live in or recently traveled to the highly endemic regions, including
+Desert regions of South-Central Arizona.
+San Joaquin Valley of California.
+2. Consider testing in patients with community-acquired pneumonia who:
+Live in or recently traveled to an endemic area (maps below), and
+Have symptoms that did not improve following empiric antibiotics.
+Visual algorithm
+PDF version
+If a patient lives in or has traveled to a disease-endemic area and has:
+Approximate coccidioidomycosis-endemic areas
+Keep Reading
+Clinical Overview of Valley Fever
+How to test for coccidioidomycosis
+Recommended test methods
+We recommend ordering an enzyme immunoassay (EIA) antibody with immunodiffusion (ID) or complement fixation (CF) antibody test initially for coccidioidomycosis diagnosis. Initial testing with EIA or ID and CF may depend on availability and performance characteristics of test at facility. EIAs have a quicker turnaround time than ID and CF antibody testing.
+Results
+If the EIA is positive, clinicians may consider follow-up testing with ID and CF to rule out false positives and confirm the diagnosis. For patients in highly endemic areas or with highly suggestive clinical findings (e.g., erythema nodosa), clinicians might start management for pulmonary coccidioidomycosis while awaiting results from ID and CF. If the follow-up testing with ID or CF is negative, consider repeat ID or CF to rule out false negatives.
+If the initial EIA test is negative, clinicians should consider alternative diagnoses. If a high degree of suspicion remains, progression of illness occurs, or if symptom onset was recent, repeat serology may be considered 2 to 6 weeks after the initial EIA test, or you may consult a specialist in infectious diseases or a pulmonologist. Note that antibody testing may be negative early in the illness course.
+Antigen testing
+Antigen testing is available; however, it has primarily been studied in immunocompromised patients with moderately severe or disseminated disease or in meningitis. PCR and LFA can be helpful in diagnosing patients, but it is not readily available in many clinical settings.
+Clinicians should refer to the Infectious Diseases Society of America's coccidioidomycosis treatment guidelines or consult a specialist in infectious diseases when selecting therapy after a positive result.
+Test
+Sensitivity
+Specificity
+Population studied
+Table listing different types of antigen tests including antibody, antigen, and other type categories.
+Antibody tests
+EIA (IgM & IgG) antibody
+59%–88%
+68%–96% (Cross reacts with other dimorphic fungi)
+General patient population, immunocompromised population, patients with disseminated disease
+Complement fixation (CF) antibody
+65%–83%
+High
+General patient population, immunocompromised population, patients with disseminated disease
+Immunodiffusion (ID) antibody
+60%
+99%
+General patient population, immunocompromised population, patients with disseminated disease
+Lateral flow assay (LFA) antibody
+31%
+92%
+General patient population
+Antigen tests
+EIA urine antigen
+37%–71%
+High (but does cross-react with other dimorphic fungi)
+General patient population, immunocompromised population, patients with disseminated disease
+EIA serum antigen
+51%–73%
+High (but does cross-react with other dimorphic fungi)
+General patient population, immunocompromised population, patients with disseminated disease
+Other tests
+Histopathology
+23%–84%
+High
+General patient population, patients with diabetes, patients with disseminated disease
+Cytology
+15%–75%
+High
+General patient population, patients with diabetes, patients with disseminated disease
+PCR
+56%–75%
+99%–100%
+General patient population
+Additional Resources
+Clinical Testing Guidance for Coccidioidomycosis, Histoplasmosis, and Blastomycosis in Patients With Community-Acquired Pneumonia for Primary and Urgent Care Providers | Clinical Infectious Diseases | Oxford Academic (oup.com)
+Webinar Thursday, September 21, 2023 – Algorithms for Diagnosing the Endemic Mycoses Blastomycosis, Coccidioidomycosis, and Histoplasmosis (cdc.gov)
+Three Cases of Community-Acquired Pneumonia (medscape.com)
+Nov. 9, 2026
+Sources and Page Info
+Print
+Share
+Facebook
+LinkedIn
+Twitter
+Syndicate

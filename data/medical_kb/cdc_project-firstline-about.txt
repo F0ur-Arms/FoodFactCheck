@@ -1,0 +1,94 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Español
+URL: https://www.cdc.gov/project-firstline/about/index.html
+────────────────────────────────────────────────────────────
+
+Infection Control in Health Care: An Overview
+Key points
+Infection control is what you do to help prevent germs from spreading and getting people sick.
+Understanding where germs live and how they spread can help you recognize risks and take the right infection control actions.
+Health care is a unique setting – we think about germs differently in health care than we do in other places.
+Why it's important
+When you work in health care, each day brings its own challenges. But caring for and protecting patients and yourself, is always the top priority. This includes protecting patients from getting sick while they are receiving care, and protecting yourself from getting sick so that you can provide good care.
+Infection control is what you do, or the actions you take, to prevent or stop the spread of germs. These actions are a critical part of protecting your patients, yourself and others within the healthcare setting.
+With a foundational knowledge about germ spread and the “why” behind infection control, you can recognize infection risks and make the right decisions to prevent people from getting sick.
+Audio Description
+Low Resolution Video
+Recognizing infection risks
+Risk is a part of life. When you approach a broken stoplight at a busy intersection or see a small child reaching toward a hot stove, almost automatically you slow down your car or reach for the child to prevent something bad from happening. This is our brain recognizing risk and taking action.
+You can use this same process of recognizing risk when it comes to infection control in health care. If you learn to identify the opportunities for germs to spread, then you can step in to stop them and prevent infections. To recognize these opportunities, you need to know where germs live and how they spread.
+Questions to ask yourself before tasks to help you recognize infection risks and stop the spread of germs:
+What reservoirs are involved?
+What pathways might move germs in and out of each reservoir?
+Is it possible that the task I’m about to do will cause germs to spread?
+What actions can I take to help stop the spread of germs and prevent infections?
+Where germs live and how they spread
+Although we can’t see them, germs are everywhere, and they need somewhere to grow – a place where they can live. These places, called reservoirs, are in and on our bodies and in the environment.
+Germs also need a way to get from place to place or to people, which are called pathways.
+We approach germs differently in healthcare settings. The reservoirs and pathways in healthcare settings present more opportunities for potentially harmful germs to spread. There’s greater risk for infections because:
+Healthcare settings are where people who are sick come for care.
+Patients are more likely to have weakened immune systems.
+Patients need procedures that might break through their body’s natural defenses, making them more vulnerable to infection.
+Healthcare workers interact with a lot of people, touch a lot of things and use shared devices and equipment, which increases the risk of spreading germs.
+Understanding reservoirs and pathways can help you choose the right infection control actions to stop the spread of germs and protect your patients, yourself and your coworkers.
+Common reservoirs in and on the human body
+Skin
+Many germs live and grow on healthy skin and normally do not cause harm.
+Your skin interacts with the environment daily, especially when you touch things with your hands.
+Pathways for germs to spread from skin include:
+Touch, especially with your hands.
+A healthcare procedure that moves germs on the skin's surface or on the medical device you're using, into the patient's body or bloodstream.
+Gut
+The gut, or gastrointestinal (GI) system, includes the lower intestine, rectum and anus. It’s part of the digestive system.
+Very large numbers of bacteria and yeasts live in the intestines. While many of them are helpful, they can be dangerous under certain circumstances to those with weakened immune systems.
+Pathways for germs to spread from the gut include:
+Touch, germs in stool can easily spread onto your hands and skin and then spread to other parts of the body or to the environment.
+Flushing certain toilets, which can also spread germs in stool.
+Respiratory system
+The respiratory system includes the nose, mouth, throat, windpipe and lungs.
+Most of the germs commonly found in the upper respiratory system keep those parts of the body healthy, but when those germs get into the airway or lungs, they can cause infection.
+Pathways for germs to spread from the respiratory system include:
+Breathing in the germs in respiratory droplets.
+Splashes and sprays that get into your eyes, nose or mouth.
+Touch, germs in the nose and mouth can easily spread to your skin and hands, which can then spread those germs to other surfaces, devices and people.
+Blood
+Blood is not supposed to have germs in it.
+However, blood is a very good place for germs to grow and is a nutritious food for bacteria.
+Pathways for germs to spread from blood include:
+When a patient’s blood is on a sharp item that causes a needlestick, cut or break in someone’s skin and then enters their body.
+Blood on linens or surfaces that contains bacteria, which can spread to others.
+Common reservoirs in the healthcare environment
+Water and wet surfaces
+Wet surfaces are a good place for bacteria to grow.
+Tap water is safe to drink but is not sterile. That’s why we use sterile water for intravenous therapy (IVs) and injections.
+Pathways of spread for water and wet surfaces include:
+Touch, germs from water and wet surfaces can get on your hands, which can then spread those germs to other surfaces, devices and people.
+Splashes and sprays to the eyes, nose or mouth.
+Dry surfaces
+Germs that are found on the body, in the air and in stool can live on dry surfaces.
+High-touch surfaces like bed rails, door handles, light switches and keyboards are more likely to have germs.
+Many germs can live on dry surfaces for a very long time – days or even weeks.
+Pathways of spread for dry surfaces include:
+Touch, hands can pick up germs from dry surfaces and can then spread those germs to other surfaces, devices and people.
+Dirt and dust
+Germs that live in dirt and soil are usually not harmful, but they can be harmful for patients with weakened immune systems.
+In health care, we’re generally concerned about construction inside or outside the building that can create dust that has germs in it.
+Pathways of spread for dust and dirt include:
+Breathing in germs from dirt and dust in the air.
+Touch, hands can spread dirt and dust that land on surfaces.
+Devices
+Medical devices can have germs on them and come into contact with multiple surfaces and people.
+Pathways of spread for devices include:
+Touch, any germs on a device can be spread to other surfaces, devices and people.
+A healthcare procedure that moves germs on a medical device you’re using into the patient’s body or bloodstream.
+How germs spread and cause infection
+Knowing where germs live and how they get from place to place is important, but for an infection to spread in healthcare it involves more than just reservoirs and pathways.
+Germs also need a person to infect. That person can be a patient, or you or one of your coworkers. Once the germs spread to a person, getting an infection isn’t inevitable. For infection to occur, the germs need to get around the body’s defenses. And finally, the germs need to survive throughout this entire journey.
+Infection control actions at any of these points help keep germs from spreading and causing infection. For example, Standard Precautions are the things you do every day, for every patient, to keep germs from spreading. Because infection risks will always exist in healthcare settings, you follow these Standard Precautions to protect patients, your coworkers and yourself.
+Standard Precautions include:
+Hand hygiene.
+Cleaning and disinfecting surfaces throughout the healthcare setting.
+Giving injections and medications safely.
+Based on your assessment of the situation and the risk for germs to spread, choosing the right personal protective equipment (PPE) and using it the right way, at the right time, for the right task.
+Minimizing potential exposures to germs with strategies like source control.
+Cleaning and disinfecting reusable medical equipment between each patient.

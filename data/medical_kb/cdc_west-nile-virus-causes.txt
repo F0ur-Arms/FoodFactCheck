@@ -1,0 +1,41 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: West Nile: Causes and How It Spreads
+URL: https://www.cdc.gov/west-nile-virus/causes/index.html
+────────────────────────────────────────────────────────────
+
+For Everyone
+Key points
+West Nile virus is most commonly spread to people by the bite of an infected mosquito.
+Mosquitoes become infected when they feed on infected birds.
+People do not spread the virus, except rarely through blood transfusions, organ transplantation, and from mother to baby.
+Primary cause
+West Nile virus disease is caused by a virus that is found in the United States and many other places in the world.
+About the virus
+West Nile virus is a member of the family Flaviviridae, genus Flavivirus. St. Louis encephalitis virus and Powassan virus are two other flaviviruses that also circulate in the United States.
+West Nile virus has a single-stranded, positive-sense RNA genome. The virus particles are spherical and have a diameter of 40 nm.
+How it spreads
+People become infected with the virus when mosquitoes feed on infected birds and then bite people. People are considered dead-end hosts because unlike birds, they do not develop high enough levels of virus in their bloodstream to spread the virus to uninfected mosquitoes that bite them.
+In a very small number of cases, West Nile virus has spread through:
+Exposure in a laboratory setting
+Blood transfusion and organ transplantation
+Mother to baby, during pregnancy, delivery, or breastfeeding
+Exposure in the field, such as when a worker was exposed (mucous membrane) to infected body fluid and tissue of an injured bird
+Since the virus can spread through blood and organ transplantation, people recently diagnosed with West Nile virus infection should not donate blood or bone marrow for 120 days following infection.
+West Nile virus does not spread:
+Through coughing, sneezing, or touching
+By touching live animals
+You should still avoid bare-handed contact when handling any dead animal.
+If you are disposing of a dead bird, use gloves or double plastic bags to place the carcass in a garbage can.
+Through eating infected animals, including birds. Always follow instructions for fully cooking meat.
+Prevent West Nile
+There are no vaccines or medicines to prevent West Nile. The best way to protect yourself is to prevent mosquito bites.
+Transmission cycle
+In nature, West Nile virus cycles between mosquitoes (especially Culex species) and birds. Some infected birds can develop high levels of the virus in their bloodstream and mosquitoes can become infected by biting these infected birds. After about a week, infected mosquitoes can spread the virus to more birds when they bite.
+Mosquitoes with West Nile virus also bite and infect people, horses, and other mammals. Although people, horses, and other mammals are "dead-end" hosts, person-to-person transmission via blood transfusion, organ transplantation, in utero, intrapartum, and breastfeeding routes has been documented in rare cases.
+Additional resources
+Mosquito species and West Nile Virus 1999-2016
+Mosquito species in which West Nile virus has been detected, United States, 1999-2016
+Download
+Species of Birds and West Nile Virus 1999-2016
+Species of birds in which West Nile virus has been detected, United States, 1999-2016
+Download

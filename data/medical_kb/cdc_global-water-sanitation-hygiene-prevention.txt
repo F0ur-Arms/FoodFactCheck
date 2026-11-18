@@ -1,0 +1,39 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: WASH in Healthcare Facilities
+URL: https://www.cdc.gov/global-water-sanitation-hygiene/prevention/index.html
+────────────────────────────────────────────────────────────
+
+Key points
+Many hospitals and clinics, particularly in places with limited resources, lack clean water, toilets, and handwashing facilities. This can increase the spread of disease among patients, staff, and communities.
+Improving access to clean water, sanitation, hand hygiene, and waste disposal in healthcare facilities can lower infection risks.
+Overview
+The scope of the problem
+Healthcare facilities in resource-limited settings lack essential water, sanitation, and hygiene (WASH) and healthcare waste services.
+50% lack access to piped water
+33% lack improved sanitation
+39% lack soap for handwashing
+39% lack adequate infectious waste disposal
+Without the appropriate WASH facilities and services, everyone faces a higher risk of getting sick. WASH plays an important role in enabling healthcare staff to follow necessary infection prevention and control (IPC) measures. To prevent spreading infections, both staff and patients must have access to materials for hand hygiene.
+Healthcare facilities have different needs for WASH depending on the type of care they provide. Facilities handling acute care, like surgeries or treatment for highly infectious diseases, need more demanding IPC measures. They might need to manage contaminated waste or ensure very high-quality water. On the other hand, centers offering basic or primary care need reliable WASH systems too, though their requirements may not be as strict. This distinction underlines the importance of tailoring WASH capabilities to the specific needs of each healthcare facility to effectively protect against disease.
+Resource
+Use this CDC Healthcare Facility Assessment Tool to evaluate access to WASH infrastructure and services in primary healthcare facilities. The information gathered from the assessment helps health officials understand the current WASH needs at each facility, inform implementation efforts, and develop a plan to track progress.
+A global response
+The U.N. General Assembly recognizes the global health crisis created by this lack of WASH infrastructure and services in healthcare facilities and has called for basic WASH services in all healthcare facilities by 2030 under Sustainable Development Goal 6. However, until this ambitious goal is achieved, millions of people will remain at risk due to unsafe WASH conditions in healthcare settings. To address WASH in healthcare facilities in resource-limited and emergency settings, CDC provides broad expertise in the following areas:
+Global WASH in healthcare facilities: Establish international partnerships and conduct WASH assessments in facilities that provide primary healthcare; identify gaps, recommend improvements, and evaluate progress
+Global infection prevention and control: Support the development of sustainable IPC programs at the national and facility level, particularly in hospitals where acute care services are provided
+Global emergency WASH in healthcare facilities: Help people in complex emergencies and recovery settings (such as refugee or internally displaced persons (IDP) camps, war, famine, civil strife, and natural disaster) by strengthening WASH in healthcare facilities
+What CDC is doing
+CDC has been working on WASH in healthcare facilities for many years. CDC is currently partnering with multiple organizations such as the International Rescue Committee (IRC), Catholic Relief Services, CARE, World Vision, and many others to support WASH in healthcare facilities spanning Burkina Faso, Ethiopia, Ghana, Kenya, Mali, Niger, Tanzania, and Uganda.
+CDC is supporting the ending cholera initiative by:
+Working as a founding member of the Global Task Force on Cholera Control
+Providing expertise to countries that have committed to the Ending Cholera initiative by supporting WASH disease prevention measures, cholera treatment, surveillance, laboratory testing, epidemiologic studies and vaccines
+Collaborating with the World Health Organization, UNICEF, Doctors Without Borders, the International Federation of the Red Cross, and other institutions to reduce cholera deaths by 90% in 20 countries by 2030
+Improving cholera surveillance, treatment, laboratory testing, outbreak preparedness, and prevention through targeted WASH interventions and vaccination campaigns
+CDC is addressing extensively drug-resistant (XDR) typhoid by:
+Working with ministries of health and ministries of water globally to improve typhoid surveillance, community water treatment, and community WASH practices in typhoid endemic areas, especially municipal settings where antibiotic resistance is a big concern
+Educating clinicians in the United States and abroad on approaches for diagnosing typhoid fever, testing for antibiotic resistance, and properly treating patients diagnosed with XDR typhoid
+Educating people on the importance of typhoid vaccination before travel to endemic areas and on safe food and water practices while traveling
+CDC is improving WASH in resource-limited settings by:
+Working with governmental partners, ministries of health and water, and non-governmental aid organizations to include water, sanitation, hygiene, and waste management for healthcare facilities
+Supporting the UN's Sustainable Development Goals
+Training public health workers on the importance of WASH-based practices

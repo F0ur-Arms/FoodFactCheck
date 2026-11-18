@@ -1,0 +1,38 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Preventing Impaired Driving
+URL: https://www.cdc.gov/impaired-driving/prevention/index.html
+────────────────────────────────────────────────────────────
+
+Jan. 28, 2026
+Key points
+There are multiple known effective measures for preventing alcohol-impaired driving, including laws, enforcement, and technology.
+Less is known about effective measures for the prevention of drug-impaired driving compared to alcohol-impaired driving, but there are promising strategies such as standardized toxicological testing of drivers.
+State and community prevention
+Effective measures for preventing alcohol-impaired driving include:
+Laws and enforcement
+Actively implementing and enforcing lower BAC limits.1
+Globally, most high-income countries have BAC laws set at 0.05 g/dl or lower,23 and these laws are effective for reducing crashes involving alcohol-impaired drivers and deaths from these crashes.1 These laws serve as a general deterrent and reduce alcohol-impaired driving, even among drivers who are at highest risk of impaired driving.1
+Utah implemented a 0.05 g/dL BAC law in 2018; the other 49 states and the District of Columbia (DC) have a BAC limit of 0.08 g/dL.45 Utah's 0.05 g/dL BAC law was associated with an 18% reduction in the motor vehicle crash death rate per mile driven in the first year after it went into effect. The new law was also associated with lower alcohol involvement in crashes.4
+An estimated 1,790 lives could be saved each year if all states adopted a 0.05 g/dl BAC limit.6
+Maintaining minimum legal drinking age laws and zero tolerance laws for drivers younger than 21 in all states.178
+Requiring alcohol ignition interlocks for all people convicted of alcohol-impaired driving, including first-time offenders.9 Additionally, incorporating alcohol use disorder assessment and treatment into interlock programs shows promise in reducing repeat offenses even after interlocks are removed.10
+Keep Reading: Increasing Alcohol Ignition Interlock Use
+Implementing publicized sobriety checkpoints711 and high-visibility saturation patrols.7
+Screening, assessment, and treatment
+Screening, brief intervention, and referral to treatment can be beneficial for people who drink alcohol excessively but do not have alcohol use disorder. Brief interventions often involve assessing readiness, motivators, and barriers for behavior change. These types of interventions can also be delivered through technologies such as computers, cell phones, and tablets.11213
+CDC's Alcohol Screening Tool can be used by adults to assess their drinking and create a personal change plan.
+Implementing alcohol use disorder assessment and treatment, if needed, for people who are convicted of alcohol-impaired driving.17
+Population-level strategies
+Supporting affordable alternative transportation options, such as nighttime and weekend public transportation hours.1
+Using strategies that increase the price of alcohol and make it less convenient to buy, such as increasing alcohol taxes and regulating alcohol outlet density. These strategies are effective for reducing drinking to impairment and also help to prevent alcohol-impaired driving.1141516
+Implementing programs that combine prevention efforts (such as sobriety checkpoints and limiting access to alcohol) with the involvement of a community coalition or task force.17
+Technology
+The National Transportation Safety Board (NTSB) recommends that all new vehicles should be equipped with technology that prevents or limits the vehicle from operating if the driver is impaired by alcohol.18 The Bipartisan Infrastructure Law calls on the National Highway Traffic Safety Administration to issue a Federal Motor Vehicle Safety Standard requiring all new passenger vehicles to come equipped with advanced technology for the prevention of impaired driving.19 This technology has significant potential to reduce impaired driving fatalities.1
+Keep Reading: What Works: Strategies to Reduce or Prevent Alcohol-Impaired Driving
+Less is known about effective measures for the prevention of drug-impaired driving compared to alcohol-impaired driving.7
+However, the following strategies are promising:
+Enforcement of drug-impaired driving laws7
+Drug recognition experts (DREs) and law enforcement officers with Advanced Roadside Impaired Driving Enforcement (ARIDE) training are important to the enforcement of these laws. DREs are officers with specialized training who can recognize signs of impairment by alcohol and/or other substances.7
+Standardized toxicological testing of drivers
+Should include testing for both those stopped for suspicion of impaired driving and those involved in fatal crashes.2021
+Jan. 28, 2026

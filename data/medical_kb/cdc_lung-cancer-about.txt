@@ -1,0 +1,27 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Lung Cancer Basics
+URL: https://www.cdc.gov/lung-cancer/about/index.html
+────────────────────────────────────────────────────────────
+
+For Everyone
+Español
+Key points
+Lung cancer is a disease in which cells in the lungs grow out of control.
+Lung cancers are grouped into two main types called non-small cell and small cell.
+What is lung cancer?
+Lung cancer is a disease in which cells in the lungs grow out of control. It may spread to lymph nodes or to other organs in the body, such as the brain. Cancer from other organs may also spread to the lungs. When cancer cells move to a new place in the body, they are called metastases.
+Types
+Lung cancers are grouped into two main types called non-small cell and small cell. Treatments for lung cancer depend on the type of cancer you have, how far it has spread, and your age and overall health.
+Non-small cell lung cancer
+Non-small cell lung cancer is the most common type of lung cancer. It usually grows more slowly and often doesn't cause symptoms until it is advanced. There are three types of non-small cell lung cancer:
+Adenocarcinoma begins in cells in the alveoli (tiny air sacs in the lungs) that make mucus. This is the most common type of non-small cell lung cancer.
+Squamous cell carcinoma forms in the thin, flat cells lining the large airways (bronchi) in the lungs.
+Large cell carcinoma is made up of cells that are larger than healthy lung cells and look abnormal. It starts in cells that line the lung surface, usually in the outer areas of the lung. It grows and spreads to other parts of the body quickly. It's the least common type of non-small cell lung cancer.
+Small cell lung cancer
+Small cell lung cancer is less common. It gets its name because the cancer cells are smaller than healthy lung cells when seen under a microscope. There are two types of small cell lung cancer:
+Small cell carcinoma is the most common type of small cell lung cancer. It's also called oat cell cancer because the cells look flat under a microscope, like oats. This cancer spreads to other parts of the body quickly.
+Combined small cell carcinoma is a mixture of small cell carcinoma and non-small cell lung cancer cells.
+For statistics about the types of lung cancer, see the Types of Lung Cancer data brief.
+More information
+Lung Cancer—Patient Version (National Cancer Institute)
+Lung Cancer (MedlinePlus)

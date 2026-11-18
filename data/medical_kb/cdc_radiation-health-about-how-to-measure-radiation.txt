@@ -1,0 +1,89 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: How to Measure Radiation and Radioactivity
+URL: https://www.cdc.gov/radiation-health/about/how-to-measure-radiation.html
+────────────────────────────────────────────────────────────
+
+For Everyone
+Key points
+Radiation is energy and is measured to determine a dose rate (sometimes called ambient radiation) and radiation dose (radiation you absorb).
+Radioactivity is a measure of the amount of radioactive material.
+If you encounter radiation units, equipment, or measurements that you don't understand, ask a radiation safety professional for assistance.
+Overview
+We quantify radiation by measuring the dose rate and the dose. We determine radioactivity by measuring the energy emitted by the radioactive atoms present and then "count them up." To do these things reliably, we need the proper equipment and trained personnel.
+Radiation detection equipment must be maintained to ensure it is working properly. Radiation safety professionals can assist you with using such equipment and interpreting the instrument readings. Seek them out for assistance if needed.
+It's all about energy
+When working with radiation, we are concerned about the amount of energy the material is emitting. The size, weight, and volume of the source don't necessarily matter.
+Depending on the radionuclide (a type of atom with excess nuclear energy), a small amount of radioactive material may give off a lot of radiation. On the other hand, a large amount of radioactive material may give off a small amount of radiation.
+Terms to know
+Radioactivity - The amount of radioactive material (radioactive atoms) present at a location or inside something.
+Radiation dose rate - The amount of radiation coming from a source (or in an area) during a period of time, sometimes called ambient radiation levels.
+Radiation dose - The amount of radiation that is absorbed by matter, such as the body.
+Radionuclide - A type of atom with excess neutrons or protons, making it unstable.
+Common measurements of radiation
+Measuring the amount of radioactivity
+We measure the amount of radioactivity by finding out how many radioactive atoms decay every second. These atoms may be giving off alpha particles, beta particles, and/or gamma rays.
+The amount of radioactivity is reported in becquerel (Bq), which is the international unit, or the curie (Ci), which is the unit used in the United States. Geiger counters are commonly used to measure the amount of radioactivity, but there are other types of detectors that may be used.
+Measuring radiation dose rates
+Radiation dose rates in the environment can be thought of as ambient radiation levels.
+Ambient radiation levels are reported in gray per hour (Gy/h) or sievert per hour (Sv/h), which are the international units. In the United States, we use roentgen per hour (R/h) or rem per hour (rem/h).
+Instruments called pressurized ionization chambers are best suited for measuring ambient radiation levels.
+Measuring radiation dose
+Radiation dose is the amount of radiation absorbed by the body.
+Radiation doses are reported in gray (Gy) or sievert (Sv), which are international units. In the United States, we use rad or rem.
+Alarming dosimeters can be used by first responders and safety officers to monitor dose in real time. There are also specialized instruments used by hospitals and laboratories that can measure dose.
+Putting radiation dose in perspective
+The average dose we receive every year, just from living on Earth, is approximately 3 mSv. Medical procedures add another 3 mSv, on average, bringing the total annual exposure for the average person to around 6 mSv. But, as individuals, the radiation doses we may receive in any one year can vary quite a bit.
+There are many things that can influence our radiation dose in any year. Some types of radiation, like natural background radiation, are present all the time. This natural background radiation depends on a number of factors. For example:
+If you live at higher elevation, you receive a higher dose of cosmic radiation.
+If you share a bed with your spouse or partner, you each get a small dose of radiation from the naturally occurring radioactive potassium-40 in each other's body. You irradiate each other during the night.
+You may live in a home that has elevated radon levels.
+Medical imaging procedures used in diagnostic exams such as x-rays and CT scans provide a one-time dose. Other medical procedures, such as nuclear medicine, may involve giving you a small amount of radioactive material. In that case, you may emit radiation for up to several days after the exam. The frequency of activities such as medical procedures that provide one-time doses will impact your annual radiation dose.
+Common questions
+What instruments can measure the amount of radioactivity?
+We have some portable instruments that are intended for detecting contamination on a person or an object.
+A Geiger-Mueller counter is one good example. This type of detector is common, but there are other similar products.
+Another device we can use is a portal monitor. Like the metal detectors at an airport, people just walk through them. If someone is contaminated with radioactive material, the portal will alarm. Portal monitors can only detect gamma radiation and some forms of beta radiation.
+Specialized laboratory equipment can also be used to detect radioactivity in environmental samples or clinical samples from people. These instruments are extremely sensitive and can measure very small amounts of radiation.
+What are units for measuring amount of radioactivity?
+To report the amount of radioactivity, we use either:
+The international unit for activity, the becquerel (Bq)
+The United States unit for activity, the curie (Ci)
+These units measure the same thing, but they are based on different scales. The becquerel is based on the number of disintegrations, or radioactive decays, per second. This is the unit used today in most of the world.
+In the United States, some people still use the older unit or curie. The curie was based on the activity of one gram of radium, so one curie ends up being much larger than one becquerel.
+1 Ci = 37 billion Bq, so converting between the international and U.S. units can be challenging.
+It's also common to see activity reported in units like:
+microcuries (uCi)
+picocuries (pCi)
+megabecquerel (MBq)
+gigabecquerel (GBq)
+What instruments can measure radiation dose rates?
+Pressurized ionization chambers are best suited for measuring ambient radiation levels. A Geiger counter can be used to measure ambient radiation levels, but it is better suited for measuring radioactivity. Ionization chambers give you a more accurate measurement of the radiation around you.
+What are units of measuring radiation dose rates?
+To report the ambient radiation levels we can use international units:
+gray per hour (Gy/h)
+sievert per hour (Sv/h)
+Or, in the United States, you may see ambient radiation levels reported in:
+roentgen per hour (R/h)
+rem per hour (rem/h)
+It is also common to see variations on these units, like:
+nanogray per hour (nGy/h)
+microsieverts per hour (uSv/h)
+microroentgen (uR/h) per hour
+millirem per hour (mrem/h)
+To convert between the U.S. and international units, multiply the international readings by 100. For example, 1 Sv/h = 100 rem/h.
+What instruments can measure radiation dose?
+Alarming dosimeters are an important detection device, especially if you are a first responder. These devices record your radiation dose in real time. An alarm sounds when you exceed a specified dose limit or if you enter an area with high ambient radiation levels.
+You may notice that people that work in places that routinely use radiation wear a dosimeter that does not alarm. These dosimeters are worn to make sure they comply with the regulatory dose limits for radiation workers.
+There are also specialized instruments for measuring a dose received through internal contamination. Hospitals can use these instruments to measure the amount of radioactivity administered to nuclear medicine patients.
+What are units for measuring radiation dose?
+To report the radiation dose, we use either
+The international unit for dose, the sievert (Sv) or the gray (Gy)
+The United States unit for dose, the rem or the rad
+It is common to see variations of these units such as:
+millisievert (mSv)
+millirem (mrem)
+Converting between international units and U.S. units is easy for dose:
+1 Sv = 100 rem
+1 rem = 10 mSv
+1 Gy = 100 rad
+1 rad = 10 mGy

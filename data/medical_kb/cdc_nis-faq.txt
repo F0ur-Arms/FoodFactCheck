@@ -1,0 +1,98 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: NIS Frequently Asked Questions
+URL: https://www.cdc.gov/nis/faq/index.html
+────────────────────────────────────────────────────────────
+
+For Everyone
+Español
+At a glance
+The surveys collect data through telephone interviews with parents or guardians.
+Telephone numbers chosen for the surveys are randomly selected by computer.
+Responses to the surveys are confidential.
+FAQs for Participants
+A: A computer randomly chooses the telephone numbers used for this phone survey. The survey involves conducting phone interviews with people across the entire country. We do not know if a cell phone number we dial belongs to a child. We ask for someone over the age of 17 years and only continue the call with that person.
+A: You were randomly chosen to participate in the survey. The main purpose of the NIS-Child, NIS-Teen, and NIS-Flu is to find out if recommended vaccinations are given to children and teens across the country. The main purpose of the NIS-Fall Respiratory Virus Module (NIS-FRVM) (formally known as NIS-Adult COVID Module (ACM)) is to find out if adults are receiving COVID-19, flu, and RSV vaccinations.
+A: We need your help to monitor vaccinations given to children and teens, as well as to monitor COVID-19 vaccinations in adults and age-eligible children and teens. You were randomly chosen to participate in the survey. We call each number to identify parents and guardians of children and teens for our surveys about childhood vaccination as well as identify adults for our survey about COVID-19 vaccination. You will represent thousands of other households who are not in the sample. We cannot talk to the millions of parents and adults in this country—that would cost too much and take too long. So, we scientifically select a "sample" of phone numbers to identify eligible households. Your household is unique and cannot easily be replaced with another. When selected households respond to the survey, the results are more accurate.
+A: The surveys are conducted on behalf of the Centers for Disease Control and Prevention (CDC) and are authorized by the Public Health Service Act [Section 306]. The phone surveys provide important information about childhood vaccinations and related health issues. If you received a call or a letter and have any questions about these surveys, please call the survey contractor, NORC, toll-free at 1-877-220-4805. Someone is usually available to answer the phone from 9AM to 9PM in your time zone. If possible, please call from the same phone line that received the call from 404-809-2644, 404-809-2195, 404-806-4810, 404-806-4811, or 404-806-4812. This helps us more quickly direct your call to someone who can answer your questions. If you leave a message, we try to return all calls received between 9AM and 9PM within one to two hours.
+If you prefer to use a TTY, please call the AT&T Relay Service at 1-800-855-2880 and request that NORC be called at 1-877-220-4805
+A: Privacy is required by law. Names and all other personal identifiers will not be released. The facts collected in the surveys will only be provided in summary reports.
+The federal law that requires all information we collect to be held in strict confidence are the Privacy Act of 1974, Section 308(d) of the Public Health Service Act [42 U.S.C. 242m(d)]. If any federal employee, contractor, or agent gives out personally identifying information not authorized by law, he or she is subject to disciplinary action, including fines and criminal charges that may result in jail time. See Confidentiality: How the National Immunization Surveys Keep Your Information Private.
+A: The survey times vary for the NIS-Child, NIS-Teen, NIS-Flu, NIS-FRVM, and NIS-Adult COVID Module. We try to keep the interviews to less than 20 minutes and some may be as short as 8 minutes, depending on the survey you qualify for.
+A: Vaccination information from doctors and clinics tends to be the most up-to-date and complete. Types of vaccination, dates of administration, and administrative data about facility characteristics are requested from healthcare providers identified by parents during the household survey. Having your child's medical providers report vaccination information saves you time and shortens your phone interview.
+A: No. With the permission of a parent or legal guardian, we send a request form, along with a record of the parent or guardian's consent, to the child's doctor or clinic. The request form asks specifically about the vaccination records only. Providers are not asked to give any other information.
+Once vaccination data are collected, information that identifies the child or parent or guardian is no longer necessary or used. The names of your children and any names of their doctors or clinics will not be used in any study results.
+A: CDC will use the results of the study to help improve the health of children and teens, and monitor COVID-19 vaccination among adults. By checking if recommended vaccinations are being received across the country, CDC is able to assess the extent to which local areas, states, and the nation are reaching vaccination targets. Reports from these surveys never contain any personal information and never identify who participated in the survey.
+A: We need to speak with adults and parents/guardians of age-eligible children and teens who have and have not received the COVID-19 vaccination. Your participation is important and represents other households just like yours.
+A: www.cdc.gov/covid/vaccines/index.html
+A: While we hope you are able to help us with this important health project, we understand if you are unable to do so at this time.
+If you receive another call from 404-809-2644, 404-809-2195, 404-806-4810, 404-806-4811, or 404-806-4812, please answer and say, "Take me off your list." The interviewer will remove your number from our calling list.
+If you do not want to wait for a call, please call NORC toll-free at 1-877-220-4805. Someone is usually available to answer the phone from 9AM to 9PM in your time zone. If possible, please call from the same phone line that received the call from 404-809-2644, 404-809-2195, 404-806-4810, 404-806-4811, or 404-806-4812. This helps us quickly direct your call to someone who can help you. If you leave a message, we try to respond to all calls received between 9AM and 9PM within one to two hours.
+If you prefer to use a TTY, please call the AT&T Relay Service at 1-800-855-2880 and request that NORC be called at 1-877-220-4805.
+A: To schedule an interview:
+Call NORC at 1-877-220-4805 or
+E-mail NORC at nisinfo@norc.org.
+For survey information:
+Ask your interviewer.
+See About NIS.
+For information on vaccinations:
+Visit CDC's vaccines website.
+Call CDC-INFO at 1-800-232-4636 (1-800-CDC-INFO) and select option 1.
+FAQs for Health Care Professionals
+A: Sources of vaccination information from doctors and clinics are the most up-to-date and comprehensive. The quality of the study’s results is much improved by combining the information given by households with that given by the vaccination providers. It is important that we obtain the most reliable information possible about children’s vaccinations so that we can provide the public with reliable estimates.
+A: The HIPAA Privacy Rule permits you to make disclosures of protected health information without signed patient authorization for public health purposes. The surveys meet these criteria.
+A: Healthcare providers who transmit financial and administrative health information electronically must comply with the Rule as of April 14, 2003. For example, if you submit claims electronically, you would be required to comply with the Rule.
+A: Protected health information includes all medical records and other individually identifiable information used or disclosed by an entity subject to the HIPAA Privacy Rule. This includes directly identifiable information such as patient names or social security numbers.
+A: There are several things you must do to ensure you comply with the Rule when participating in the survey. First, the privacy notice that you provide to your patients must indicate that patient information may be disclosed for public health purposes. Many of the model notices that have been developed and made available by professional associations include this information.
+We have posted documentation on our website confirming that you are allowed, under the Privacy Rule, to disclose to CDC the information requested as part of this survey. These documents explain why CDC is collecting the minimum necessary information. Please see:
+NIS Documentation Notice for HIPAA Accounting
+HIPAA Overview
+Finally, you will need to keep track of disclosures made for this survey. We will give you a document that contains the information that you need to keep track of the disclosures.
+A: No. The letter you received requesting that you participate in this survey is from the Director of the National Center for Immunization and Respiratory Diseases (NCIRD), which is part of CDC. The Privacy Rule specifies that you are allowed to disclose information requested for public health purposes to public health agencies such as CDC without patient authorization.
+A: The survey is sponsored by the National Center for Immunization and Respiratory Diseases (NCIRD), which is part of CDC. CDC is a public health agency whose mission is to protect the health of the public. The letter that we sent asking you to participate was sent on official CDC letterhead and described our legal authority to conduct this survey.
+A: Under the HIPAA Privacy Rule, patients have a right to an accounting of disclosures that have been made of their identifiable information for various purposes, including disclosures for public health purposes. We have provided you with a form to account for the disclosures made as part of this survey.
+A: No. The HIPAA Privacy Rule specifies that in providing information to public health agencies such as CDC, you may rely on our representation that the request constitutes the minimum necessary information required.
+A: Your IRB could verify that the documentation we have provided adheres to the requirements of the HIPAA Privacy Rule.
+A: HIPAA guidelines are available at https://www.hhs.gov/ocr/hipaa/.
+The following parts of the rule were referred to above:
+Disclosures without patient authorization – 45 CFR 164.512
+Disclosures for public health activities – 45 CFR 164.512(b)
+Verification requirements – 45 CFR 164.514(h)
+Privacy notice – 45 CFR 164.520
+Accounting of disclosures – 45 CFR 164.528
+Minimum necessary requirements – 45 CFR 164.502(b) and 45 CFR 164.514(d)
+The following may also be useful:
+HIPAA Privacy Rule and Public Health
+Clinical Research and the HIPAA Privacy Rule
+A: This study is authorized by Section 306 of the Public Health Service Act and the National Childhood Vaccine Injury Act of 1986. The Centers for Disease Control and Prevention (CDC) and contractors must keep the information your provide confidential and only use it for statistical purposes, as required by law in Section 308(d) of the Public Health Service Act. Information that could identify you, your practice, your facility, the child, or the child’s family will not be released. Although your participation is voluntary, we hope that you will choose to participate.
+A: Federally Qualified Health Center, as defined under section 1905(l)(2) of the Social Security Act, receives grants under Section 330 of the Public Health Service Act. The term “Federally-qualified health center” means an entity which:
+is receiving a grant under section 330 of the Public Health Service Act[282],
+is receiving funding from such a grant under a contract with the recipient of such a grant, and
+meets the requirements to receive a grant under section 330 of such Act.
+A Rural Health Clinic, as defined under section 1905(l)(1) of the Social Security Act, is a clinic certified to receive special Medicare and Medicaid reimbursement.
+An FQHC Look-Alike is an organization that meets all of the eligibility requirements of an organization that receives a PHS Section 330 grant but does not receive grant funding.
+Information about FQHCs is available from HRSA’s website at: https://bphc.hrsa.gov/about-health-centers.
+To find health centers: https://findahealthcenter.hrsa.gov/.
+A: Deputization is the formal extension of VFC authority to provide VFC vaccines to eligible underinsured children from a participating FQHC or RHC to another VFC-enrolled provider. Under this arrangement, the deputizing FQHC or RHC retains its full scope of authority as a VFC provider while extending the authority to deputized VFC providers to immunize underinsured children with VFC vaccine.
+A: A pre-paid, addressed envelope was included in the packet of materials along with the request for information about the child’s vaccinations. If you do not have the envelope, the address is:
+NORC at the University of Chicago
+National Immunization Survey
+55 E Monroe Street, FL 19
+Chicago, IL 60603
+If it is more convenient, you may fax the information to our toll-free number: 1-866-324-8659.
+A: If you prefer, you may attach a photocopy of the child’s immunization history to the questionnaire and just complete the items on the first page.
+A: The first item on the front page of the questionnaire (see below) allows you to indicate this. Please check the appropriate option and return the questionnaire so that we do not send you a second request for the information.
+Which of the following best describes your immunization records for this child?
+[] You have all or partial immunization records for this child.
+[] This facility gives immunizations only at birth (hospital).
+[] Other – Explain
+[] You have provided care to this child, but do not have immunization records.
+[] You have no record of providing care to this child.
+A: If you have any questions or comments about the materials being requested, please call NORC at the University of Chicago at 1-800-817-4316. Someone will be available to answer the call from 8AM to 5PM Central Time.
+A: For information about the Immunization History Questionnaire:
+Call our survey contractor, NORC, at 1-800-817-4316 or e-mail NORC at nisinfo@norc.org.
+For survey information:
+See About NIS.
+If you would like additional information about any of the National Immunization Surveys, please call the National Center for Immunization and Respiratory Diseases, at 1-404-718-4838 or e-mail at nis@cdc.gov.
+For information on the vaccinations:
+Visit CDC’s Vaccines website.
+Your participation in the National Immunization Surveys Provider Record Check Study is greatly appreciated. Thank you for your help in ensuring the continued health of our nation’s children and teens.

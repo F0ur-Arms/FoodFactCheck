@@ -1,0 +1,50 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: About ESBL-producing Enterobacterales
+URL: https://www.cdc.gov/esbl-producing-enterobacterales/about/index.html
+────────────────────────────────────────────────────────────
+
+Key points
+Extended-spectrum beta-lactamase-producing Enterobacterales (ESBL-E) are resistant to common antibiotics and may require complex treatments.
+Infections caused by ESBL-E can occur both in and outside of healthcare settings.
+Good hand hygiene and infection prevention practices can help reduce infection risk.
+Overview
+Enterobacterales
+Enterobacterales are a group of bacteria that cause infections in healthcare settings and communities.
+Some species are also a normal part of the human gut.
+ESBL-producing Enterobacterales (ESBL-E)
+Some Enterobacterales produce enzymes called extended-spectrum beta-lactamases (ESBLs).
+Antimicrobial resistance
+ESBLs break down certain antibiotics, making some infections caused by ESBL-producing Enterobacterales difficult to treat.
+Prevalence
+In 2017, there were an estimated 197,400 cases of ESBL-E among hospitalized patients and 9,100 estimated deaths in the United States.
+Types
+ESBL-producing Enterobacterales include germs like Escherichia coli (E. coli) and Klebsiella pneumoniae (K. pneumoniae).
+Signs and symptoms
+ESBL-E can cause several different infections, including urinary tract and bloodstream infections. These bacteria can also live in a patient without causing infection or symptoms, known as colonization.
+Who is at risk
+ESBL-E infections occur in healthcare settings like hospitals and nursing homes. These infections may also occur in healthy people.
+After traveling abroad to places where these germs originate, people returning to the United States are at increased risk.
+How it spreads
+ESBL-E can spread from person to person through dirty hands and surfaces.
+Outside the United States, they can spread through contaminated food or water. The role of food and water in the spread of these germs in the United States is not clear.
+Reducing risk
+Patients and caregivers
+Wash their hands often with soap and water or using alcohol-based hand sanitizer.
+Wash their hands after using the bathroom and before eating or preparing food.
+Remind people (including healthcare staff) to clean their hands before touching the patient or handling medical devices.
+Follow recommended practices for food and water safety when traveling abroad.
+Healthcare providers
+Healthcare providers should always follow core infection control practices to reduce the risk of spreading these germs to patients.
+Testing
+To determine if someone has an ESBL-E infection, healthcare providers will send a specimen to the laboratory for antimicrobial susceptibility testing. CDC provides data that can be used for setting breakpoints for interpretation of antimicrobial susceptibility testing.
+Public Health
+Reference Antimicrobial Susceptibility Testing (AST) Data
+Treatment and recovery
+Antimicrobial resistance and its effect on treatment
+ESBL-E infections are resistant to many prescribed antibiotics, such as penicillins and cephalosporins. These infections might require hospitalization and intravenous (IV) antibiotics.
+Carbapenems and risk of greater resistance
+Carbapenems are often used to treat serious ESBL-E infections, but resistance is on the rise for them, too. The more we rely on this important class of antibiotics, the greater the risk of Carbapenem-resistant Enterobacterales (CRE).
+What CDC is doing
+Tracking ESBL-E infections through the Emerging Infections Program and National Healthcare Safety Network.
+Data is also available on the AR & Patient Safety Portal.
+Working closely with health departments, other federal agencies, healthcare providers and patients to prevent infections caused by ESBL-producing Enterobacterales and slow the spread of resistant germs.

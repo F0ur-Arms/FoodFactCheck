@@ -1,0 +1,43 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Infections and Patients on Dialysis
+URL: https://www.cdc.gov/dialysis-safety/about/index.html
+────────────────────────────────────────────────────────────
+
+Key points
+If you are a patient on dialysis, you are at risk for infections.
+Each dialysis treatment option has varying risks for infection.
+You can take steps to help prevent infections while receiving dialysis.
+Overview
+Your kidneys play a vital role in cleaning your blood, eliminating waste from your body, and supporting other important functions. Dialysis is a medical treatment for kidney failure or kidneys that do not work right. It is not a cure to restore kidney function.
+Infections are common among people receiving dialysis and can be very serious.
+Everyone has a role to play in preventing infections and improving dialysis patient safety. You can be a safe patient and take action to help prevent infections.
+Dialysis treatment options
+In-center hemodialysis
+Home hemodialysis
+Peritoneal dialysis (PD)
+Each treatment option has varying risks for infection. Discuss treatment options with your doctor to decide which is best based on your needs.
+Infection risk and terms to know
+Vein access: also known as vascular access, moves blood between your body and the dialysis machine during hemodialysis treatments.
+Arteriovenous (AV) fistula: access to the bloodstream created when doctors surgically join an artery and a vein, often in the arm. Once healed, hemodialysis takes place through the fistula. This access type lasts longer than a graft and has the lowest risk of infection.
+Arteriovenous (AV) graft: access to the bloodstream created when doctors put in a tube that connects an artery and vein. This access type has a higher risk of infection than an AV fistula, but lower than a central line catheter.
+Central line catheter: access to the bloodstream created by inserting a tube through the skin into a vein. The tube enters through a vein in the neck, chest, or groin and the tip of the tube ends near the heart. This access type is for short-term use and quick placement, and also has the highest risk of infection.
+Healthcare providers may use a central line catheter if treatment needs to begin soon, you have damaged veins and arteries or you experience barriers to other types of vein access.
+How germs spread
+When someone is sick with a respiratory infection in a dialysis facility, you can breathe in respiratory droplets after a sick person coughs or sneezes. Germs can also spread through contact with contaminated equipment surfaces, through unclean hands or through vein access points when proper infection control processes are not used.
+Steps to take
+Keep your hands clean and cover your nose and mouth when you cough or sneeze.
+Learn about the dialysis process: know what to expect during treatment and things healthcare staff do to protect you from infections.
+Watch the CDC's Speak Up video for questions to ask during your dialysis treatments.
+Check your access daily and notify staff if you notice any of these signs of infection:
+Redness
+Pus or unusual drainage
+Swelling
+Notify staff if your catheter bandage gets dirty or wet.
+Ask staff if you can use a fistula or graft for treatment if you have a central line catheter.
+Make sure all staff clean their hands before and after caring for you or your access.
+In some cases, you may need to take extra actions to prevent infections. For example, during the COVID-19 pandemic.
+Possible infections
+Bloodstream infections (BSIs), most commonly caused by Staphylococcus aureus (staph).
+Some types of staph may be resistant to antibiotics, such as Methicillin-resistant Staphylococcus aureus (MRSA).
+Chronic viral infections such as hepatitis B, hepatitis C, and HIV.
+Intestinal and respiratory infections such as C.diff. (Clostridioides difficile) and Flu (Influenza).

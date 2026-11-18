@@ -1,0 +1,26 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Section 508 Accessibility
+URL: https://www.cdc.gov/cove/about/section-508-accessibility.html
+────────────────────────────────────────────────────────────
+
+For Everyone
+Key points
+Section 508 compliance is met through a combination of efforts including keyboard accessibility where possible, descriptions of data, and compliant alternate versions with data table and data downloads.
+Overview
+While no official Section 508 or WCAG standard currently exists for interactive maps or data visualizations, components from existing guidelines and best practices are used to establish a standard to enhance our data visualization offerings within COVE. Effective visualization accessibility strategy starts with understanding the purpose and supported user tasks.
+Visual elements have good color contrast and don't rely on color for meaning
+Controls have meaningful labels, including visible text as well as programmatically available
+Text descriptions and instructions are used throughout
+Prioritize keyboard accessibility for functional elements
+Provide compliant alternate versions (CAV) to give users multiple ways to understand information
+Features
+COVE uses an inclusive design approach prioritizing these elements:
+Most interactive elements are keyboard and assistive technology accessible
+Text descriptions are recommended or required per visualization type
+Text labels for chart and map elements are available and recommended
+Colorblind safe palette available
+Compliant alternate version (CAV) required for all visualizations
+Ongoing testing, fixes, and enhancements with every release
+Requirements
+Compliant alternate version of content requirement for Section 508 compliance is achieved through accessible data tables with accompanying data download as CSV.
+Content owners are encouraged to provide enhanced CAV such as additional pages with simplified images and further description of data trends.

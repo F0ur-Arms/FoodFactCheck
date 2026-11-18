@@ -1,0 +1,35 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: About Health Effects of Radiation
+URL: https://www.cdc.gov/radiation-health/about/health-effects-of-radiation.html
+────────────────────────────────────────────────────────────
+
+For Everyone
+Key points
+Many factors can change the effects of radiation on your body including the radiation dosage and your age.
+Radiation can damage the DNA in cells, and high doses can lead to cancer later in life.
+Overview
+We've been studying the effects of radiation on living tissue for more than 100 years. By measuring radiation and understanding its health effects, we can work safely around it.
+The radiation dose, or the amount of radiation, is critical to determining the health consequences of radiation. We receive low doses of radiation from our natural environment every day without much danger. We know that very high radiation doses can lead to serious injury or death. Such radiation doses are far above regulatory safety limits.
+Facts
+High doses of radiation can be serious. We know that radiation at high doses can cause cancer and even lead to death.
+How radiation is delivered affects health impact. A dose received over a period of time is less harmful than the same dose received quickly at once. Radiation exposure to one part of the body is less harmful than a dose to the whole body.
+Some people are more vulnerable to the effects of radiation, including:
+Developing fetuses (the most vulnerable).
+Infants.
+Children.
+The elderly.
+Pregnant women.
+People with compromised immune systems.
+The risk from radiation is higher for young people. This is because they have:
+More cells that are dividing rapidly and tissues that are growing.
+A longer lifespan ahead of them, giving cancers more time to develop.
+People may also have individual sensitivity to radiation, even within the same age group.
+How radiation impacts your body
+Like with many other contaminants or toxins, our DNA (genetic material) is the primary target of radiation.
+Radiation can interact with DNA directly and cause damage by breaking bonds in the DNA. It can also harm DNA indirectly by breaking water molecules surrounding the DNA. When these water molecules are broken, they produce unstable ions and other molecules that can damage cells and organs.
+Once a cell is damaged, three things can happen:
+The cell repairs itself and it goes back to normal.
+The cell damage is not repaired or is incorrectly repaired, so the cell is changed. This change may eventually lead to cancer.
+There is too much damage to the cell, and the cell dies.
+If a few radiation-damaged cells die, your body will recover, and you do not have the risk of those cells potentially turning into cancer. However, widespread cell death, such as that caused by high radiation doses, can lead to organ failure and, ultimately, death.
+High doses of radiation can cause Acute Radiation Syndrome (ARS) or Cutaneous Radiation Injuries (CRI). High doses of radiation could also lead to cancer later in life.

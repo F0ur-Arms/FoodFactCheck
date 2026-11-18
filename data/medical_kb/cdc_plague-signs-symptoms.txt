@@ -1,0 +1,14 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Signs and Symptoms of Plague
+URL: https://www.cdc.gov/plague/signs-symptoms/index.html
+────────────────────────────────────────────────────────────
+
+Key points
+Plague symptoms depend on how the patient was infected.
+The most common forms of plague are bubonic, pneumonic, and septicemic.
+Signs and symptoms
+Bubonic plague: Patients develop fever, headache, chills, and weakness and one or more swollen, painful lymph nodes (called buboes). This form usually results from the bite of an infected flea, with an incubation period of 2 to 8 days. The bacteria multiply in a lymph node near where the bacteria entered the human body. If the patient is not treated with the appropriate antibiotics, the bacteria can spread to other parts of the body.
+Septicemic plague: Patients develop fever, chills, extreme weakness, abdominal pain, shock, and possibly bleeding into the skin and other organs. Skin and other tissues may turn black and die, especially on fingers, toes, and the nose. Septicemic plague can occur as the first symptom of plague or may develop from untreated bubonic plague. This form results from bites of infected fleas or from handling an infected animal. The incubation period of septicemic plague is poorly defined but likely occurs within days of exposure.
+Pneumonic plague: Patients develop fever, headache, weakness, and a rapidly developing pneumonia with shortness of breath, chest pain, cough, and sometimes bloody or watery mucous. Pneumonic plague develops when bacteria spread to the lungs of a patient with untreated bubonic or septicemic plague, or when a person inhales infectious droplets coughed out by another person or animal with pneumonic plague. Pneumonic plague is the most serious form of the disease and is the only form of plague that can be spread from person to person. The incubation period of pneumonic plague following inhalation can be as short as +1 day.
+When to talk to your doctor
+Plague is a serious illness. If you are experiencing symptoms like those listed here, seek immediate medical attention. Prompt treatment with the correct medications is critical to prevent complications or death.

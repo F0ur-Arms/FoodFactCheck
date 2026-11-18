@@ -1,0 +1,67 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Preventing the Spread of C. auris
+URL: https://www.cdc.gov/candida-auris/prevention/index.html
+────────────────────────────────────────────────────────────
+
+For Everyone
+Oct. 1, 2026
+Key points
+C. auris can spread easily in healthcare facilities.
+Infected and colonized patients (patients who carry C. auris on their skin or body without it causing symptoms) spread C. auris on surfaces.
+Healthcare providers help prevent spread with hand hygiene, screening, wearing PPE, careful use of antimicrobials and other methods.
+Spread in healthcare facilities
+C. auris spreads easily in healthcare facilities. It can cause life-threatening infections in some patients. Other patients can carry it on their skin or other body areas without having any signs of infection. This is called colonization.
+Colonization
+A patient who is colonized has C. auris on their skin or another part of their body but they do not have symptoms. Patients who are colonized can spread C. auris the same ways that patients who are infected can.
+Patients who are infected and patients who are colonized can spread C. auris onto nearby surfaces or objects. Examples include doorknobs, bedrails, and medical equipment used for multiple patients. Other patients can get C. auris through contact with these items.
+C. auris can survive on surfaces for a long time and not all disinfectants can kill it.
+Patients can remain colonized for several weeks, months or longer even if they never had symptoms. Outbreaks often begin when a patient who became infected or colonized in one facility is admitted or transfers to another.
+Risk factors
+Invasive medical devices
+C. auris mostly affects patients with severe underlying medical conditions who require complex medical care. Patients with invasive medical devices (breathing tubes, feeding tubes, catheters, etc.) are at increased risk for infection.
+Long-term overuse of antimicrobials
+Sometimes healthcare providers give patients antibiotics and/or antifungals if they have a weakened immune system or right before or after surgery. They prescribe these medications to help prevent infections in patients when they are at risk for severe illness.
+However, antibiotics and antifungals should be used carefully and stopped when no longer needed. Taking these medications for a long time impacts the body's natural abilities to protect itself. This can increase the risk for C. auris infection or colonization.
+Most people are not at risk
+People without risk factors generally do not get infected or colonized with C. auris. CDC typically does not recommend screening or testing healthcare providers or family members.
+Screening
+Screening patients for C. auris is an important way to prevent or stop outbreaks in healthcare facilities and keep patients safe.
+Patients who are colonized with C. auris may not know it because they do not have any symptoms. Screening is how healthcare providers and patients can know whether a patient is colonized and able to spread C. auris.
+Keep Reading
+Screening for C. auris
+Screening results for C. auris are used to help guide infection prevention and control strategies in healthcare facilities, which helps prevent it from spreading.
+For Health Care Providers
+Screening Recommendations
+Prevention in healthcare facilities
+Infection prevention and control (IPC) measures are actions taken at healthcare facilities to prevent or stop diseases from spreading.
+IPC for colonization and infection
+Healthcare facilities use the same IPC measures for patients who are colonized and infected to help prevent them from spreading C. auris to others.
+C. auris can spread easily from patients who are colonized or infected. Healthcare providers can help stop it from spreading with these actions:
+Frequent hand-cleaning with alcohol-based hand sanitizer (ABHS).
+Soap and water if hands are soiled or ABHS is not available.
+Patients with C. auris should be placed in a single-patient room whenever possible.
+Clean the patient's room with EPA registered hospital grade disinfectants often.
+Wear gloves and gowns to deliver care.
+Ensure visitors clean hands with ABHS (preferred) or soap and water.
+Patients infected or colonized with C. auris often continue to have it on their skin or other body sites for a very long time. Precautions are taken until they are discharged.
+For patients living in settings like nursing homes, long-term measures are taken based on the facility's policy.
+If transferring facilities
+Healthcare facilities should be informed if an incoming patient has ever:
+Tested positive for C. auris, with or without symptoms.
+Was exposed to another patient with C. auris.
+Was in a facility where an outbreak was occurring.
+For Health Care Providers
+Infection Control Guidance: Candida auris
+Prevention after discharge
+Patients who were colonized or infected may have C. auris on their skin or body sites after discharge. Patients and close contacts should frequently clean their hands with ABHS, if available, or with soap and water.
+Family members or anyone providing high-touch care, like changing wound dressings and helping the patient bathe, may consider wearing gloves.
+If a patient returns home with an invasive medical device, follow the provider's instructions for safe and clean care. Extra care should be taken to prevent potential C. auris on the skin from getting into the body.
+Patients and families should always inform healthcare providers about previous positive test results for C. auris before going to a doctor's office or another healthcare facility.
+Oct. 1, 2026
+Sources and Page Info
+Print
+Share
+Facebook
+LinkedIn
+Twitter
+Syndicate

@@ -1,0 +1,48 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: About Acinetobacter
+URL: https://www.cdc.gov/acinetobacter/about/index.html
+────────────────────────────────────────────────────────────
+
+Key points
+Infections caused by Acinetobacter typically occur in healthcare settings.
+Good hand hygiene and infection prevention practices can help reduce infection risk.
+Acinetobacter germs can be resistant to antibiotics, making them difficult to treat.
+What it is
+Acinetobacter is a group of bacteria (germs) commonly found in the environment, like in soil and water. Infections caused by Acinetobacter rarely occur outside of healthcare settings.
+Types
+Germs in the Acinetobacter baumannii family account for most Acinetobacter infections in humans. This type is sometimes referred to as "Acinetobacter baumannii complex."
+Signs and symptoms
+Acinetobacter baumannii can cause infections in the blood, urinary tract, lungs (pneumonia) or wounds. In some cases, people can carry the bacteria without being infected, known as colonization.
+At-risk populations
+In the United States, patients in healthcare settings are at highest risk, especially those who:
+Are on breathing machines (ventilators).
+Have devices such as catheters.
+Have open wounds from surgery.
+Are in intensive care units.
+Have prolonged hospital stays.
+People who have weakened immune systems, chronic lung disease or diabetes may be more susceptible.
+How it spreads
+Contact with contaminated surfaces.
+Contact with contaminated equipment.
+Person-to-person contact, often via contaminated hands.
+Reducing risk
+Patients and caregivers
+Keep their hands clean by regularly washing their hands with soap and water or using alcohol-based hand sanitizer, including before and after caring for wounds or touching a medical device.
+Remind people (including healthcare providers) to clean their hands before touching the patient or handling medical devices.
+Allow healthcare staff to clean their room daily when in a healthcare setting.
+Healthcare providers
+Healthcare providers should always follow core infection control practices to reduce the risk of spreading these germs to patients.
+Testing
+To determine if someone has an Acinetobacter infection, healthcare providers will send a specimen to the laboratory for antimicrobial susceptibility testing. CDC provides data that can be used for setting breakpoints for interpretation of antimicrobial susceptibility testing.
+Public Health
+Reference Antimicrobial Susceptibility Testing (AST) Data
+Treatment
+Antibiotics
+Acinetobacter infections are generally treated with antibiotics. To identify the best antibiotic to treat a specific infection, healthcare providers will send a specimen to the laboratory and test the bacteria against a set of antibiotics to determine which are active against the germ. The provider will select an antibiotic based on the test results and other factors, like potential side effects or interactions with other drugs.
+Antimicrobial resistance
+Unfortunately, many Acinetobacter germs are resistant to multiple antibiotics, which makes them difficult to treat.
+What CDC is doing
+Providing testing to identify antimicrobial resistance cases, measure resistance and track transmission in a healthcare setting through the Antimicrobial Resistance Laboratory Network.
+Tracking Acinetobacter infections through the Emerging Infections Program.
+Data is also available on the AR & Patient Safety Portal.
+Working closely with health departments, other federal agencies, healthcare providers and patients to prevent infections caused by Acinetobacter and slow the spread of resistant germs.

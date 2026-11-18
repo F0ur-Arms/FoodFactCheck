@@ -1,0 +1,93 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Kinds of E. coli
+URL: https://www.cdc.gov/ecoli/about/kinds-of-ecoli.html
+────────────────────────────────────────────────────────────
+
+Key points
+Six kinds of E. coli can cause diarrhea.
+Some of these E. coli also can cause other symptoms.
+People get infected with these E. coli in several ways.
+E. coli that cause diarrhea
+E. coli are a large group of bacteria (germs).
+Most E. coli are harmless and are part of a healthy intestinal tract. These E. coli help digest food, produce vitamins, and protect us from harmful germs.
+But some E. coli can make people sick, including six kinds that cause diarrhea. They are
+STEC: Shiga toxin-producing E. coli
+ETEC: Enterotoxigenic E. coli
+EPEC: Enteropathogenic E. coli
+EIEC: Enteroinvasive E. coli
+EAEC: Enteroaggregative E. coli
+DAEC: Diffusely adherent E. coli
+Ways people get infected
+People can get infected with these E. coli in several ways. These ways include
+Eating contaminated food or drinking contaminated water
+Contact with animals, their poop, or their environment
+Contact with the poop of an infected person
+Not all E. coli are alike
+All six kinds of E. coli can cause diarrhea. Some kinds can cause bloody diarrhea, watery diarrhea, or both.
+Some of these E. coli can cause other symptoms, including stomach cramps, vomiting, and fever.
+Other things that vary for these E. coli include
+Groups of people most affected
+Major sources of infection
+Where infection is more likely to happen
+At a glance
+This table describes the six kinds of E. coli that cause diarrhea.
+Table describing six kinds of harmful E. coli.
+Kind of infection
+Common symptoms
+Groups most affected
+Major sources
+Where infection is more likely
+STEC
+Bloody diarrhea
+Severe stomach cramps
+Vomiting
+Children younger than 5 years
+Adults 65 years and older
+Contaminated food (especially leafy greens and ground beef)
+Unsafe water
+Animals (especially cattle), their poop, or their environment
+Poop of an infected person
+High-income countries
+ETEC
+Watery diarrhea
+Stomach cramps
+Vomiting
+Younger adults (usually 18–35 years)
+International travelers
+Food, water, or ice contaminated with animal poop or poop of an infected person
+Low-income countries
+EPEC
+Watery diarrhea
+Sometimes low fever
+Sometimes vomiting
+Sometimes diarrhea lasting more than 2 weeks
+Children younger than 1 year
+Poop of an infected person
+Low-income countries
+EIEC
+Watery diarrhea that is sometimes bloody
+Fever
+Children
+International travelers
+Poop of an infected person
+Low-income countries
+EAEC
+Watery diarrhea that sometimes has mucus
+Diarrhea can last more than 2 weeks, especially in children
+Sometimes fever
+Sometimes vomiting
+Children
+People living with HIV
+International travelers
+Uncertain
+High-, middle-high- and middle-low-, and low-income countries
+DAEC
+Watery diarrhea
+Children (usually 3–5 years)
+Uncertain
+Low-income countries
+Notes
+STEC infection is the most common cause of hemolytic uremic syndrome (HUS).
+ETEC infection is the leading cause of travelers' diarrhea.
+Mucus is thick fluid produced by some parts of the body, including the nose, lungs, and intestines. It may be slippery, slimy, or jelly-like.
+The World Bank assigns countries to four income groups: low, lower-middle, upper-middle, and high. The classifications are updated each year on July 1.

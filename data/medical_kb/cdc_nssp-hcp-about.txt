@@ -1,0 +1,69 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: NSSP and Health Care Providers
+URL: https://www.cdc.gov/nssp/hcp/about/index.html
+────────────────────────────────────────────────────────────
+
+For Health Care Providers
+Sept. 1, 2026
+What to know
+Emergency medicine is vitally connected to public health.
+Each diagnosis code and patient symptom you enter into the electronic health record (EHR) can enhance the data CDC uses to protect our communities.
+By integrating the EHR with public health data, CDC can improve readiness and response to health threats.
+This is a significant investment by CDC in the health of our nation.
+EHR data: The backbone of syndromic surveillance
+Emergency department (ED) clinicians and staff collect clinical data in the form of patient-reported symptoms, diagnostic codes, and patient demographics. This information can be shared with public health to support syndromic surveillance, which uses near real-time EHR data to detect, understand, and monitor events of public health concern. Clinicians, infection preventionists, medical coders, administrators, and many other hospital staff all play a role, without additional steps for reporting.
+Significant impact
+Emergency medicine workflow can impact data collection, which in turns impacts the syndromic surveillance process. Collaboration and communication between local public health and health care professionals can improve this process, which has wide-ranging benefits, including:
+Detecting potential outbreaks
+Identifying and mitigating diseases and their spread
+Improving response during disasters, reducing death and injury
+Increasing screening, prevention, and connection to counseling
+Reducing death and injury through access to preventative care
+Help for new users
+We have resources for health care providers who want to learn more about syndromic surveillance—or need access to public health data for research or other purposes.
+Syndromic Surveillance for New Users
+How information flows to public health
+NSSP leads the nation’s effort to standardize syndromic data collection, with EDs from all 50 states, the District of Columbia, and Guam participating. NSSP receives most EHR data within 24 hours of a patient’s visit to an emergency department. This timeliness makes syndromic surveillance a valuable tool in monitoring many health conditions.
+This map shows emergency care NSSP facility participation by county.
+Dark blue counties contain at least one eligible non-federal emergency care facility that sent at least one valid patient visit record in the last three months. Light blue counties indicate the presence of one or more eligible emergency care facilities where no data have been sent to NSSP in the last three months. Gray counties do not contain eligible emergency care facilities:
+View data table.
+Here is a high-level view of how syndromic surveillance works:
+People seek treatment.
+The medical facility sends de-identified data—including chief complaint, diagnosis codes, patient characteristics, and location—to state and local health departments or to data aggregators such as Health Information Exchanges.
+Public health departments and Health Information Exchanges contribute data to the NSSP BioSense Platform, a secure cloud-based early detection and monitoring system.
+The community of practice can access the BioSense Platform for surveillance activities to monitor public health. Users can be alerted for specific type of visits, and data can be visualized for any health condition, with stratification options by sex, age, and other dimensions.
+CDC invests in the health of our nation by providing analytic tools, services, and system infrastructure along with technical assistance, training, and data analysis support. CDC also helps fund health departments and offers collaboration on specific projects.
+Integrated data sources to inform decision-making
+EHR data informs many other public health practices in addition to syndromic surveillance. Examples include case investigations and contract tracing, which support patients with suspected or confirmed infection.
+To create a complete picture of public health, data from many sources are integrated. CDC is leading the way in investing in technology and processes to ensure we are ready to respond to public health threats together. Data sources used by NSSP include:
+Health care data from EDs, urgent cares and other facilities
+Commercial laboratory data
+Mortality data
+Department of Defense data from US-based medical centers
+Veterans Affairs medical center data
+Administration for Strategic Preparedness and Response Disaster Medical Assistance Teams data
+National Weather Service data
+AirNow.gov air quality data
+In staging: National Notifiable Disease data
+Dashboards
+CDC shares information with the public to help people make decisions about how to protect their health. Dashboards provide snapshots to track issues in near real-time.
+Heat & Health Tracker
+Tick Bite Data Tracker
+COVID Data Tracker
+Respiratory virus surveillance
+Learn more about CDC and partner dashboards.
+NSSP support
+NSSP can support health care providers who are learning more about syndromic surveillance. We offer:
+Tools for new users
+BioSense Platform onboarding resources
+The NSSP Community of Practice
+Reaching out to NSSP
+Health care partners are encouraged to reach out to NSSP for technical assistance or to share ideas, needs, and concerns. Email us at nssp@cdc.gov or create an NSSP Service Desk ticket (account access required).
+Sept. 1, 2026
+Sources and Page Info
+Print
+Share
+Facebook
+LinkedIn
+Twitter
+Syndicate

@@ -1,0 +1,48 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Information on Hemophilia for Women
+URL: https://www.cdc.gov/hemophilia/about/information-for-women.html
+────────────────────────────────────────────────────────────
+
+Key points
+Hemophilia primarily affects men, but women can have hemophilia too.
+Women with hemophilia have different healthcare needs than men due to pregnancy and childbirth.
+If a woman has the hemophilia gene, their babies can be tested for hemophilia soon after birth.
+Women with hemophilia and hemophilia carriers
+Most people who have hemophilia are born with it. It is inherited (passed down) from a parent to a child. Hemophilia is caused by a mutation (difference from normal) problem in one of the genes needed to make clotting factors, which are proteins the body uses to form a blood clot. These genes are located on the X chromosome.
+Both hemophilia A (factor VIII [8] deficiency) and hemophilia B (factor IX [9] deficiency) are inherited in the same way, because both the genes for factor VIII and factor IX are located on the X chromosome. Females have two X chromosomes (XX), and males have one X chromosome and one Y chromosome (XY). There are no genes for clotting factors on the Y chromosome. Therefore, if a male inherits a gene with a mutation for hemophilia on his only X chromosome, he will have the disorder. However, because most females with a gene for hemophilia inherit only one gene with a mutation for hemophilia on one X chromosome and they inherit a normal gene on their other X chromosome, they have some protection against having severe bleeding problems.
+Some females with this type of inheritance (one gene with a mutation and one normal gene) have normal blood clotting and no bleeding symptoms and are referred to as carriers. However, some females who inherit a hemophilia gene have bleeding symptoms. While bleeding symptoms in females are usually milder than those in males with hemophilia, in rare cases, a female with one hemophilia gene can have bleeding symptoms that are as serious as those of a male with hemophilia.
+Additionally, in rare cases females inherit two abnormal genes, one from each parent, or inherit one abnormal gene but their other X chromosome isn't working properly. Females with these inheritance patterns are as likely as males with hemophilia to have severe bleeding symptoms.
+Keep Reading:
+How Hemophilia is Inherited
+Testing and treatment for women
+Sometimes women with bleeding symptoms are not tested for hemophilia because there is a misbelief that women can only be carriers of hemophilia. Therefore, women with hemophilia might not get an accurate diagnosis and treatment for their hemophilia might be delayed. It is important to raise awareness that women can have hemophilia to help them receive the care and support they need to live healthy lives.
+Women who carry the hemophilia gene and have any symptoms of the disorder should be checked and cared for by a knowledgeable healthcare provider. Good quality medical care from providers who know a lot about the disorder can help prevent some serious problems. This type of specialty care can be found at a comprehensive hemophilia treatment center (HTC).
+An HTC provides care to those with hemophilia and other bleeding disorders to address all issues related to the disorder, as well as education about the disorder. The team consists of doctors (hematologists or blood specialists), nurses, social workers, physical therapists, and other healthcare providers, all of whom are specialized in the care of people with bleeding disorders.
+Keep Reading:
+Bleeding Disorders in Women
+Pregnancy and childbirth
+A woman who inherits one hemophilia gene can have low factor VIII or factor IX levels and have symptoms of hemophilia. However, during pregnancy, the levels of factor VIII will rise. This can make it difficult to identify women who have hemophilia A during pregnancy if they have not already been diagnosed. This is not a concern for women with hemophilia B, because levels of factor IX do not rise during pregnancy.
+Prenatal testing for hemophilia
+If the mother carries the hemophilia gene, there is a chance that the baby will be born with hemophilia. In families with a known history of hemophilia, or in those with a prenatal genetic diagnosis of hemophilia, one can plan special testing for hemophilia before the baby's delivery.
+Preparing for childbirth
+Women who carry the hemophilia A or B mutation are at risk for heavy bleeding after delivery or surgery, such as cesarean section. Some women have bleeding from the birth canal that lasts a long time. This is called postpartum hemorrhage and can require treatment to stop the bleeding. Even though the levels of factor VIII rise during pregnancy, women with hemophilia A are at risk for heavy postpartum bleeding because the high levels of factor VIII go back to low levels after delivery. Women with hemophilia B have low levels of factor IX both during pregnancy and after delivery.
+It is important for a woman's healthcare providers to be aware of her carrier status so that plans can be made for a safe delivery. If a woman is receiving care at an HTC, those doctors and nurses should be involved and work closely with the woman's doctor who is delivering the baby. Working together in this way will help the doctor who is delivering the baby take special safety measures to avoid injury to the child. These safety measures include not using forceps or vacuum extractor to assist in the delivery of the baby, if possible.
+After delivery: Considerations to prevent or minimize bleeding for the baby
+Testing for hemophilia
+Some babies should be tested for hemophilia soon after birth, including
+Babies born to families with a history of hemophilia
+Babies whose mothers are carriers of hemophilia
+Babies who have bleeding symptoms at birth
+After the baby is born, a sample of blood can be drawn from the umbilical cord (which connects the mother and baby before birth) and tested for clotting factor levels. It is important to know as soon as possible after birth whether a baby has hemophilia so that special steps can be taken to prevent bleeding complications in the baby.
+However, it may not be possible to diagnose hemophilia at birth, so the tests for clotting factors should be repeated when the baby is 6 months old to make or confirm the diagnosis of hemophilia.
+In newborns who do not have hemophilia, factor VIII levels are similar to normal adult levels, and low levels of factor VIII indicate hemophilia. However, levels of factor IX, which depends on vitamin K levels, may be low at birth and reach adult levels by 6 months of age.
+Testing and Diagnosis‎
+Read more about diagnosing hemophilia to learn about screening and clotting factor tests.
+Circumcision
+Some parents choose to have their baby boys circumcised (removing the foreskin from the penis). Bleeding from circumcision is the most common cause of bleeding among babies with hemophilia. It can occur days after the procedure is done and, for babies who have not been diagnosed already, often leads to the initial hemophilia diagnosis.
+For a baby who may have hemophilia, avoid circumcision if possible. If you're thinking about circumcision, then a pediatric hematologist (a doctor who specializes in blood disorders) should be consulted before the procedure to ensure that the child receives proper treatment to prevent excessive bleeding.
+Bleeding of the head
+The head is the second most common place of bleeding among babies affected by hemophilia. Because the head is squeezed when the baby goes through the birth canal, bleeding of the head can occur. Also, when forceps or vacuum extractor is applied to the baby's head to assist with the delivery and help pull the baby out, bleeding can occur.
+Head bleeding can be in the scalp or into the brain, which is very serious. The signs and symptoms of bleeding into the brain in the newborn baby are nonspecific (not specific to a particular condition such as lethargy or unusual crying) and can be difficult to diagnose. Once it is diagnosed, bleeding in the head needs to be treated immediately with clotting factor concentrates. Without treatment to stop it, the bleeding can be life threatening and can result in long-term brain damage.
+Vitamin K shot and other prevention measures
+All babies, including those with hemophilia, should get a vitamin K shot at birth, as well as other routine vaccines. All babies with hemophilia should be vaccinated against hepatitis A and B. Pressure must be applied to the site of any shot, as well as to the site of heel sticks (pricking the heel to draw blood for newborn screening tests), to avoid bleeding for babies with hemophilia.

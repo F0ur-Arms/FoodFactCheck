@@ -1,0 +1,35 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Treatment of Thalassemia
+URL: https://www.cdc.gov/thalassemia/treatment/index.html
+────────────────────────────────────────────────────────────
+
+Key points
+Treatments for thalassemia depend on the type and how serious it is.
+Blood transfusions are the main way to treat moderate or severe thalassemia.
+People receiving regular blood transfusions are at risk for certain complications such as iron overload, alloimmunization (a harmful immune reaction), and infection.
+People receiving transfusions may need ongoing treatment to remove excess iron before it builds up and damages the organs.
+How is thalassemia treated?
+The type of treatment a person receives depends on the type of thalassemia they have. In people with severe thalassemia, there are fewer red blood cells and less hemoglobin in the body. This leads to more severe anemia.
+Blood transfusions
+One way to treat anemia is to provide the body with more red blood cells to carry oxygen. This can be done through a blood transfusion, a safe, common procedure in which you receive blood through a small plastic tube inserted into one of your blood vessels.
+Some people with thalassemia – usually with thalassemia major – need regular blood transfusions because their body makes such low amounts of hemoglobin.
+People who are transfused regularly are at risk for a complication known as iron overload. Iron overload is when too much iron builds up in the body. The excess iron can make it hard for organs such as the heart and liver to work properly. Chelation therapy is used to prevent iron overload. This therapy removes excess iron before it builds up in the organs.
+People with thalassemia intermedia (not as severe as major, but not as mild as trait) may need blood transfusions sometimes, such as when they have an infection or an illness. People with thalassemia minor or trait usually do not need blood transfusions because they either do not have anemia or have only a mild anemia.
+Folic acid
+Many times people with thalassemia are prescribed a supplemental B vitamin, known as folic acid, to help treat anemia. Folic acid can help red blood cells develop. Treatment with folic acid is usually done in addition to other therapies.
+Gene therapy
+In January 2024, the U.S. Food and Drug Administration (FDA) approved CASGEVY™, a cell-based gene therapy for the treatment of transfusion-dependent beta-thalassemia in patients 12 years and older. CASGEVY™ is also known as exagamglogene autotemcel (or exa-cel).
+The product is made from patients' own blood stem cells. The stem cells are taken, modified, and given back as a one-time, single-dose infusion as part of a blood stem cell transplant. Prior to treatment, a patients' own stem cells are collected. Then the patient must undergo high-dose chemotherapy. This is a process that removes cells from the patient's bone marrow so they can be replaced with the modified stem cells.
+More information about CASGEVY™ can be found on the FDA website and the Cooley's Anemia Foundation website.
+Hear Robert Mannino's tips on how to successfully transition to adult care for thalassemia.
+Audio Description
+Low Resolution Video
+Transfusion complications
+How do blood transfusions affect my body?
+People who receive a lot of blood transfusions are at risk for iron overload. Red blood cells contain a lot of iron, and over time, the iron from all of the transfusions can build up in the body. When it builds up, the iron collects in places like the heart, liver, and brain, and can make it hard for these organs to work properly. To prevent iron overload, people with thalassemia may need chelation therapy, which is when doctors give a medicine – either a pill or a shot under the skin – to remove excess iron before it builds up in the organs.
+Hear Robert Mannino discuss how iron overload affects the body and why it is important to stay on track with thalassemia treatments.
+Audio Description
+Low Resolution Video
+Every time a person gets a blood transfusion, their risk for a problem called "alloimmunization" goes up. Alloimmunization happens when a person's body reacts to blood from a transfusion because it is seen as harmful by their immune system, and tries to destroy it. Persons with alloimmunization can still receive blood transfusions, but the blood they receive has to be checked and compared to their own blood to make sure that it won't be destroyed by their immune system. This takes time and can mean that persons with alloimmunization have to wait longer for blood, or may have a harder time finding blood that won't be destroyed by their body.
+Another concern for people who receive a lot of blood transfusions is the safety of the blood they receive. Some infections, like hepatitis, can be carried in blood. In the United States, the blood supply is screened and monitored for safety, and the risk of getting an infection from a blood transfusion is very low. Nevertheless, there is still a very small risk of getting an infection through a blood transfusion. Learn more about complications of transfusions in thalassemia.
+Read more here about how CDC has been working with partners to better understand these health problems.

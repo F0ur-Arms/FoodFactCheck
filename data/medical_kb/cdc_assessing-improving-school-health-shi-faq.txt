@@ -1,0 +1,99 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: School Health Index: Frequently Asked Questions
+URL: https://www.cdc.gov/assessing-improving-school-health/shi/faq.html
+────────────────────────────────────────────────────────────
+
+At a glance
+Find out the information you need to know about using the School Health Index (SHI).
+Basic Information
+Benefits of using the SHI
+The SHI allows schools to use an evidence-based assessment to identify the strengths and weaknesses of their school’s health and safety policies and programs. Once schools are able to identify and address their weaknesses, they may:
+Increase students' capacity to learn.
+Reduce absenteeism.
+Improve physical fitness and mental alertness.
+Reduce aggression and violence.
+Reduce/prevent alcohol, tobacco and other drug use.
+Reduce punitive disciplinary actions.
+Increase academic achievement.
+Increase student attachment to school.
+Improve social and emotional skills, such as self-regulation, communication, and problem solving.
+Raise awareness and garner support for school health initiatives.
+The SHI enable schools to:
+Identify strengths and weaknesses of their health and safety policies and programs.
+Develop action plans for improving student health, which can be incorporated into the School Improvement Plan.
+Engage teachers, parents, students, and the community in promoting health-enhancing behaviors and better health.
+Framework of 2017 SHI
+The 2017 SHI is aligned with the Whole School, Whole Community, Whole Child model (WSCC). The WSCC is an approach that focuses on the child to align the common goals of both education and health. The WSCC model integrates the eight components of CDC’s coordinated school health (CSH) model with the tenets of ASCD’s Whole Child approach to education to support a collaborative approach to learning and health. The WSCC model emphasizes a school-wide approach to student health. By providing a learning environment that ensures each student is emotionally and physically healthy, safe, actively engaged, supported, and challenged, the WSCC model presents a framework for school systems to evaluate, streamline, implement, and sustain policies, processes, and practices.
+Differences between elementary school SHI and middle/high school SHI
+The majority of the items in the two versions are identical. However, there are a few questions that are targeted toward school level. For example, the elementary school SHI includes questions about recess and hand washing that are not included in the middle/high school SHI. The middle/high SHI asks about tobacco cessation services.
+Also, there are certain questions that are included in both versions but reflect different requirements for the school levels. For instance, the elementary school SHI suggests a total of 150 minutes of physical education per week, whereas the middle/high school SHI suggests a total of 225 minutes per week.
+Costs and time associated with the SHI
+The SHI is available free of charge. You can select either the interactive, customizable online tool or the downloadable, print version.
+Other costs to implement the SHI
+The SHI materials are available free of charge. The main cost associated with the SHI is time. Many schools have done it with no funding at all—merely getting some dedicated time (perhaps part of a staff development day or teacher workday) for the school health team to come together to complete the self-assessment modules and create an action plan. Some schools have received a small amount ($500–$1,000) of seed money to pay for substitute teachers and materials for their SHI team meetings.
+Once schools have developed their action plans, many have been able to implement some of the actions with no funding at all. For activities that might require some funding, many schools have used their SHI results to help obtain money or donated resources/time from community organizations, local businesses, state/local agencies, etc. In addition, SHI results have also influenced changes in policy and practice within schools, which may require allocation of resources in district and school budgets.
+Length of time to complete the SHI
+Field testing of the SHI has shown that it can be completed in as little as 6 hours, though this will vary depending on the amount of time needed to collect information or for discussion.
+Can charter and magnet schools use the SHI?
+Any type of school can use the SHI to identify the strengths and weaknesses of their health and safety policies and programs and develop action plans for improving student health. If you are using the online SHI, the state district ID and state school ID, required during registration, will identify your charter or magnet school. Users who already have Reference Numbers also can access these ID numbers by going to the “My SHI Options” tab located on your SHI home page, scrolling down, and opening “Edit Team Information.”
+Organizations that the CDC collaborated with on the development of the new SHI
+CDC collaborated with ASCD, the Alliance for a Healthier Generation, Action for Healthy Kids, and a variety of other internal and external partners on the development of the new SHI. Both the Alliance for a Healthier Generation and Action for Healthy Kids have adopted an abbreviated version of the SHI as its sole assessment tool to guide school-based obesity prevention and health promotion. The abbreviated versions include only the nutrition and physical activity health topics, plus some cross-cutting school health questions.
+Completing the SHI
+Online vs. print version
+The SHI can be completed online or on hard copy. Both methods are equally effective. Many schools have found that the online version saves time, because it allows you to:
+Customize your SHI based on the health topics (e.g., physical activity and physical education, nutrition, tobacco-use prevention, alcohol and other drug use prevention, safety, chronic health conditions, sexual health) you would like to address.
+Save your responses in the system.
+Leave and re-enter the system as often as you would like.
+Have your module scores be calculated automatically.
+Archive previous versions of the SHI, which may assist in record-keeping for schools who plan to complete the SHI annually.
+Print and share Scorecards and School Health Improvement Plans with team members, administrators, and others.
+Can one person complete the SHI for my school?
+No. The SHI is meant to be completed by school health teams. This gives teachers, administrators, students, parents, and community members a means of contributing to school health promotion by involving them in the assessment process and inviting them to help shape plans to improve school programs. Multiple people can access the same SHI online allowing the right people to answer relevant questions.
+Do I need permission to use the SHI?
+No. The SHI was developed with federal funds by a federal agency, so you do not need any permission to use it.
+How often should we use the SHI?
+Some states and districts require schools to conduct the SHI annually. The SHI’s School Health Improvement Plan can be used to develop actions that you will take over the next 3 to 5 years. If you establish a 3 to 5 year plan, review your progress annually and reassess every 2 to 3 years.
+Do we have to restart the SHI process every time we have new staff?
+No. The SHI is meant to be completed by school health teams. This gives teachers, administrators, students, parents, and community members a means of contributing to school health promotion by involving them in the assessment process and inviting them to help shape plans to improve school programs. Multiple people can access the same SHI online. Be sure to share your Reference Number with all the members of your SHI Team so that you will not lose access to your SHI online if someone leaves the school community. You can add team members’ e-mail addresses to your SHI team information to make sure that your Reference Number is not lost when one person leaves the school community. To update this information, go to the “My SHI Options” tab located on your SHI home page, scroll down, and open “Edit Team Information.”
+About the Questions
+What do we do if a question does not apply to our school?
+It is possible that some questions might not be relevant for every school. If you are sure that this is the case, you may choose not to answer the question. If you are using the online SHI, you can select “not applicable” as your response. If you are using the paper version of the SHI just remember to appropriately adjust the denominator used for calculating the Overall Module Score (i.e., subtract 3 points for each question deleted.) In many cases, questions that might appear to be irrelevant can be re-interpreted to become relevant. For example, a question might ask about the school’s gymnasium or cafeteria, and your school might not have a gymnasium or cafeteria. However, if students participate in physical education or eat meals somewhere on campus, you can modify the question to make it fit your circumstances. If meals are cooked off-site at a central cooking facility, it might be harder for you to obtain information about food preparation practices and to influence those practices – but it can be done. Planning Question 3 will ask you to consider feasibility. Trying to influence practices at a central cooking facility might not be a high priority for your school because it might rate low on feasibility.
+Why do some questions ask about whether a school does something instead of how many teachers do it?
+The SHI looks at practices that take place throughout the school or are promoted by the school. It can be very difficult to find out exactly how many teachers or other staff members actually engage in each specific practice and to change the behavior of every single teacher or other staff member. On the other hand, school administrators and other members of the SHI team can change school practices. For example, they can use a variety of methods to inform students and staff members about policies to prevent harassment or bullying or they can challenge staff members to greet each student by name.
+Why do some questions ask about whether schools implement a policy instead of whether they have a policy?
+Most school policies are established by states or school districts, not schools. Policies only matter if they are implemented fully and correctly. The SHI asks about policy implementation because that is what people in the school and community are most able to control and change.
+Why is employee wellness and health promotion part of the SHI?
+Employee wellness and health promotion is an integral part of the Whole School, Whole Community, Whole Child model. Employee wellness and health promotion activities enable all school employees to improve their health status, which contributes to improved morale and a greater personal commitment to the school’s overall coordinated health efforts. This personal commitment often transfers into greater commitment to the health of students and creates positive role modeling.
+Other versions of the School Health index
+The Healthy Schools Program (HSP) has adopted the CDC’s School Health Index (SHI) to help schools assess progress in their program. The HSP website hosts a version of the SHI that includes only the nutrition and physical activity health topics, plus some cross-cutting school health questions. School personnel solely interested in the nutrition and physical activity health topics for the purposes of the HSP assessment are encouraged to complete the SHI on the HSP website (https://schools.healthiergeneration.org/dashboard/about_assessment/?_action).
+Action for Healthy Kids (AFHK) has adopted the CDC’s School Health Index (SHI) and offers an abbreviated version that includes only the nutrition and physical activity health topics, plus some cross-cutting school health questions. The tool that guides school-based obesity prevention and health promotion efforts and makes it easier for schools to implement policies and practices that can help students stay healthy and be ready to learn. The AFHK online School Health Index can be accessed at the AFHK School Portal.
+Account Management
+Two members of our team completed their module questions in two different accounts. Is there a way to merge the questions into one SHI?
+No. Multiple accounts cannot be merged. The completed modules from separate accounts must be manually entered into one SHI account for the school. Multiple people from one school health team should access the same SHI online by using the same Reference Number.
+Do I have to create a new account for every year we do the assessment?
+No. You should use the same account (the same Reference Number) and create a new SHI under that account. A new SHI can be created by clicking the “Create a new SHI” link after you sign in. Note that when creating a new SHI, the current SHI will be archived and you can no longer make changes to this archived version.
+Evaluation and Results
+Do I have to report my results from the SHI to the CDC?
+No. The CDC does not ask that schools report their scores. The SHI is a self-assessment process, and the data are not meant to be reported to outside agencies for the purposes of comparison.
+Will my school be punished if we score poorly on the SHI?
+Absolutely not. The SHI will help the school determine its own strengths and weaknesses solely for the purposes of self-improvement.
+Has the SHI been tested for validity and reliability?
+The School Health Index was field tested for readability and user-friendliness. We have no validity and reliability data for the simple reason that the SHI is not a research tool; it is a community organizing and educational tool.
+Has the SHI been evaluated?
+Several articles have been published in scientific journals that have evaluated the SHI implementation process and described the results of the process. Other studies have used the items from the SHI as indicators of best practices:
+Austin SB, Fung T, Cohen-Bearak A, Wardle K, Cheung LWY. Facilitating change in school health: a qualitative study of schools' experiences using the School Health Index. Preventing Chronic Disease. [serial online] 2006 Apr.
+Brener ND, Pejavara A, Barrios LC, Crossett L, Lee SM, McKenna M, Michael S, Wechsler H. Applying the School Health Index to a nationally representative sample of schools. Journal of School Health. 2006;76(2):57–66.
+Brener ND, Pejavara A, McManus T. Applying the School Health Index to a nationally representative sample of schools: update for 2006. Journal of School Health. 2011;81(2):81–90.
+Pearlman DN, Dowling E, Bayuk C, Cullinen K, Thacher AK. From concept to practice: using the School Health Index to create healthy school environments in Rhode Island elementary schools. Preventing Chronic Disease [serial online] 2005 Nov.
+Staten LK, Teufel-Shone NI, Steinfelt VE, et al. The School Health Index as an impetus for change. Preventing Chronic Disease. [serial online] 2005 Jan.
+If I'm using the online version of the SHI, will my scores be automatically submitted to my school district or state?
+Your online SHI scores will not be automatically sent to anyone. The only way your school’s information can be viewed is using your reference number.
+Troubleshooting
+What is a reference number?
+Access to the online SHI requires a CDC system-generated Reference Number. You will use your Reference Number like a user id and password. Unlike a password, however, you should share the Reference Number with all the members of your SHI Team who may need to access your SHI online. New users should complete information required to register a new team, after which you will receive your Reference Number by automated e-mail response. The information requested during registration will allow you to enter e-mail addresses for other team members who will also receive the Reference Number by automated e-mail response. Anytime you enter your SHI, you can update your team information to ensure access to your Reference Number in the future. This is important in case it is lost or misplaced, you change your e-mail address, or updates are necessary due to personnel or team member changes. To update this information, go to the “My SHI Options” tab located on your SHI home page, scroll down, and open “Edit Team Information.”
+I have completed the online SHI in the past for my school and I need to do one for this year but all the module questions are marked "completed". What do I do?
+You will need to complete a new SHI for this year. Create a new SHI by clicking the “Create a new SHI” link. Note that when creating a new SHI, the current SHI will be archived and you can no longer make changes to this archived version.
+I chose to access only one health topic. Why do all of the modules appear in my SHI?
+Questions in the SHI are grouped and labeled by topic area. Cross-cutting questions address issues that are relevant to all health topics. Grouping questions allows schools to choose to address some, but not all, of the health topics covered by the SHI. The eleven modules of the SHI are not organized by health topic. Instead, they are structured around the Whole School, Whole Community, Whole Child model. This model emphasizes a school-wide approach to student health through ten interactive components. Cross-cutting questions appear in nine of the eleven modules (i.e., every module except Physical Education and Physical Activity Programs and Nutrition Environment and Services.) All of the cross-cutting questions will appear regardless of which health topic or topics you choose. Topic-specific questions appear in every module, but every topic does not appear in every module.
+If we are using the online version of the SHI and are only able to complete a part of a module, can we save our responses and complete the module later?
+Yes, the SHI does not need to be completed all at one time. You may save your responses and return to complete the SHI at your convenience.

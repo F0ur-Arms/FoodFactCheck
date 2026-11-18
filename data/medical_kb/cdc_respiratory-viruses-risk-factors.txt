@@ -1,0 +1,71 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: People at Increased Risk for Severe Respiratory Illnesses
+URL: https://www.cdc.gov/respiratory-viruses/risk-factors/index.html
+────────────────────────────────────────────────────────────
+
+Aug. 18, 2025
+Español
+What to know
+Some groups of people have higher chances of getting very sick from infection with a respiratory virus. This might be because of factors such as their age or certain medical conditions they may have.
+CDC provides practical recommendations to help people reduce their risk of respiratory illness. In addition, there are several specific considerations for people who are at higher risk for severe illness.
+Overview
+Illnesses caused by respiratory viruses like COVID-19, flu, and RSV can make anyone sick. However, there are a range of risk factors that can increase a person’s chances of getting very sick (severe illness). Generally, people at higher risk of severe illness from respiratory viruses are
+Older adults
+Young children
+People with certain medical conditions, including
+People with weakened immune systems
+People with disabilities
+Pregnant women
+Prevention is important
+Preventing respiratory illness and its potentially serious complications is especially important for people who are higher risk for getting very sick. Vaccination remains the most important tool for prevention. Talk to your healthcare provider about what’s recommended for you.
+Reducing risk
+If you, or someone you spend time with, is at higher risk for getting very sick from a respiratory illness, taking actions to help protect yourself and your loved ones is especially important.
+Preventing Respiratory Illnesses
+Seek health care promptly if you feel sick
+If you believe you may have a respiratory virus (if you feel sick or tested positive for one) and you have risk factors for severe illness, seek health care right away for testing and/or treatment. If you have flu or COVID-19, treatment may be an option to make your symptoms less severe and shorten the time you are sick. Treatment needs to be started within a few days of when your symptoms begin.
+Older adults
+As people get older, their immune systems can change and weaken over time, which can increase the risk for complications from respiratory illnesses. Older adults are also more likely to have underlying health conditions. Most deaths from respiratory viruses occur in people older than 65, with risk increasing sharply with advancing age. For more specific information by type of respiratory illness, read more:
+Flu: Flu and People 65 Years and Older
+RSV: RSV in Older Adults
+COVID-19: People with Certain Medical Conditions and COVID-19 Risk Factors
+The Eldercare Locator, a national resource funded by the Administration for Community Living, can help older adults find local vaccination clinics, connect with accessible transportation, and provide other assistance in accessing vaccinations.
+Young children
+Young children, particularly infants, have immune systems that are still developing. In addition, their lungs and airways are smaller, making viruses that affect airways more of a threat. For more specific information by type of respiratory illness, read more:
+Flu: Flu and Children
+RSV: RSV in Infants and Young Children
+COVID-19: COVID-19 Information for Pediatric Healthcare Providers
+Special considerations related to prevention and treatment
+Masks: Children younger than 2 years should not wear masks because of the risk of suffocation.
+COVID-19 treatment: Paxlovid (nirmatrelvir-ritonavir) antiviral treatment for COVID-19 is not authorized for use in children younger than 12 years of age. Remdesivir is a treatment option for children (birth to 18 years of age weighing at least 1.5kg) who are high risk for severe illness. Speak with a healthcare provider about treatment options if your child develops respiratory symptoms.
+Flu treatment: There are flu antiviral drugs recommended by CDC for use in children. Oseltamivir (available as a generic version or under the trade name Tamiflu®) is approved for treatment of flu in children 14 days old and older.
+People with underlying health conditions
+Certain medical conditions like chronic lung disease, heart disease, diabetes, or chronic kidney disease might increase your risk for getting very sick from respiratory viruses. These conditions can weaken the body’s ability to fight off infection or they affect organs also impacted by the respiratory illness. For more specific information by type of respiratory illness, read more:
+Flu: People at Increased Risk for Flu Complications
+COVID-19: People with Certain Medical Conditions and COVID-19 Risk Factors
+People with weakened immune systems
+People with weakened immune systems (immunocompromise) have lower defenses against infections. Their bodies may have a harder time building lasting protection from past immunization or infection. People can be immunocompromised either because of a medical condition or because they receive immunosuppressive medications or treatments. Examples of medical conditions or treatments that may result in moderate to severe immunocompromise include, but are not limited to, cancer treatment, organ transplant with immunosuppressive therapy, and primary immunodeficiency.
+For more specific information by type of respiratory illness, read more:
+Flu: People at Increased Risk for Flu Complications
+COVID-19: COVID-19 vaccines for Moderately to Severely Immunocompromised People
+When sick
+It can take longer than average for people with weakened immune systems to recover from respiratory viruses. This includes a possible longer duration during which you can spread a respiratory virus to others. If you are immunocompromised, be aware of this when choosing precautions after you return to normal activities following time at home sick.
+People with disabilities
+Some disabilities can raise a person's risk of getting very sick from respiratory viruses. For example, some people with disabilities are more likely to have underlying medical conditions, live in congregate settings, or experience factors and conditions stemming from social determinants of health. For more specific information by type of respiratory illness, read more:
+Flu: Flu and People with Disabilities
+COVID-19: COVID-19 Information and Resources for People with Disabilities
+The Disability Information and Access Line (DIAL) can help people with disabilities find local vaccination clinics, connect with accessible transportation, and provide other assistance in accessing COVID-19 vaccinations or setting up a vaccination appointment.
+Special considerations related to prevention and treatment
+Masks: Some people with disabilities may find it difficult to wear a mask. When considering whether to use a mask, people with disabilities or their caregivers can consider the person's ability to wear a mask correctly (proper mask size and fit), to avoid frequent touching of the mask and face, and to remove the mask without assistance. For people who are deaf or hard of hearing, or people who spend time with someone who is deaf or hard of hearing, clear masks or masks with clear panels are an option.
+Working with support providers: People with disabilities who have direct support providers can also help protect themselves from respiratory viruses. For example, ask direct support providers if they are experiencing any symptoms of or have other reasons to believe they might have a respiratory virus. Ask direct service providers to use core and additional prevention strategies, like taking steps for cleaner air as possible to reduce the amount of virus within indoor areas, practicing good hygiene, or wearing a well-fitting mask.
+Pregnancy
+Changes in the immune system, heart, and lungs during pregnancy can raise the risk of getting very sick from respiratory viruses. In addition, while immunizations received during pregnancy can provide protection to the pregnant woman, they can also help lower the risk for the baby after birth. For more specific information by type of infection, read more:
+Flu: Flu & Pregnancy
+RSV: Immunizations to Protect Infants
+COVID-19: COVID-19 Vaccination for Women Who Are Pregnant or Breastfeeding
+Treatment during pregnancy
+COVID-19 antivirals are recommended for persons who are at high risk of severe illness, including adults 65 years and older, people with weakened immune systems, people with certain medical conditions, and pregnant women. It is not recommended to withhold COVID-19 treatment from pregnant or lactating women because of theoretical safety concerns. For more information on treating COVID-19 in pregnant women, see the IDSA guidelines on initiating remdesivir and nirmatrelvir/ritonavir (Paxlovid).
+Flu antivirals are recommended for certain people at high risk for complications from flu, including pregnant women.
+To learn more about if treatment is right for you, speak with a healthcare provider.
+Notice
+CDC offers separate, specific guidance for healthcare settings (COVID-19, flu, and general infection prevention and control). Federal civil rights laws may require reasonable modifications or reasonable accommodations in various circumstances. Nothing in this guidance is intended to detract from or supersede those laws.
+Aug. 18, 2025

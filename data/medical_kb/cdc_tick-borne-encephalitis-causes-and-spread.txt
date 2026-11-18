@@ -1,0 +1,26 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Tick-borne Encephalitis: Causes and How It Spreads
+URL: https://www.cdc.gov/tick-borne-encephalitis/causes-and-spread/index.html
+────────────────────────────────────────────────────────────
+
+For Everyone
+Key points
+Tick-borne encephalitis is caused by a virus primarily spread to people through the bite of an infected tick.
+The virus can sometimes spread through consumption of unpasteurized milk or cheese from infected goats, sheep, or cows.
+Tick-borne encephalitis virus is maintained in the environment between ticks and animals.
+People do not spread the infection other than rarely through blood transfusion, organ transplantation, and breastfeeding.
+Primary cause
+Tick-borne encephalitis is caused by a virus that is found in parts of the region stretching from western and northern Europe to northern and eastern Asia.
+About the virus
+Tick-borne encephalitis virus is a member of the family Flaviviridae, genus Orthoflavivirus. There are three main subtypes of the virus: European, Far Eastern, and Siberian. The subtypes are found in different areas and cause disease of varying severity. The virus has a single-stranded, positive-sense RNA genome. The virus particles are spherical and have a diameter of 50 nm.
+Tick-borne encephalitis virus is related to Powassan virus that occurs in North America and isolated locations of Russia.
+How it spreads
+Tick-borne encephalitis virus spreads to people primarily through the bite of an infected Ixodes tick.
+People do not develop high enough levels of the virus in their blood to infect biting ticks. As a result, people are considered "dead-end" hosts for tick-borne encephalitis virus.
+People can also be infected by consuming unpasteurized milk or cheese from infected goats, sheep, or cows, through slaughtering of infected animals, or from exposure to the virus in the laboratory.
+The virus does not spread from person to person, except rarely by blood transfusion, organ transplantation, or breastfeeding. People who were recently diagnosed with tick-borne encephalitis virus infection should not donate blood or bone marrow for 120 days following infection.
+Prevent tick-borne encephalitis
+The best way to protect yourself from tick-borne encephalitis is to prevent tick bites. Vaccination is recommended for some travelers.
+Transmission cycle
+Ticks, specifically hard ticks of the family Ixodidae, transmit tick-borne encephalitis virus. Ticks become infected when they feed on blood from infected vertebrate hosts, particularly small rodents, and can subsequently transmit the virus during the next blood meal. Ticks can also get the virus transstadially (from larva to nymph to adult ticks), transovarially (from adult female tick to eggs), or when cofeeding on infected animals. The highest period of tick activity and risk of spread is during the warmer months from April through November.
+Although people are dead-end hosts, person-to-person transmission via blood transfusion, organ transplantation, and breastfeeding has been documented in rare cases. Transmission to people also occurs via consumption of unpasteurized dairy products from infected goats, sheep, or cows; slaughtering infected animals; and laboratory exposure.

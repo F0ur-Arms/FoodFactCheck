@@ -1,0 +1,31 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: One Health and Fungal Diseases
+URL: https://www.cdc.gov/fungal/about/one-health.html
+────────────────────────────────────────────────────────────
+
+For Everyone
+Oct. 7, 2026
+Key points
+A One Health approach recognizes that the health of people, animals, and the environment are connected.
+Fungal diseases spread between people and animals and through the environment.
+The way fungi interact with people, animals, and the environment impacts the spread and scope of fungal diseases.
+Overview
+A One Health approach recognizes that the health of people is closely connected to animal health and our shared environment.
+One Health helps explain how fungal diseases emerge and spread. People can get fungal infections from the environment by inhaling fungal spores or through cuts and wounds. Some fungal diseases are zoonotic, meaning they spread between people and animals.
+Changes to the environment like warming temperatures, extreme weather events, and fungicide use can all impact the risks for and outcomes of fungal diseases.
+People, animals, and fungal diseases
+Some fungal diseases, like ringworm and sporotrichosis, can spread between animals and people. Other fungal diseases, like histoplasmosis, can cause sickness in both people and animals but do not spread between them.
+Ringworm
+A severe form of antifungal-resistant ringworm, caused by Trichophyton (T.) indotineae, has been spreading among people in South Asia. There have been some infections among people in the United States. Recently, T. indotineae infections were detected in animals in the Indian subcontinent.
+No animal T. indotineae infections have been reported in the United States. However, health officials remain vigilant. Common types of ringworm spread easily between people and pets.
+Sporotrichosis
+Emerging zoonotic disease-causing fungi are becoming more common. Sporotrichosis, caused by Sporothrix brasiliensis, can spread among cats and from cats to humans. This disease is rapidly expanding to new regions in South America.
+Climate change impacts
+Warming temperatures and climate change may expand the areas where disease-causing fungi can live. Examples include blastomycosis, Valley Fever, histoplasmosis, and Cryptococcus gattii infection.
+Climate change is also causing more extreme weather events which can increase risk for fungal diseases. For example, flooding can increase mold growth and exposure. High winds can carry more disease-causing fungi into the air.
+Antifungal use in the environment
+Any use of antifungals in people, animals, or the environment, contributes to antifungal resistance. Fungicides are important for protecting plants from fungi and are used in agriculture and industry.
+However, some fungicides work the same way to kill fungi as antifungal medications. Overtime fungi that are exposed to the fungicide can develop resistance to the similar antifungal. For example, azole fungicide use in industry may be contributing to azole-resistant aspergillosis.
+Other exposures
+Fungi can impact human and animal health in other ways. Toxins produced by fungi associated with agriculture can affect human and animal health when consumed. Contamination of food crops with aflatoxins, produced by Aspergillus, has led to pet aflatoxin poisonings and pet food recalls.
+Aflatoxins can also cause sickness in humans. Eating poisonous mushrooms can serious illness and death in humans and animals.

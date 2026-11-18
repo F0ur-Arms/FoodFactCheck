@@ -1,0 +1,31 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: The Radioactive Atom: An Overview
+URL: https://www.cdc.gov/radiation-health/about/radioactive-atom.html
+────────────────────────────────────────────────────────────
+
+For Everyone
+Key points
+Ionized atoms can occur naturally in the environment and are considered unstable.
+Atoms seek to be stable and may release energy to become stable.
+The energy released from the atom is known as radiation.
+Overview
+Ionizing radiation comes from radioactive atoms, many of which occur naturally in the environment. Radioactive atoms, just like any other form of matter, can be in gas, liquid, or solid forms.
+Atoms are the building blocks of matter. Their structure determines their elemental and chemical properties. They are composed of a nucleus, containing protons and neutrons, surrounded by a cloud of electrons.
+The number of protons in the nucleus determines the identity of the atom (chemical element). For example, a carbon atom has six protons. If you were able to add another proton to the carbon nucleus, you wouldn't have a carbon atom anymore. You would have a nitrogen atom instead. Atoms with the same number of protons but different numbers of neutrons are called isotopes.
+Most atoms are stable, meaning they have a good balance of neutrons and protons. But some atoms have an unstable combination blend of protons and neutrons, and these are considered radioactive. To get to a more stable state, the atom expels energy from the nucleus in the form of a particle or ray. This process is known as radioactivity and the energy that's released is radiation.
+After an atom expels energy from the nucleus, the composition of the nucleus changes, and we are left with a different element that is more stable. This is known as radioactive decay.
+Terms to know
+Radioactivity is the spontaneous release of energy from an unstable atom.
+Radioactive material is a solid, liquid, or gas that gives off radiation.
+Radiation is the energy that comes out of a radioactive atom.
+Radioactive isotopes, also known as radionuclides, are radioactive atoms of the same element that have different numbers of neutrons.
+Radioactive decay is the change from an unstable atom to a more stable atom by the emission of radiation.
+Different radioactive isotopes give off different kinds of radiation, and decay at different rates.
+Keep Reading
+Properties of Radioactive Isotopes: An Overview
+Radioactive Decay Example
+Think of the carbon atom mentioned above. Every carbon atom has six protons, and the majority of carbon atoms have six neutrons.
+But some types of carbon have more than six neutrons. Isotopes are forms of elements that have a different number of neutrons. For example, carbon-14 is a radioactive isotope of carbon that has six protons and eight neutrons in its nucleus. We call it carbon-14 because the total number of protons and neutrons in the nucleus adds up to 14.
+If we wanted to abbreviate the name of an isotope, we'd use the elemental symbol and the mass number. For example, carbon-14 would be abbreviated C-14.
+Because carbon-14 has six protons, it is still carbon, but the two extra neutrons make the nucleus unstable. In order to reach a more stable state, carbon-14 releases a negatively charged particle from its nucleus. That action turns one of the neutrons into a proton.
+In the carbon-14 example, the atom gives off radiation from the nucleus to reach a more stable state. In doing so, the composition of the nucleus changes, and we are left with a different element that is more stable but may still be radioactive. This process is known as radioactive decay.

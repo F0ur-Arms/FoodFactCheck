@@ -1,0 +1,37 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: About Infectious Disease Pathology
+URL: https://www.cdc.gov/infectious-disease-pathology/about2/index.html
+────────────────────────────────────────────────────────────
+
+Feb. 11, 2026
+At a glance
+The Infectious Diseases Pathology Branch is the primary unit within CDC responsible for conducting laboratory studies and investigations of infectious diseases of unknown cause or origin. The branch also works to identify new or emerging pathogens.
+What we do
+The Infectious Diseases Pathology Branch (IDPB)'s mission is to advance public health in the United States and globally by investigating and identifying infectious causes of illness and death using pathology and tissue-based diagnostics.
+IDPB is a multidisciplinary team of scientists, including pathologists, molecular biologists, microbiologists, and epidemiologists who investigate complex cases, infectious disease outbreaks, and public health emergency responses involving a wide range of pathogens.
+IDPB's work contributes to CDC's overall public health goals through diagnosis, surveillance, outbreak investigations, and research to further knowledge about the causes and processes of infectious diseases.
+They collaborate with other programs at CDC and provide support and training to state and local health departments, federal agencies, academic institutions, and other health organizations.
+How we work
+IDPB's work is a critical part of the detection, research, and surveillance of emerging and re-emerging pathogens.
+Each year, cases from all over the world are sent to IDPB. Pathologists and scientific teams work to diagnose and better understand diseases. Diagnosing infections in people and animals is essential for developing infection control and prevention measures, understanding the disease process, and finding proper treatment.
+IDPB scientists develop and routinely apply cutting-edge laboratory techniques to identify hundreds of different infectious agents in body tissues. These tests identify many kinds of viruses, bacteria, parasites, and fungi. IDPB performs tests that often are highly specialized and specifically optimized for formalin-fixed, paraffin-embedded (FFPE) tissues. Their lab's high-quality services meet regulatory requirements through quality management and regulatory compliance programs.
+Investigating unexplained illness and death
+Investigating unexplained illnesses and deaths is a major part of IDPB's work. IDPB often takes the lead when CDC investigates deaths that are thought to be due to an infection.
+Outbreak investigations and surveillance
+During a disease outbreak and other investigations, IDPB helps make a diagnosis in human and animal tissues to confirm the cause of a disease. In addition, if pathogen-specific test results are negative or inconclusive, pathologic examination can provide needed direction in an outbreak investigation. This is common with emerging or new pathogens, which can be difficult to identify.
+Tissue-based investigative methods are also important to disease surveillance efforts. Surveillance systems monitor disease, and an efficient process can help control and prevent an outbreak by picking up on early cases.
+Pathogenesis studies
+Another of pathology's important contributions to the study of disease is determining pathogenesis, or the process and progression of a disease in a human or animal's body.
+IDPB performs pathology and other techniques to study zoonotic and infectious diseases of public health importance in humans and animals. These studies can lead to the development of new treatments and vaccines for diseases.
+Submitting a sample
+IDPB works with human and animal tissue samples only (no body fluids, swabs, or other specimen types). Acceptable specimens differ depending on several factors including tissue type, source, and anticipated testing method.
+If you are a physician or are associated with a government health agency, please contact pathology@cdc.gov for consultation, pre-approval, and information on how to submit cases to IDPB for testing.
+Acceptable specimens and submission instructions
+For detailed information on acceptable specimens and specimen submission instructions, refer to the CDC's Infectious Diseases Laboratory Test Directory:
+Pathologic or Molecular Evaluation of Fixed Human Tissues (Non-Fatal U.S. Cases) – CLIA (CDC-10365)
+Pathologic or Molecular Evaluation of Fixed Human Tissues (Fatal or International Cases) – Non-CLIA (CDC-10598)
+Pathologic or Molecular Evaluation of Fixed Animal Tissues – Non-CLIA (CDC-10599)
+Transmission Electron Microscopy (EM) Evaluation for Possible Infectious Etiologies – CLIA (CDC-10559)
+Transmission Electron Microscopy (EM) Evaluation for Possible Infectious Etiologies – Non-CLIA (CDC-10593)
+For more information, contact pathology@cdc.gov.
+Feb. 11, 2026

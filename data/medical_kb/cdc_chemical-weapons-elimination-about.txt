@@ -1,0 +1,57 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: About Chemical Weapons Elimination
+URL: https://www.cdc.gov/chemical-weapons-elimination/about/index.html
+────────────────────────────────────────────────────────────
+
+For Everyone
+Key points
+From the early 1900s to 1968, the U.S. produced and stockpiled chemical weapons.
+The U.S. stockpile of chemical weapons has been destroyed as of 2023.
+Some discarded and buried items remain.
+History of U.S. Chemical Weapons
+From World War I to 1968, the United States produced and stockpiled chemical weapons to deter other countries from using similar weapons. The amount stored reached nearly 40,000 tons stockpiled in bulk or as assembled weapons at nine sites in the United States. These weapons were never used in battle and eventually became obsolete and deteriorated with age.
+From 1967 to 1970, a disposal operation called Cut Holes and Sink 'Em (CHASE) loaded thousands of tons of chemical weapons and agents onto old ships and intentionally sunk them at sea. In 1972, Congress passed the Marine Protection, Research, and Sanctuaries Act of 1972, Public Law (PL) 92-532 (33 USC 1401), to prohibit this kind of dumping.
+In 1970, Congress passed PL 91-121/441 (50 USC 1512). This law directed what is now the Department of Health and Human Services (HHS) and the Office of the Surgeon General (OSG) to review Department of Defense (DoD) plans to transport, test, or dispose of lethal chemical warfare agents. It also directed HHS and OSG to recommend actions to protect the public's health and safety during such activities.
+HHS and OSG assigned the National Center for Environmental Health (NCEH) at the Centers for Disease Control and Prevention (CDC) to review the DoD plans. NCEH's Chemical Demilitarization Program reviews plans and performs on-site assessments of DoD's chemical weapons demilitarization program. NCEH then recommends actions to ensure protection of public health and safety when chemical warfare agents are destroyed.
+By 1986, stockpiles totaled approximately 30,500 tons and because of the continued deterioration with age. Congress required that all stockpiles of U.S. chemical warfare agents be destroyed by passing PL 99-145 (50 USC 1521).
+In 1997, the United States ratified the United Nations International Chemical Weapons Convention treaty, agreeing to destroy its stockpile of aging chemical weapons by April 29, 2007. However, the deadline was extended, and destruction was completed in 2023.
+Although the Chemical and Biological Weapons Threat Reduction Act of 1997 (S.495) required the destruction of the U.S. chemical weapons stockpile and created the Chemical Stockpile Emergency Preparedness Program (CSEPP), the law mainly applied to declared weapons stored at military facilities, not to old weapons dumped underwater. The Chemical Weapons Convention (CWC), including Article I and the Verification Annex, requires countries to destroy declared chemical weapons but recognizes that old and abandoned weapons may need to be managed differently. The National Defense Authorization Act for Fiscal Year 2007 (Pub. L. 109-364) also recognized that recovering underwater munitions can create environmental and safety risks. As a result, long-submerged chemical weapons are often considered degraded hazards that are managed through monitoring and risk assessment instead of routine recovery and destruction.
+The U.S. stockpile of chemical warfare agents primarily consisted of six chemicals:
+Nerve Agents
+GA – Tabun or ethyl N,N-dimethyl phosphoroamidocyanidate, CAS 77-81-6 (cdc.gov)
+GB – Sarin or isopropyl methylphosphonofluoridate, CAS 107-44-8 (cdc.gov)
+VX – O-ethyl-S-(2-diisopropylaminoethyl)-methyl phosphonothiolate, CAS 50782-69-9 (cdc.gov)
+Vesicant, or Blister Agents
+H, HD – Sulfur mustard, bis-(2-chloroethyl)sulfide, or di-2-chloroethyl sulfide (HD), CAS 505-60-2 (cdc.gov)
+L – Lewisite or dichloro 2-chlorovinylarsine, CAS 541-25-3 (cdc.gov)
+Destruction of Stockpiled Chemical Weapons
+All stockpiled chemical warfare agents have been destroyed at all nine sites. Seven sites have been closed and the last two sites should complete decontamination and demolition in 2026.
+Bluegrass, KY Chemical Agent-Destruction Pilot Plant
+Pueblo, CO Chemical Agent-Destruction Pilot Plant
+Read more about Closing U.S. Chemical Warfare Agent Destruction Facilities.
+Destruction of Recovered Chemical Weapons and Other Chemical Agent Materials
+There are several types of recovered chemical weapons and other chemical agent materials. These chemical materials include
+Recovered chemical weapons
+Chemical Agent Identification Sets (CAIS)
+Sea disposed chemical weapons
+Former chemical weapons production facilities
+Chemical samples
+Binary chemical weapons (army.gov)
+Miscellaneous equipment, such as empty aerial spray tanks
+The U.S. Army decontaminated and demolished the former chemical weapons production facilities and binary chemical weapons.
+The U.S. Army Chemical Materials Activity, Recovered Chemical Materiel Directorate manages chemical material when it is found. Any items suspected to be recovered chemical material are examined by a series of nondestructive tests. If they contain chemical warfare agents, they are destroyed near the area where they are found, with specially designed mobile equipment. Before destruction of the chemical material begins, CDC reviews destruction plans and methods to verify public health is protected.
+Read more about recovered chemical materials.
+Related Programs
+Program Executive Office, Assembled Chemical Weapons Alternatives (PEO ACWA) (army.mil)
+Recovered Chemical Materiel Directorate (army.mil)
+Chemical Stockpile Emergency Preparedness (fema.gov)
+Department of Public Health & Environment Pueblo Chemical Depot/PCAPP (colorado.gov)
+Kentucky Department of Environmental Protection/Blue Grass Army Depot (ky.gov)
+Organisation for the Prohibition of Chemical Weapons (opcw.org)
+Defense Threat Reduction Agency (dtra.mil)
+Chemical Emergencies (cdc.gov)
+Historical Resources
+Methods to dispose of U.S. stockpiled chemical weapons (cdc.gov)
+Incineration (cdc.gov)
+Engineering controls at former U.S. stockpiled chemical weapons facilities (cdc.gov)
+Perspectives on Inhalation Exposure from Incinerator Air Emissions (cdc.gov)

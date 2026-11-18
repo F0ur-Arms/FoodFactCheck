@@ -1,0 +1,83 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Sporotrichosis Basics
+URL: https://www.cdc.gov/sporotrichosis/about/index.html
+────────────────────────────────────────────────────────────
+
+Key points
+Sporotrichosis is a severe skin infection caused by the fungus Sporothrix that lives in soil and plants.
+It is considered a neglected tropical disease and causes devastating health and economic problems in some tropical and subtropical areas.
+In the U.S., most infections are caused by contact with plant matter.
+In South America, a type of the fungus, Sporothrix brasiliensis (S. brasiliensis), is spreading from cats to people.
+Overview
+Sporotrichosis ("rose gardener's disease") is a fungal skin infection caused by Sporothrix, a fungus that lives in soil and on plants. It affects both people and animals.
+People get infected when Sporothrix gets in cuts or scrapes. For example, infections can be caused by pricks from rose thorns or scratches from an infected cat. Cat-associated sporotrichosis is a growing global public health concern.
+Usually, sporotrichosis causes severe skin infections. Less commonly, it can cause eye or lung infections. Very rarely, the infection can spread to other parts of the body.
+Sporotrichosis is listed by the World Health Organization as a neglected tropical disease. It is found worldwide, but most cases are among impoverished communities and causes devastating health, social, and economic consequences.
+For Health Care Providers‎
+Clinical Overview of Sporotrichosis
+Types and strains
+Sporothrix schenckii
+Sporothrix schenckii (S. schenckii) is the most common species of Sporothrix in the U.S.. Most infections with S. schenckii are caused by contact with plants. Rarely, this strain can spread from animals to humans.
+Sporothrix brasiliensis
+In South America, the most common species is Sporothrix brasiliensis (S. brasilliensis). Unlike most cases of S. schenckii, most people get infected with S. brasiliensis through contact with infected cats. Infections with S. brasiliensis tend to be more severe than infections with other Sporothrix species. There have not been any reported spread of S. brasiliensis in the U.S. to date.
+Symptoms
+The symptoms of sporotrichosis depend on how and where the fungus gets into the body. Most infections are through the skin. Symptoms start anytime from 1 to 12 weeks after exposure.
+Types of infection and symptoms include
+Cutaneous (skin) - Starts as a small painless red, purple, or pink bump on the skin. Over time, more bumps may start to appear and grow larger. Eventually they may start to pus, become open sores, and spread up the arm or from the infection site.
+Ocular (eye) - Redness of the eye, redness or swelling of the eyelid, eye pain, and possible vision changes.
+Pulmonary (lung) - Cough, shortness of breath, chest pain, and fever.
+Disseminated sporotrichosis - Occurs when the infection spreads to another part of the body (i.e., bones, joints, or central nervous system).
+Disseminated infections typically only affect people with weakened immune systems. Risk factors include diabetes, chronic obstructive pulmonary disease (COPD), alcohol use disorder, or HIV.
+Risk factors
+Contact with plant matter increases risk for infection. This includes activities and occupations that involve gardening, forestry work, and baling hay.
+In areas where cat-transmitted sporotrichosis is spreading, veterinarians and people who provide care for or own cats are most at risk.
+Sporotrichosis is not the same thing as cat-scratch disease, which is a bacterial illness spread by cats.
+Causes and spread
+Sporotrichosis spread is a One Health issue involving humans, animals, and the environment.
+Plants and environment
+The fungus that causes sporotrichosis, Sporothrix, lives in the environment on soil and plants like sphagnum moss, rose bushes, and hay. People can get infected if they have contact with soil or plants where the fungus is found.
+Cats and other animals
+Animals can also get sporotrichosis from contact with soil or plants. Cats can transmit sporotrichosis to humans, cats, and other animals through bites or scratches, or even sneezes. People can also get eye infections by touching an infected cat and then touching their eyes. Very rarely, other animals like armadillos, rats, and dogs can also spread sporotrichosis to humans.
+Infected animals can also contaminate the environment with Sporothrix through their feces, or if they die and are not cremated.
+Prevention
+To help prevent getting sporotrichosis:
+Wear gloves, pants, and long sleeves when touching plant matter.
+Avoid contact with cats with sores or wounds.
+In areas where cat-associated sporotrichosis is common, cat owners should:
+Limit interactions between domestic and feral cats.
+Bring cats with signs of sporotrichosis to a veterinarian right away.
+Inform the veterinarian of their cat's travel history
+Even if the cat shows signs of sporotrichosis years after the travel.
+Testing and diagnosis
+To test for sporotrichosis, a healthcare provider may:
+Examine a swab or scrape from a skin sore under a microscope.
+Send a small tissue sample (biopsy) for lab testing.
+Test fluid or discharge from lung or eyes.
+Blood tests may help diagnose severe sporotrichosis, but usually can't diagnose skin infections.
+Treatment and recovery
+Treatment depends on the type of infection.
+Skin sporotrichosis – several months of oral antifungal medication, like itraconazole or terbinafine or medications like supersaturated potassium iodide (SSKI).
+Lung or disseminated sporotrichosis – at least a year of antifungal medication, including intravenous amphotericin B medicine and oral itraconazole.
+People with sporotrichosis in the lungs may also need surgery to cut away the infected tissue.
+Resources: Cat-associated sporotrichosis
+Information on cat-associated sporotrichosis
+Sept. 24, 2024
+Download
+Information on cat-associated sporotrichosis for healthcare providers
+Sept. 24, 2024
+Download
+Information on Sporotrichosis in cats for vets
+Sept. 24, 2024
+Download
+More fungal disease resources
+Fungal Diseases
+Fungal diseases and antifungal resistance are increasing worldwide. Misdiagnosis is common.
+Communication and Educational Materials
+Find and download social media graphics, fact sheets, infographics, and animated videos.
+Aug. 7, 2024
+Webinars, Podcasts, and Clinical Tools
+Access webinars and podcasts featuring world experts in fungal diseases and find clinical resources.
+Apr. 3, 2024
+Resources and tools
+Sporotrichosis: Training for national and district-level health workers- World Health Organization
+Clinical Practice Guidelines for the Management of Sporotrichosis - Infectious Diseases Society of America

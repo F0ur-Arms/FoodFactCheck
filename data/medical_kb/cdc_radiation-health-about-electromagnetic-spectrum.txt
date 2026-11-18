@@ -1,0 +1,29 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: The Electromagnetic Spectrum: An Overview
+URL: https://www.cdc.gov/radiation-health/about/electromagnetic-spectrum.html
+────────────────────────────────────────────────────────────
+
+For Everyone
+Key points
+There is a wide range of electromagnetic radiation in nature, and visible light is one example.
+Radiation with the highest energy includes forms like ultraviolet radiation, x-rays, and gamma rays.
+X-rays and gamma rays can remove electrons and cause the atom to become ionized.
+Overview
+The most common form of radiation we are all familiar with is visible light. Light is energy that originates from a source and travels through space at the speed of...light! It has a particular frequency that defines its energy.
+We can detect this visible radiation with our eyes. The only difference between various colors of light is in their wavelength and frequency or in other words in their energy. Red light, for example, has less energy than purple light.
+The visible part of the spectrum is only a tiny part of this wide range of energies.
+As we move lower in frequency from red light, there are other familiar forms of electromagnetic radiation:
+Infrared
+Microwaves
+Signals from our cell phones
+Radio waves
+These are all forms of radiation that are invisible to our eyes and that have less energy than visible light or light of different colors.
+As we move up (higher) in frequency from purple light, there are:
+Ultraviolet (UV) radiation
+X-rays
+Gamma rays
+These are all forms of radiation with energies much higher than visible light.
+X-rays and gamma rays have enough energy that during interaction with atoms, they can remove electrons. This causes the atom to become charged or ionized. That's why we refer to this as ionizing radiation. When most people talk about radiation, they are referring to ionizing radiation.
+Keep Reading
+About Ionizing Radiation
+Ionization is a unique property that other forms of radiation at lower frequencies do not have.

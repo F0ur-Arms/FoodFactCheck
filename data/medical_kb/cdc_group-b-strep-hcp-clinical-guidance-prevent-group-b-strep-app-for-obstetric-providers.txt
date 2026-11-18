@@ -1,0 +1,40 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Prevent Group B Strep App for Obstetric Providers
+URL: https://www.cdc.gov/group-b-strep/hcp/clinical-guidance/prevent-group-b-strep-app-for-obstetric-providers.html
+────────────────────────────────────────────────────────────
+
+Key points
+The "Prevent Group B Strep" app is designed for obstetric care providers.
+Use this app to get patient- and scenario-specific guidance to prevent GBS disease.
+Mobile and web versions are available and free to use.
+Get the app
+Download the mobile app
+Download Prevent Group B Strep on your mobile device:
+iOS devices
+Android devices
+Use the web version
+The web version of Prevent Group B Strep requires an internet connection through a mobile device or computer. When using it on a computer, adjust the screen size to look like a smartphone for a better user experience.
+Web version
+The app does not collect personal information
+The app does not request, collect, or store any personal identifying information.
+About the app
+Overview
+Point-of-care guidance
+The Prevent Group B Strep app provides patient- and scenario-specific guidance based on user input of patient characteristics. The guidance is consistent with the American College of Obstetricians and Gynecologists 2019 Committee Opinion.
+Developed by experts
+The app was developed in collaboration with and endorsed by experts in obstetric care in
+American College of Obstetricians and Gynecologists
+American College of Nurse-Midwives
+CDC
+Intended users
+Designed for obstetric care providers, including:
+Obstetricians
+Nurse-midwives
+Family practitioners
+User feedback is encouraged
+If you have suggestions for improving the app, please e-mail pneumonia-strep@cdc.gov.
+Usage guidelines
+Use the app to:
+Answer questions about an obstetric patient.
+Receive specific patient management guidance based on the scenario entered.
+Obtain appropriate antibiotic regimens for patients requiring intrapartum prophylaxis.

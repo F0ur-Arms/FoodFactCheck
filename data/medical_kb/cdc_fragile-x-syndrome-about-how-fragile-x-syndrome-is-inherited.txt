@@ -1,0 +1,42 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: How Fragile X Syndrome Is Inherited
+URL: https://www.cdc.gov/fragile-x-syndrome/about/how-fragile-x-syndrome-is-inherited.html
+────────────────────────────────────────────────────────────
+
+Apr. 27, 2026
+Español
+At a glance
+Fragile X syndrome (FXS) is a genetic disorder. A genetic disorder means that there are changes to the person's genes. FXS, or the risk for developing FXS, can be passed down from parents to children through genes. Here is some information to help you understand how FXS and some related conditions can be passed down through genes.
+Genes
+Each cell in the human body contains thousands of genes. Genes determine many things about the person, such as what the person will look like and whether they are likely to have certain illnesses. In addition, genes have instructions for making proteins in the cells. Proteins are needed for the body to work correctly.
+FXS is caused by a change (mutation) in the fragile X messenger ribonucleoprotein 1 (FMR1) gene. The FMR1 gene makes a protein called FMRP that is needed for brain development.
+Chromosomes
+Genes are found on chromosomes. Every human cell contains 23 pairs of chromosomes. People get their chromosomes from their parents. People get one of each pair of chromosomes from their mother and one of each pair from their father. The chromosomes that form the 23rd pair are called the sex chromosomes. They decide if a person is male or female. Females have two X chromosomes (XX), and males have one X and one Y chromosome (XY).
+The FMR1 gene is on the X chromosome.
+DNA
+The chromosomes and genes have a special code called DNA. DNA has four chemical letters, called bases: A, C, T, and G. The order of the letters determines the information carried in each gene, like the way that a specific pattern of letters makes up the words in a sentence.
+How FXS is inherited
+To understand how FXS is inherited, it helps to know about the changes in the FMR1 gene that cause FXS and other fragile X-associated disorders. There is a place in the FMR1 gene where the DNA pattern of the chemical letters CGG is repeated over and over again. Different people have different numbers of these CGG repeats, but most people have fewer than 45 repeats. People with FXS nearly always have more than 200 repeats, many more than normal. Having more than 200 repeats causes the FMR1 gene to "turn off," so it can't make FMRP (the protein made by the FMR1 gene). When a person's FMR1 gene has more than 200 repeats and can't make FMRP, the person has FXS.
+Each person is in one of the four groups shown below based on the number of CGG repeats in the person's FMR1 gene. The number of CGG repeats that a person has can be determined by a blood test ordered by a healthcare provider or genetic counselor. People with different numbers of CGG repeats have different risks of developing fragile X-associated disorders and of having children with FXS.
+A female has two copies of the FMR1 gene, one on each of her two X chromosomes. The number of CGG repeats on each copy of the FMR1 gene is usually different. For example, a female might have 30 CGG repeats on one copy of her FMR1 gene, but 70 CGG repeats on her other copy. The group a female is in (normal, intermediate, premutation, or full mutation, as shown below) is based on her FMR1 gene copy with the greatest number of CGG repeats. A male has only one copy of the FMR1 gene on his only X chromosome, so the group a male is in is based on the number of CGG repeats in that one copy.
+Keep Reading
+Fragile X-Associated Disorders
+Normal: 5 to 44 Repeats
+Most males have about 5 to 44 repeats of the chemical letters, CGG, in their FMR1 gene and most females also have 5 to 44 repeats in each of their FMR1 genes. This is considered a normal number of repeats. People with a normal number of repeats do not have FXS and do not pass a higher chance for having FXS to their children.
+Intermediate: 45 to 54 Repeats
+People who have an intermediate number of repeats (45 to 54) do not have FXS and are not at risk for having children with FXS. However, they may have a slightly higher chance of having some symptoms related to other fragile X-associated disorders and may pass the slightly higher chance of having these disorders to their children.
+Premutation: 55 to 200 Repeats
+People who have 55 to 200 repeats are said to have a "premutation" in the FMR1 gene. They do not have FXS, but they might have, or may later develop, other fragile X-associated disorders. In addition, people with a premutation can have children with a premutation or full mutation (FXS). However, the chances of having a child with a premutation or a full mutation are different for women with a premutation than they are for men with a premutation, as described below:
+The number of repeats in the egg cells of a woman with a premutation can increase from the premutation range (55 to 200 repeats) to the full mutation range (more than 200 repeats). Therefore, a woman with a premutation can pass on a full mutation. The more CGG repeats a woman with a premutation has, the more likely her child will inherit an FMR1 gene with a full mutation and, therefore, have FXS. With each pregnancy, a woman with a premutation in one of her FMR1 genes has a 50% chance of passing on either the premutation or a full mutation to her child (daughters or sons), and a 50% chance of not passing on either the premutation or the full mutation.
+A man with a premutation will pass on his premutation to his daughters, but not to his sons. A man with a premutation will not pass on a full mutation to any of his children.
+Full Mutation (FXS): More than 200 Repeats
+People with a full mutation (more than 200 repeats) have FXS.
+With each pregnancy, women with a full mutation have a 50% chance of passing fragile X on to their child (sons or daughters).
+See Also
+Learn more about the genetics of FXS
+Many people who have a family member with FXS may wonder what this means for their own health or for the health of other family members. If you are concerned or wish to learn more, you may want to talk to a healthcare provider or genetic counselor.
+More information on FXS
+CDC's Information on Fragile X Syndrome
+CDC's Information on Fragile X-Associated Disorders
+CDC's Information on Fragile X-Related Concerns
+Apr. 27, 2026

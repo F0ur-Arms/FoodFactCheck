@@ -1,0 +1,46 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Malaria Risk Assessment for Travelers
+URL: https://www.cdc.gov/malaria/hcp/risk-assessment/index.html
+────────────────────────────────────────────────────────────
+
+For Health Care Providers
+Mar. 28, 2024
+At a glance
+The risk for contracting malaria varies greatly depending on the location of travel and traveler's behavior and circumstances.
+Distribution of malaria transmission is not homogeneous throughout all countries.
+It is crucial to understand where and when the traveler is going, the style and duration of travel, and the medical history of the traveler.
+It only takes one bite from an infective female Anopheles mosquito to transmit malaria.
+CDC's Yellow Book chapter on Malaria Prevention by Country provides detailed information about the specific parts of countries where malaria is transmitted.
+Risk for a traveler
+The risk for a traveler contracting malaria differs substantially from region to region and from traveler to traveler, even within a single country, based upon travelers' behaviors and circumstances.
+Resource
+CDC's Yellow Book chapter on Malaria Prevention Information, by Country. (This resource replaces the Malaria Prevention Country Tables.)
+There is no accepted method of quantifying the risk and no numerical value for a risk threshold beyond which chemoprophylaxis is or is not recommended. Thus, experience and judgment are required in assessing the factors described below to arrive at the best prevention strategy for the individual traveler.
+A travel or tropical medicine specialist can be an excellent source of guidance when making these decisions. Depending on level of risk, it may be appropriate to recommend no specific interventions, mosquito avoidance measures only, or mosquito avoidance measures plus chemoprophylaxis.
+For the risk-averse traveler, remember that even in low-risk situations, it only takes one bite from an infective female Anopheles mosquito to transmit malaria.
+Questions to Ask When Assessing an Individual Traveler’s Risk
+Where is the traveler going?
+For some areas with limited malaria transmission, where malaria cases occur sporadically and risk of infection to travelers is assessed as being very low, it is recommended that travelers use mosquito avoidance measures only, and no chemoprophylaxis should be prescribed.
+For areas of intense transmission, exposure for even short amounts of time can result in transmission, and so chemoprophylaxis should always be used.
+There is considerable country-by-country variation, as well as variable transmission within countries. See CDC's Yellow Book chapter on Malaria Prevention Information, by Country for details. (This resource replaces the Malaria Prevention Country Tables.)
+Malaria transmission is not distributed homogeneously throughout all countries. Some destinations have malaria transmission occurring throughout the whole country, while in others it occurs in defined pockets. If travelers are going to the highly endemic pockets during peak transmission times, even though the country as a whole may be low transmission, this destination for this individual may be high risk.
+When is the traveler going?
+In some countries with significant seasonal shifts in temperature or rainfall, malaria transmission intensity may decrease during the colder or drier months of the year. Based on knowledge of the climactic conditions in some sub-tropical or temperate destinations, travelers may choose mosquito avoidance measures only, for example, during the winter months.
+What is the style and duration of travel?
+It is important to assess factors such as the types of accommodations and activities as well as the reason and duration of travel as a part of the risk assessment. For example, short-term business travelers staying in air-conditioned hotels may be at lower risk than backpackers or adventure travelers.
+Because malaria-transmitting mosquitoes are most active at night, include an assessment of the likelihood that the travelers might be spending time outdoors in the evenings for dining or entertainment. Longer durations of stay in a malaria-endemic area may also increase the chance that an individual might become infected.
+Who is the traveler?
+Certain travelers have been shown to have greater risk of malaria infection. Particular care should be given to ensure an effective malaria prevention strategy for these travelers.
+The highest risk is associated with first- and second-generation immigrants living in nonendemic countries who return to their countries of origin to visit friends and relatives (VFRs). It's important to note that acquired immunity to malaria weakens the longer someone is away from an area where malaria is widespread or endemic. Individuals who have been away from their country of origin for even a short time lose their protective immunity and should use the same preventative measures as all travelers (preventative medication, mosquito bite prevention, etc.)
+Malaria infection in pregnant women can be more severe than in nonpregnant women. Malaria can increase the risk for adverse pregnancy outcomes, including prematurity, abortion, and stillbirth.
+Keep Reading
+Traveling while Pregnant
+For these reasons, women who are pregnant or likely to become pregnant should be advised to avoid travel to areas with malaria transmission if possible. If travel to a malarious area cannot be deferred, use of an effective chemoprophylaxis regimen is essential. Depending on the destination, this is usually either chloroquine or mefloquine.
+Mar. 28, 2024
+Sources and Page Info
+Print
+Share
+Facebook
+LinkedIn
+Twitter
+Syndicate

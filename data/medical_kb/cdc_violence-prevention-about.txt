@@ -1,0 +1,26 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: About Violence Prevention
+URL: https://www.cdc.gov/violence-prevention/about/index.html
+────────────────────────────────────────────────────────────
+
+What to know
+Violence is an urgent public health problem. CDC’s goal is to stop violence before it begins.
+Prevention requires understanding the factors that influence violence.
+CDC uses the social-ecological model to gain a deeper understanding of violence and the impact of prevention strategies.
+Overview
+Decades of research, prevention, and services have provided valuable insights into various forms of violence and effective ways to prevent and respond to them. One consistent finding is the strong interconnection between different forms of violence.
+Research has shown that people who experience one form of violence are more likely to experience other forms. Additionally, people who engage in violence in one context (e.g., towards peers) are also likely to be violent in other contexts (e.g., towards dating partners). Research has also shown that various forms of violence share common consequences that can negatively impact mental, emotional, physical, and social well-being. These consequences may contribute to chronic health conditions like cancer, cardiovascular disease, lung disease, or diabetes. Lastly, the research has found that different forms of violence also share common risk and protective factors.
+Understanding the overlapping causes of violence and the things that can protect people and communities can help us better prevent violence in all its forms.
+Resource
+Connecting the Dots: An Overview of the Links Among Multiple Forms of Violence shares research on the connections between different forms of violence and describes how these connections affect communities.
+A framework for prevention
+CDC uses a four-level social-ecological model to better understand violence and the effect of potential prevention strategies. This model considers the complex interplay between individual, relationship, community, and societal factors. It allows us to understand the various factors that put people at risk for violence or protect them from experiencing or perpetrating violence. The overlapping rings in the model illustrate how factors at one level influence factors at another level.
+The model also suggests that preventing violence requires simultaneous action across multiple levels. This approach is more likely to sustain prevention efforts over time and achieve impact on the population as a whole.
+Individual
+The first level identifies biological and personal history factors that increase the likelihood of becoming a victim or perpetrator of violence. Some of these factors are age, education, income, substance use, or history of abuse. Prevention strategies at this level promote attitudes, beliefs, and behaviors that prevent violence. Specific approaches may include conflict resolution and life skills training, social-emotional learning, and safe dating and healthy relationship skill programs.
+Relationship
+The second level examines close relationships that may increase the risk of experiencing violence as a victim or perpetrator. A person’s closest social circle-peers, partners and family members-influences their behavior and contribute to their experience. Prevention strategies at this level may include parenting or family-focused prevention programs and mentoring and peer programs designed to strengthen parent-child communication, promote positive peer norms, problem-solving skills and promote healthy relationships.
+Community
+The third level explores the settings, such as schools, workplaces, and neighborhoods, in which social relationships occur and seeks to identify the characteristics of these settings that are associated with becoming victims or perpetrators of violence. Prevention strategies at this level focus on improving the physical and social environment in these settings (e.g., by creating safe places where people live, learn, work, and play) and by addressing other conditions that give rise to violence in communities (e.g., neighborhood poverty, residential segregation, and instability, high density of alcohol outlets).
+Societal
+The fourth level looks at the broad societal factors that help create a climate in which violence is encouraged or inhibited. These factors include social and cultural norms that support violence as an acceptable way to resolve conflicts. Other large societal factors include the health, economic, educational, and social policies that help to maintain economic or social inequalities between groups in society. Prevention strategies at this level include efforts to promote societal norms that protect against violence as well as efforts to strengthen household financial security, education and employment opportunities, and other policies that affect the structural determinants of health.

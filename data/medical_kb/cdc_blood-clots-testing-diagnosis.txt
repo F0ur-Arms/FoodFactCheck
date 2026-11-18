@@ -1,0 +1,45 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Testing and Diagnosis for Venous Thromboembolism
+URL: https://www.cdc.gov/blood-clots/testing-diagnosis/index.html
+────────────────────────────────────────────────────────────
+
+Key points
+Your doctor must perform special tests to diagnose deep vein thrombosis (DVT) and pulmonary embolism (PE).
+There are many conditions with similar signs and symptoms to DVT and PE.
+Treatment for DVT and PE may include medications or surgery.
+Diagnosis
+There are other conditions with signs and symptoms similar to those of deep vein thrombosis (DVT) and pulmonary embolism (PE). For example, muscle injury, cellulitis (a bacterial skin infection), and inflammation (swelling) of veins that are just under the skin can mimic the signs and symptoms of DVT.
+It is important to know that heart attack and pneumonia can have signs and symptoms similar to those of PE. Therefore, special tests that can look for clots in the veins or in the lungs (imaging tests) are needed to diagnose DVT or PE.
+Types of tests
+DVT
+The following tests are available for DVT:
+Duplex ultrasonography is an imaging test that uses sound waves to look at the flow of blood in the veins. It can detect blockages or blood clots in the deep veins. It is the standard imaging test to diagnose DVT.
+A D-dimer blood test measures a substance in the blood that is released when a clot breaks up. If the D-dimer test is negative, it means that the patient probably does not have a blood clot.
+Contrast venography is a special type of X-ray where contrast material (dye) is injected into a large vein in the foot or ankle so that the doctor can see the deep veins in the leg and hip. It is the most accurate test for diagnosing blood clots but it is an invasive procedure, which means it is a medical test that requires doctors to use instruments to enter the body. Therefore this test has been largely replaced by duplex ultrasonography, and it is used only in certain patients.
+Magnetic resonance imaging (MRI)—a test that uses radio waves and a magnetic field to provide images of the body—and computed tomography (CT) scan—a special X-ray test—are imaging tests that help doctors diagnose and treat a variety of medical conditions. These tests can provide images of veins and clots, but they are not generally used to diagnose DVT.
+PE
+The following tests are available for PE:
+Computed tomographic pulmonary angiography (CTPA) is a special type of X-ray test that includes injection of contrast material (dye) into a vein. This test can provide images of the blood vessels in the lungs. It is the standard imaging test to diagnose PE.
+Ventilation-perfusion (V/Q) scan is a specialized test that uses a radioactive substance to show the parts of the lungs that are getting oxygen (ventilation scan) and getting blood flow (perfusion scan) to see if there are portions of the lungs with differences between ventilation and perfusion. For example, if there are clots in some of the blood vessels in the lungs, the V/Q scan might show normal amounts of oxygen, but low blood flow to the portions of the lungs served by the clotted blood vessels. This test is used when CTPA is not available or when the CTPA test should not be done because it might be harmful to the particular patient.
+Pulmonary angiography is a special type of X-ray test that requires insertion of a large catheter (a long, thin hollow tube) into a large vein (usually in the groin) and into the arteries within the lung, followed by injection of contrast material (dye) through the catheter. It provides images of the blood vessels in the lung and it is the most accurate test to diagnose PE. However, it is an invasive test so it is used only in certain patients.
+Magnetic resonance imaging (MRI) uses radio waves and a magnetic field to provide images of the lung, but this test is usually reserved for certain patients, such as for pregnant women or in patients where the use of contrast material could be harmful.
+Treatment
+Anticoagulants
+Anticoagulants (commonly referred to as "blood thinners") are the medications most commonly used to treat DVT or PE. Although called blood thinners, these medications do not actually thin the blood. They reduce the ability of the blood to clot, preventing the clot from becoming larger while the body slowly reabsorbs it, and reducing the risk of further clots developing.
+The most frequently used injectable anticoagulants are:
+Unfractionated heparin (injected into a vein),
+Low molecular weight heparin (LMWH) (injected under the skin), and
+Fondaparinux (injected under the skin).
+Anticoagulants that are taken orally (swallowed) include:
+Warfarin
+Dabigatran
+Rivaroxaban
+Apixaban
+Edoxaban
+All of the anticoagulants can cause bleeding, so people taking them have to be monitored to prevent unusual bleeding.
+Thrombolytics
+Thrombolytics (commonly referred to as "clot busters") work by dissolving the clot. They have a higher risk of causing bleeding compared to the anticoagulants, so they are reserved for severe cases.
+Inferior vena cava (IVC) filter
+When anticoagulants cannot be used or don't work well enough, a filter can be inserted inside the inferior vena cava (a large vein that brings blood back to the heart) to capture or trap an embolus (a clot that is moving through the vein) before it reaches the lungs.
+Thrombectomy/Embolectomy
+In rare cases, a surgical procedure to remove the clot may be necessary. Thrombectomy involves removal of the clot in a patient with DVT. Embolectomy involves removal of the blockage in the lungs caused by the clot in a patient with PE.

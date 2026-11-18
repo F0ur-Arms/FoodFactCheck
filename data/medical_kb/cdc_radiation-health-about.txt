@@ -1,0 +1,35 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Radiation and Your Health
+URL: https://www.cdc.gov/radiation-health/about/index.html
+────────────────────────────────────────────────────────────
+
+For Everyone
+Key points
+Electromagnetic radiation is energy that comes from a source and travels through space at the speed of light.
+Electromagnetic radiation has an electric field and a magnetic field associated with it and has wave-like properties.
+You could also call electromagnetic radiation “electromagnetic waves."
+What it is
+Radiation with the highest energy includes forms like far ultraviolet radiation, x-rays, and gamma rays.
+X-rays and gamma rays have a lot of energy. When they interact with atoms, they can remove electrons and cause the atom to become ionized.
+Keep Reading
+The Electromagnetic Spectrum: An Overview
+Categories
+The radioactive atom
+Radioactive atoms have unstable blends of protons and neutrons.
+Radioactivity is the spontaneous release of energy from an unstable atom to get to a more stable state.
+Ionizing radiation is the energy that comes out of a radioactive atom.
+Radioactive isotopes are radioactive atoms of the same element that have different numbers of neutrons.
+Keep Reading
+The Radioactive Atom: An Overview
+Properties of radioactive isotopes
+Radioactive atoms can give off four types of ionizing radiation: alpha particles, beta particles, gamma rays, and neutrons.
+Each type of radiation has different properties. Their properties affect how we can detect it and how it can affect us.
+An unstable atom changes into a more stable atom of the same or different element by giving off radiation. This process is called radioactive decay.
+A half-life is the length of time it takes for half of the radioactive atoms in a group of radioactive isotopes to decay.
+Keep Reading
+Properties of Radioactive Isotopes: An Overview
+Preventing exposure
+The guiding principle of radiation safety is "ALARA." ALARA stands for "as low as reasonably achievable."
+ALARA means avoiding exposure to radiation that does not have a direct benefit to you, even if the dose is small. To do this, you can use three basic protective measures in radiation safety: time, distance, and shielding.
+Keep Reading
+Guidelines for ALARA – As Low As Reasonably Achievable

@@ -1,0 +1,43 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Classic Creutzfeldt-Jakob Disease
+URL: https://www.cdc.gov/creutzfeldt-jakob/about/index.html
+────────────────────────────────────────────────────────────
+
+Jan. 21, 2026
+What to know
+Classic CJD is an always-fatal, usually fast-moving disease that occurs worldwide.
+It affects the brain and causes dementia and other problems, mostly in older adults.
+There is no treatment or cure.
+Overview
+CJD is caused by a prion. Prion proteins are normally found in the body. In rare cases, these proteins misfold and pile up in the brain, leading to CJD.
+CJD causes dementia and other neurologic problems. Once symptoms begin, it can lead to death in months to a year.
+Classic CJD occurs worldwide in older adults, with the average age in the late 60s. Very few cases occur in people who are younger than 30 years old.
+CJD occurs with an estimated rate of about 1 to 2 deaths per 1 million people per year. In the United States, about 500-600 cases are reported each year.
+Types
+There are three main types of CJD infection:
+Sporadic
+The vast majority of all CJD cases reported (about 85%) are called sporadic. These types of cases occur when prion proteins already in the body misfold for reasons that aren't fully understood. This breaks down the brain's functions.
+Familial
+About 5-15% of CJD cases occur because the person has inherited a mutation in the prion protein gene. A person with CJD with a parent, sibling, or child who also has the disease likely has "familial CJD."
+Iatrogenic
+Iatrogenic cases are caused by contact with prions in a healthcare setting or from biological products. There have been 6 known CJD cases caused by surgical or medical equipment contaminated with prions from another patient with the disease. This has not been reported since 1976 due to changes in procedures to decontaminate the equipment.
+People who received prion-contaminated human growth hormone before 1978 may also develop iatrogenic CJD. Even 50 years later, cases are still being identified.
+Finally, cases have occurred in people who received dura mater (a membrane in the brain and spinal cord) grafts and corneal (eye) transplants. If the donor had CJD that was not found before the donation, recipients can get CJD.
+How it affects your body
+People with CJD suffer from dementia. Other symptoms may include trouble walking, sudden jerky movements, and visual disturbances. CJD patients usually die within 1 year after symptoms start.
+Testing and diagnosis
+Healthcare providers can diagnose an illness as a suspect case based on:
+Symptoms and course of illness
+Tests of a person's spinal fluid
+Magnetic Resonance Imaging (MRI), a brain scan
+EEG, a test of electrical activity in the brain
+The only way to confirm CJD is through testing brain tissue from a biopsy or an autopsy.
+Treatment
+There is unfortunately no therapy that will slow or stop the disease from getting worse. Treatment involves supportive care to make the patient more comfortable.
+Similar diseases
+Though they have very similar names, CJD and variant CJD (vCJD) are not the same disease. Both are prion diseases. However, variant CJD is tied to eating meat from cows infected with bovine spongiform encephalopathy (sometimes called Mad Cow Disease). CJD, sometimes called "classic CJD" to avoid confusion, mostly occurs with no known cause. Unlike variant CJD, classic CJD is not caused by any other prion disease.
+About Variant Creutzfeldt-Jakob Disease (vCJD)
+vCJD is a fatal prion disease that people get through eating beef from cows sick with BSE.
+Bovine Spongiform Encephalopathy (BSE)
+BSE, mad cow disease, is a fatal prion disease in cows that can cause illness in people.
+Jan. 21, 2026

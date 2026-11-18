@@ -1,0 +1,93 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: About Transplant Safety
+URL: https://www.cdc.gov/transplant-safety/about/index.html
+────────────────────────────────────────────────────────────
+
+Key points
+Some organ transplantations are lifesaving procedures. However, serious illness, graft loss, and death can occur from undetected infections in donor organs and tissues.
+Laboratorians must test donor organs and tissue for certain bacteria and viruses (for example, human immunodeficiency virus (HIV), hepatitis B and hepatitis C viruses, and syphilis, to name a few).
+Overview
+Transplant safety has two categories: organ safety and tissue safety.
+Transplant transmitted infections are very rare; public health entities and academic groups suspect about 1% of transplants cause infections and have confirmed cases in far fewer. When these events occur, the complications can include graft failure or death. Efforts to improve transplant safety are ongoing, (for example, improvements to donor screening and donor testing) and informed by investigations of disease transmission from transplanted organs and tissues.
+CDC is responsible for surveillance, detection, and warning of potential public health risks within the organ and tissue supply. These public health efforts increase transplant safety by reducing the potential for transmission of communicable diseases.
+Fast facts
+The most frequently transplanted organs in the United States are the kidney, liver, heart, and lungs. The most commonly transplanted tissues in the U.S. are bones, tendons, ligaments, skin, heart valves, blood vessels, and corneas.
+On any given day, there are more than 100,000 people on active waiting lists for organs.
+In 2022, there were approximately 15,000 deceased organ donors. On average, they donated 2.5 organs each.
+Living donors donate approximately 6,000 organs on average per year.
+Surgeons perform about 3.3 million tissue grafts each year and transplant approximately 2.5 million tissue grafts.
+Health impacts
+Although infrequent, transplants can transmit infections that affect patients' health, including:
+Viruses
+Human immunodeficiency virus (HIV)
+Hepatitis C
+Rabies virus
+West Nile virus and other mosquito-transmitted viruses
+Bacteria
+Mycobacterium tuberculosis (tuberculosis)
+Fungi
+Protozoa
+Parasites
+Amebas
+Balamuthia mandrillaris
+Frequently asked questions
+To the body, transplanted organs are foreign. When the body attacks transplanted organs, it is known as rejection. To prevent this response, doctors prescribe medication to organ recipients. A side effect of these medications is the body's inability to fight infections as well as a healthy person.
+Most types of transplanted tissues (i.e., bone, tendons, heart valves, and cornea) are not recognized as foreign and do not require these medications.
+Hospitals are required to have written agreements with organizations that coordinate organ and tissue donation and recovery. There are 57 organ procurement organizations (OPOs) and a larger number of tissue recovery and eye recovery banks that work with hospitals in the United States for this purpose. Hospitals also obtain organs (kidneys and livers) from living donors.
+Organ procurement organizations (OPOs) administer questionnaires to collect:
+Deceased donor medical and social history through next of kin and acquaintances
+Potential behavior causing exposure to certain diseases
+Donor past medical history
+OPOs, tissue banks, and eye banks are also required to perform certain tests to see if the potential donor may have infections (e.g., human immunodeficiency virus (HIV), hepatitis B or hepatitis C virus, syphilis, and cytomegalovirus (CMV)). They provide test results to the healthcare facility where organ or tissue transplantation occur.
+Hospitals evaluate living potential donors for behaviors or medical history that may increase the risk of infection in the donor.
+The Organ Procurement and Transplantation Network (OPTN) requires organizations procuring organs to report suspected donor-derived disease transmissions to the OPTN and all centers receiving potentially affected organs. Additionally, OPOs must contact tissue banks and eye banks that recovered tissues from that same donor.
+Tissue and eye banks are required to investigate if they suspect transplanted tissue caused an infection and:
+Caused fatal, life-threatening, permanent damage to the body
+Required medical or surgical intervention
+The tissue or eye bank that released the tissue must submit findings to the FDA through its MedWatch surveillance system.
+CDC encourages healthcare facilities performing tissue transplants to report suspected transmissions to the tissue supplier through the MedWatch system. Reporting is voluntary.
+When living patients donate organs, the hospitals performing the procedure must notify local or state public health authorities if the donor has a notifiable infectious disease. Each state maintains a list of notifiable diseases found on the health department's website.
+What CDC is doing
+CDC helps the healthcare community, state, and local health departments trace diseased organs back to the original donor and identify people who may have received contaminated organs and/or tissue. This process informs regulatory decisions and risk reduction guidance for transplant safety.
+CDC laboratories can also help test for and identify bacteria, viruses, etc. that may contaminate organs and tissues.
+Research
+Virus Transmissions
+Rebecca J. Free, et al., Risk of SARS-CoV-2 transmission through solid organ transplantation and outcomes of COVID-19 among recent transplant recipients, Open Forum Infectious Diseases, 2022;, ofac221, https://doi.org/10.1093/ofid/ofac221
+Bixler D, Annambhotla P, Montgomery M, et al. Unexpected hepatitis B virus infection after liver transplantation — United States, 2014–2019. American Journal of Transplantation. 09/01 2021;21:3190-3195. doi:10.1111/ajt.16045
+Soto R, McDonald E, Annambhotla P, et al. West Nile Virus Transmission by Solid Organ Transplantation and Considerations for Organ Donor Screening Practices, United States. Emerging infectious diseases. 11/29 2021;28doi:10.3201/eid2802.211697
+Sherman A, Lu X, Schneider E, et al. Human Adenovirus 11 in 2 Renal Transplant Recipients: Suspected Donor-Derived Infection. Open Forum Infectious Diseases. 02/25 2021;8doi:10.1093/ofid/ofab092
+Dollard S, Annambhotla P, Wong P, et al. Donor-derived human herpesvirus 8 and development of Kaposi sarcoma among 6 recipients of organs from donors with high-risk sexual and substance use behavior. American Journal of Transplantation. 07/01 2020;21doi:10.1111/ajt.16181
+Bacteria Transmissions
+Malinis M, et al. Donor-derived tuberculosis among solid organ transplant recipients in the United States-2008 to 2018. Transpl Infect Dis. 2022 Apr;24(2):e13800. doi: 10.1111/tid.13800. Epub 2022 Feb 4. PMID: 35064737.
+Li R, Wilson W, Schwartz N, et al. Notes from the Field: Tuberculosis Outbreak Linked to a Contaminated Bone Graft Product Used in Spinal Surgery – Delaware, March-June 2021. MMWR Morbidity and mortality weekly report. 09/10 2021;70:1261-1263. doi:10.15585/mmwr.mm7036a4
+Saha A, Browning C, Dandamudi R, et al. Donor-derived Ehrlichiosis: 2 Clusters Following Solid Organ Transplantation. Clinical infectious diseases : an official publication of the Infectious Diseases Society of America. 07/30 2021;doi:10.1093/cid/ciab667
+Mowla S, Drexler N, Cherry C, Annambholta P, Kracalik I, Basavaraju S. Ehrlichiosis and Anaplasmosis among Transfusion and Transplant Recipients in the United States. Emerging Infectious Diseases. 11/01 2021;27doi:10.3201/eid2711.211127
+Bardossy A, Snavely E, Nazarian E, et al. Donor-derived transmission through lung transplantation of carbapenem-resistant Acinetobacter baumannii producing the OXA-23 carbapenemase during an ongoing healthcare facility outbreak. Transplant Infectious Disease. 02/01 2020;22doi:10.1111/tid.13256
+Fungus Transmissions
+Natarajan P, Lockhart S, Basavaraju S, et al. Donor-derived Cryptococcus gattii sensu stricto infection in two kidney transplant recipients, southeastern United States. American Journal of Transplantation. 06/01 2021;21doi:10.1111/ajt.16729
+Penumarthi L, Hoz R, Wolfe C, et al. Cryptococcus transmission through solid organ transplantation in the United States: A Report from the Ad Hoc Disease Transmission Advisory Committee. American Journal of Transplantation. 12/08 2020;21doi:10.1111/ajt.16433
+Dellière S, Gits-Muselli M, Bretagne S, Alanio A. Outbreak-Causing Fungi: Pneumocystis jirovecii. Mycopathologia. 2020 Oct;185(5):783-800. doi: 10.1007/s11046-019-00408-w. Epub 2019 Nov 28. PMID: 31782069.
+Smith RM, et al. Three Cases of Neurologic Syndrome Caused by Donor-Derived Microsporidiosis. Emerg Infect Dis. 2017 Mar;23(3):387-395.
+Hocevar SN, et al. Microsporidiosis acquired through solid organ transplantation: a public health investigation. Ann Intern Med. 2014
+Parasite Transmissions
+Abanyie FA, et al. Organ Donor Screening Practices for Strongyloides stercoralis Infection among US Organ Procurement Organizations. Transplant Infectious Disease. 2018: 20(3): e12865.
+Gray EB, et al. Reactivation of Chagas disease among heart transplant recipients in the United States, 2012- Transpl Infect Dis. 2018;e12996. https://doi.org/10.1111/tid.12996
+Farnon EC, et al. Transmission of Balamuthia mandrillaris by Organ Transplantation. Clin Infect Dis. 2016 Oct 1;63(7):878-888.
+Abanyie FA, et al., Donor-Derived Strongyloides stercoralis Infection in Solid Organ Transplant Recipients in the United States, 2009-2013 Am J Transplant. 2015: 15(5):1369–75.
+Transmission of Strongyloides stercoralis through transplantation of solid organs – Pennsylvania, 2012. MMWR, 2013. 62(14);264-266.
+Other Publications
+Abara W, Collier M, Moorman A, et al. Characteristics of deceased solid organ donors and screening results for hepatitis B, C, and human immunodeficiency viruses – United States, 2010-2017. American Journal of Transplantation. 03/01 2019;19:939-947. doi:10.1111/ajt.15284
+Jones J, Gurbaxani B, Asher A, et al. Quantifying the Risk of Undetected HIV , Hepatitis B Virus, or Hepatitis C Virus Infection in Public Health Service Increased Risk Donors. American Journal of Transplantation. 04/13 2019;19doi:10.1111/ajt.15393
+Smalley HK, et al. Assessment of risk for transplant-transmissible infectious encephalitis among deceased organ donors. Transpl Infect Dis. 2018 Oct;20(5):e12933.
+Annambhotla PD, et al. A model to estimate the probability of human immunodeficiency virus and hepatitis C infection despite negative nucleic acid testing among increased-risk organ donors. Transpl Infect Dis. 2017 Apr;19(2).
+Basavaraju SV, et al. Encephalitis caused by pathogens transmitted through organ transplants, United States, 2002-2013. Emerg Infect Dis. 2014 Sep;20(9):1443-51.
+Other transplant safety organizations
+Organs
+The Health Resources and Services Administration (HRSA) is a government agency that provides oversight of organ recovery and transplantation through the Organ Procurement and Transplantation Network (OPTN). Congress established the OPTN under the National Organ Transplant Act of 1984.
+The United Network for Organ Sharing (UNOS) is a private, non-profit organization operating the OPTN under contract with HRSA. OPTN data is collected on all deceased and living donors, organ candidates, and organ recipients. To participate in organ recovery and transplantation, organ procurement organizations (OPO) and transplant hospitals must be members of OPTN.
+The Centers for Medicare and Medicaid Services (CMS) is a government agency that establishes performance standards for transplant centers and OPOs to determine certification or recertification. Medicare reimbursement is linked to meeting CMS performance standards.
+The Association of Organ Procurement Organizations (AOPO) is a national, non-profit organization offering voluntary accreditation service to its 57 OPO institutional members in the United States and its territories. AOPO helps to ensure compliance with federal regulations and AOPO standards. AOPO also provides education and advocacy for its members.
+Tissues
+The Food and Drug Administration (FDA) Center for Biologics Evaluation and Research (CBER) is a federal agency that regulates human tissue, including ocular tissue, for transplantation. Regulations cover all tissue establishments involved in the recovery, processing, storage, and/or distribution of tissue. Healthcare facilities participating in the recovery, processing, or distribution of tissue for transplantation are also required to follow FDA tissue regulations. All tissue and eye banks must register with and follow FDA regulations.
+The American Association of Tissue Banks is a professional, non-profit scientific educational organization providing an accreditation program for transplant tissue banks. Accreditation is mandatory for maintaining status as an AATB institutional member. Based on AATB's Standards for Tissue Banking more than 125 tissue establishments are currently compliant and accredited. These Standards include requirements consistent with applicable FDA regulations and guidance.
+The Eye Bank Association of America is a national, non-profit organization offering accreditation service for its 83 U.S. and 12 international member eye banks, ensuring compliance with EBAA-published medical standards. Accreditation is required for active membership in the EBAA. EBAA medical standards define the minimum requirements for the recovery, preservation, processing, storage, and distribution of ocular tissue for transplantation. Medical standards include requirements to maintain eye bank compliance with applicable FDA regulations.

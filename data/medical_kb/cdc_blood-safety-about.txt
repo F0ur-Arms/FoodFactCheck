@@ -1,0 +1,52 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Blood Safety Basics
+URL: https://www.cdc.gov/blood-safety/about/index.html
+────────────────────────────────────────────────────────────
+
+Key points
+Each day, life-saving blood transfusions are needed across the United States.
+Most patients do not experience side effects from transfusions. On rare occasions, transfusions can cause adverse reactions in patients receiving blood.
+Although the U.S. blood supply is safer than ever, some bacteria, viruses, etc. can infect blood transfusion recipients.
+All blood donors and blood donations are screened for infections and diseases.
+Overview
+The U.S. blood supply is safer than it has ever been. However, blood transfusions can transmit any bloodborne pathogen.
+Report a Possible Outbreak‎
+To report a possible transfusion-transmitted infection cluster or outbreak.
+Call: 770-488-7100
+E-mail: haioutbreak@cdc.gov
+Complications
+Several types of bacteria, viruses, parasites and prions can infect blood donors and recipients, though these infections are rare. Adverse reactions (e.g., allergic reaction, transfusion-transmitted infection, etc.) to a blood transfusion are also very rare. The most common adverse reactions from blood transfusions are allergic and febrile reactions, which make up over half of all adverse reactions reported.
+Reducing Risk
+Screening donated blood
+Healthcare providers and blood banks ask donors a set of standard questions before donating blood including:
+Whether or not they are in good health
+Their social behavior and health history
+If they are free of any bacterial, viral or parasitic diseases
+If they have traveled to areas where transmittable diseases are common
+If their answers indicate they are not well or are at risk for having a disease transmissible by blood transfusion, they cannot donate blood.
+Testing donated blood
+Once donated, laboratory technicians test for blood type, certain infectious diseases and additional proteins (or antibodies) that may cause adverse reactions in a person receiving a blood transfusion.
+Keep Reading:
+Clinical Testing Guidance for Blood Safety
+Quick Facts
+There are approximately 7 million blood donors and more than 14 million units of blood transfused annually in the United States.
+Every 2 seconds someone in the United States needs blood and or platelets.
+The U.S. healthcare system needs approximately 29,000 units of red blood cells every day.
+The U.S. healthcare system needs nearly 5,000 units of platelets and 6.500 units of plasma per day.
+What CDC is doing
+The CDC's Office of Blood, Organ and Other Tissue Safety (BOOTS) conducts surveillance for adverse events following blood transfusions. Providers can use this information to prevent transfusion-related events through evidence-based interventions and recommendations. Hospitals provide this information voluntarily.
+Assisting state and local health departments and hospitals in investigating reports of potential infectious disease transmission.
+Collecting and monitoring data on blood safety and adverse reactions in the National Healthcare Safety Network (NHSN) Hemovigilance Module since 2010. By collecting data in a national system, CDC analyzes aggregate data to understand how to prevent transfusion-related adverse events.
+Conducting surveillance for blood utilization through the National Blood Collection & Utilization Survey.
+Other federal agencies involved in blood safety
+FDA
+Department of Health and Human Services (HHS) Advisory Committee on Blood and Tissue Safety and Availability (ACBTSA)
+Blood & Blood Products
+Transfusion/Donation Fatalities
+Errors and accidents associated with the manufacturing and distribution of blood and blood products
+Research
+Hong, H., Xiao, W., Lazarus, H. M., Good, C. E., Maitta, R. W., & Jacobs, M. R. (2016). Detection of septic transfusion reactions to platelet transfusions by active and passive surveillance. Blood, 127(4), 496-502. Accessed November 04, 2018. https://doi.org/10.1182/blood-2015-07-655944.
+Levy JH, Neal MD, Herman JH. Bacterial contamination of platelets for transfusion: strategies for prevention. Crit Care. 2018 Oct 27;22(1):271. doi: 10.1186/s13054-018-2212-9. PMID: 30367640; PMCID: PMC6204059.
+McFee RB. Tick borne illness – Anaplasmosis. Dis Mon. 2018 May;64(5):181-184. doi: 10.1016/j.disamonth.2018.01.005. Epub 2018 Mar 1. PMID: 29503011.
+Regan J, Matthias J, Green-Murphy A, Stanek D, Bertholf M, Pritt BS, Sloan LM, Kelly AJ, Singleton J, McQuiston JH, Hocevar SN, Whittle J. A Confirmed Ehrlichia ewingii Infection Likely Acquired Through Platelet Transfusion, Clinical Infectious Diseases, Volume 56, Issue 12, 15 June 2013, Pages e105–107, https://doi.org/10.1093/cid/cit177
+Shakir R. Brucellosis. J Neurol Sci. 2021 Jan 15;420:117280. doi: 10.1016/j.jns.2020.117280. Epub 2020 Dec 21. PMID: 33358192.

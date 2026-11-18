@@ -1,0 +1,87 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Social Determinants of Health
+URL: https://www.cdc.gov/health-disparities-hiv-std-tb-hepatitis/about/social-determinants-of-health.html
+────────────────────────────────────────────────────────────
+
+For Everyone
+Aug. 17, 2026
+Key points
+Social determinants of health (SDOH) are the non-medical factors that influence health outcomes.
+They are the conditions in which people are born, grow, work, live, and age, and the wider set of forces and systems shaping the conditions of daily life.
+Impact of social determinants of health
+Social determinants of health (SDOH) are the non-medical factors that influence health outcomes. They are the conditions in which people are born, grow, work, live, and age, and the wider set of forces and systems shaping the conditions of daily life. As defined by the World Health Organization, forces such as racism, climate, etc. and systems include economic policies, development agendas, social norms, social policies, and political systems.
+SDOH are linked to a lack of opportunity and resources to protect, improve, and maintain health. Taken together, these factors create health inequities— types of health disparities that stem from unfair and unjust systems, policies, and practices, and limit access to the opportunities and resources needed to live the healthiest life possible. Read more about this: What is Health Equity?
+While NCHHSTP diseases and infections affect everyone, not everyone is affected equally. The infections we focus on are associated with factors such as age, income, employment, and housing, often resulting in disparities by race and ethnicity, gender identity, sexual orientation, and geography. Because SDOH drive these disparities, NCHHSTP embraces a combination of strategies to address SDOH including:
+Supporting offices of health equity throughout the Center.
+Coordinating Center-wide workgroups, e.g., Correctional Health.
+Writing and awarding funding opportunities to programs and activities that address structural and social factors.
+Engaging partners in affected communities to develop healthier SDOH policies and programs.
+Learn more about Social Determinants of Health at CDC.
+NCHHSTP’s commitment
+NCHHSTP is committed to promoting awareness, engagement, and action on the many factors that can affect the health of all persons, and to addressing these factors in our policy, practice, research, and partnership activities. In support of this commitment, we created a series of brief videos featuring our leaders speaking about the importance of addressing SDOH throughout the Center. The videos include their personal commitment to achieving health equity with a focus on the diseases and infections we work so hard to prevent.
+Mermin on Social Determinants of Health
+Transcript
+Burton on Social Determinants of Health
+Transcript
+Wester on Social Determinants of Health
+Transcript
+Daskalakis on Social Determinants of Health
+Transcript
+Mena on Social Determinants of Health
+Transcript
+About health equity
+Health equity can be defined in several ways. One commonly used definition of health equity is when all people have "the opportunity to 'attain their full health potential' and no one is 'disadvantaged from achieving this potential because of their social position or other socially determined circumstance'".1 The U.S. Department of Health and Human Services defines health equity as attainment of the highest level of health for all people. Achieving health equity requires valuing everyone equally with focused and ongoing societal efforts to address avoidable inequalities, historical and contemporary injustices, and the elimination of health and healthcare disparities.2 Achieving health equity, eliminating disparities, and improving the health of all groups is an overarching goal for Healthy People 2020 and a top priority for the Centers for Disease Control and Prevention (CDC).3
+About social determinants of health
+Health is influenced by many factors, which may generally be organized into five broad categories known as determinants of health: genetics, behavior, environmental and physical influences, medical care and social factors. These five categories are interconnected.
+The fifth category (social determinants of health) encompasses economic and social conditions that influence the health of people and communities.4 These conditions are shaped by socioeconomic position, which is the amount of money, power, and resources that people have, all of which are influenced by socioeconomic and political factors (e.g., policies, culture, and societal values).56 An individual's socioeconomic position can be shaped by various factors such as their education, occupation, or income. All of these factors (social determinants) impact the health and well-being of people and the communities they interact with.
+Several factors related to health outcomes are listed below.
+How a person develops during the first few years of life (early childhood development)
+How much education a person obtains and the quality of that education
+Being able to get and keep a job, and the type of work a person does
+Having food or being able to get food (food security)
+Having access to health services and the quality of those services
+Living conditions such as housing status, public safety, clean water and pollution
+How much money a person earns (individual and household income)
+Social norms and attitudes (discrimination, racism and distrust of government)
+Residential segregation (physical separation of races/ethnicities into different neighborhoods)
+Incarceration
+Culture (general customs and beliefs of a particular group of people)
+Access to mass media and emerging technologies (cell phones, internet, and social media)
+All of these factors are influenced by social circumstances. Of course, many of the factors in this list are also influenced by the other four determinants of health.
+The role of social determinants of health
+Addressing social determinants of health is a primary approach to achieving health equity. Health equity is "when everyone has the opportunity to 'attain their full health potential' and no one is 'disadvantaged from achieving this potential because of their social position or other socially determined circumstance'".7 Health equity has also been defined as "the absence of systematic disparities in health between and within social groups that have different levels of underlying social advantages or disadvantages—that is, different positions in a social hierarchy".8 Social determinants of health such as poverty, unequal access to health care, lack of education, stigma, and racism are underlying, contributing factors of health inequities. The Centers for Disease Control and Prevention (CDC) is committed to achieving improvements in people's lives by reducing health inequities. Health organizations, institutions, and education programs are encouraged to look beyond behavioral factors and address underlying factors related to social determinants of health.
+A growing body of research highlights the importance of upstream factors that influence health and the need for policy interventions to address those factors—in addition to clinical approaches and interventions aimed at modifying behavior.9
+The Centers for Disease Control and Prevention (CDC) is committed to achieving improvements in people's lives by reducing health inequities. Health organizations, institutions, and education programs are encouraged to look beyond behavioral factors and address underlying factors related to social determinants of health.
+The World Health Organization and social determinants of health
+The World Health Organization (WHO) created the Commission on Social Determinants of Health to address social determinants of health.4 The Commission uses the following three principles to guide its work in eliminating health inequities for local communities and nations and throughout the world:
+Improve the conditions of daily life—the circumstances in which people are born, grow, live, work, and age.
+Tackle the inequitable distribution of power, money, and resources—the structural drivers of those conditions of daily life—globally, nationally, and locally.
+Measure the problem, evaluate action, expand the knowledge base, develop a workforce that is trained in the social determinants of health, and raise public awareness about the social determinants of health.4
+The commission created the conceptual framework below that describes relationships among individual and structural variables. The framework represents relationships among variables that are based on scientific studies or substantial evidence. The framework provides a point from which researchers can take action, such as creating targeted interventions, on social determinants of health.
+Resources about social determinants of health
+More information is available from a variety of sources, including the following publications and websites.
+Websites
+World Health Organization
+U.S. Department of Health and Human Services Office of Minority Health
+Office of Minority Health's National Partnership for Action to End Health Disparities
+National Association of County and City Health Officials (NACCHO) Health Equity and Social Justice
+The Robert Wood Johnson Foundation (RWJF)
+Healthy People 2020
+Publications
+Equity, social determinants and public health programmes. Editors Erik Blas and Anand Sivasankara Kurup. 2010, World Health Organization: Geneva.
+Commission on Social Determinants of Health (CSDH), Closing the gap in a generation: health equity through action on the social determinants of health. Final report of the Commission on Social Determinants of Health. 2008, World Health Organization: Geneva.
+Hillemeier, M., Lynch, J., Harper, S., Casper, M., Data Set Directory of Social Determinants of Health at the Local Level. 2004, Centers for Disease Control and Prevention, U.S. Department of Health and Human Services: Atlanta.
+Brennan Ramirez LK, Baker EA, Metzler M. Promoting Health Equity: A Resource to Help Communities Address Social Determinants of Health. Atlanta: U.S. Department of Health and Human Services, Centers for Disease Control and Prevention; 2008.
+Hofrichter, R., Bhatia, R. (Eds.) Tackling Health Inequities through Public Health Practice: Theory to Action. 2010, Oxford University Press.
+Raphael, D., ed. Social determinants of health: Canadian perspectives. 2004, Canadian Scholars' Press Toronto.
+Marmot, M.G. and R.G. Wilkinson, Social determinants of health. 2nd ed. 2006, Oxford ; New York: Oxford University Press. x, 366 p.
+Contact the NCHHSTP Office of Public Health Impact
+Send an e-mail to the Office of Public Health Impact at NCHHSTP_OPHI@cdc.gov.
+Aug. 17, 2026
+Sources and Page Info
+Print
+Share
+Facebook
+LinkedIn
+Twitter
+Syndicate

@@ -1,0 +1,45 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: About AdultVaxView
+URL: https://www.cdc.gov/adultvaxview/about/index.html
+────────────────────────────────────────────────────────────
+
+About
+Vaccination is the key to stopping vaccine-preventable diseases before they start. Adult vaccination coverage data come from a variety of sources, including the National Health Information Survey (NHIS) and the Behavioral Risk Factor Surveillance System (BRFSS).
+AdultVaxView Interactive
+Use the data dashboard
+National, regional, state, and selected local area adult vaccination coverage data using interactive maps, trend lines, bar charts, tables and more. Email VaxView@cdc.gov with questions about the data.
+General Population
+Nursing Home Residents
+Pregnant Women
+Measuring adult vaccination
+Why adult vaccination is important
+Vaccination of adults is an essential part of keeping adults healthy, and reducing the risk of illness, disability, and death due to vaccine preventable diseases. Vaccines are available for adults to prevent serious diseases such as influenza (flu), pneumonia, tetanus, pertussis (whooping cough), herpes zoster (shingles), and hepatitis A and B. The vaccines you need as an adult depend on several factors, including age, prior vaccinations, lifestyle, health conditions, job, pregnancy status, travel, and other considerations. Germs can spread quickly in the home or workplace, affecting entire communities. Vaccination is the key to stopping vaccine-preventable diseases before they start.
+Measuring adult vaccination coverage
+Local, state, and federal health departments use surveys to measure adult vaccination coverage, which is the estimated number of adults who have received particular vaccines. The information collected is used to identify groups with lower vaccination coverage, so health departments can take action to increase vaccination coverage among those groups. On this site, you can learn more about those surveys, their results, and other issues relating to adult vaccination.
+Data Sources
+The National Health Interview Survey (NHIS) monitors the nation's health by conducting in-person household interviews on a broad range of health topics, including vaccinations received by adults.
+The Behavioral Risk Factor Surveillance System (BRFSS) monitors major behavioral risks among adults at the state level and includes questions on health factors related to vaccinations, including yearly questions on flu and pneumococcal vaccinations and questions related to flu, tetanus, and shingles vaccines on alternating years.
+The Pregnancy Risk Assessment Monitoring System (PRAMS) monitors major health issues before, during, and shortly after pregnancy and includes questions about COVID-19, flu, and Tdap vaccinations.
+The Centers for Medicare & Medicaid Services (CMS) Minimum Data Set provides a screening and assessment tool for the comprehensive assessment of all residents in Medicare and Medicaid-certified long-term care facilities.
+CDC uses Internet panel surveys to monitor health issues of special populations, including pregnant women and healthcare personnel. Internet panel surveys include questions related to attitudes about vaccination, health factors related to vaccinations, including COVID-19, flu, and Tdap vaccinations.
+Objectives, targets, and indicators
+Objectives, targets, and indicators are numbers calculated to provide a broad picture of how adult vaccination coverage measures up to predetermined measures.
+Every 10 years, Healthy People provides science-based national objectives for improving the health of all Americans. Several of the objectives for the year 2030 include increasing adult vaccination coverage.
+The Chronic Disease Indicators (CDI) is a crosscutting set of 124 indicators that were developed by consensus that allow states, territories, and large metropolitan areas to uniformly define, collect, and report important chronic disease data. The CDI includes 17 immunization indicators, including 16 that focus on chronic health conditions that are indications for influenza and pneumococcal vaccination.
+Information for specific groups
+Vaccines are recommended for adults to prevent serious diseases such as influenza (flu), tetanus, pertussis (whooping cough), herpes zoster (shingles), pneumonia, and hepatitis A and B. Vaccines can reduce the chance of getting these and other diseases, and can reduce the risk of spreading certain illnesses. The vaccines you need as an adult depend on several factors, including your age, prior vaccinations, lifestyle, health conditions, job, pregnancy status, travel, and other considerations. Learn more about why vaccines are recommended for adults and find out which vaccines may be recommended for you on the CDC website.
+To help prevent germs from spreading quickly in classrooms or communal living spaces, many colleges and technical schools require that students are up-to-date on certain vaccinations. Getting vaccinated is a safe and effective way to help you stay healthy. Back to school time is also a great time to make sure that you are up-to-date on all of the vaccinations recommended for you. Some schools offer vaccinations, so check with your college's medical services or student health department. It is important to check your school's requirements before attending classes. Visit SchoolVaxView for more information about vaccination recommendations and obtaining your vaccination record.
+Healthcare professionals are at risk for exposure to serious, and sometimes deadly, diseases. If you work directly with patients or handle material that could spread infection, you should get appropriate vaccines to reduce the chance that you will get or spread vaccine-preventable diseases. Protect yourself, your patients, and your family members by making sure you are up to date with the recommended vaccines for healthcare professionals.
+Healthcare professionals include anyone working in a healthcare facility, including physicians, nurses, emergency medical personnel, dental professionals and students, medical and nursing students, laboratory technicians, pharmacists, hospital volunteers, and administrative staff.
+There are many educational materials to share with your adult patients. Also available are resources for those vaccinating HCWs.
+Certain diseases that can be especially dangerous for pregnant women and newborn babies can be prevented by vaccines. COVID-19, flu, and Tdap vaccinations are recommended with each pregnancy. Other vaccinations may not be recommended during pregnancy. Ideally, check with your provider before you get pregnant to see if you are up to date with your vaccines and which ones you should get before, during, and after pregnancy. Vaccines are an important part of a healthy pregnancy. Vaccines not only help protect you, and they can also help protect your baby during the time when he or she is at high risk of severe disease and too young to get vaccinated.
+Get the facts and figures you need to tell the story of adult vaccination coverage in your area and throughout the nation. In this section, you will find information on topics ranging from state and national coverage estimates to the latest vaccination news.
+Data Sources
+Data Reports
+Contact Media Relations for more information:
+Call (404) 639-3286
+E-mail media@cdc.gov
+Visit media relations website
+Other VaxView Vaccination Coverage Websites
+The VaxView websites provide vaccination coverage data for all ages. Monitoring coverage for recommended vaccinations across the country helps CDC assess how well local areas, states, and the nation are protected from vaccine-preventable diseases.
+Find additional vaccination coverage data on the VaxView Vaccination Coverage main page.

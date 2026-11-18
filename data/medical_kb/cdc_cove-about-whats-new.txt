@@ -1,0 +1,784 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: What's New
+URL: https://www.cdc.gov/cove/about/whats-new.html
+────────────────────────────────────────────────────────────
+
+For Everyone
+Nov. 17, 2026
+What to know
+The Release Notes listing the features and key bug fixes in each COVE release by date.
+Upcoming Release
+4.26.11 is planned to be released live on Tuesday, November 24th.
+Release Notes 2026
+Features
+Highlights & New Features
+New visualizations
+Bar and Line Race charts: A new "Racing" subtype adds Play and Replay controls to eligible Bar and Line charts. Racing Bar charts re-rank items at each time step, and Racing Line charts draw each series step by step. You can set the maximum number of bars and the playback speed.
+Maps
+Animate over time: State maps and world maps now have a play button so you can step through data over time.
+Spanish state and territory names: When the Spanish (ES-MX) language toggle is selected, U.S. state and territory names switch to Spanish automatically.
+Charts
+Forecast chart legend: New legend categories and labels make it easier to tell apart estimates, partial estimates, forecasts, and the 50% and 90% confidence intervals.
+Heat map refinements: Heat maps look tighter and more polished.
+Sequential palettes for line charts: Line charts can now use sequential palettes. The blue palette works especially well for charts with one or two lines.
+Special line effects: You have more control over where a special line effect begins and ends, including applying it to a single time increment.
+Pie chart data tables: Sort arrows are hidden when the data table has only one row.
+Editor and data
+Remap changed columns: When you replace a data source and configured columns are missing, a new Remap Changed Columns window lets you match each one to a new column. Affected settings update automatically.
+Markup variable date formatting: New Date Parse Format and Date Display Format fields let you keep dates machine-readable in the data but show them in a readable format.
+Dynamic legend titles: Legend titles now support markup variables, so they can change with user selections.
+Annotation resizing: You can resize text annotations to control wrapping. New Label Side options are Automatic, Left, Right, Above and Below.
+Custom download file names for charts: Chart data table downloads can now use custom file names, the same way dashboard data tables do.
+Clearer General panel tooltips: Tooltips for Super Title, Message (Intro Text) and Footnotes now explain more clearly what each field does.
+Better Modernize button: It no longer keeps legacy accents on data bites, and it makes suggestions more selectively. That covers bar borders, Palette 2.1, axis updates and map legends, and it keeps axis tick settings you set explicitly.
+New Alert component: Adds a reusable component with several alert types.
+Bug fixes
+When "Separate zero" is on, the zero section of a map legend now shows the suffix (for example, %).
+County geocode maps no longer plot a stray dot when there's no location data.
+Fixed visualizations that previewed in the editor but didn't appear on published pages.
+Fixed a regression where a dashboard button stopped loading additional dashboard content.
+The wave pattern fill now displays correctly on bar charts.
+"Rank by value" no longer changes the shared data, so other charts using the same data aren't affected.
+Box plot values are now sorted as numbers instead of text, so "2" comes before "10".
+Box plot statistics (quartiles, whiskers, outliers) now use one shared calculation, so the chart and data table always match.
+Small multiples tiles are now sorted as numbers, so Week 2 comes before Week 10.
+Performance and behind-the-scenes improvements
+The COVE bundle is about 45% smaller, so less JavaScript loads on cdc.gov pages.
+Migrations and default values were refactored to make the code easier to maintain.
+The state and territory lookup now comes from a CSV file, which makes adding translations easier.
+The unused filtered-text package was removed. Older configurations still load it from npm.
+More TypeScript cleanup, including fixing a circular dependency in filters and putting the Viewport type in one shared place.
+All test packages now use Vitest v4.
+Usage metrics were refined: the map load event was removed and hover behavior and titles were updated.
+Features
+Highlights & New Features
+Modernize Visualizations Tool Authors can now preview and apply recommended styling updates to existing charts, maps, and dashboards directly from the editor sidebar with side-by-side comparison.
+Partial Bar Patterns Added support for applying pattern fills to a specific portion of a bar in standard Bar and Combo charts based on a numeric column.
+Spanish Language Support for U.S. Maps Added localized Spanish labels for U.S. Territories and Freely Associated States across U.S. maps in the General configuration panel.
+Convert Datasets to URLs Local file-backed datasets in standalone visualizations and dashboards can now be directly converted to live URL endpoints or replaced with new files without rebuilding.
+Dashboard Filter Source Ordering Added a new filter ordering option to sort dashboard dropdown values in the order they appear within the source data file.
+Sticky First Column in Data Tables Added support for locking/freezing the first column in scrollable data tables so row headers remain visible during horizontal scrolling.
+Charts & Visualizations
+Dynamic Categorical Y-Axis Bands Line charts now support dynamic categorical bands that automatically update threshold levels based on active filters.
+Palette Contrast & Behavior Improvements All new visualizations and opt-in upgrades to qualitative, sequential, and divergent color palettes with enhanced contrast for 508 compliance. Reversing palettes now preserves assigned color tones in reverse order.
+Right Value Axis Spacing Automatic padding adjustments ensure visible right-axis tick labels, marks, and side titles fit cleanly alongside chart legends.
+Number Formatting Updates Added comma formatting support for Gauge and Waffle charts, and improved percentage handling across chart hover boxes and legends.
+Maps
+Equal Interval & Separate Zero Handling Enhanced numeric map legend classification with dedicated "Separate Zero" options for Equal Interval, Quantile, and Manual Breakpoint maps.
+Backward Compatibility for Map Binning Preserved legacy binning logic for existing published maps while ensuring new classifications apply seamlessly to new configurations.
+Semantic HTML & Screen Reader Enhancements Updated interactive map components (tooltips, navigation dropdowns, grouped legend controls) to use native semantic elements for better keyboard and screen-reader accessibility.
+Data Tables & Dashboards
+Data Table Link Styling Hyperlinks within data table cells now use distinct standard styling to make links clearer to site visitors.
+Standalone Download Link Added the option to display the data download link even when the full data table is hidden.
+CSV Export Header Consistency Custom renamed location column headers in Single State maps are now properly retained in exported CSV files.
+Bug Fixes & Accessibility
+508 Keyboard Navigation: Resolved an issue where keyboard tab navigation skipped image and CSV download links beneath visualizations.
+Data Table Value Suffixes: Fixed an issue where value-axis suffixes (such as %) were incorrectly appended to date and category columns in horizontal charts.
+Data Cutoff Handling: Corrected bar chart data cutoff logic so values below the cutoff threshold display properly as <1 in charts and tables.
+County Map FIPS Sorting: Fixed data table numerical sorting to respect leading zeros in county FIPS codes.
+Brush Slider Suppressed Data: Resolved an issue where suppressed data points stacked on the left axis when using chart brush sliders.
+Geocode & Bubble Map Display: Fixed geocode point placement for island territories on county maps and resolved bubble layer data table bindings.
+WCMS Embed Codes: Fixed an issue where embed codes failed to generate when running the editor inside WCMS iframes.
+Custom Color Hex Input: Fixed an issue where deleting hex color values in horizontal bar charts could temporarily blank the visualization canvas.
+Combo & Map Legends: Corrected overlaying legends on Combo charts and resolved pattern label collisions in map legends.
+Box Plot Tables & Dataset Reconfiguration: Fixed missing data rows in Box Plot data tables and resolved false "missing columns" errors during dataset URL updates.
+Features
+Maps
+Lat/Long Bubble Map for World Maps — New bubble map visualization type driven by geocode or latitude/longitude data, supporting categorical bubble layers and multi-category overlays.
+State-level categorical bubble maps — Added categorical bubble size type for U.S. maps, with automatic and custom sort options for bubble-size legends.
+Non-geographic data in map legends — Categorical maps can now include legend items from data rows that don't match a map geography.
+Expanded legend numeric sort — Map legends now correctly sort numbers with commas and numeric ranges (e.g., "3,456" or "10–19").
+PDF icon in tooltips — Maps can display a PDF icon within tooltips for linked documents.
+U.S. Virgin Islands alternate names — County-level maps now recognize "U.S. Virgin Islands" as a valid alternate for "United States Virgin Islands."
+Tooltip case forcing fix — Resolved an issue where map tooltips incorrectly changed the casing of column headers (e.g., "ID" rendered as "Id").
+Removed legacy territory rendering on region maps — Eliminated duplicate/overlapping territory rectangles on U.S. region maps.
+Charts
+Pie/donut label placement — Pie charts can now display value labels outside small slices and inside large slices; donut chart labels always display externally.
+Custom category sort order — Charts and data tables now support drag-and-drop custom ordering of category items.
+Pattern legend alignment — Chart pattern legend swatches now match the shape and size of other legend items.
+Combo chart right axis minimum — The right-axis minimum field for combo charts now functions correctly.
+Bar chart tooltip label fix — Corrected an issue where bar chart hover tooltips displayed incorrect subcategory labels or null values.
+Left Value Axis suffix fix — Resolved erroneous suffix appearing on unrelated data table columns and hover tooltips.
+Left Value Axis decimal rounding — "Round to Decimal Point" now applies correctly to the first data column in bar charts.
+Scatter plot axis abbreviation fix — Adding commas no longer removes the "K" suffix when axis values are abbreviated.
+Filters & Dashboards
+Combobox and nested dropdown descriptions — Filters now support an optional description field displayed below each option label, enabling searchable context.
+Multi-dashboard filter persistence — Filter selections now persist when switching between tabs in a multi-dashboard configuration.
+Cross-tab copy/paste — Dashboard copy/paste functionality now works across multi-dashboard tabs.
+Nested dropdown dynamic width — Nested dropdown filters now expand their width to fit the longest option value.
+Accessibility
+Data table sort aria-label correction — Fixed an issue where sort-related aria-labels were announced with every table cell instead of only in headers.
+Features
+Enhancements
+Dynamic Legend for Charts - When using filter select, the legend now updates to hide dataset categories that contain no data for the current filter selection, keeping the legend clean and relevant.
+Have a "DC" Label and Arrow for US State Map If Data Present for DC - Adds an abbreviation label and pointer line for Washington, D.C. on the US State Map, matching the treatment already used for other small states.
+COVE: Collapse Footnote Text Along with the Table - Footnote text now collapses when the associated data table is collapsed, rather than remaining visible. Reported by NCCDPHP/Chronic.
+Custom Option for File Name of Downloaded Data File from Visualization and Dashboard-Level Data Tables - Adds the ability to customize the downloaded CSV file name from a visualization's data table. Users can now specify that the download name matches the source JSON file name instead of defaulting to "data-table.csv."
+Heat Map: Legend, Prefix/Suffix, and Stability Updates - A bundle of heat map clean-up items including legend positioning (left/right), gradient style improvements, tick rotation review, prefix/suffix fixes for columns and data series, and stability fixes when switching visualization types or editing prefix/suffix values.
+Special Line Effects: Line Weight for Dynamic Categories - Corrects line weight behavior for dynamic categories and adds a per-category line weight field in the Effect/Suppression area so weight can be varied for each category individually.
+"Event Line" Style Annotation - Introduces a new "Event Line" annotation style — a full-height vertical line marking a single data point on the axis with a draggable label. Available for vertical Line, Bar, Combo, Area, and Forecasting charts. The existing annotation style is now labeled "Callout."
+Support Multiple Targets for File Name Filters - Reworks File Name URL filters so they can target multiple dataset URLs simultaneously. Each target gets its own file name template, and COVE updates all targeted datasets when the user makes a filter selection.
+Add Accent-Insensitive Search - Search functionality now handles accented characters, returning results regardless of accent marks.
+Charts: Associate Colors with Series - Adds a "Color Assignment Mode" option so users can assign specific palette colors to data series. This ensures a series keeps its designated color even when filters change which series are visible. Available for Line, Bar, Combo, Area, and Scatter Plot charts.
+Charts: Nicer Y-Axis Maxes - Introduces an "Automatic Max Strategy" setting for the value axis. The new "Clean top tick" option rounds the automatic maximum up to a cleaner tick value, making the top of the axis easier to read.
+Add Decimal Format Display Option to Markup Variables - Users can now specify the number of decimal places (0–10) for numeric markup variable values, add comma formatting, and hide sections when the value is null.
+Deprecate Dashboard Data Tables - Replaces the legacy dashboard-wide data table with migrated Table components in the dashboard grid. The new Table components include search, sorting controls, and other data table features that were missing from the old dashboard-wide table.
+Charts: Stable Y-Axis Across Filters - Adds a "Filter Domain Behavior" option on the value axis. The new "Stable" mode bases the axis scale on the full dataset rather than the filtered subset, keeping the axis consistent as filters change.
+Legends — Custom Defined Bins for Data Maps - Users can now manually define legend bin boundaries for data maps instead of only controlling the number of bins.
+Zoom for World Map Enhancement for Area (Continents for Now) - Adds a zoom feature for World Maps that allows focusing on a specific continent/area. A dropdown in the Editor sets the initial zoom level when the visualization loads.
+API Row Filter Field - Adds a Row Filter Field option to URL File Name filters, enabling multiple data sources from the same file. This allows a single dropdown to list options at two levels (e.g., group and items within it) where many options live inside the same file.
+Support Unselected Default Value for File Name Filters - Adds an "Auto-select First Option" toggle for File Name URL filters. When deselected, filters initialize in an unselected state and target data files load only after the user makes a selection.
+Add Title Option to Dashboard Filter Section - Adds an optional heading text field displayed above the dashboard filter component's intro text and controls, useful for labeling a group of dashboard filters.
+Change Small Multiples Mobile Breakpoint - Changes the small multiples responsive breakpoint from medium to small, improving the mobile viewing experience.
+Key Bug Fixes
+Bar Chart Console Error - Resolves a console error occurring in bar charts.
+Bar Chart with Excluded Value Shown as Filter Selection - Fixes an issue where a value excluded from the Date/Category Axis on a horizontal bar chart was still appearing as a selection option in the visualization's filter. Excluded values are now properly hidden from filter dropdowns.
+Hide Suppression Circles for N/A Values in Line Charts - Suppression circles are no longer rendered for N/A values in line charts.
+Dashboard Modules Not Configurable - Fixes an issue where modules within a dashboard could not be successfully modified, edited, or moved.
+COVE: Styles Bleed into Page Callout - Fixes a styling conflict where COVE styles loaded after page render were overriding .cdc-callout styles, causing margins to shift and callout boxes to render the wrong color.
+Features
+New Visualizations
+New Viz: Heat Maps — New heat map visualization with temporal/sorted modes, tooltips, annotations, and configurable display elements.
+Enhancements
+Filter By Map: Reset Button for Dashboards — Added reset button for map filters when the dropdown is hidden, preventing users from getting locked into a filtered view.
+Data Table Search — Added opt-in text search field for data tables that filters entries across all columns.
+Add Horizontal Y-Axis Label Option — New "Label Placement" option renders the y-axis label above the chart. Defaults to "Top" for new visualizations.
+Add Alternative Dashboard Filter Section Styling — Added gray background toggle, filter intro field, and note field for dashboard and visualization filters.
+Dashboard Conditions — Conditionally hide or show dashboard rows/columns based on data presence or column values.
+Dashboard Editor Copy/Paste Functionality — Added copy and paste capabilities within the dashboard editor.
+Deprecate Filtered-Text Component — Deprecated the filtered-text component after feasibility analysis.
+Remove Axios — Removed the Axios dependency from the codebase.
+US County Map: Memory Issues — Improved county map rendering performance to address slow zooming.
+Dynamic Y-Axis for Brush Charts — Y-axis now adjusts dynamically based on the current brush selection.
+Data-Driven Alt Text for Super Intelligence (SI) and 508 Accessibility — Passes data-driven interpretations into chart/map alt text for accessibility and SI consumers.
+Single State Maps: Remove Blue Focus on City/County Interactions — Removed blue focus indicator from city/county interactions.
+Shared Filter: Single State Map Zoom Reset — Single state maps now reset zoom when shared filters change.
+Bubble Map: Zoom Reset Shows Bubbles — Zoom reset on world bubble maps now correctly reset filters and keeps bubbles visible.
+Improve Region Labels — Improved font size, positioning, wrapping, and default color (red → gray) for chart region labels.
+Add COVE Annotation Option to Not Hide on Mobile — Annotations can now remain visible on mobile devices.
+Add Link Styling for Dashboard Image Downloads — Download-image control can now display as a link instead of a button.
+Bug Fixes
+Editor Applying All Filters Before Preview for Dashboards — Filters now correctly scope to assigned visualizations during editing instead of applying globally.
+Sankey Overflows Chart Area — Sankey diagram spilled outside chart boundaries; horizontal scrolling was unavailable in smaller viewports.
+Dashboard Filters: Default with Apply Button Behavior Malfunction — Dashboard-level default filter values malfunctioned when using "Apply Button" behavior instead of "Filter change."
+Support Effect Lines for Dynamic Categories — Effect and suppression lines now work on dynamic categories, not just data categories.
+Bump Chart Date Format Issue — Bump chart ignored configured date formats on axes, data tables, and tooltips; tooltips displayed empty.
+Dashboards: Improve Stability for Versioning Within Editor — Fixed ghost-linked graphs, config reversions on open, title style resets, silent save failures, and stale filter data after CSV replacement.
+Map Popover Extra White Space and Left Padding — Removed excess left padding causing misalignment in map popover tooltips.
+Editor Render-Only CSS Issues: Dropdowns and Carets — Fixed incorrect dropdown focus states and caret icons in the production WordPress editor.
+Flu Data Bite Image Logic Issue — Blank/missing values now correctly display the default "no reported data" image instead of falling through to the lowest-value image.
+Large Impact Dashboard Stability Improvements — Guards against stale dataset keys, cleans up orphaned filters, eliminates empty-data flash on load, fixes tiered filtering skipping middle tiers, and preserves sub-dashboard versioning.
+Medium Impact Dashboard Stability Improvements — Fixes stuck loading spinners, UID collisions during fast creation, broken shared filter references on row deletion, direct state mutation, and adds error boundaries.
+Small Impact Dashboard Stability Improvements — Restores drop functionality after deletion, fixes filter disappearance from type mismatches, corrects typos in subgroup selectors and data config keys, and fixes tab rename reducer.
+Center Column Smaller in 3-Column Layout — Center column now renders at the same size as side columns in 3-column dashboards.
+County Level Maps: Territories Scenario Not Working with Migration — County-level maps with territory scenarios now function correctly post-migration.
+Second-to-Last Legend Click Selects All Series — Clicking an already-selected legend series no longer incorrectly highlights all series.
+Fix Brush Slider Region Bug — Chart regions no longer move with the brush slider when the selection is outside region boundaries.
+County Map Hidden on Mount — County map now loads on initial mount without requiring a filter change to trigger rendering.
+Dashboard Map Filter Turns Off When Filter Is Hidden After Saving — Toggling "show filter" off no longer breaks the map filter after saving.
+Dashboard Tabs Unstable in Editor — Fixed tab transitions causing content modules to stop updating and configuration to break.
+Features
+Enhancements
+Dashboards & Components
+Add data-driven background colors for dashboard components — Adds data-driven background colors for markup-includes and databites, allowing background color to represent data by mapping colors to specific values.
+Add directional arrows to dashboard components — Adds directional arrow support to dashboard components (no additional description provided).
+Add TP5 visual options to markup includes — Adds additional TP5 visual options to markup includes.
+Editor & Data Import
+Option to download data from Data Sources in Editor — Enables exporting/downloading CSVs directly from the editor's data import/preview area to support dashboard maintenance workflows.
+Editor - Data Import - Date Parsing Auto Detects from Source Data — The editor now automatically detects and parses most date configuration from your source data.
+Data Tables
+Stand Alone Data tables - Add Advanced Options — Enables the Advanced Options toggle in standalone data table configuration panels to allow manual config edits and copying configs.
+Data Table - Link to API Data Set on standalone Visualizations — Adds an option to surface a dataset/API link for standalone visualizations, similar to existing dashboard behavior.
+Allow HTML Inline Markup (Super Script) in Column Header Label for Data Tables — Adds support for HTML inline markup (specifically superscript) in data table column header labels.
+Charts
+Add legend colors to tooltips — Adds colored markers to chart tooltips to indicate which series values belong to, with defined exceptions (single series/hidden legend, gradients, duplicate colors).
+Make y-axis width dynamic — Removes the need for using manual left value axis sizing option and calculates y-axis width automatically across charts.
+Horizon Chart - Add Region Functionality — Adds "Region" handling to Horizon charts for time-based data use cases.
+Waffle Chart Enhancements — Adds support to allow denominators below 100 (e.g., "x out of 10" renders 10 dots).
+Add Option to Display Series Label for Scatter Plot Tool Tips — Adds an option for scatter plot tooltips to display a series label/name on hover.
+Maps
+US County Map: Show neighboring states' data — Adds the ability to display data from neighboring states.
+US County Map: County/HSA Highlight — Adds highlighting for selected counties and HSAs (when HSA boundaries are enabled), and adds a county dropdown when state dropdown is enabled with a selected state.
+US County Map: add HSA Layer — Adds an optional HSA overlay for the US county map.
+County Map: Add State Map Dropdown — Adds a state dropdown/programmatic focus mechanism to support county-level mapping across state borders while keeping focus on a selected state.
+County Level maps - Create Option to turn territories on and off — Adds a toggle to hide/show territories on county-level maps (initially requested to hide territories such as Guam).
+County Level Maps - Reflect Guam and American Samoa in the Map — Adds county-level territory shapefiles and an editor checkbox ("Show Available Territories", default updated to unchecked) to show available territories when data exists.
+US Map - Puerto Rico showing in territories section even when no data present — Fixes inconsistent territory display behavior so territories without data (e.g., Puerto Rico) do not appear unless configured to show all territories.
+World Map - Western Sahara Update — Updates world map territory handling so Western Sahara is included under Morocco's territory per provided guidance.
+Geocode Maps - Hide "FullGeoName" column in data download. — Provides a way to hide FullGeoName from appearing in downloads when county-level data is not present.
+Patterns / Rendering
+Allow Pattern Settings to Cross All Data Series — Improves pattern settings so leaving a data key blank can apply a pattern across all series (removing the need for duplicated patterns as a workaround).
+Bug Fixes
+Dashboards & Data Preview
+Dashboards - Data Preview Updating issues — Fixes an issue where replacing imported data did not update the preview in the Import Data screen.
+Standalone Data Tables
+Stand Alone Data Tables - Filtering and Data download options not working — Fixes standalone data table issues including filter toggle behavior and CSV downloads missing visible columns in certain download modes.
+Maps / Tables in Maps
+US Map - Config or Data breaks when Data Table sorted by "Region" in rendered visualization and editor — Fixes a failure when sorting the data table by "Region" that caused the visualization to break.
+UI / Styling
+Filter Button Styling Regression — Fixes a regression affecting filter button styling (no additional description provided).
+Chart Hover / Axis Formatting
+Chart Left Value Axis Abbreviate Axis Value showing in hover tool — Fixes hover tooltip values incorrectly abbreviating axis values when axis abbreviation is enabled.
+Features
+Enhancements
+Equal row heights for Dashboard row elements – New option to set an equal height for rows in dashboards and other wrapper-based configuration options. When turned on for a row, all elements will height match to the tallest element.
+Data Tables – Custom Reorder Columns Left to Right - Adds the ability to reorder data table columns to allow custom display ordering.
+Add Markup Variables to Waffle Charts - Allows the inclusion of markup variables in Waffle Charts.
+Add Tab-Simple filter style to dashboards - Introduces a new "Tab-Simple" filter style for dashboards.
+Add option to show surrounding states - Adds an option to single/multi-state maps to display the outlines of surrounding states for context.
+COVE: styles bleed into WCMS - Addresses issues where COVE styles were unintentionally affecting WCMS.
+Add metadata support to .json data files - Enables the addition of metadata to JSON data files, with a mechanism to pass this metadata through to Markup Variables. Use case is passing "Last Updated" information.
+Smallest maximum tick value - Enhances axis configuration to allow for the smallest maximum tick value. Helps retain some sense of scale for filtered bar charts that have drastic differences in axis values like 400 and 3.
+County map borders and zooming - Adds panning and zooming functionality to USA County maps and mobile interactivity.
+Data bites: pass through option and wrapping option - Introduces two new options for data bites: a "pass through" option to directly pass data and a "force wrap" layout option for all screen sizes.
+Translation enhancements - Adds new field General Panel for customizing visualization text like "Download CSV" and "No data" message, and includes a locale configuration option for localizing dates and numbers. Spanish was the first language added.
+Update chart & map default settings - Updates default settings for charts and maps, including axis marks, gridlines, number of ticks, Y-axis tick formatting, legend positioning, default data table state, and date display formats.
+COVE: React Doctor Updates - Resolves React-specific problems identified by react-doctor.
+SCSS Refactoring - Refactors the @cdc/core style system across four phases, including flattening directory structure, consolidating variables, co-locating component styles, and dissolving legacy root files for improved maintainability and clarity.
+Standardizing all visualizations to a Single (universal) Component Wrapper - Standardizes visualization wrappers to allow enhancement potential and consistency.
+Data Series & Columns – Hide Data Series Selections from the Columns Panel - Prevents duplicate selections by hiding data series options from the Columns panel once they have been assigned to a visualization elsewhere.
+Data Tables – Create a setting for default column and order (alpha/reverse/custom) for the Table to display on open. - Provides a setting to control the default sort order of data tables based on a column, with options for alphabetical, or reverse order.
+US Maps – Zoom Filters Data Table - Adds an option for US Maps to filter the associated data table to only show data for the specific state zoomed in by the user.
+Update World Map - Updates World Maps to reflect US Recognized Countries and entities using the GRASP WHO Shape File.
+Date display formats: Default fallback values for Display formats - Adds fallbacks for parsing date formats, preventing "undefined" returns when display format fields are empty.
+Bug Fixes
+Data Table cells rendering with an unintended wrap - Addresses an issue where data table cells were wrapping unexpectedly.
+US Map Zoom not working on wwwdev (regression) - Fixes a regression where US Map zoom functionality was not working on wwwdev.
+Dashboard Multi-Vis Toggle not working on wwwdev (regression) - Resolves a regression where the Dashboard Multi-Vis Toggle was not functioning on wwwdev.
+Pie Charts - Custom Colors - Color changes in Legend but not chart - Fixes an issue where custom colors for Pie Charts were only appearing in the legend and not on the chart itself.
+Dashboard elements break on config or edit - Resolves issues where some dashboard elements would break during configuration or editing, particularly with chart types.
+Data bites don't show options in data column dropdown - Fixes a bug where data column dropdowns in data bites were empty after adding a dashboard filter.
+Value Axis Label Width & Spacing - Corrects issues with value axis label width, spacing, and resets after changing label sizes.
+Add Sanitization in USAMap.State and Territory - Updates UsaMap and Territory files to sanitize data key inputs, resolving issues that arose from changes in dataKey for pattern setting legend icons.
+Paired Bar Chart Value Axis Abbreviation - Fixes an issue where the "Abbreviate Axis Values" checkbox on the Value Axis of Paired Bar Charts was not abbreviating values.
+"Always Load from URL" button doesn't work with multi-series on dashboards - Resolves a problem where the "Always Load from URL" button prevented configuration of multiple data series on dashboards, as dropdowns would appear blank.
+Allow Pattern Settings to Cross All Data Series - Fixes an issue where pattern settings were not applied across all data series if the data key was left blank, unlike other chart settings.
+Features
+New Visualizations
+New Viz: Horizon Chart – Introduced a Horizon Chart visualization type to compactly display trends over time.
+New Viz: Radar Charts – Added Radar Chart support to compare multiple metrics across categories in a single view.
+Enhancements
+Support slash / dash on categories (pie chart) – Pie charts now display category labels that include slashes and dashes.
+County Level Maps – Pattern Support – Added pattern fills for county-level maps.
+Embeddable COVE visualizations – Enabled COVE charts to be embedded more easily into external sites and applications.
+Snap To Data option for annotations – Added a setting so annotations can lock directly onto data points for more precise callouts in filtered charts.
+Line Charts - Quadrant Labels – Added configurable quadrant labels to line charts to highlight key regions of the plot area.
+Combo Chart - Brush Slider option – Added the brush slider on combo charts.
+Updates to the Gauge Chart – New gauge chart styling with TP5 and white background style options.
+Chart > LinearChart.tsx Refactor – Cleaned up and refactored linear chart code to improve maintainability and future enhancements.
+COVE > 4.26.2 > Dependency Updates – Updated underlying dependencies to improve stability, security, and compatibility.
+Standalone markup include – Added support for including COVE markup as a standalone component for easier integration.
+Pie Charts - Data Table - Column/Data Name - Make label editable for Data Table
+Brush Slider – Improved brush slider behavior and responsiveness across charts to address various usability issues.
+Hide Sequential Palettes for Line Charts – Removed sequential color palettes from line chart options to reduce confusion.
+Lighten colors for zeroes in maps – Adjusted color treatment for zeros on categorical maps with zero as a separate category so that legend item appears lighter and is easier to distinguish.
+Bug Fixes
+Line Charts - Regions not working on reverse order (New to Old) Dates – Fixed region highlighting so it works correctly when dates are shown in reverse order.
+Maps / US and County - Tooltip Hovers behaving erratically – Resolved inconsistent hover behavior so map tooltips appear reliably.
+Tooltips Across Map Types - Not rendering in WCMS or in the editor – Fixed an issue where tooltips failed to render both in WCMS and within the editor.
+Drag & drop filter reordering – Corrected drag-and-drop so only the selected filter moves, not the whole filter panel.
+Dashboard Nested Filter Group and Subgroup Defaults not working – Fixed default selections for nested filter groups and subgroups on dashboards.
+Brush Slider displaying backwards in some configs – Corrected brush slider orientation so ranges display in the expected direction.
+Date Axis Not Rendering Correctly – Fixed formatting and scaling issues that caused date axes to render incorrectly.
+Image Download with Context - Issue with DFE Wide Mode Integration – Resolved image download problems when using context with DFE wide mode.
+Dashboard Filters - Drag and Drop - Nested Filters - Improved drag selection for nested filters to prevent accidentally grabbing entire filter blocks.
+Update Style and Class for State Output Group – Updated styles and CSS classes to ensure consistent display of state output groups.
+Anchor Line on Chart extends beyond bounds of visualization – Fixed anchor lines so they are clipped correctly within the chart area.
+Warming Stripes - Hover Date Format & Sync Tooltips – Corrected hover date formatting and synchronized tooltips for the Warming Stripes viz.
+COVE - Dash Load Slow Issue – Improved performance to significantly reduce load times on larger dashboards.
+Chart with brush slider not resetting with filter dropdown – Fixed an issue where charts with brush sliders did not reset when filters changed.
+Features
+Dashboards and Filters
+You can now sort values in nested dropdown filters.
+A new searchable dropdown (combobox) filter makes it easier to find and select values.
+Dashboard filters can be reordered with drag-and-drop, so authors can arrange them in the order that makes the most sense for their users.
+A single data filter can now depend on multiple other filters, allowing more flexible dashboard setups.
+Charts, Maps, and Visuals
+Authors can use dynamic text in axis labels and tooltips, so chart labels can change with filter options.
+A new Warming Stripes visualization type is available to show trends over time using colored stripes.
+Horizontal bar charts now automatically adjust space for long labels, reducing cut-off text.
+Color choices for line charts have been improved by hiding color palettes that aren't a good fit for lines.
+Better Brush Slider implementation makes focusing on a date range easier.
+Downloads and Printing
+Downloaded images of charts and maps can now include important context from a DFE page with a new option.
+"Save image" options have been improved to produce better output for sharing and archiving.
+Accessibility and User Experience
+Map legends now have better accessibility support, including clearer roles for screen readers and keyboard navigation.
+Confidence intervals must now appear in tooltips or data tables, so key statistical information is clearly visible.
+508 and Bug Fixes
+Charts, Tables, and Dashboards
+Fixed a filter problem on dashboards with waffle charts, so filters now behave as expected.
+Resolved an issue where Markup Includes on dashboards required a data selection first.
+Fixed several API filter issues, so filters relying on external data now work more consistently.
+Corrected hyperlink appearance and hover styles inside charts so links are easier to see and use.
+Fixed a problem where changes to data table settings (both standalone and on dashboards) were sometimes not saved.
+Corrected the capitalization of "District of Columbia" in data tables.
+Maps and Geographic Data
+Resolved zoom problems on state maps so zooming in and out works smoothly.
+Fixed support for latitude/longitude values for cities in multi-state maps, improving accuracy at the city level.
+Corrected an issue where city-specific styles on maps were not being applied.
+Release Notes 2025
+Features
+Markup Includes, Footnotes, and Variables: Added support for HTML inline markup within footnotes, allowing for richer formatting.
+Unified Legends in Other Map Types: Added unified legends across additional map types beyond the US map.
+Forecast/Combo Charts: Now renders blank space or suppresses display for text values marked as "NA" in data.
+Y-Axis Label Improvements: Enhanced y-axis labeling for better clarity and customization.
+Filter reset update: Introduced a "Reset" functionality to drop-down submit buttons for easier user interaction.
+Custom Colors: Improved the process for adding new colors in sequence within arrays and enabled manual entry for more than four entries.
+Decimal Places Option: Created the option for decimal places from the data to be respected. i.e. whole numbers remain and decimals of various lengths for data accuracy.
+Chart and Dashboard Performance: General performance improvements for charts and dashboards.
+Small Multiples Feature: Added support for small multiples, allowing users to display multiple similar charts side by side for comparison.
+Multi-country Maps: Introduced support for maps displaying highlighted data for selected multiple countries.
+Panel Settings: Various improvements panel settings.
+508 and Bug Fixes
+Line Breaks in Data Table: Resolved issues with line breaks not displaying correctly in data tables.
+Pie Chart Creation: Fixed a bug where pie charts could not be created due to y-axis issues.
+Hex Map Arrow Indication: Addressed blank conditional columns for hex map arrow indications.
+Forecast Chart Issue: Fixed issues affecting forecast chart rendering.
+Area Chart Offset: Corrected axis offset problems in area charts within combo charts.
+Box Plot Sample Data: Fixed errors in the sample data set for box plots in the editor.
+Exclude Columns on Dashboards: Restored functionality for excluding columns on dashboards.
+Data Filters in Dashboard Editor: Fixed issues with data filters causing dashboard editor to short.
+Horizontal Bar Charts: Resolved missing value axis label in horizontal bar charts.
+Dashboard Filter Bug: Fixed a bug affecting dashboard filters.
+Forecast Chart Axis Option: Removed the non-functional option to set the date/categorical axis to "Categorical" in forecast charts.
+Global Filters: Fixed an issue where "Clear Filters" did not clear all sections in global filters.
+NCCDPHP Maps Performance: Improved update and load times for NCCDPHP maps.
+Data Table Title: Fixed an issue where changes to data table titles would revert after saving.
+Advanced Editor Options for Data Bites: Restored advanced editor options for data bites.
+Dashboard Toggle Accessibility: Fixed a 508 accessibility issue with aria label duplication in dashboard toggles.
+Visual Options Alignment: Corrected misalignment in visual options.
+Download Image Naming: Improved naming conventions for downloaded images.
+WCAG Pattern Settings: Fixed false WCAG pattern settings in bar charts.
+Features
+DEV-11242: All Visualizations - Color Palette Improvements
+Added the new color palettes for all visualizations, including new Hex codes. Does not impact currently published visualizations. Newly created or manually updated visualizations will receive new palette options. You can preview the new colors on any visualization. Do not save the color changes if you don't want them to take effect on your current visualizations. We encourage you to update all visualizations to the new colors as soon as possible.
+DEV-11420: Add default values to nested dropdowns and show selected item
+Nested dropdowns now support a "default value" option in the editor that correctly displays the selected item, not just the first item in the group.
+DEV-11414: Single State Map - Unable to set a no data state
+Single state maps now display a customizable "No State Selected" message when no data is provided or when an unknown state mapping is encountered.
+DEV-11390: Maps - Geo locations hide with Legend "hide" Interaction
+When hiding data series via the map legend, the hover targets are now also removed, preventing unwanted cursor interactions.
+DEV-11293: Standalone package builds
+COVE packages distributed over NPM can now be built as standalone packages, with necessary codebase changes implemented.
+DEV-11292: Added variations for Northern Marianas
+Tooltip text updated from "Northern Marianas" to "Northern Mariana Islands", with additional supported variations such as "Commonwealth of the Northern Mariana Islands".
+DEV-11264: Add patterns to bar charts
+Patterns, similar to those used in maps, can now be added to bar charts. The editor UI is consistent with map pattern selection.
+DEV-11243: Maps - Mini Map Refactor in Preparation for Color Changes
+Refactored mini map code in preparation for color palette changes.
+DEV-11236: Improve Editor Performance for County Maps (US and Single State with Selector)
+Improved performance for US and Single State County maps in the editor, making them faster to build and configure.
+DEV-10133: Show Patterns in Data Table Circles
+Patterns used on maps now also display in the data table circles by state, improving visual consistency.
+508 and Bug Fixes
+DEV-11641: Dashboard Toggle: 508 issue with SVG missing role
+The following accessibility issue was discovered in the axeDevTool: SVG elements in dashboard toggles are missing a role attribute. This issue is visible on dashboards such as those with toggles.
+DEV-11506: Multi-viz is not pivoting properly
+The multi-viz pivot feature is now sorting categories correctly in tables, charts, and maps. Footnotes are sorting properly. Affected dashboards now sort the displayed data for each category.
+DEV-11392: Map Legend "hides" the dots for the geo locations, but does not remove the hover states for each.
+When the map legend hides geo location dots, the hover states no longer remain active.
+DEV-11369: Always load from URL button is spinning config panels
+On new dashboards, if the "always load from URL" checkbox is checked, the configuration panel no longer spins indefinitely. This only affected dashboards, not other visualization types.
+DEV-11296: Suppression symbols on bar chart are very large with wide bars
+Suppression symbols on bar charts now resizing properly with wide bars. This update ensures suppression symbols scale appropriately.
+DEV-11281: Data Bite Filter Doesn't Apply on Load
+Dashboard filters can now be applied on initial page load, resulting in one output instead of multiple.
+DEV-11166: When "Display Suppressed Data Label" is UNCHECKED, original data shows in tooltip
+When suppressed data labels are hidden, the original value was still visible in the tooltip, potentially exposing sensitive data. This is now fixed.
+DEV-11076: Map Filters - Clear Map Filters and Reset Map filters aren't behaving correctly
+The "Clear Filters" and "Reset Filters" buttons on Bubble Maps now function as intended.
+DEV-10995: "Show in Tooltip" for Forecast CIs does not work
+Confidence intervals (CIs) now show in the forecast chart tooltip when enabled from the Data Series panel.
+DEV-10481: Legend Style Editor vs Page
+The legend title bolding now displays in the editor, as it appears on the published page. The editor now matches the published view.
+Features
+Added visual padding to the "Download Image" output.
+Multi-state choropleth maps are now selectable for the single state map
+Added control option to collapse long data tables from the bottom
+Multi-dashboard charts no longer flicker when selecting between tabs
+Support added for "No Data" Message for Blank Markup Variables
+Bar chart labels (Special Classes) improved
+COVE Metrics Implementation
+Columns Data Label field now respects case entered and no longer force Title Case.
+Fixes
+Date Overlap on Brush Slider
+Brush Slider on Area Charts no longer corrupts chart
+Visualization level table name and link to CSV now works
+Multi-viz footnotes are now respecting sorting selections
+Multi-viz is now pivoting Data Tables properly
+Features
+Horizontal Box Plots
+Display Numbers on *Horizontal* Bar with CIs cutting through number
+Importing Vega configs
+Add support for and inline HTML for additional text areas
+508 and Bug Fixes
+Table Cell Min Width Issues
+Special Class Error on Cat Maps
+Box Plot Display Issues
+Data Table Toggle - Mobile Issue
+Area chart and forecast chart - display is offset left on the date/category axis
+Focus Indicators are different from WCMS/TP
+Special Classes are not applying to maps
+Custom Events: "cove_loaded" event happening before national map is rendered
+Single State: Data Override Not working
+Legends - Bin numbers repeat when "Separate Zero" option checked
+Legend - Exact decimals ignored for start/end bins
+Legends - Colors - Bin colors off when special class is moved to the end
+Legends - Bin legend toggles the wrong color when special class is moved to the end
+Hovers Not Working on Multiple-series Bar Chart
+Multi-viz is not sorting out properly
+Combo Chart Crashes with Bottom Legend
+Color Issue in Forecast Charts
+Features
+sankey: number formatting in data table & diagram
+Enhancement to Dynamic Footnotes by Filter
+Support sup and sub tags in data table headers
+Stand Alone Data Table Package
+Update Core Dependencies
+Update Data Bite Dependencies
+Update Editor Dependencies
+Update Filtered Text Dependencies
+Update Map Dependencies
+Update Markup Include Dependencies
+Update Waffle Chart Dependencies
+Vertical and Horizontal Hover Lines for Scatter Plots
+Sort Visual Rendering
+Add 4-month and 6-month tick spacing
+Pie Chart - New Function - Build from provided Percentage and not calculated from data set
+508 and Bug Fixes
+New Bolding/Outlines Around Visual Selection Elements
+Upgrade Classes for TP5
+Apply Button Jumps Chart off Axis
+Grey backgrounds on dropdowns on mobile
+Data Table Causing County Maps to Load Slowly
+Show Hover for Single Data Series is not working for stand-alone Horizontal Stacked Bar
+Line chart clickable legend unselect does not work as expected
+Tooltips stop working if Dynamic Category is removed
+Fix cut-off tooltips on small screens
+MultiSelect: Default to first option when all items are removed
+Investigate prepareData side effect in chart package
+Bar chart tooltips for N/A bars are rendered incorrectly
+Tooltip Hovers IN EDITOR (helper text for the fields) are not triggering
+Apply button not working on filters
+Multi-viz is not sorting out properly
+Single Series Tooltip not working for Vertical Bar Chart - Multimetric, not stacked
+Dashboard issue
+Hover Lines Won't Go Away and Are Lagging
+Custom Colors with Missing Data - Maps
+Maps - Single Row Legends for maps is not working
+Features
+Dynamic Data Series to render the Legend in CSV order
+Suppressed Data Popover: Update style
+Dynamic Legend
+UTF-8/unicode character display in CSV download output
+Area Charts: Remove option for standard (overlapped) charts
+File extensions being set by returned response from originating server
+Labeled Subgroups in Legends - Maps
+Hide Title - Linear Gauge
+Widgets having datasets when in a Row with a dataset causing config issues
+Unable to determine the Dashboard row number without counting
+Map Refactor: Helper Functions
+Map Refactor: Reduce Use Effects
+Map Refactor: Data Fetching Layer
+Map Refactor: Implement Reducer
+API sourced Dashboard Filters' Editor difficult to work with
+Dashboard: Load Query Param
+Add Table Cell Min Width to Maps
+Map UX: Update fonts and spacing outside map
+Map UX: Update fonts and spacing within map
+Map UX: Update New England label placements
+Map UX: Update patterns
+Map UX: Update territories
+Line chart tooltip enhancement
+Update Chart Dependencies
+Dashboard: Dataset override
+Create option to separate specified linear block gradient legend items
+508 Issues and Bug Fixes
+Bar Chart with Brush Slider Spills Over Container in Date/Time Scale
+Bars with borders are showing a line on the bottom of the chart when values are null
+Geocode Maps have incorrect defaults
+Download image button cutting off visualizations
+Dynamic Data Series Suppression
+Sparklines have too much padding on the right
+Table text overrunning the column edge in Data Table
+Bar chart tooltip shows blank when "null" expected?
+US Regional Map Legend Issues
+Data value dots on dynamic series line charts - sizes vary for isolated points
+Data Table: Add order column configuration
+Dashboard Footnotes: Filters not applying to footnotes
+Fix missing X-Axis on some charts with manual ticks
+Tooltip doesn't show on Horizontal Bar Chart
+Territories are not showing on maps
+Data Table URLs not working
+Close icon not showing on older IOS
+Navigation Map Bugs/Improvements
+Horizontal Bar Chart label offset toggling negative
+Inputs and Multiselects triggered outside of text box area
+Migrate maps general settings for tables
+Features
+Labeled Subgroups in Legends - Charts
+Unable to hide title on data bite
+Support Subscript and Superscript in Legends
+Improve COVE cache busting (Coming 3/28)
+Reduce bundle size for JSON Files
+Force Casing for Locations like “U.s. Virgin Islands”
+Explicitly Set Filter Value - Stand Alone Maps & Charts
+Dynamic Legend
+Data Source Title: move edit name input box to edit section
+CSV Download Updates
+508 Issues and Bug Fixes
+Markup Include Titles Not Visible in Filter Settings
+Scatter Plot X Axis Rounding Down
+Date/Category axis: cannot exclude dates (missing fields)
+City Shape Comparative Size
+508 - Appending the name to the end of the line chart puts the text behind a right-hand legend
+Area Charts in Combo Charts Not Displaying Properly
+Charts request data files twice
+GTSS Explore by Indicator - Parent filters are not saving
+Bug-Vertical Bar Chart Date/Category Axis Tick Rotation
+Change Help Button on Editor
+Apply Custom Sort Before Selecting Default on Dashboard Filters
+Bump Charts Missing Date Parse Fields
+City color always active when other area highlighted
+Legend Style Editor vs Page
+Reduce Padding of new tabs on mobile maps
+Respect y-axis min/max when using automatic padding
+CIs on Bar Charts Overlap Numbers
+Quitline will not save data settings or new data files uploaded
+Tooltip: Additional Column not showing
+Unused Dashboard Filters Not Deleting
+Data Table Pivot Columns: Rounding not applying
+Pie Chart / Sparkline Issues – Titling and Data Selection Issue Fix
+Data value dots on dynamic series line charts - sizes varyCity Shape
+Features
+Charts Refactor: Implement reducer
+Dashboard Filters - Parent
+Explicitly Set Default Value for Filters
+Make pill/tab filters persist on mobile
+Right-align numeric columns
+508 Issues and Bug Fixes
+ADHAP Issue with Default Set By Query Param is missing SubCategory selector
+ADHAP Issue with query string parameters
+API Error Handling: Repeated Notices
+Bar chart Tooltip issues: Displaying same values on vertical, none on horizontal
+Blank Column Name or Series Name Displays Colon in Hover
+Brush slider -- too close to subtext
+Brush Slider Malfunction for Long Years
+Brush slider not persistent
+Convert to bar option not working for dynamic series line chart
+Dashboard Filter Ordering
+Data Column Name Missing on Maps
+Date/Time Scale Overlapping Bars
+Deviation Label On the Bar
+Dynamic Data Series: Tall Data issues with first value being null
+Dynamic Series Legends Can't be Isolated
+Filters aren't applying on multiviz elements
+Group By column doesn't allow column order, even if I set such up in the API.
+IndexOf error when using Dashboard Filters
+Message is misaligned in the editor for charts
+Nested Dropdown - Arrow isn't clickable & scrollbar doesn't work
+No Data Points in All Available Years Chart
+Pie Chart Filters Stacking instead of line
+Query string parameter not working with more than one item in the first row of filters
+Show All Territories Not Working
+Table styling spacing issues
+Undefined Hovers
+Viewport Overrides Not Working on Combo Charts
+Features
+Hovers / Tooltip Standardization: Box Plot
+Updates to labels for territories and freely associated states
+Symbol line charts
+Dashboard Tiles to Display Names
+Charts Refactor: New Data Fetching Layer
+Chart refactor: Reduce use effects
+Charts refactor: Helper functions
+Improve the Anchor functionality for charts: Displays different in Editor than on DFE page
+Update Spacing
+Update Font Families & Sizing
+Restrict Axis Labels
+Legend Updates
+Mobile Considerations / Updates
+New Cities
+Map Navigation Links Open in Same Tab
+Enhancement: Sort date data newest to oldest
+508 Issues and Bug Fixes
+COVE: Charts Bottom Legend - Reverse Labels not working
+Scatter plot: downloaded image has issues
+508 - Bar charts with no labels or borders fail non-text contrast
+Custom Ordering Shorts Editor on Maps
+New widget can't be add to a visualization box after an old widget is deleted
+Box Plot: Table Issues
+Data Configuration Fix Did Not Carry Through to Dashboards
+Long On-Click Hovers World Map are Misaligned and Cutting Off
+Update State Sample Data: Delaware
+Color contrast issue in horizontal bar charts
+Styling issue with ‘Download Image’ button for maps
+County maps need border color updated
+Pie chart: Hover showing wrong decimals
+Issue opening second dashboard when have multiple dashboards
+WCMS Stylesheet
+Dashboard Heading Margin
+Cessation dashboard not loading modules correctly
+Parent Filters with Apply Button
+Nested Filters with Apply Button
+Horizontal Bar Chart Date/Time Error
+Space Missing Between Yes and No Buttons on Data Upload
+Reverse Legend Labels - Right and Left
+Superscript No Longer Functions on Super Title
+Show Hover for Single Series Not Clickable
+Always Load from URL causing time out or circular call
+Turn off "Display Label on Data" by default
+Line Style Settings Not Holding
+Legend Title No Longer Stylistically Different
+Pill and Tab Filters are doing a weird wrapping
+Isolate Value No Longer Works
+Filter Isolation Shorts Map
+Region Map Doesn't Render
+Nested Dropdown is not displaying correct option on Filter change
+Year filter not changing when selected
+BRFSS: Map breaks Data Viz and Horizontal Bar Chart doesn't show bars
+Viz Filter Order by column breaking when column data is number.
+Black circle shows for N/A (or not available) on All Available Years
+Features
+Visualization Filters: Order Filter options by Specified Column
+508 Issues and Bug Fixes
+Nested Dropdown filter availability- maps
+Dashboard: Filters saving default active value
+Visualization Filters don't filter map correctly
+Visualization Filters don't accept parent filters
+Active Filter Selection Display
+Release Notes 2024
+Features
+Brush Filter Functionality
+Brush Slider Issues with Forced Date
+Display decimal points on pie charts
+bar chart as epi graph -- optimization
+Add loading states to drop-downs
+Data Reset Scenario
+World Map, No Data Scenario
+Multi-series Box Plot
+Dashboard Reset Label: When present in the data set shouldn't appear twice
+Stacked Area Chart: Left Axis Min Value default
+Add feature to query parameter which tells app to send data request on load
+Update Maps Gray colors and dark border color
+Confidence Intervals for Line Charts in Mult-Dashboards
+Horizontal Bar Chart Dynamic Data Series
+Confidence Intervals for Multiple Data Series (Bar Chart)
+Label latest tick for date (linear scale) bar charts
+Make filter intro text custom
+Improve mobile data table font sizes
+Improve spacing between map elements
+Improve map territory labels
+Multi-series Box Plot: Data Table Updates
+Always show last month on date-time linear chart
+Decrease Amount of White Space Under New Filter Description
+508 Issues and Bug Fixes
+sankey: text display issues
+Scatter plot data table: options for Date / Category Axis not working
+Bar/line charts -- Data Table Display Format doesn't work
+Bar with Data Time Scale -- can't exclude values on date axis
+Lollipop bar style doesn't work with negative numbers
+Horizontal Axis Label Overlapping
+Right Side Legend Defaults
+Default Legend Box for Maps: Change to off for Top and Bottom
+Hidden Filter helper text is showing again
+Multi-Dashboard: Tab Styling
+Cursor on square legends does not change shape
+Patterns missing for territories and freely associated states
+Dashboard Filters - Nested
+No data for territories, freely associated states, and cities show as black
+Hex Maps > DC not showing
+Duplicate dropdown label in dashboard
+Y-Axis Issues on Multiple Data Series Bar Charts w/ CIs
+Y-Axis not responding to max value for line chart
+Unable to disable series highlight in bar chart
+Categorical Axis: Scale is different than the chart
+Custom Color Map Distributions
+Line chart values don't display unless you switch to Bar chart
+Nested Dropdown: cannot add Category to API filter
+Dashboard Filter: 'Used By' Rows assignment issue
+Dashboard: long page load time when no Apply Button.
+Dashboard: Filter Row association not applying query params to requests
+MMRIA issues
+Apply button can be clicked with empty filters
+Automatic Pattern Contrast is not setting for Territories
+Dashboard Filter Used By Label is Missing
+Filter Apply Button Not Functioning
+X-Axis Last tick overflows
+Data is saved in Footnotes
+Brush slider -- start / end dates don't correlate to chart
+Footnotes are showing in Data Reset Scenario
+Dashboard Filter Autoloading Issues
+Parent Filter section labeled incorrectly
+Cessation Issue: Footnotes need to show below Map
+dataURL issue in dashboards
+Multidashboard check is causing an error
+County Map Borders Change Width
+Categorical Map Patterns - Multi-word
+Data Table Display
+Features
+Date Support: Option for Reverse Chronological order
+Add the ability to set a min/max value for Scatter Plots.
+Box Plot logic and Labeling improved.
+Alternate to Dynamic Data Series
+COVE Styling – Dropdowns
+Dashboard Markup Include – Now show/hide based on null values
+Text notifying user when API Data call didn't work "There was a problem returning data. Please try again."
+"No Data" Table message when filter selection generates a scenario with no data given selections.
+Download CSV now available for stand-alone built data tables on dashboards
+Improve Mobile legends for Gradient Legends
+508 Issues and Bug Fixes
+Issue that was causing duplicated lines in suppressed data.
+Map legend custom sort issue was fixed.
+Visualizations sometimes overlap the data table fixed.
+October 2024 - 4.24.10
+Fixes
+Editing a Markup Include no longer freezes the page.
+API issue within the URL parameter for Dashboards repaired
+Filter edits now save correctly
+Horizontal Bar Charts no longer overrun Right Legends
+Larger isolated points no longer added while showing open circle
+Combo chart: Adding padding to value axis scale now working
+Dashboard Filters: URL Parameter is no longer one behind the selected value
+Dynamic Data Series now load even if first item is blank
+Memory Leak for Markup Include fixed
+Bar/line charts received a fix for the left positioning of legend
+Features
+Legend enhancements for gradient style
+Expand/Collapse Buttons
+Custom colors for patterns, color contrast check support
+Legend enhancements for positioning
+Hidden metholodogy column
+Nested/Data-driven Dropdown + Editor Integration- Data Visualization Level
+Dynamic Data Series
+Please Change Settings Icon for Dashboards
+Add commas to numbers to Markup Include Module
+Standalone Multi-Select Dropdown - editor integration - dashboard-level filter
+Data Suppression Enhancements: Definition Link, Lighter Gray Color Display
+Visualization Filters: Parent Relationship
+Map: TopoJSON Additions
+508 Issues and Bug Fixes
+Hidden Filters
+Combo Chart Spills Over Container
+Responsive Ticks Not Available for Paired Bar Chart
+API Dashboard Issues
+Color Code by Category: Broken for vertical bar and lollipop charts
+Multidashboard / API Issue
+Table and chart configuration issues: ARDI AAD reports
+Map Patterns: Label is wrapping in single line legend
+OSH Data: MultiSelect integration issues
+Single State Map: Filter Change - Message when state not available
+Fix missing first grid line
+Annotation Dropdown Not Showing on DFE
+Pie Chart Does Not Display on Dashboard
+Adding filters to tables causing dashboard to crash
+Chart Custom Filter Sort Order Broken
+Nov. 17, 2026
+Sources and Page Info
+Print
+Share
+Facebook
+LinkedIn
+Twitter
+Syndicate

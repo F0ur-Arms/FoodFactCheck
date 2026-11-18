@@ -1,0 +1,42 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: About Horse Flu
+URL: https://www.cdc.gov/flu-in-animals/about/horse-flu.html
+────────────────────────────────────────────────────────────
+
+At a glance
+Equine influenza (horse flu) is caused by influenza viruses that spread in horses and closely related animals, like donkeys and zebras.
+The viruses cause flu-like signs in those animals, similar to signs and symptoms of seasonal flu in people.
+Generally, horse flu poses a low risk to people.
+Background
+The influenza viruses that cause "horse flu" are "equine influenza viruses" or "EIVs." EIVs originally spread from birds to horses. Historically, EIVs have been type A influenza viruses belonging to two subtypes: H7N7 and H3N8.
+Evolving viruses
+The EIV H7N7 subtype was first reported in the 1950s and last reported in the 1970s. It is now considered to be extinct.
+The EIV H3N8 subtype was first reported in horses in the United States in the 1960s. It still spreads in horses globally today.
+Another influenza A(H3N8) virus subtype has been reported in dogs, horses, and birds; these viruses are different in each species.
+Signs and symptoms
+Signs of illness in horses
+Horses will generally start to show signs of infection with EIV within one to three days. Horses infected with EIV may show the following signs:
+Fever (elevated body temperature between 39 and 41ﹾC)
+Dry cough
+Wheezing when breathing in severe cases
+Loss of appetite
+Fatigue (tiredness)
+Runny nose
+These signs may not be present in horses vaccinated with an EIV vaccine, available in the United States.
+Understanding risk
+Human risk from horse flu
+EIVs are currently not well adapted to infect people and are currently believed to pose a low risk to human health. Although it is rare, a few people in contact with infected horses have developed antibodies to equine influenza viruses. Antibodies are a sign of having been infected. According to the World Organization for Animal Health, EIVs have been shown to be able to infect people in experimental settings. However, no people exposed to horse flu have shown signs of illness.
+What CDC is doing‎
+CDC and its animal health partners closely monitor circulating influenza viruses. This kind of surveillance is particularly important for tracking changes in animal influenza viruses that could spread between animals and people.
+How it spreads
+Equine influenza viruses are highly contagious among horses. These viruses are thought to spread mainly through droplets when an infected animal coughs or sneezes. Virus can then enter the eyes, nose or mouth or be breathed in by other horses nearby.
+Infected horses can shed EIV even before they show signs of illness. EIVs also can spread indirectly through objects that have the virus on them, like clothing, equipment, and brushes. If a susceptible horse inhales, absorbs, or ingests virus from an object, it could become infected. EIV also can be found on surfaces where infected animals are housed or transported.
+Practicing good infection control and hygiene measures in and around horse herds, including cleaning hands and clothing, is important. Ideally, people who are exposed to sick horses should not have contact with healthy horses during an outbreak. However, if that is not possible, sick horses should be taken care of after healthy horses.
+Once introduced into an area with a susceptible population of animals, horse flu can spread quickly and can cause large outbreaks among horses. Crowding and transportation of horses to new places are factors that make spread among animals more likely.
+Horse flu and other mammals
+Equine influenza viruses were first isolated from horses in 1963. Infection can occur from exposure to saliva and mucus from infected animals.
+In the late 1990s, EIV H3N8 infected and adapted to dogs and started regularly spreading in them as canine influenza A(H3N8) virus. As H3N8 viruses became adapted to each host, the H3N8 viruses in birds, horses, and dogs all became different and distinct from one another.
+While different H3N8 viruses continue to spread in birds and horses, canine influenza H3N8 viruses are now extinct in dogs.
+Prevention
+Vaccines to protect horses against horse flu have been available since the 1970s. They protect against the most commonly spreading equine influenza viruses. Different vaccines include different vaccine viruses.
+Vaccines are widely used to vaccinate domesticated horses. An expert panel from the World Organization for Animal Health regularly proposes which viruses should be included in vaccines.

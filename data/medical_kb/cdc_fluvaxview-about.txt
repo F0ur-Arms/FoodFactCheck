@@ -1,0 +1,21 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: About FluVaxView
+URL: https://www.cdc.gov/fluvaxview/about/index.html
+────────────────────────────────────────────────────────────
+
+About
+FluVaxView has flu vaccination data for people 6 months and older as recommended by the ACIP, for people at increased risk for flu such as nursing home residents and pregnant women, and for health care personnel, who could transmit flu to those at increased risk. Data are available for local areas, states, HHS regions, and the nation.
+Data Sources
+Influenza vaccination coverage data come from a variety of sources, including the National Immunization Survey-Flu (NIS-Flu), National Health Information Survey (NHIS), the Behavioral Risk Factor Surveillance System (BRFSS), the Pregnancy Risk Assessment Monitoring System (PRAMS), the Minimum Data Set (MDS), Internet panel surveys, IPSOS KnowledgePanel, and NORC AmeriSpeak.
+Find additional information about these data sources here.
+The National Immunization Survey-Flu (NIS-Flu) data are used to assess annual flu vaccination coverage among children 6 months-17 years at the national level, state level, selected local levels, and some in U.S. territories.
+The National Health Interview Survey (NHIS) monitors the nation's health by conducting in-person household interviews on a broad range of health topics, including flu vaccinations received by adults.
+The Behavioral Risk Factor Surveillance System (BRFSS) monitors major behavioral risks among adults at the state level and includes questions on health factors related to vaccinations, including yearly questions on flu vaccinations and questions related to place of flu vaccination every third year.
+The Pregnancy Risk Assessment Monitoring System (PRAMS) monitors major health issues before, during, and shortly after pregnancy and includes questions about flu vaccinations.
+The Centers for Medicare & Medicaid Services (CMS) Minimum Data Set provides a screening and assessment tool for the comprehensive assessment of all residents in Medicare and Medicaid-certified long-term care facilities.
+CDC uses Internet panel surveys to monitor health issues of special populations, including pregnant women and healthcare personnel. Internet panel surveys include questions related to attitudes about vaccination, health factors related to vaccinations, and flu vaccinations.
+This is an online probability-based survey of adult members ages 18 or older of KnowledgePanel, an online panel recruited using address-based sampling methodology and representative of the adult U.S. population.
+Online survey of adult members of the NORC AmeriSpeak Panel, an online panel representative of the entire U.S. population. The AmeriSpeak panel uses area probability sampling and includes additional coverage of hard-to-survey population segments such as rural and low-income households that are underrepresented in surveys relying on address-based sampling.
+Other VaxView Vaccination Coverage Websites
+The VaxView websites provide vaccination coverage data for all ages. Monitoring coverage for recommended vaccinations across the country helps CDC assess how well local areas, states, and the nation are protected from vaccine-preventable diseases.
+Find additional vaccination coverage data on the VaxView Vaccination Coverage main page.

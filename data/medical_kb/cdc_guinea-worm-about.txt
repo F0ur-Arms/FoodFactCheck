@@ -1,0 +1,35 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: About Guinea Worm
+URL: https://www.cdc.gov/guinea-worm/about/index.html
+────────────────────────────────────────────────────────────
+
+Key points
+Guinea worm disease (GWD) is caused by the parasite Dracunculus medinensis.
+A parasite is an organism (a living thing) that lives on or inside another organism.
+The disease affects communities in remote parts of Africa that do not have safe water to drink.
+There is no treatment nor a vaccine for Guinea worm disease.
+Overview
+Dracunculiasis, also known as Guinea worm disease (GWD), is an infection caused by the parasite Dracunculus medinensis. GWD is a neglected tropical disease (NTD) transmitted to people mostly by consuming unsafe water. Unfiltered drinking water from ponds or other stagnant surface water sources can contain near-microscopic crustaceans called copepods (tiny "water fleas") that are infected with Guinea worm larvae (immature forms of the Guinea worm).
+Signs and symptoms
+People do not usually have GWD symptoms until about one year after infection. Then, a mature pregnant female worm full of larvae creates a blister on the skin through which she will emerge and expel her larvae when she comes in contact with water. A few days to hours before the worm, which can measure up to 3 feet (1 meter) in length, comes out of the skin, a person may develop fever, swelling, and pain in the area. Most worms come out of people's legs and feet, though worms can come out of other body parts, too.
+Challenges
+People in remote rural communities who have GWD often lack access to healthcare. When the adult female worm comes out of the skin, it can be very painful, disabling, and take a long time to remove. The emerging worm can cause a wound that may develop a secondary infection.
+People at risk
+Anyone who consumes drinking water from a pond or other stagnant water source contaminated with infected copepods is at risk for infection. People's risk for disease can vary. People do not get immunity after GWD, which means they can get it again.
+GWD transmission also has a seasonal pattern.
+How it spreads
+Water contact triggers the Guinea worm to release a milky white liquid that contains hundreds of thousands of immature larvae into the water. In ponds and other stagnant water sources, these larvae are then consumed by copepods. People might become infected with Guinea worms by consuming unfiltered drinking water from such water sources containing infected copepods. People and animals might also become infected by eating certain aquatic animals (e.g., fish or frogs) that have swallowed infected copepods. People and animals infected with GWD can then spread the disease when the worm matures and is ready to emerge from the body if they enter ponds and other stagnant water sources that others drink from.
+Prevention
+Guinea worm is a disease that has been prioritized for eradication by the World Health Organization. There were an estimated 3.5 million Guinea worm cases occurring annually in 20 African and Asian countries in 1986, but today, through the Guinea Worm Eradication Program (GWEP), only a handful of countries continue to have the disease. GWEP undertakes several water-related and other measures to prevent GWD:
+Surveillance and case containment
+Safe water practices, including distribution of cloth and pipe filters to remove copepods, and advocacy for installation or rehabilitation of safe drinking water supplies like borehole wells
+Vector control
+Health education and community mobilization
+Quick facts
+There were 14 human GWD cases reported in 2023 in Chad, South Sudan, Mali, Cameroon, and Central African Republic.
+There were 714 animal GWD infections reported in 2023, which is a slight increase compared to 2022 following expanded surveillance activities.
+WHO has certified 200 countries free from Guinea worm. The six countries that have not yet been certified as free from Guinea worm are Angola, Chad, Ethiopia, Mali, South Sudan, and Sudan.
+Treatment and recovery
+There is no drug to treat Guinea worm infection. Once part of the worm begins to come out of the wound, it is important that all of the worm is removed to prevent complications. Anti-inflammatory medicine can help reduce pain and swelling, and antibiotic ointment can help prevent infections.
+Vaccines
+There is no vaccine to prevent Guinea worm infection.

@@ -1,0 +1,53 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Routine Legionella Testing in Buildings Without Cases
+URL: https://www.cdc.gov/control-legionella/about/routine-legionella-testing-in-buildings-without-cases.html
+────────────────────────────────────────────────────────────
+
+Key points
+Legionella is sometimes found in a building's water.
+Finding Legionella doesn't necessarily mean that people will get sick.
+Depending on testing information, building owners and managers may need to take action.
+People at increased risk for Legionnaires' disease may need to be informed and want to take precautions if their building tests positive for Legionella.
+Background
+A building owner or manager may choose to test their building's water for certain waterborne germs, such as Legionella. Legionella bacteria can cause a serious type of pneumonia called Legionnaires' disease.
+Test results alone don't predict disease risk
+Finding Legionella doesn't necessarily mean that people will get sick.
+Routine testing
+Legionella testing can be done as
+Part of an investigation into reported Legionnaires' disease cases
+In situations no reported cases of Legionnaires' disease
+When testing is done in situations without cases, it's referred to as routine testing.
+Routine testing for Legionella is one way to check that a program to maintain water quality is working. Testing can also provide a baseline measurement, so that Legionella growth, if found, can be checked over time.
+Building owners and managers can learn about other possible uses for routine testing in the Legionella control toolkit.
+Results from routine testing
+To understand the meaning of routine testing results for Legionella, several pieces of information should be used:
+Amount or concentration of Legionella found
+Location(s) where Legionella was found
+Trends of the testing results over time
+Type(s) of Legionella found
+Knowing the type of Legionella can be helpful because some types of Legionella are more likely to make people sick.
+Taken together, routine testing results can help building owners and managers understand more about the quality of their building's water. Those results can show whether Legionella growth appears well controlled, poorly controlled, or uncontrolled.
+Even buildings that have good water management may detect Legionella. Maintaining good water quality can help ensure that small levels of Legionella aren't able to grow and spread.
+Response activities
+Finding any Legionella should trigger activities to help control its growth, which are known as response activities. Response activities should be specific to the results, devices, and water systems in the building.
+When Legionella appears well controlled
+If Legionella growth appears well controlled, response activities could include reviewing and continuing existing activities to maintain water quality.
+When Legionella appears poorly controlled or uncontrolled
+If Legionella growth appears poorly controlled or uncontrolled, then response activities could include:
+Flushing water through devices such as faucets and showerheads
+Treating the water with chemicals
+Changing plumbing design
+Public health involvement
+Public health officials, including CDC, don't normally respond to routine Legionella testing results in buildings. Public health officials may be asked to help if cases of Legionnaires' disease are reported.
+For questions about Legionella testing results and response activities, it's best to contact the building manager.
+Risk of getting sick when Legionella is found
+There's no known safe level or type of Legionella. This means that results of Legionella testing alone can't predict if people will get Legionnaires' disease.
+People at increased risk
+Most healthy people exposed to Legionella don't get sick. However, certain people are at increased risk of getting sick.
+Keep Reading:
+Risk Factors
+What to do if you're sick
+See a healthcare provider right away if you have symptoms. Symptoms can include cough and fever, among others.
+Let the healthcare provider know if you've spent time near a device or water system that tested positive for Legionella. This information can help them decide if they should test you for Legionnaires' disease.
+What to do if you're not sick
+In general, there's no recommendation to seek medical care when water tests positive for Legionella if you don't feel sick. If you're at increased risk of getting Legionnaires' disease and concerned about getting sick, speak with your healthcare provider. They may recommend steps you can take to help protect yourself.

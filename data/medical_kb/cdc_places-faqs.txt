@@ -1,0 +1,144 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: PLACES Frequently Asked Questions
+URL: https://www.cdc.gov/places/faqs/index.html
+────────────────────────────────────────────────────────────
+
+Dec. 11, 2025
+What to know
+These Frequently Asked Questions (FAQs) are meant to help answer common questions about PLACES.
+Populations and Measures
+The selected set of measures is based on chronic disease public health priorities and impact. The measures include the risk behaviors that cause much of the illness, suffering, and early death related to chronic diseases and conditions, as well as the conditions and diseases that are the most common, costly, and preventable of all health problems.
+Most measures included in PLACES align with the work of the Chronic Disease Indicators (CDI), which is a partnership between CDC, the National Association of Chronic Disease Directors, and the Council of State and Territorial Epidemiologists. Many of our colleagues at state health departments across the country were engaged in the process of arriving at comprehensive measure definitions.
+Measure definitions include the background, significance, limitations of the indicator, data source, and limitations of the data resources.
+They are based on the standard data definitions used in the BRFSS and applied in a multilevel regression and post-stratification approach.
+Because we rely on the Behavioral Risk Factor Surveillance System (BRFSS), which only surveys adults aged ≥18 years, we only compute estimates for that population. We could not produce estimates for people aged 17 years or younger.
+There is one estimate per measure for the entire population of each county, place, census tract or ZCTA. Stratified estimates by age, sex, race/ethnicity, or poverty are not available.
+In December 2023, PLACES added 9 non-medical factor measures from the American Community Survey 5-year estimates. These are not updated in the recent releases.
+In August 2024, PLACES added 7 model-based estimates of Health-Related Social Needs measures for 39 states and the District of Columbia based on 2022 BRFSS survey questions.
+Such exposures are not explicitly modeled. However, their effects are statistically captured in the modeling by the inclusion of county- and state-level contextual (fixed and random) effects.
+PLACES does not include any stratifications by race and ethnicity. However, to the extent that populations within census tracts or ZIP Code Tabulation Areas (ZCTAs) tend to be relatively homogeneous, geographic disparities by census tract or ZCTA may be somewhat reflective of racial and ethnic disparities.
+We will consider providing such estimates in the future based on data availability, public interest, and funding resources.
+The health measures included now are primarily from the BRFSS annual core/rotating core questions. In recent years, PLACES has expanded to include disabilities measures, and health-related social needs estimates from the BRFSS optional module.
+Future releases of PLACES could further expand to include other measures from the BRFSS core/rotating core (such as consumption of fruits and vegetables) or from optional BRFSS modules, based on CDC public health priorities, public interest, and funding resources.
+Initial data release of 500 Cities (December 2016)
+500 Cities launched its first data release through the CDC Data Portal in December 2016. The first interactive web application was deployed in March 2017, enabling the retrieval, visualization, and exploration of uniformly defined selected city- and tract-level data for the 500 largest US cities.
+Data sources & measures: The data included estimates for 23 measures for adults based on 2014 Behavioral Risk Factor Surveillance System (BRFSS) data, and 4 measures (only available in odd years on the BRFSS, including 1-high blood pressure, 2-high blood cholesterol, 3-cholesterol screening, and 4-taking medicines for high blood pressure control among those with high blood pressure) based on 2013 BRFSS data.
+Second data release of 500 Cities (November 2017)
+Data sources & measures: Twenty of the 27 measures from the first release were updated with estimates based on 2015 BRFSS data. The other 7 measures (1-all teeth lost, 2-dental visits, 3-mammograms, 4-Pap tests, 5-colorectal cancer screening, 6-core preventive services among older adults, and 7- sleep less than 7 hours) were not available in 2015 BRFSS so were carried over from the 2016 release.
+Third data release of 500 Cities (December 2018)
+Data sources & measures: Estimates for 23 measures were updated based on 2016 BRFSS data. Four measures only available in odd years (1-high blood pressure, 2-high blood cholesterol, 3-cholesterol screening, and 4-taking medicines for high blood pressure control among those with high blood pressure) were carried over from the 2017 release.
+Fourth data release of 500 Cities (December 2019)
+Data sources & measures: Estimates for 20 measures were based on 2017 BRFSS data. Seven measures only asked in even years (1-all teeth lost, 2-dental visits, 3-mammograms, 4-Pap tests, 5-colorectal cancer screening, 6-core preventive services among older adults, and 7- sleep less than 7 hours) were carried over from the 2018 release.
+Initial data release of PLACES (December 2020)
+In December 2020, the 500 Cities Project was expanded to 4 geographic levels (county, place, census tract, and ZCTA) across the United States and renamed PLACES.
+Data sources & measures: It included 23 measures based on 2018 data and 4 measures (only asked in odd years) based on 2017 BRFSS data (1-high blood pressure, 2-high blood cholesterol, 3-cholesterol screening, and 4-taking medicines for high blood pressure control among those with high blood pressure). The measures were kept the same except "Pap tests" which was changed to "cervical cancer screening," based on the new guideline for cancer preventive services.
+Second data release of PLACES (December 2021)
+Data sources & measures: The estimates for 22 measures were updated based on 2019 BRFSS data. Two new measures were added to the original 27 measures: 1-fair or poor self-rated health status among adults aged ≥ 18 years, and 2-depression among adults aged ≥18 years. Seven measures only asked in even years (1-all teeth lost, 2-dental visits, 3-mammograms, 4-cervical cancer screening, 5-colorectal cancer screening, 6-core preventive services among older adults, and 7- sleep less than 7 hours) were carried over from the 2020 release, which was based on 2018 BRFSS data.
+Third data release of PLACES (November 2022)
+Data sources & measures: The estimates for 25 measures were updated based on 2020 BRFSS data, and 4 measures only asked in odd years were based on 2019 BRFSS data (1-high blood pressure, 2-high blood cholesterol, 3-cholesterol screening, and 4-taking medicines for high blood pressure control among those with high blood pressure).
+Fourth data release of PLACES (July 2023)
+Data sources & measures: Seven disability measures were added to the existing 29 measures: 1-hearing, 2-vision, 3-cognitive, 4-mobility, 5-self-care, 6-independent living, and 7-any disability. In total, 36 measures were included in this release:
+29 measures based on 2021 BRFSS data.
+7 measures only asked in even years, based on 2020 BRFSS data (1-all teeth lost, 2-dental visits, 3-mammograms, 4-cervical cancer screening, 5-colorectal cancer screening, 6-core preventive services among older adults, and 7- sleep less than 7 hours).
+Fifth data release of PLACES (August 2024)
+Data sources & measures: Seven new health-related social needs measures available for 39 states and the District of Columbia were added that include 1-social isolation, 2-food stamps, 3-food insecurity, 4-housing insecurity, 5-utilities services threat, 6-transportation barriers, and 7-lack of social and emotional support. In total, this latest release includes 40 measures:
+36 measures based on 2022 BRFSS data.
+4 measures only asked in odd years, based on 2021 BRFSS data (1-high blood pressure, 2-high blood cholesterol, 3-cholesterol screening, and 4-taking medicines for high blood pressure control among those with high blood pressure)
+2 measures (1-chronic kidney disease and 2-core preventive services use for adults aged 65 and older) were discontinued.
+1 measure, cervical cancer screening, could not be included in this release.
+Sixth data release of PLACES (December 2025)
+Data sources & measures: No new measures were added to the existing 40 measures. One health-related social needs measure was renamed from social isolation to loneliness. In total, this latest release includes 40 measures:
+35 measures based on 2023 BRFSS data.
+5 measures only asked in even years, based on 2022 BRFSS data (1-all teeth lost, 2-dental visits, 3-mammograms, 4-colorectal cancer screening, and 5-sleep less than 7 hours).
+Methodology and Validation
+The method of generating small area estimation (SAE) of the measures is a multilevel regression and post-stratification (MRP) framework. You can find details on the PLACES Methodology page.
+Before the 2023 release, the multilevel regression model for each measure was applied to the census population data categorized by age, sex, and race/ethnicity. A Monte Carlo simulation was then used to draw 1,000 random samples to generate the distribution of the estimates and construct 95% CIs. The simulation assumed that the random error for the random effects varied within each of the population categories.
+Beginning with the 2023 release, the assumption in the Monte Carlo simulation approach was changed so that the random error for the random effects varied only within counties. As a result, the estimated CIs may be wider than previous releases. This updated approach was adopted because it produces CIs similar to the 95% credible intervals generated using hierarchical Bayesian estimation via Markov Chain Monte Carlo, and the approach is computationally efficient.
+More information is available here: Constructing Statistical Intervals for Small Area Estimates Based on Generalized Linear Mixed Model in Health Surveys.
+PLACES Data
+PLACES data are updated on an annual basis.
+Since 2016 (when it began as the 500 Cities Project), updates have been released in the fall or winter (November/December) of every year.
+Beginning in 2023, CDC began releasing PLACES data about six months earlier (in July/August), as part of CDC's commitment to sharing scientific data faster to meet critical public health needs.
+Age-adjusted estimates are only available at the county and place-level.
+We don't provide age-adjusted prevalence estimates at census tract and ZCTA levels because some of these areas do not have population in all age groups used in the adjustment process.
+Estimates were calculated for all geographic units that had an adult population of 50 or more (total population ≥ 50 people, regardless of age before the 2024 release).
+This value was chosen to ensure that each geographic unit had a large enough population to ensure a reliable estimate.
+If you download the PLACES data, you will see variables called TotalPopulation and TotalPop18plus. These are the total population count and total adult population count (respectively) for the geographic unit. If the count is less than 50, the estimate is not reported.
+Correct. We do not produce estimates for individuals; only aggregated results for counties, places, census tracts, or ZCTAs.
+There is one estimate per measure for the entire population of each county, place, tract, or ZCTA.
+The modeling process uses individual-level responses and includes county- and state-level contextual effects (random effects) to estimate the probability of developing an outcome at the individual level, given their age, race/ethnicity, sex, education, and county-level poverty.
+We apply these probabilities to the target population (i.e., county, place, census tract or ZCTA) to derive the estimated prevalence.
+Thus, PLACES uses a combination of individual characteristics and responses, as well as county and state context.
+Yes. CDC has made it a priority to ensure that the data are available in a way that facilitates local use.
+We provide "GIS-friendly" data files for all four levels of geography that can be accessed at data.cdc.gov.
+Since the 2020 PLACES release, our interactive maps have been based on the ArcGIS Online service, which you can add to your desktop application (e.g. ArcGIS Pro) or use to make maps online at ArcGIS.com map viewer, overlaying your own local data with it.
+We also provide services on Esri's Living Atlas of the World (since the 2019 PLACES release).
+You can also use services from other organizations, such as the U.S. Census Bureau's American Community Survey (ACS) social-economic data, to assess the impact of non-medical factors on health.
+Confidence intervals are presented alongside the data estimates.
+Details on PLACES methodology, including validation, can be on the PLACES Methodology page. Sensitivity and specificity analyses were not applicable to this type of modeling procedure and thus were not conducted.
+There are no individual-level data. The data estimates are aggregated to the county, place, census tract, or ZCTA levels.
+The SAE for each local area is dependent mainly upon the demographic characteristics of that local area, but they also are affected by the county- and state-level context that was included as random effects in the modeling procedure. Therefore, if the population characteristics of an area are very different than the rest of the state, the result will be different from the rest of the state.
+We cannot include census tract as a random effect. However, we do not assume that there is no variation across census tracts.
+In the prediction step, we incorporate tract-level poverty.
+In addition, differences in the population demographics of the blocks that make up the census tracts are also considered in the prediction step.
+County-level poverty was used in the first step of the SAE modeling procedure because that is the smallest geographic level that corresponds to the geocode available for the BRFSS survey respondent.
+In the prediction step of the modeling process, we do use census-tract poverty estimates.
+We hope individuals in local areas who are more familiar with local definitions and conceptualizations of neighborhoods, make use of these data in their own public health and outreach efforts.
+It would be technically possible, for instance, for place-level data to be downloaded from PLACES and then incorporated into a local website—perhaps even GIS-enabled maps that include overlays of the boundaries of local neighborhoods as defined by the community.
+PLACES now includes census ZCTA-level estimates. Usually census ZCTA can be viewed as equivalent to postal ZIP Code, but be aware that postal ZIP Code changes over time whereas the census ZCTA remains the same for 10 years.
+For more information, see the Health Resources and Services Administration Health Center Program GeoCare Navigator resource and ZIP Code to ZCTA crosswalk file.
+The PLACES preventive measures and core health risk behaviors were selected based on the following factors:
+Amenable to public health intervention.
+Reflect public health priorities to address leading causes of morbidity and mortality.
+Consistent with U.S. Preventive Services Task Force recommendations.
+Exhibit substantial, meaningful variation at the local level.
+Can be estimated for small area levels from existing, regularly-collected surveillance data—BRFSS.
+Fills a niche for health data at the local level that are not presently available and does not duplicate health-related data available elsewhere.
+Compliments similar state-level measures available elsewhere.
+Using the Data
+Estimates for counties, places, census tracts, or ZCTAs can be compared on individual measures. However, these comparisons need to be carefully done and interpreted.
+First, it is not adequate to simply compare point estimates. The confidence intervals should also be considered, and some are very broad. The smaller the areas are, the broader the confidence intervals of an estimate will be. The confidence intervals are related to the population prevalence of the measure, the sample size of the data source (BRFSS), the area's population, the modeling process, and the method used for constructing the confidence intervals. It may not be appropriate to draw conclusions when comparing estimates that have very broad confidence intervals.
+Second, when interpreting differences, we recommend considering differences in the population characteristics (e.g., age, race/ethnicity) of the geographic units being compared, which may also contribute to any differences observed.
+Finally, age-adjusted estimates that adjust for potential differences in the age-distribution across geographic units can be used for county- and place-level comparisons. As part of the Comparison Report, age-adjusted and crude prevalence estimates are included so users can see how both estimates compare.
+Yes. Users can aggregate the data to estimate the prevalence for a group of areas by following these steps:
+Identify the relevant population group for the measure of interest. While most PLACES measures relate to the adult population (e.g., adults aged ≥ 18 years), some are limited to specific populations (e.g., women aged 21–65 years, adults aged ≥ 65 years). This information can be found in the Measure Definitions section.
+Obtain the total census population count/estimate for each area for the relevant population group.
+County-level total population estimates can be downloaded from: https://www.census.gov/data/tables/time-series/demo/popest/2020s-counties-detail.html.
+Place, ZCTA, or tract-level 2020/2010 Census population counts by age and sex can be downloaded from https://data.census.gov.
+Search for P12 and expand the view of all 14 products, then select the table '2020: DEC Demographic and Housing Characteristics' or '2010: DEC Summary File 1'.
+Expand the Geographies filter at left and select specific geographic areas. Examples of all places, census tracts, and ZCTAs in Alabama: All places, Census tracts (Note: You will get a message indicating the dataset is too large to display, but a download button is provided for you to download the data.), and ZCTAs.
+For each area (e.g., county, census tract), estimate the number of adults reporting a specific measure (N) by multiplying the relevant census population counts or estimates (Pop) from Step 1 by the specific prevalence estimate (p) and dividing by 100 (N = Pop × p / 100).
+Sum the estimated number of adults calculated in Step 3 across all the included areas to generate the aggregate estimate for a specific measure.
+Divide this by the sum of the total population count/estimate to obtain the aggregate prevalence estimate.
+There are a number of methods for small area estimation (SAE). The multilevel regression modeling with post-stratification framework, which was used in PLACES and the 500 Cities Project, is one methodology that communities might consider when looking to generate their own small area estimates.
+Some communities have already generated their own direct survey estimates or small area estimates, and they are encouraged to use their local estimates as their primary data. The estimates from PLACES may offer additional insights into the health issues affecting residents of those communities.
+For more information, go to PLACES Methodology.
+The SAE code used in PLACES was developed specifically for PLACES / 500 Cities outcomes, using the entire BRFSS dataset for all states and Washington, DC. It included variables in the model for state and local levels.
+The use of the code by Washington, DC and other communities may or may not be appropriate without some modification.
+In addition, use of the SAE code assumes that the end user has access to geocoded (in the case of PLACES this was the county) survey data.
+Restricted BRFSS data, which includes substate geographic identifiers (county) are available through the Research Data Centers by way of a formal data hosting agreement on a case-by-case basis for research purposes.
+Unfortunately, CDC does not currently have the capacity or resources to respond to all individual requests for technical assistance on the modeling process, modifying the code, or running special data analyses.
+Requests for such assistance are handled on a case-by-case basis and will depend on existing resources and workload.
+No. We cannot include policy or program intervention effects, which would occur locally, in the modeling process.
+The estimates for local areas are the statistically expected prevalence of the risk factor, health outcome, or preventive service use, based on the associations observed through the overall model.
+It is possible that a community may have a program intervention that has a substantial effect, such that the resulting prevalence of a health risk factor (for example) is lower or the preventive service use is higher than what is statistically predicted by our model. In that case, if a community relies solely on the small area estimates, the effect of that local intervention would be underestimated.
+Without reliable local information about public health programs, model-based local estimates should not be used to evaluate the effect of local public health programs, policies, or interventions.
+The data can be used to:
+Identify the health issues facing a local area or neighborhoods.
+Establish key health objectives.
+Develop and implement effective and targeted prevention activities.
+Because these are modeled and not direct estimates, the data should not be used for ranking the overall health of any county, place, census tract, or ZCTA.
+PLACES does not provide a weighted composite score for the included counties, places, census tracts, or ZCTAs. Therefore, the data should not be used to rank the overall health of a local area.
+However, counties, places, census tracts, or ZCTAs can be compared on individual measures.
+The current modeling procedure does not support using the estimates to track changes at the local level over time.
+Estimates depend on two main components: 1) the survey responses in a given survey year; and 2) the detailed population distribution within the local area.
+Because we use the 2020/2010 U.S. Census as the post-stratification dataset for estimates at place, census tract, and ZCTA levels, we cannot incorporate year-to-year population changes in the modeled results.
+So, the assumption for any given point-in-time estimate is that the place, census tract, and ZCTA population in that year is the same as it was measured in 2020/2010.
+For county level estimates, we do use census annual population estimates as the post-stratification dataset. But the time is not included in the model as a variable, so the data cannot be used to access trends for counties.
+If you choose to include adjustments for area-level demographic characteristics (e.g., age, sex, race or ethnicity) in an analysis using model-based PLACES estimates (e.g., obesity rate), you should take caution when interpreting results.
+The PLACES approach incorporates age, race or ethnicity, sex, education, and poverty to generate the model-based estimates.
+This approach should be considered when planning, conducting, and interpreting any regression analyses using the model-based PLACES estimates.
+For more information, see Amanda Y. Kong and Xingyou Zhang, "The Use of Small Area Estimates in Place-Based Health Research," American Journal of Public Health 2020;110(6):829–832, for a more detailed discussion.
+Citing PLACES
+The suggested citation is: Centers for Disease Control and Prevention. PLACES: Local Data for Better Health. Accessed [date]. https://www.cdc.gov/places
+Dec. 11, 2025

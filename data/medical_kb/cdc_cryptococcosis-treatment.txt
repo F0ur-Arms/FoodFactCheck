@@ -1,0 +1,19 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Treatment of Cryptococcosis
+URL: https://www.cdc.gov/cryptococcosis/treatment/index.html
+────────────────────────────────────────────────────────────
+
+Key points
+People who have cryptococcosis need antifungal medication for at least 6 months.
+Treatment for mild-to-moderate lung infections is usually fluconazole.
+People with asymptomatic infections who have HIV/AIDS should be treated with fluconazole.
+The recommended initial treatment for severe lung or brain infections (meningitis) is liposomal amphotericin B with flucytosine.
+Treatment
+People who have cryptococcosis need to take prescription antifungal medication for at least 6 months, often longer.
+Recommended antifungal treatments depend on HIV status and type and severity of infection.
+The antifungal fluconazole is recommended for treating mild to moderate lung infections and asymptomatic infections in people with HIV/AIDS.
+Liposomal amphotericin B and flucytosine are recommended for initial treatment of severe lung infections and cryptococcal meningitis, followed by taking fluconazole.
+Additional treatment may be necessary including:
+Lumbar puncture (a needle inserted near the spine removes fluid buildup).
+Surgery to remove fungal growths, known as cryptococcomas.
+Treatments may be adapted for other populations like children and women who are pregnant.

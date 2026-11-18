@@ -1,0 +1,56 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Antimicrobial Resistance: Causes and How It Spreads
+URL: https://www.cdc.gov/antimicrobial-resistance/causes/index.html
+────────────────────────────────────────────────────────────
+
+For Everyone
+Oct. 28, 2026
+Key points
+Antimicrobial-resistant germs spread in and between healthcare facilities, through antibiotic and antifungal use, as well as in the community, environment and food.
+To protect people, it is critical to stop antimicrobial resistance (AR) spread, slow AR development, improve antibiotic and antifungal use and prevent infections from happening in the first place.
+We can slow the spread of antimicrobial-resistant threats using simple interventions, such as good hygiene, routine vaccination, safer sex practices and safe food preparation.
+AR is a global challenge
+Germs can spread across the globe, within healthcare facilities, communities, our food supply, and the environment. AR has been identified in all regions of the world and can spread rapidly.
+Although AR is a global challenge, it looks different around the world. The amount of resistance, number of infections, capacity and resources for infection prevention and control and healthcare quality vary worldwide. Access to clean water and sanitation and vaccination coverage also differ around the world.
+New CDC AR Data Available
+The 2026 update to the AR Threats Report is now live and provides the most comprehensive estimates of the impact of drug resistance on human health in the United States to date. Explore the report.
+How antimicrobial-resistant germs spread around the world
+Modern travel of people, animals, and goods means AR can easily spread. More than one billion people are on the move globally. This includes 410 million travelers arriving in the U.S. through more than 300 points of entry each year.
+Some examples of how antimicrobial-resistant germs can spread:
+Person-to-person during activities like handshaking, working out, having sex or going to school.
+Between people and animals, including pets and petting zoos.
+Some germs may be common in certain parts of the world, but less common in others. When people travel internationally, they can get infections from other people, animals, contaminated food or water or through receiving medical care.
+New forms of resistance can emerge and spread quickly, especially resistance shared among germs through mobile genetic elements.
+Antimicrobial-resistant germs can share their resistance genes with other germs, making the infections they cause more difficult, or even impossible, to treat. Learn more about how resistance happens.
+How antimicrobial-resistant germs spread in the community
+Germs, including antimicrobial-resistant germs, live and spread within communities (between people, animals, and food) through common activities and sometimes makes people sick. For example:
+Person-to-person during everyday activities.
+From food to people and between people and animals without appropriate hand hygiene.
+People can also get an infection when traveling, then spread these germs when they return.
+Community-associated infections can happen to healthy people who have not had a recent interaction with health care (healthcare-associated germs tend to impact sicker, more vulnerable people while they receive care).
+How to prevent spread
+Germs will inevitably find ways to resist antibiotics and antifungals, which is why aggressive action is needed now to keep new resistance from developing and to prevent the resistance that already exists from spreading. Global efforts can contribute to solutions that protect people from this threat, including:
+Improving quality and consistency of infection control nationwide.
+Detecting and responding to AR early, containing it before it becomes common.
+Enhancing and developing products that improve hygiene, prevent infections and keep germs from spreading.
+Increasing education and awareness around infection prevention and control.
+An antimicrobial-resistant threat somewhere can quickly become a threat anywhere. When infection prevention and control capacity is strengthened in a country, the world benefits.
+Keep Reading
+Controlling the Emergence and Spread of Antimicrobial Resistance
+Keep Reading
+Controlling Antimicrobial Resistance: Livestock and Poultry Producers
+Keep Reading
+Controlling Antimicrobial Resistance: Healthcare Providers and Veterinarians
+How antibiotic and antifungal use impact AR
+Antibiotics and antifungals save lives. However, any time these drugs are used, they can cause side effects and contribute to the development of AR.
+In the U.S., 5 out of 6 people are prescribed an antibiotic each year—at least 30% of this antibiotic use is unnecessary. According to the Center for Disease Dynamics, Economics & Policy's (CDDEP) 2021 global analysis of antibiotic resistance, global antibiotic consumption in humans increased by 65% between 2000 and 2015, whereas consumption in animals is expected to increase by 11.5% between 2017 and 2030. If nothing changes, antibiotic consumption is likely to increase worldwide by 200% between 2015 and 2030.
+In U.S. outpatient doctors' offices specifically, 1 out of every 3 antibiotic drugs prescribed is unnecessary. That's 47 million unnecessary prescriptions, each of which carries the potential for side effects, allergic reactions and Clostridioides difficile infections, which can cause deadly diarrhea.
+In the community, reactions from antibiotics often require emergency treatment. In fact, reactions from antibiotics cause 1 out of 5 medication-related visits to the ER. In children, reactions from antibiotics are the most common cause of medication-related ER visits.
+Misuse or mismanagement of antibiotics and antifungals can also contribute to resistance. For example, people with tuberculosis (TB)—a disease caused by bacteria that are spread from person to person through the air—can die if they do not get proper treatment. Drug-resistant TB can occur when the drugs used to treat TB are used inappropriately.
+Clinicians should prescribe their patients antibiotics and antifungals only when the benefits outweigh the potential risks. Veterinarians can also help improve antibiotic or antifungal use when prescribing these drugs. Improving prescribing and use is critical to effectively treat infections, protect patients from harms, and combat antimicrobial resistance.
+Globally, the use of antibiotics and antifungals are increasing, particularly in low- and middle-income countries as antibiotics and antifungals become more accessible and affordable. Yet some parts of the world cannot access antibiotics and antifungals when they need them, putting patients at risk. While some vaccines are available, low vaccination coverage, coupled with poor water, sanitation, and hygiene infrastructure, leaves many people vulnerable to infection and dependent on antibiotics for treatment.
+Everyone should have access to antibiotics and antifungals that work when they are needed. Every country should work to:
+Reduce unnecessary use of these drugs.
+Improve access to antibiotics and antifungals.
+Implement and measure stewardship programs.
+Track antibiotic and antifungal use and use the data to advance stewardship efforts.

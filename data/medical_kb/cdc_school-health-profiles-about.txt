@@ -1,0 +1,73 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: About School Health Profiles
+URL: https://www.cdc.gov/school-health-profiles/about/index.html
+────────────────────────────────────────────────────────────
+
+2022 Profiles Results Available Now
+At a glance
+School Health Profiles (Profiles) is a system of surveys assessing school health policies and practices in states, large urban school districts, and territories.
+Profiles surveys are conducted biennially by education and health agencies among middle and high school principals and lead health education teachers.
+Profiles Explorer provides easy access to 2022 national, state, and local school health policies and practices results.
+Overview
+Profiles surveys are conducted biennially by education and health agencies—surveying middle and high school principals and lead health education teachers.
+Profiles monitors the current status of:
+School health education requirements and content.
+Physical education and physical activity.
+Practices related to bullying and sexual harassment.
+School health policies related to nutrition and tobacco-use prevention.
+School-based health and mental health services.
+Family engagement and community involvement.
+School health coordination.
+Profiles Explorer
+This user-friendly tool uses tables and maps to display data.
+Topics include health education, health services, physical education and activity, school nutrition, safe and supportive environments, and more.
+Results
+Profiles Explorer provides easy access to 2022 national, state, and local school health policies and practices results.
+Explorer 2022 Profiles Results
+Keep Reading:
+Profiles Explorer Help
+How Profiles is conducted
+Profiles is conducted among a sample of secondary schools in a state, school district, territory, or tribe. The self-administered questionnaires provide data from the principal and the lead health education teacher at each sampled school.
+In 2022, 44 states, 28 school districts, 2 territories, and 1 tribe obtained data representative of their jurisdiction. From these sites, data were weighted to represent the population:
+If at least 70% of the principals or lead health education teachers in the sample completed the questionnaire.
+If nonresponse bias analyses revealed few significant differences between responding and nonresponding schools.
+One state that did not meet either of these criteria did not have its data weighted. These unweighted data represent only the schools in which the principals or teachers completed the questionnaire.
+Across states, the principal surveys' sample sizes ranged from 63 to 481, and response rates ranged from 26% to 100%.
+Across school districts, the sample sizes ranged from 12 to 307, and response rates ranged from 70% to 100%.
+Across states, the lead health education teacher surveys' sample sizes ranged from 56 to 501, and response rates ranged from 24% to 99%.
+Across school districts, the sample sizes ranged from 10 to 249, and the response rates ranged from 58% to 100%.
+Keep Reading:
+Profiles Methods
+What kind of data Profiles provides
+Profiles provides data on the following areas:
+Sexual health education.
+Safe and supportive school environments.
+Sexual health services.
+Health services for students with chronic conditions.
+Supportive school nutrition environments.
+Comprehensive school physical activity programs.
+These data show the progress in implementing school policies and practices to help improve the health of school-aged youth.
+Profiles data
+Profiles data reflect the percentage of secondary schools in each participating state, school district, territory, or tribe that have a particular policy or practice in place. Nationwide estimates, calculated by combining and reweighting state data, are also available.
+Keep Reading:
+Profiles Participation
+Why Profiles is important and how data can be used
+Profiles data are meant to be used by leaders and decision makers, especially in schools, school districts, and state education agencies. The data allow leaders to understand the gaps in policies and practices that can affect student health and academic performance.
+Identifying gaps in school health policies and practices:
+Supports local discussions and decisions about needed changes.
+Monitors those changes over time.
+Used with CDC's Youth Risk Behavior Surveillance (YRBS) data, Profiles data can provide a powerful way for decision makers to monitor the effects of their decisions over time.
+How policy makers and community leaders use Profiles data
+School-based surveillance, provided by Profiles, helps monitor health policies and practices. It can also guide future decision-making.
+Policymakers and community leaders can use Profiles data to:
+Guide community coalitions or task forces as they coordinate activities to prevent HIV, sexually transmitted infections (STIs), and pregnancy among school-aged youth.
+Promote awareness and bring the community together to address gaps in students' health and education needs.
+Develop policies, practices, and programs that protect and support student health, and provide needed services.
+Profiles data used by education agencies, public health partners
+Education and health officials use Profiles data to:
+Describe school health policies and practices, and compare them across jurisdictions.
+Identify professional development needs.
+Plan and monitor programs.
+Support health-related policies and legislation.
+Seek funding.
+Garner support for future surveys.

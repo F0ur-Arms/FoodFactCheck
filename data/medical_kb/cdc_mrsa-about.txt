@@ -1,0 +1,60 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Methicillin-resistant Staphylococcus aureus (MRSA) Basics
+URL: https://www.cdc.gov/mrsa/about/index.html
+────────────────────────────────────────────────────────────
+
+Key points
+MRSA is a type of bacteria that is resistant to several antibiotics.
+Although anyone can get MRSA, some groups have a higher risk.
+If left untreated, MRSA infections can cause sepsis or death.
+Overview
+Staphylococcus aureus (staph) is a very common germ. About one out of every three people have the germ on their skin or in their nose. This germ does not cause problems for most people.
+MRSA is a type of staph that can be resistant to several antibiotics. Anyone can get a MRSA infection or carry MRSA. The risk increases for people with hospitalizations or nursing home stays, skin-to-skin contact with others (such as in contact sports), and exposure to crowded and unhygienic places.
+Signs and symptoms
+The symptoms of an S. aureus infection, including MRSA, depend on the part of the body that is infected. Broken skin, such as scrapes or cuts, is often the site of a MRSA infection. Most S. aureus skin infections, including MRSA, appear as a bump or infected area on the skin that might be:
+Red.
+Swollen.
+Painful.
+Warm to the touch.
+Full of pus or other drainage.
+Accompanied by a fever.
+You cannot tell by looking at the skin if it's a MRSA infection. People sometimes confuse some MRSA skin infections with a spider bite. However, unless you actually see the spider, the irritation is likely not a spider bite.
+If you or someone in your family experiences the signs and symptoms of MRSA infection:
+Contact your healthcare provider, especially if the symptoms include a fever or do not improve within 48 hours.
+Do not pick at or pop the bump or sore.
+Cover the area with clean, dry bandages until you can see a healthcare provider.
+Clean your hands often.
+Complications
+MRSA infections can cause serious problems in and outside of healthcare settings, including:
+Pneumonia (lung infections).
+Bloodstream infections.
+Surgical site infections.
+Sepsis, the body's extreme response to an infection (if left untreated).
+Death (if left untreated).
+Who is at risk
+Although anyone can get MRSA, some groups have a higher risk:
+Athletes.
+Daycare and school students.
+Military personnel in barracks.
+People who receive inpatient medical care.
+People who have surgery or medical devices inserted in their body.
+People who inject drugs.1
+How it spreads
+MRSA spreads in the community through contact with infected people, wounds, or things that have touched infected skin and are carrying the bacteria.
+Some people who carry MRSA can go on to get a MRSA infection.
+Prevention
+You can reduce your risk of MRSA infections and help prevent their spread.
+Keep Reading
+Preventing Methicillin-resistant Staphylococcus aureus (MRSA)
+Diagnosis
+A healthcare provider must send a clinical specimen to a laboratory to determine if MRSA is the cause of an infection.
+Treatment and recovery
+Your healthcare provider will determine which treatments are best for you.
+Antibiotics
+Healthcare providers often prescribe antibiotics to treat MRSA infections. While MRSA can be resistant to several antibiotics, meaning these drugs cannot cure the infections, there are antibiotics available to treat MRSA infections.
+Surgery
+Some types of S. aureus infections need surgery to drain infected areas.
+What CDC is doing
+Tracking MRSA infections through the Emerging Infections Program and National Healthcare Safety Network.
+Data is also available on the AR & Patient Safety Portal.
+Working closely with health departments, other federal agencies, healthcare providers and patients to prevent infections caused by MRSA and slow the spread of resistant germs.

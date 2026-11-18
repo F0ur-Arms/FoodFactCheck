@@ -1,0 +1,56 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: About Soft Tick Relapsing Fever (STRF)
+URL: https://www.cdc.gov/relapsing-fever/about/about-strf.html
+────────────────────────────────────────────────────────────
+
+For Everyone
+Key points
+STRF is caused by Borrelia hermsii, B. turicatae, and other Borrelia bacteria, transmitted to humans through the bite of infected soft-bodied ticks of the genus Ornithodoros.
+In the United States, people most often become infected when they stay overnight in rodent-infested cabins.
+STRF terminology
+Soft tick relapsing fever (STRF) is also known as tickborne relapsing fever (TBRF). The term "soft tick relapsing fever" helps differentiate relapsing fever transmitted by soft ticks (caused by Borrelia hermsii, B. turicatae, and other Borrelia species) from relapsing fever transmitted by hard ticks (caused by B. miyamotoi and possibly other species).
+Signs and symptoms
+Common symptoms of STRF include:
+Fever
+Headache
+Muscle aches
+Chills
+Signs and symptoms during fever episodes can be severe, including shaking, drenching sweats, and low blood pressure.
+Other possible symptoms include:
+Dizziness
+Joint pain
+Nausea and vomiting
+Appetite loss
+Rarely, facial paralysis, eye pain or redness, or vision changes
+Symptoms may appear 4 to 21 days after exposure and typically relapse, producing a recognizable pattern of fever that lasts around 3 days, followed by around 7 days without fever, followed by fever again. Without antibiotic treatment, this process can repeat multiple times.
+STRF can affect a fetus during pregnancy and can cause pregnancy loss, premature birth, and severe infections or death in infants.
+Causes and spread
+STRF is caused by Borrelia bacteria transmitted to humans through the bite of infected soft-bodied ticks of the genus Ornithodoros. There are numerous Borrelia species that cause STRF, and each is usually associated with a specific tick species.
+Bites from soft ticks are brief, usually lasting less than half an hour. The bites are painless, and most people are unaware that they have been bitten.
+In the United States, people most often become infected when they stay overnight in rodent-infested cabins. These infections usually involve Onithodoros hermsi ticks that emerge at night, feed briefly while the person is sleeping, and transmit Borrelia hermsii. Exposure is most common in the summer but can also occur in winter when people make fires to warm a cabin and activate O. hermsi ticks that are resting in the walls and woodwork.
+Less frequently, people become infected while exploring caves. In the United States, these infections usually involve Ornithorodos turicata ticks, which transmit Borrelia turicatae bacteria.
+Distribution
+Human cases of STRF have been identified on all continents except Australia and Antarctica. STRF is likely underrecognized in many parts of the world.
+In the United States, STRF usually occurs in mountainous areas of western states (Borrelia hermsii spread by Ornithodoros hermsi ticks) and in parts of Texas (Borrelia turicatae spread by O. turicata ticks).
+Cases of STRF in the United States from 2012 through 2021
+Globally, STRF is most common in
+East Africa, where it is usually caused by Borrelia duttonii (transmitted by Ornithodoros moubata ticks)
+West Africa, where it is usually caused by B. crocidurae (transmitted by O. sonrai)
+The Mediterranean region, where it is usually caused by B. hispanica (transmitted by O. erraticus)
+The Middle East, where it is usually caused by B. persica (transmitted by O. tholozani)
+Prevention
+Soft ticks can live for decades. Individual ticks can take many blood meals during each stage of their life cycle, and some species can pass Borrelia bacteria through their eggs to offspring.
+The long lifespan of soft ticks means that once a cabin or home is infested with rodents and soft ticks, it may remain infested until steps are taken to find and remove rodent nests and get rid of the ticks.
+To prevent STRF:
+Avoid sleeping in rodent-infested buildings whenever possible. Signs of rodent activity include droppings, nesting material such as shredded paper, fabric, or dried plant matter, signs of chewing or gnawing, or a stale odor.
+Limit soft tick access to bedding by moving beds away from walls and do not allow bed sheets to touch the ground. Avoid sleeping on the floor.
+If you are visiting a cabin and notice a rodent infestation, contact the owner to alert them.
+If you own a cabin, keep rodents, especially chipmunks and squirrels, out of the home. Consult a licensed pest control professional who can safely:
+Identify and remove any rodent nests from walls, attics, crawl spaces, and floors.
+Treat "cracks and crevices" in the walls with pesticides.
+Establish a pest control plan to keep rodents out.
+If entering caves or areas with rodent burrows in regions where STRF is found, wear long-sleeved shirts and pants and avoid direct contact of skin with cave floors or burrows.
+Prevent tick bites. Use Environmental Protection Agency (EPA)-registered insect repellent on skin or clothing or treat clothing and gear with products containing 0.5% permethrin.
+Do not remove rodent nests yourself. Rodents are known to carry many diseases that can spread to people. Activities that put you in contact with deer mouse droppings, urine, saliva, or nesting materials can place you at risk for infections like Hantavirus Pulmonary Syndrome (HPS), a potentially fatal condition.
+Resources for pest control professionals:
+• Soft Tick Relapsing Fever Fact Sheet for Pest Control Professionals.pdf (link)

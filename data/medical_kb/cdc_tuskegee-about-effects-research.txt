@@ -1,0 +1,16 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Effects on Research
+URL: https://www.cdc.gov/tuskegee/about/effects-research.html
+────────────────────────────────────────────────────────────
+
+At a glance
+Learn more about the ethics and policies that have had and effect on research conducted by the Public Health Ethics Program sponsored by Tuskegee University and CDC.
+Background
+After the U.S Public Health Service's (USPHS) Untreated Syphilis Study at Tuskegee, the government changed its research practices.
+In 1974, the National Research Act was signed into law, creating the National Commission for the Protection of Human Subjects of Biomedical and Behavioral Research. The group identified basic principles of research conduct and suggested ways to ensure those principles were followed.
+Regulations and standards
+In addition to the Commission's recommendations, since 1974 researchers are required to get voluntary informed consent from all persons taking part in studies done or funded by the Department of Health, Education, and Welfare (DHEW). They also required that all DHEW-supported studies using human subjects be reviewed by Institutional Review Boards (IRBs). IRBs decide whether research protocols meet ethical standards.
+The rules and policies for human subjects research have been reviewed and revised many times since they were first approved. Efforts to promote the highest ethical standards in research are ongoing.
+Ethics Advisory Board and policies
+An Ethics Advisory Board was formed in the late-1970s to review ethical issues of biomedical research. As a result, the 1979 publication known as The Belmont Report summarized the three ethical principles that should guide human research: respect for persons; beneficence; justice. From 1980-1983, the President's Commission for the Study of Ethical Problems in Medicine and Biomedical and Behavioral Research reported "every two years on the adequacy and uniformity of the Federal rules and policies, and their implementation, for the protection of human subjects in biomedical and behavioral research." In 1991, federal departments and agencies (16 total) adopted the Federal Policy for the Protection of Human Subjects.
+In October 1995, President Bill Clinton created a National Bioethics Advisory Commission, funded and led by the Department of Health and Human Services. The commission's task was to review current regulations, policies, and procedures. Also, to ensure all possible safeguards are in place to protect research volunteers. It was succeeded by the President's Council on Bioethics, which was established in 2001, and then the Presidential Commission for the Study of Bioethical Issues established in 2009.

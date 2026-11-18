@@ -1,0 +1,41 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Risk-based Indications for Meningococcal Vaccination
+URL: https://www.cdc.gov/meningococcal/hcp/vaccine-recommendations/risk-indications.html
+────────────────────────────────────────────────────────────
+
+Mar. 16, 2026
+Key points
+CDC recommends meningococcal vaccination for children and adults at increased risk for meningococcal disease.
+Many of the indications for MenACWY and MenB vaccination overlap.
+However, some indications are specific for each vaccine type.
+Learn what factors can increase someone's risk for meningococcal disease.
+Indications for MenACWY vaccination
+The following table summarizes the factors that can increase someone's risk for serogroup A, C, W, or Y meningococcal disease.
+Medical conditions
+Complement component deficiency (e.g., C5-C9, properdin, factor H, factor D)
+Functional or anatomic asplenia (including sickle cell disease)
+HIV
+Medications
+Complement inhibitors (e.g., Soliris®, Ultomiris®)
+Settings or occupations
+Traveling to or residing in countries in which serogroup A, C, W, or Y meningococcal disease is common
+Microbiologist who is routinely exposed to Neisseria meningitidis (the causal pathogen)
+Military recruit
+First-year college student living in a residence hall and not up to date with this vaccine
+Being a part of a community experiencing a serogroup A, C, W or Y outbreak
+Indications for MenB vaccination
+The following table summarizes the factors that can increase someone's risk for serogroup B meningococcal disease.
+Medical conditions
+Complement component deficiency (e.g., C5-C9, properdin, factor H, factor D)
+Functional or anatomic asplenia (including sickle cell disease)
+Medications
+Complement inhibitors (e.g., Soliris®, Ultomiris®)
+Settings or occupations
+Microbiologist routinely exposed to N. meningitidis
+Being a part of a community experiencing a serogroup B outbreak
+Managing patients who receive complement inhibitors
+Patients taking complement inhibitors are at increased risk for meningococcal disease. These patients may still contract meningococcal disease despite being
+Fully vaccinated and up to date with boosters
+Receiving antimicrobial prophylaxis.
+Keep Reading
+Clinical Guidance for Managing Meningococcal Disease Risk in Patients Receiving Complement Inhibitor Therapy

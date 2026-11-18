@@ -1,0 +1,55 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: About AtlasPlus
+URL: https://www.cdc.gov/nchhstp/about/atlasplus.html
+────────────────────────────────────────────────────────────
+
+For Everyone
+At a glance
+NCHHSTP AtlasPlus is an interactive tool that gives users the ability to create customized tables, maps, and charts using nearly 20 years of CDC's surveillance data on HIV, viral hepatitis, STD, and TB. AtlasPlus also provides access to indicators on social determinants of health (SDOH) allowing users to view social and economic data in conjunction with surveillance data for each disease.
+AtlasPlus app
+NCHHSTP AtlasPlus has Charts, Maps, and Tables functions. Using any of these functions, you can view diseases by year, geography, and demographics.
+Direct access to AtlasPlus (508 compliant).
+Charts
+Using the Charts function, users can generate a series of charts that can be downloaded. In this section, users can interact with the available data on HIV, viral hepatitis, STD, tuberculosis (TB), and social determinate of health (SDOH) to:
+Create line graphs by year
+Generate pie charts for sex
+Produce bar charts by age group, race/ethnicity, transmission category (HIV), country of birth (TB)
+Create bar charts by states or counties
+Make two side-by-side sets of charts; e.g., of two diseases or 1 disease and 1 SDOH
+Download the data into an Excel file
+Save the chart in a PowerPoint file.
+Maps
+The Map function in the NCHHSTP AtlasPlus enables users to:
+Create custom maps and examine patterns of HIV, viral hepatitis, STD, TB, or SDOH by geographic areas;
+Map data by a specific sex, race/ethnicity, age group, transmission category (HIV cases), or country of birth (TB data);
+Create two side-by-side maps; e.g., of two diseases, two race/ethnicity groups, or two age groups;
+Create state-specific maps for indicators with county-level data
+Download the data into an Excel file; and,
+Save the map in a PowerPoint file.
+Tables
+The Tables function lets the user build tables based on the exact subset of the data the user wants to view. Using the Tables function, the user can create tables that:
+Compare two or more indicators to compare at the national, regional, state, or county level
+Examine multiple geographic areas (e.g., VA, MD, and DC);
+Display two or more years of data (e.g., 2010-2016);
+Examine subpopulations of interest (e.g., by race, age group, sex); and,
+Can be downloaded into an Excel file.
+Suggested citation
+Centers for Disease Control and Prevention. NCHHSTP AtlasPlus. https://www.cdc.gov/nchhstp/about/atlasplus.html. Accessed [insert date].
+Historical data access
+For data that was available on AtlasPlus prior to January 20, 2025 that is no longer accessible, users may download the following CSV and PDF files. The CSV file contains the records that are no longer available in AtlasPlus and the Readme file contains the supporting documentation that is no longer available on AtlasPlus related to these records. For all other supporting documentation, please access the technical notes, glossary, and FAQs available in AtlasPlus. These data and associated supporting documentation are provided for historical purposes and are no longer being updated.
+Atlas Plus Historic Data Extract
+Download
+Readme Atlas Plus Supporting Documentation
+Download
+Link to AtlasPlus with buttons
+For convenience, we offer code snippets that render buttons that link to AtlasPlus.
+For a button 150 by 120 pixels, use the following code snippet:
+<a href="https://www.cdc.gov/nchhstp/about/atlasplus.html?s_cid=bb-od-atlasplus_001" title="NCHHSTP AtlasPlus gives you the power to access data reported to CDC’s National Center for HIV, Viral Hepatitis, STD, and TB Prevention (NCHHSTP). Use HIV, viral hepatitis, STD, TB and Social Determinants of Health Data to create maps, charts, and detailed reports, and analyze trends and patterns."><img src="https://www.cdc.gov/nchhstp/about/images/atlasplus-buttons/AtlasPlus-150x120.jpg" style="width:150px; height:120px; border:0px;" alt="NCHHSTP AtlasPlus is an interactive tool that provides CDC an effective way to disseminate HIV, Viral Hepatitis, STD, TB and Social Determinants of Health Data, while allowing users to observe trends and patterns by creating detailed reports, maps, and other graphics. Find out more! https://www.cdc.govnchhstp/about/atlasplus.html" /></a>
+For a button 180 by 150 pixels, use the following code snippet:
+<a href="https://www.cdc.gov/nchhstp/about/atlasplus.html?s_cid=bb-od-atlasplus_002" title="NCHHSTP AtlasPlus gives you the power to access data reported to CDC’s National Center for HIV, Viral Hepatitis, STD, and TB Prevention (NCHHSTP). Use HIV, viral hepatitis, STD, TB and Social Determinants of Health Data to create maps, charts, and detailed reports, and analyze trends and patterns."><img src="https://www.cdc.gov/nchhstp/about/images/atlasplus-buttons/AtlasPlus-180x150.jpg" style="width:180px; height:150px; border:0px;" alt="NCHHSTP AtlasPlus is an interactive tool that provides CDC an effective way to disseminate HIV, Viral Hepatitis, STD, TB and Social Determinants of Health Data, while allowing users to observe trends and patterns by creating detailed reports, maps, and other graphics. Find out more! https://www.cdc.govnchhstp/about/atlasplus.html" /></a>
+For a button 245 by 60 pixels, use the following code snippet:
+<a href="https://www.cdc.gov/nchhstp/about/atlasplus.html?s_cid=bb-od-atlasplus_003" title="NCHHSTP AtlasPlus gives you the power to access data reported to CDC’s National Center for HIV, Viral Hepatitis, STD, and TB Prevention (NCHHSTP). Use HIV, viral hepatitis, STD, TB and Social Determinants of Health Data to create maps, charts, and detailed reports, and analyze trends and patterns."><img src="https://www.cdc.gov/nchhstp/about/images/atlasplus-buttons/AtlasPlus-245x60.jpg" style="width:245px; height:60px; border:0px;" alt="NCHHSTP AtlasPlus is an interactive tool that provides CDC an effective way to disseminate HIV, Viral Hepatitis, STD, TB and Social Determinants of Health Data, while allowing users to observe trends and patterns by creating detailed reports, maps, and other graphics. Find out more! https://www.cdc.govnchhstp/about/atlasplus.html" /></a>
+For a button 300 by 250 pixels, use the following code snippet:
+<a href="https://www.cdc.gov/nchhstp/about/atlasplus.html?s_cid=bb-od-atlasplus_004" title="NCHHSTP AtlasPlus gives you the power to access data reported to CDC’s National Center for HIV, Viral Hepatitis, STD, and TB Prevention (NCHHSTP). Use HIV, viral hepatitis, STD, TB and Social Determinants of Health Data to create maps, charts, and detailed reports, and analyze trends and patterns."><img src="https://www.cdc.gov/nchhstp/about/images/atlasplus-buttons/AtlasPlus-300x250.jpg" style="width:300px; height:250px; border:0px;" alt="NCHHSTP AtlasPlus is an interactive tool that provides CDC an effective way to disseminate HIV, Viral Hepatitis, STD, TB and Social Determinants of Health Data, while allowing users to observe trends and patterns by creating detailed reports, maps, and other graphics. Find out more! https://www.cdc.govnchhstp/about/atlasplus.html" /></a>
+For a button 728 by 90 pixels, use the following code snippet:
+<a href="https://www.cdc.gov/nchhstp/about/atlasplus.html?s_cid=bb-od-atlasplus_005" title="NCHHSTP AtlasPlus gives you the power to access data reported to CDC’s National Center for HIV, Viral Hepatitis, STD, and TB Prevention (NCHHSTP). Use HIV, viral hepatitis, STD, TB and Social Determinants of Health Data to create maps, charts, and detailed reports, and analyze trends and patterns."><img src="https://www.cdc.gov/nchhstp/about/images/atlasplus-buttons/AtlasPlus-728x90.jpg" style="width:728px; height:90px; border:0px;" alt="NCHHSTP AtlasPlus is an interactive tool that provides CDC an effective way to disseminate HIV, Viral Hepatitis, STD, TB and Social Determinants of Health Data, while allowing users to observe trends and patterns by creating detailed reports, maps, and other graphics. Find out more! https://www.cdc.govnchhstp/about/atlasplus.html" /></a>

@@ -1,0 +1,107 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Barcodes on VISs Frequently Asked Questions
+URL: https://www.cdc.gov/vaccines/hcp/about-vis/barcodes-faq.html
+────────────────────────────────────────────────────────────
+
+Key points
+As part of a modernization initiative, CDC added barcodes to VISs.
+Barcode added to VIS
+All VISs contain a 2D Barcode.
+As part of a modernization initiative, CDC added barcodes to VISs. This barcode is designed primarily to help immunization providers record required information about the VIS, by allowing them to scan the name and edition date of a VIS into an electronic medical record, immunization information system, or other electronic database.
+What you need to do to use barcodes
+Using these barcodes will require a 2D barcode scanner and software that is programmed to accept and process data contained in the VIS barcodes.
+First, you need to configure your computer systems to accept the information from the scanner. Second, you need to acquire a barcode scanner that supports reading Data Matrix barcodes.
+Frequently asked questions
+Q: What is the purpose of the barcode on the bottom of the VIS?
+A: The purpose of the barcode on the bottom of the VIS is to provide an opportunity to electronically capture the VIS document type (e.g. influenza, MMR) and the edition date of the VIS, as required by the National Childhood Vaccine Injury Act (NCVIA). Providers will have the option to scan the VIS barcode instead of manually recording this information. Use of the barcode will not be required.
+Q: Are there any benefits to scanning the VIS barcode?
+A: Scanning the VIS barcode may reduce the time needed to record the VIS information and, more importantly, also reduce the chance of errors in transcribing this information. Additionally, in the future electronic medical records (EMR) vendors may support reading the VIS barcode into the EMR system and validate it against the vaccine selected for or administered to the patient.
+Q: What information does the barcode contain?
+A: The VIS barcode contains the VIS vaccine type (e.g. influenza, measles/mumps/rubella) and the VIS edition date.
+Q: Do immunization providers have to do anything new or different with the new VIS, now or in the future?
+A: You can continue to record the VIS document type and edition date manually, as you do now. Once you obtain a two-dimensional (2D) barcode scanner and your computer system is able to accept the data from the VIS barcode, you will be able to scan the 2D barcode to enter the name and edition date into the system.
+Q: What is the relationship between the VIS barcode and 2D barcodes on vaccine vials and syringes?
+A: There is no relationship between the VIS barcode and 2D barcodes on vaccine vials and syringes. Both barcodes are Data Matrix barcodes, but they contain different information. Vaccine 2D barcodes contain a global trade item number (GTIN) to identify the product (and also manufacturer), and the vaccine's expiration date and lot number.
+Q: This barcode looks different from the ones I usually see, what is the difference?
+A: There are two primary types of barcodes, linear and 2D. Linear and 2D barcodes serve the same purpose, however 2D barcodes can store more information in less area.
+Q: Is there any advantage to scanning a VIS barcode if an office uses only paper records?
+A: No. Scanning the VIS barcode will typically only benefit immunizers who use some form of an electronic record-keeping system.
+Q: What should I do if the barcode information does not populate the EMR?
+A: If the barcode information does not populate the electronic medical record (EMR), enter the date the VIS was presented, the vaccine type, and the VIS edition date manually (without the scanner). Ensure that your barcode scanner supports reading GS1 2D DataMatrix barcodes, and that your scanner is configured to work with your EMR correctly. If you believe the error is with your barcode scanner, contact the scanner manufacturer or retailer. If you believe the error is with your EMR software, contact your technical support representative.
+Q: We use photocopies of the VISs. Will that cause problems scanning the barcode?
+A: No, using a photocopy of a VIS should not be an issue. However, we recommend you have one master copy, and make copies only from that master. When you copy from a copy, you increase the chance that the barcode will become too blurry for a scanner to read.
+Q: I copy the VIS onto colored paper. Will that cause problems scanning the barcode?
+A: No, using colored paper should not be an issue. Barcode scanners have the most difficulty reading barcodes on darker papers, such as dark greens and blues. If you have trouble scanning a VIS barcode on a dark paper, try using a lighter color.
+Q: Will laminating copies of the VIS cause problems scanning the barcode?
+A: No, using laminated copies should not be an issue. Barcode scanners can capture the barcode on VISs that are laminated or stored in plastic sleeves.
+Q: Will there be different barcodes for non-English translations of VISs?
+A: No. Because the information is the same on the English and non-English versions of the VIS, the 2D barcodes will also be the same, representing the same document type and edition date. Law requires that the VIS with the current publication date be given to the patient/parent/guardian; and that the date of that VIS be recorded in the medical record. Translations for some the VIS documents are available on the Immunization Action Coalition (IAC) web-site. "Unfortunately, IAC is not always able to obtain translations as updates are issued." In those situations, the current English language edition of the VIS should be given, and can be supplemented any way the provider chooses, including using an older translation of the VIS. For HL7 messaging the current English language VIS date should be captured and included in the message. There is no requirement to record any information about the supplements used. The barcodes on the English language VIS and the corresponding translated VIS documents (with same publication date) are identical.
+Q: Will we have to start scanning the VIS?
+A: No, scanning the VIS barcode instead of manually recording the information is optional.
+Q: What costs are associated with using the VIS barcode?
+A: Some costs will be incurred to adopt this technology. For example, 2D barcode scanners typically start around $300.00. Your EMR will likely require an adjustment to process the VIS barcode information.
+Q: Will CDC subsidize any costs associated with adopting this technology?
+A: No.
+Q: Can I scan a VIS barcode with my mobile device?
+A: Some mobile device cameras are capable of scanning a GS1 2D DataMatrix barcode. Your mobile device must have an application to read the barcode and to process the information embedded in the VIS 2D barcode. Unless the application has been designed to process 2D VIS barcode data, the resulting scan will be presented as a data string as defined in the VIS Lookup Table, VIS-Fully encoded text string.
+Q: My mobile application does not read the VIS 2D barcode data. What could be the issue?
+A: If your application has the ability to scan a GS1 2D DataMatrix barcode and it is still not able to scan the VIS 2D barcode, try a different scanning application to see if it corrects the problem.
+Q: When I scan the VIS barcode in to my computer system, I see numbers, not text. Is this correct?
+A: No. Your software system should be able to translate those numbers into the VIS document type and edition date. If you do not see a text description of the VIS document type, contact your software vendor.
+Q: Currently, we scan the linear barcodes on vaccines, but this barcode is different. Will we have to change our barcode scanning devices?
+A: It depends. Some barcode scanners support reading 2D barcodes as well as linear barcodes. Others, usually older models, can only read linear barcodes. In the future if you wish to read the 2D barcode, you may need to purchase a new barcode scanner. See What is the relationship between the VIS barcode and 2D barcodes on vaccine vials and syringes? for more information.
+Q: If I purchase a 2D barcode scanner now, when will I need to replace it with a new one?
+A: Typically for accounting purposes, 2D barcode scanners are expected to work for five years.
+Q: What will my electronic medical record (EMR) vendor need to do so I can scan the barcode information into my system?
+A: Your electronic medical record vendor may need to add fields to the EMR to contain the VIS document type and edition date. In addition, they will need to access a "lookup table" provided by CDC, to translate the numerical data stored in the barcode and determine the VIS document type.
+Q: What kind of barcode scanner do I need to read the barcode?
+A: A barcode scanner capable of reading a GS1 2D DataMatrix barcode. Most 2D barcode scanners read multiple types of 2D barcodes. Make certain the reader you select can read GS1 2D DataMatrix type 2D barcodes. GS1 2D DataMatrix barcodes are the standard 2D barcode data carrier applied on VIS statements and vaccine products. The CDC does not endorse a particular scanner manufacturer or model. The American Academy of Pediatrics has a guide on choosing a barcode scanner. See the section Choosing a Barcode Scanner in the Clinician Guidance document on the AAP website.
+Q: Can we use scanners provided as part of the 2D barcode pilot project to scan VISs too? And will it populate the data in our EMR/IIS applications?
+A: You can use the same scanner. However, it will not populate your EMR or IIS until they are programmed to accept the data. See What will my electronic medical record (EMR) vendor need to do so I can scan the barcode information into my system?
+Q: How do I record the Multiple Vaccine VIS in an EMR system?
+A: Just like the other VISs, the Multiple Vaccine VIS will have its own barcode containing the VIS document type and edition date. Scan the Multiple Vaccine VIS separately for each vaccine for which it was used.
+NOTE: For the purpose of HL7 messaging, the Multiple Vaccine VIS cannot be recorded by recording vaccine type. See, Should this information be included in the Hl7 messages or report to the IIS?
+For training resources and guidance from the AAP for those providers interested in implementing barcode scanning in their clinics, see the IIS 2D Vaccine Barcoding for Providers web page.
+Q: What new data does our application need to accommodate?
+A: There are two fields contained in the 2D barcode on the VIS. The first field is a code that identifies the VIS document type (MMR, seasonal influenza, anthrax, etc.). The second field is the edition date of the VIS.
+The data structure for the code is a GS1 Global Document Type Identifier (GDTI). The GDTI Application Identifier is "253" and consists of 13 digits followed by an 8-digit serial component (which includes the publication date). There is a "lookup table," which lists the VIS document type, its associated code, and related information. The data structure for the 8-digit serial component consists of the digits "11" followed by the edition date in the YYMMDD format. We expect that EMR vendors can translate the GDTI to the VIS document type and edition date to an easily understood date format.
+Q: What customized needs will our customers have in capturing/reporting new VIS data?
+A: Immunizers will need the barcode data (i.e. GDTI with the VIS edition date) translated into unambiguous text description so that when displayed, the clinician can read which document was recorded.
+Q: Will our customers be required to make these changes?
+A: Presently, providers are not required to record VIS information electronically, nor are there plans to require them to do so.
+Q: Will providers need to provide awardee IIS with new 2D barcode data?
+A: There is no expectation that the addition of a barcode to the VIS will change reporting requirements to awardee IISs. However, the Meaningful Use conformance criteria include the transmission of VIS related information and the HL7 implementation guide requires that information about the VIS be included in HL7 messages for each vaccine that is recorded as administered. See Should this information be included in the HL7 messages or reported to the IIS?
+Q: Does CDC plan to subsidize or otherwise incent EMR developers for incorporating the new VIS data coding?
+A: The CDC has no plans to subsidize or otherwise provide incentives to EMR developers for incorporating the new VIS data coding.
+Q: Should this information be included in the HL7 messages or reported to the IIS?
+A: The Meaningful Use conformance criteria include the transmission of VIS related information and the HL7 implementation guide requires that information about the VIS be included in HL7 messages for each vaccine that is recorded as administered (as opposed to historical). The HL7 implementation guide has instructions for transmitting the VIS information in the 2D barcode and includes the LOINC concepts for "Date Vaccine Information Statement Presented" and "Document type". The "Document type" contains a code for both the type of VIS and the corresponding publication date.
+Conversely, if a provider opts to not scan the VIS barcode the information can be collected and transmitted in an HL7 messaging using the following LOINC concepts: "Date Vaccine Information Statement Presented", "Vaccine type", and "Date Vaccine Information Statement Published". Detailed message specifications are included in the HL7 implementation guide.
+NOTE: The multiple vaccine VIS can only be reported in an HL7 message using the 2D barcode method.
+Q: Are technical specifications available to describe the GDTI?
+A: Yes. Please see the GS1 website for more information regarding the Data Matrix barcode and the data elements for GDTI. A short summary [1 page] can also be found on the GS1 website. See What new data does our application need to accommodate?
+Q: Does CDC require any new reporting from the VIS barcodes?
+A: No. The CDC does not require new reporting from the VIS barcodes which contain information on the VIS document type and edition date. The reporting process by awardees and immunizers should remain the same.
+Q: How will our providers report the VIS data to a awardee system, such as a registry?
+A: The VIS barcoded information does not contain any data that is not currently on the VIS, and there is no requirement that immunizers supply VIS data to the awardees. However, the Meaningful Use conformance criteria include the transmission of VIS related information and the HL7 implementation guide requires that information about the VIS be included in HL7 messages for each vaccine that is recorded as administered. The HL7 implementation guide contains information about transmitting VIS data. See Should this information be included in the HL7 messages or reported to the IIS?
+Q: What are the costs associated with recording the VIS information in our registry?
+A: Those costs vary by awardee, depending on the systems already in place. If the awardee does not require the transmission of VIS data items, then there are no additional costs. However, if the awardee chooses to collect this information, then the costs will vary, depending on the systems already in place, the software used, and the extent of software modification required.
+Q: Will any changes be mandated?
+A: No. There is not a requirement to scan the VIS information. Providers may continue entering this information manually as they do now.
+Q: Will we have to change the structure of our IIS?
+A: It depends. The IIS will need to ability to accept the fully encoded barcode string and record the document type, the version date and presentation date. Systems may need to be updated to do this.
+Converting barcode data into English
+Translating the VIS 2D barcode numbers to human readable text
+When a VIS barcode is scanned, it is input into the EMR, IIS, or other computer system as a series of digits. The computer system must be programmed to translate this coded entry into "human readable" text, identifying the VIS name (i.e., the name of the vaccine) and the VIS edition date.
+For example, 253088698300001111110714 translates to "Adenovirus VIS, 7/14/2011."
+Each 2D barcode consists of two fields: VIS document type and edition (or publication) date. The sequence of digits starts with "253", the "GS1 Application Identifier" (AI). The next 13-digits following "253" identify the VIS document type (e.g., MMR, influenza, anthrax). The next 8-digits show the GDTI serial component. This value consists of the digits "11" followed by the edition date in the YYMMDD format.
+The vendor will need to access a "Lookup Table" to associate each code with its "human readable" equivalent. This table is located on the IIS Code Set web-page.
+This "Lookup Table" is also available on the CDC Public Health Information Network (PHIN) Vocabulary Access and Distribution System (VADS). This web site is powered by an open web service that can be directly accessed by 3rd party applications.
+EMR vendors may also need to add fields to the EMR to record the VIS document type and edition date. Currently, the VIS document type may not be recorded; the actual vaccine administered may be used by providers as a proxy. CDC suggests the addition of a field for VIS document type.
+Lookup table description
+The VIS-Lookup-Table consists of six columns, with a row for each VIS code:
+The first column, "VIS Document Type Description / Concept Name," shows the human readable text of the VIS.
+The second column, "Edition Date," shows the edition or publication date, using the month/day/year structure, as it appears on the VIS, e.g. 7/14/2011.
+The third column, "VIS Fully-encoded text string," shows the code for the entire barcode numerical sequence. This code contains both data items, including the AI 253.
+The fourth column, "VIS GDTI document code / Concept code," shows the code for the document type. This is the same code as the first field of the VIS Fully-encoded text string (column 3). It is included to give vendors another option when structuring the translation. This code, for VIS document type, will not change over time.
+The fifth column, "Edition Status," indicates whether the VIS represented by each row is the current, or a past, edition. When a VIS is updated, a new barcode must be generated to reflect the new edition date. Both current and historical codes will be maintained in the VIS Lookup Table. While edition dates will change over time, the VIS GDTI document code will remain the same.
+The sixth column, "Last Updated Date," shows the date of change in the VIS Lookup Table. This can be used to identify new table additions.

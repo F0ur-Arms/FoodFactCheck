@@ -1,0 +1,46 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Genetic Testing for Lynch Syndrome
+URL: https://www.cdc.gov/colorectal-cancer-hereditary/testing/index.html
+────────────────────────────────────────────────────────────
+
+For Everyone
+Apr. 13, 2026
+Español
+Key points
+Your genetic counselor or doctor may recommend genetic testing based on your personal and family history of cancer and whether you have a family member with Lynch syndrome.
+Genetic testing is recommended if you have had colorectal (colon) or uterine (endometrial) cancer and have abnormal tumor testing results.
+How genetic testing can help you
+Genetic testing for Lynch syndrome can confirm your diagnosis if your tumor testing results are abnormal. Even if the cancer has gene mutations associated with Lynch syndrome, more tests are needed to see if the gene runs in your family.
+Knowing if you have Lynch syndrome can help you and your family members understand and manage your risk for cancers related to Lynch syndrome. These cancers include colorectal (colon), uterine (endometrial), ovarian, stomach, small intestine, urinary tract (kidney, ureter, bladder), biliary tract (liver, gall bladder, bile ducts), pancreatic, prostate, brain, and some skin cancers. Your doctor can help you decide what cancer screenings and other medical treatments you need to prevent cancer or find it early, and when to start getting them.
+When a person is diagnosed with colorectal (colon) cancer, a sample of their tumor may be tested to see if their cancer was caused by a genetic mutation. Sometimes, when a woman is diagnosed with uterine (endometrial) cancer, a sample of her tumor may be tested as well. The tissue used for testing comes from a biopsy or surgery.
+Genetic counseling before genetic testing is important to find out if you and your family are likely to benefit from genetic testing for Lynch syndrome.
+Who should be tested
+Genetic testing is usually recommended if:
+Your tumor testing results are abnormal.
+You had colorectal cancer.
+You had uterine (endometrial) cancer before age 50.
+You have had several types of cancer.
+Several members of your family have had cancers related to Lynch syndrome.
+A member of your family has Lynch syndrome.
+How testing works
+Genetic testing looks for inherited genetic mutations that cause Lynch syndrome. Your genetic counselor can recommend the best tests for you and your family. When possible, testing should start with someone in the family who has had cancer.
+Interpretation of genetic test results may vary depending on whether you have had colorectal cancer.
+If you had colorectal cancer
+If you had colorectal cancer or another cancer related to Lynch syndrome, here's what the test results mean for you and your family:
+Positive test result: You have a genetic change that can cause Lynch syndrome. Medical options are available to lower your cancer risk or find cancer early. Members of your family who also get genetic testing should be tested for the same genetic change you have.
+Negative test result: The test did not find a genetic change that increases your cancer risk. You may need more tests. Genetic testing of your family members is unlikely to be helpful unless another family member had colorectal cancer or Lynch syndrome.
+Negative genetic test result, but abnormal tumor test: You could still have Lynch syndrome. Medical options are available to lower your cancer risk or find cancer early. Genetic testing of your family members is unlikely to be helpful unless another family member had colorectal cancer or Lynch syndrome.
+Variant of uncertain significance (VUS): The test found a mutation in one of the genes associated with Lynch syndrome, but doctors don't know if that mutation causes cancer. You may need more tests. Family members usually should not be tested until doctors find out if the VUS causes cancer.
+If you have not had colorectal cancer
+If you have a family history of colorectal cancer or other cancers related to Lynch syndrome but have not had cancer yourself, here's what the test results mean for you and your family:
+Positive test result: You have a genetic change that can cause Lynch syndrome. Medical options are available to lower your cancer risk or find cancer early. Members of your family who also get genetic testing should be tested for the same genetic change you have.
+Negative test result: The test did not find a genetic change that increases your cancer risk. Either you did not inherit the genetic change in your family, or the test did not include it. You are still at higher risk for cancers that run in your family. Medical options are available to lower your cancer risk or find cancer early. Genetic testing of your family members should start with someone who has had colorectal cancer or another cancer related to Lynch syndrome.
+Negative test result for the genetic change that runs in your family: You do not have the genetic change that runs in your family. You are not at higher risk than the average person for colorectal cancer. Your children do not need to be tested since there is no change to pass on. Other family members could inherit the genetic change and should be tested for the genetic change that runs in your family.
+Variant of uncertain significance (VUS): The test found a mutation in one of the genes associated with Lynch syndrome, but doctors don't know if that mutation causes cancer. Family members usually should not be tested until doctors find out if the VUS causes cancer.
+Having a family history of colorectal, uterine, and other cancers does not mean you have Lynch syndrome. Most cancer is not caused by genetic changes, so testing for Lynch syndrome will not benefit most people. Genetic testing will not find the cause for some hereditary cancers because the genes affected in these cancers are not yet known.
+Are you worried about getting a genetic test?
+The Genetic Information Nondiscrimination Act helps protect people in the United States from being treated unfairly based on their genetic information in health insurance and jobs. This law does not cover long-term care insurance, disability insurance, or life insurance.
+Learn more
+More information
+Genetic Testing for Inherited Cancer Risk (National Cancer Institute)
+Apr. 13, 2026

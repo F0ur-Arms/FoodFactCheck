@@ -1,0 +1,34 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Profiles Frequently Asked Questions
+URL: https://www.cdc.gov/school-health-profiles/faq/index.html
+────────────────────────────────────────────────────────────
+
+At a glance
+Learn how School Health Profiles (Profiles) survey data are processed and analyzed.
+State, school district, territory, and tribal government data—from surveys conducted since 1998—are available in SAS, ASCII, and Excel formats.
+Download Data User's Guides from 2022 and previous years.
+General questions
+States, school districts, territories, and tribal governments conducted School Health Profiles (Profiles) surveys. The data and documentation are owned and controlled by the jurisdictions that conducted the surveys. Many jurisdictions have given CDC permission to distribute their data upon request. But others choose to distribute their data files themselves.
+To request data files and documentation for a specific jurisdiction, follow these steps:
+View Participation History and Data Quality for information about which jurisdictions have weighted (representative) data in certain survey years. You can also see which jurisdictions have given permission for CDC to distribute their data.
+Complete the Profiles Data Request Form, indicating the survey data you would like to receive.
+For jurisdictions that have given CDC permission to distribute their Profiles data, we will email you with a link to the data files.
+For jurisdictions that have not given CDC permission, we will email you contact information for that jurisdiction. You will need to contact the jurisdiction directly with your data request.
+Profiles data files from the principal and lead health education teacher surveys are available for states, territories, school districts, and tribal governments listed in Participation History and Data Quality. The availability of specific files depends on data quality and data-sharing policies.
+Profiles data files from the Physical Education Teacher survey conducted in 2012 are available for the following jurisdictions:
+States: Arizona, Florida, Idaho, Kentucky, Maryland, Michigan, Minnesota, Mississippi, New Hampshire, North Dakota, Oklahoma, Pennsylvania, South Carolina, Vermont, West Virginia, and Wisconsin.
+School Districts: Broward County, Florida; Los Angeles, California; Miami-Dade County, Florida; and Orange County, Florida.
+Physical education Profiles data for the following jurisdictions require permission from the jurisdiction: Hawaii; Massachusetts; Charlotte, North Carolina; Houston, Texas; Northern Mariana Islands; and the Nez Perce tribe.
+First, some jurisdictions do not participate in Profiles. Second, some participating jurisdictions lack representative data because of a combination of low response rates and nonresponse bias analyses. (Such factors indicate significant differences between responding and nonresponding schools.)
+Results that are not representative are not posted on the CDC website, and CDC does not distribute these data. The Participation History and Data Quality tables provide details on which jurisdictions participated in Profiles and whether they obtained representative data.
+In 2022, CDC funded 28 school districts to conduct Profiles. Eight of them are county-based districts: Broward County, Florida; Duval County, Florida; Gaston County, North Carolina; Hillsborough County, Florida; Orange County, Florida; Palm Beach County, Florida; Pasco County, Florida; and Shelby County, Tennessee. The other funded school districts are identified on the Participation Map and in the Participation History and Data Quality tables. County-level results are not available for state data.
+How are Profiles data processed and analyzed?
+Information about how Profiles data are processed and analyzed can be found in the documents listed below:
+2022 Data User's Guide
+2020 Data User's Guide
+2018 Data User's Guide
+2016 Data User's Guide
+2014 Data User's Guide
+2012 Data User's Guide
+2010 Data User's Guide
+The guides were first created for the 2010 Profiles. Guides for previous years are not available.

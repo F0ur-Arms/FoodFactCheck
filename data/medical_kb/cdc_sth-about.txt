@@ -1,0 +1,51 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: About Soil-transmitted Helminths
+URL: https://www.cdc.gov/sth/about/index.html
+────────────────────────────────────────────────────────────
+
+For Everyone
+Key points
+Soil-transmitted helminths, or STH, are parasitic worms that live in the human intestine.
+They spread through soil or water contaminated by human feces (poop) that contain the parasite larvae.
+STH infections are considered neglected tropical diseases or NTDs.
+Overview
+Whipworm, hookworm, and Ascaris are the three types of soil-transmitted helminths (parasitic worms). A parasite is an organism (a living thing) that lives on or inside another organism. STH infections occur in areas with warm and moist climates and where sanitation and hygiene are poor. They are considered neglected tropical diseases (NTDs) because they inflict tremendous disability and illness among the affected populations. These communities often lack access to basic or adequate resources. Safe and effective medicines can control NTDs through mass drug administration (MDA) programs in the affected communities.
+Soil-transmitted helminths are worms that live in a person's intestines. An infected person passes the eggs in their feces. The eggs enter the soil when infected people defecate (poop) outside, use unimproved sanitation facilities (when there is no sanitary separation of human waste from human contact), or use infected human feces as fertilizer.
+Soil-transmitted helminths are among the most common human parasites globally. You can find them in areas with warm and most climates where sanitation is poor. They may occur in temperate climates during warmer months.
+Species
+Ascaris and whipworm
+People who consume soil with Ascaris or whipworm eggs in it can become infected with the Ascaris or whipworm parasites. This may happen when soil and eggs are:
+Attached to vegetables or fruits that are not carefully washed, peeled, or cooked before eating.
+Contaminating drinking water sources.
+Contaminating hands or fingers of people who then put them in their mouths without washing them first.
+Ascaris and whipworm eggs become infective as they mature in soil.
+Ascaris infection is also known as ascariasis.
+Whipworm infection is also known as trichuriasis.
+Hookworm
+You cannot get hookworm infection from hookworm eggs. They hatch in soil, releasing larvae (immature worms) that grow into a form that can penetrate the skin of humans.
+Hookworm infection spreads primarily by walking barefoot on contaminated soil.
+One kind of hookworm, Ancylostoma duodenale, can also spread through eating the larvae.
+Signs and symptoms
+People with only a few worms (light infections) usually have no symptoms. Heavy infections, (high number of worms), can cause a range of health problems, including
+Abdominal pain
+Diarrhea
+Blood and protein or nutrient loss
+Rectal prolapse (When the rectum sags and comes out of the anus)
+Slow physical and cognitive growth in infants and children. (Cognitive impairment is when a person has trouble remembering, learning new things, concentrating, or making decisions.)
+Prevention
+To lower your risk of getting soil-transmitted helminth infections
+Wash your hands before handling food.
+Wash, peel, and cook raw fruits and vegetables.
+Avoid soil and drinking water contaminated with human feces.
+Wear shoes when walking in soil that may be contaminated with human feces to prevent hookworm infection.
+Diagnosis
+Your healthcare provider can take a stool (poop) sample and examine it for a soil-transmitted helminth infection under a microscope.
+Treatment and recovery
+Only prescription drugs can treat soil-transmitted helminth infections. The medications, such as albendazole and mebendazole, are known as anthelmintic medications. Treatment lasts between one and three days and is highly effective, regardless of the species of parasitic worm. See your healthcare provider if you think you have an infection caused by an STH parasite.
+For Health Care Providers
+Clinical Care of Soil-transmitted Helminths
+Preventative treatment
+In certain tropical or subtropical countries or regions, some people are at higher risk for soil-transmitted helminth infections (hookworm, Ascaris, and whipworm). These people often receive treatment without a prior stool exam. This is known as preventive treatment or "preventive chemotherapy".
+The high-risk groups identified by the World Health Organization are preschool and school-age children, women of childbearing age (including pregnant women in the 2nd and 3rd trimesters and women who are breastfeeding), and adults in occupations where there is a high risk of heavy infections. School-health programs often provide treatment to students. Health clinics treat pregnant women and younger children.
+Mass drug administration (MDA)
+Treatment of soil-transmitted helminths and other "neglected tropical diseases" (NTDs) sometimes use mass drug administration (MDA). MDA treats multiple people, sometimes whole communities, or schools, at one time. The drugs used in MDA are safe and inexpensive or donated and offered to entire risk groups to prevent these diseases.

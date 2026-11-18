@@ -1,0 +1,41 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Outbreak Prevention and Response
+URL: https://www.cdc.gov/candida-auris/hcp/infection-control/prevention-response.html
+────────────────────────────────────────────────────────────
+
+For Health Care Providers
+Sept. 29, 2026
+At a glance
+C. auris spreads easily in healthcare settings and can cause severe illness..
+Early identification of infected patients informs IPC practices.
+After detecting a case, monitor patients at higher risk for C. auris.
+Communicate patients' C. auris status when transferring to another facility.
+Surveillance and prevention
+Laboratory confirmation to inform infection control
+Early accurate identification of C. auris is critical to informing infection control practices and preventing outbreaks.
+Confirm whether the facility's clinical lab is equipped for C. auris identification for suspected cases. If the lab lacks this capability, establish plans to submit specimens to a local public health department for C. auris identification. Determine a protocol for laboratory staff to promptly inform infection control staff C. auris is suspected.
+Monitor patients at risk
+Know which patients are at higher risk for C. auris infection or asymptomatic colonization. These include patients who:
+Use invasive medical devices (i.e., ventilators, central lines).
+Were recently hospitalized in an area with C. auris transmission.
+Plan ahead
+Have a response plan. Discuss recommendations for infection prevention and control of C. auris with healthcare personnel, including environmental services.
+Assess and improve your facility's infection prevention and control practices.
+Response to C. auris confirmation
+Immediately report any confirmed C. auris test results to the public health department.
+Follow CDC recommendations for infection control, including:
+Place patient with C. auris in a separate/single room, if possible.
+Ensure appropriate use of gown and gloves.
+Use disinfectants with EPA claim for C. auris.
+Frequently use alcohol-based hand sanitizer.
+Consult with public health personnel to determine a screening strategy to identify patients with C. auris colonization.
+Use the same infection control measures for patients found to be colonized.
+If a patient is being transferred to another facility, communicate C. auris status to receiving facilty.
+Sept. 29, 2026
+Sources and Page Info
+Print
+Share
+Facebook
+LinkedIn
+Twitter
+Syndicate

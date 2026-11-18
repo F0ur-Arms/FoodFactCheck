@@ -1,0 +1,50 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Risk Factors for Cerebral Palsy
+URL: https://www.cdc.gov/cerebral-palsy/risk-factors/index.html
+────────────────────────────────────────────────────────────
+
+Feb. 26, 2026
+Español
+Key points
+Cerebral palsy (CP) is caused by abnormal development of the brain or damage to the developing brain that affects a child’s ability to control their muscles.
+CP related to events before or during birth is called congenital CP and describes the majority of cases (85%–90%).
+CP can also occur during the first years of a child’s life (known as acquired CP).
+What increases risk
+Some things increase the chance that a child will have CP. These are called risk factors. It is important to remember that having a risk factor does not mean that a child will have CP.
+Some of the risk factors for congenital CP are:
+Low birthweight: Children who weigh less than 5 pounds, 8 ounces (2,500 grams) at birth, and especially those who weigh less than 3 pounds, 5 ounces (1,500 grams) have a greater chance of having CP.1
+Premature birth: Children who were born before the 37th week of pregnancy, especially if they were born before the 32nd week of pregnancy, have a greater chance of having CP. Intensive care for premature infants has improved a lot over the past several decades. Babies born very early are more likely to live now, but many have medical problems that can put them at risk for CP.1
+Multiple births: Twins, triplets, and other multiple births have a higher risk for CP, especially if a baby's twin or triplet dies before birth or shortly after birth. Some, but not all, of this increased risk is due to the fact that children born from multiple pregnancies often are born early or with low birthweight, or both.2
+Assisted reproductive technology (ART) infertility treatments: Children born from pregnancies resulting from the use of some infertility treatments have a greater chance of having CP. Most of the increased risk is explained by preterm delivery or multiple births, or both; both preterm delivery and multiple births are increased among children conceived with ART infertility treatments.34
+Infections during pregnancy: Infections can lead to increases in certain proteins called cytokines that circulate in the brain and blood of the baby during pregnancy. Some types of infection that have been linked with CP include viruses such as chickenpox, rubella (German measles), and cytomegalovirus (CMV), and bacterial infections such as infections of the placenta or fetal membranes, or maternal pelvic infections.56
+Jaundice and kernicterus: Jaundice is the yellow color seen in the skin of many newborns. When severe jaundice goes untreated for too long, it can cause a condition called kernicterus. This can cause CP and other conditions. Sometimes, kernicterus results from ABO or Rh blood type difference between the mother and baby.
+Medical conditions of the mother: Mothers with thyroid problems, intellectual disability, or seizures have a slightly higher risk of having a child with CP.5
+Birth complications: Detachment of the placenta, uterine rupture, or problems with the umbilical cord during birth can disrupt oxygen supply to the baby and result in CP.5
+Prevention of cerebral palsy before, during, and after birth
+What we know
+In many cases, the cause or causes of CP are not fully known, which means that currently little can be done to prevent it.
+CP related to genetics is not preventable. However, there are actions people can take before and during pregnancy, as well as after birth that might help reduce the risk of developmental problems, including CP.
+Taking steps to help ensure a healthy pregnancy can help prevent developmental problems, including CP. Acquired CP, which is CP that occurs after birth, often is related to an infection or injury, and some of these cases can be prevented.
+Did you know?
+Developmental disabilities are a group of conditions due to an impairment in physical, learning, language, or behavior areas. These conditions begin during the developmental period, may impact day-to-day functioning, and usually last throughout a person's lifetime.
+Before pregnancy
+Being as healthy as possible before pregnancy
+Make sure any infections in the mother are treated and health conditions are in control, ideally before pregnancy occurs.
+Get vaccinated for certain diseases (such as chickenpox and rubella) that could harm a developing baby. It is important to have many of these vaccinations before becoming pregnant.
+If assistive reproductive technology (ART) infertility treatments are used to get pregnant, consider ways to reduce the chance of a multiple pregnancy (twins, triplets, or more), such as transferring only one embryo at a time.
+During pregnancy
+Important steps to a healthy pregnancy
+Get early and regular prenatal care, both for your health and for that of your developing baby.
+Contact your health care provider if you get sick, have a fever, or have other signs of infection during pregnancy.
+Wash your hands often with soap and water to help reduce the risk of infections that might harm your developing baby.
+A flu shot is your best protection against serious illness from the flu. A flu shot can protect pregnant women and their unborn babies, both before and after birth.
+Find out your blood type and talk to your doctor about ways to prevent potential problems. If there is a difference in the blood type or Rh incompatibility between mother and baby, it can cause jaundice and kernicterus. Doctors can treat the mother with Rh immune globulins (RhoGAM) at the 28th week of pregnancy and again shortly after giving birth to prevent kernicterus from occurring.
+Talk to your doctor about ways to prevent problems if you are at risk for preterm delivery. Research has shown that taking magnesium sulfate before anticipated early preterm birth reduces the risk of CP among surviving infants.78910
+Keep Reading
+During Pregnancy
+After the Baby is Born
+Keeping your baby healthy and safe after birth
+Ask your doctor or nurse about a jaundice bilirubin test. Any baby can get jaundice. Severe jaundice that is not treated can cause brain damage, called kernicterus. Kernicterus is a cause of CP that potentially can be prevented. Your baby should be checked for jaundice in the hospital and again within 48 hours after leaving the hospital.
+Make sure your child is vaccinated against infections that can cause meningitis and encephalitis, including Haemophilus influenzae type B (HiB vaccine) and Streptococcus pneumoniae (pneumococcal vaccine).
+Keep Reading
+After the Baby Arrives

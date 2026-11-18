@@ -1,0 +1,39 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: About Vancomycin-resistant Staphylococcus aureus
+URL: https://www.cdc.gov/staphylococcus-aureus/about/vancomycin-resistant-staph.html
+────────────────────────────────────────────────────────────
+
+Key points
+Infections caused by vancomycin-resistant Staphylococcus aureus (VRSA) are exceptionally rare.
+If you suspect you have a Staphylococcus aureus (S. aureus) infection, see a healthcare provider.
+Overview
+Vancomycin-intermediate and vancomycin-resistant Staphylococcus aureus (VISA/VRSA) are specific types of antimicrobial-resistant Staphylococcus aureus (S. aureus) bacteria.
+Resistance to vancomycin in S. aureus is exceptionally rare.
+Signs and symptoms
+VISA/VRSA infections can look like pimples, boils or other skin conditions. VRSA can cause wound infections.
+Who is at risk
+People with underlying health conditions (e.g., diabetes and kidney disease).
+People with tubes going into their bodies (e.g., catheters).
+People with previous methicillin (oxacillin)-resistant Staphylococcus aureus (MRSA) infections.
+People who have recently taken vancomycin or other antibiotics.
+How it spreads
+Documented transmission of VRSA has not occurred in the U.S. VRSA could potentially spread in the same ways as MRSA (e.g., close physical contact with patients, contaminated material like bandages).
+Prevention
+Caregivers, visitors and anyone who has close physical contact with hospital patients infected with VISA/VRSA should:
+Keep their hands clean by washing thoroughly with soap and water or using alcohol-based hand sanitizer.
+Avoid contact with other people's wounds or material contaminated from wounds.
+Follow the hospital's recommended precautions when visiting a patient.
+Healthcare providers should always follow core infection control practices (such as wearing gloves before and after contact with infectious body substances and adherence to hand hygiene) to reduce the risk of spreading these germs to patients.
+Testing
+Clinical diagnostic testing can determine if a patient has VISA/VRSA and help providers choose the right treatment.
+Keep Reading:
+Staphylococcus aureus Testing Procedures for Laboratory Personnel
+Treatment and recovery
+All VISA and VRSA isolates in the U.S. have been susceptible to several FDA-approved drugs.
+What CDC is doing
+Tracking VRSA infections through the Emerging Infections Program and National Healthcare Safety Network.
+Data is also available on the AR & Patient Safety Portal.
+Working closely with health departments, other federal agencies, healthcare providers and patients to prevent infections caused by VRSA and slow the spread of resistant germs.
+Resources and tools
+Laboratory resources
+Investigation and Control of VRSA

@@ -1,0 +1,15 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Testing and Screening
+URL: https://www.cdc.gov/cryptococcosis/testing/index.html
+────────────────────────────────────────────────────────────
+
+Key points
+A sample of body fluid or tissue is tested at a laboratory to diagnose cryptococcosis.
+In targeted screening programs, people with HIV/AIDS are tested for cryptococcal infections before starting antiretroviral treatment (ART).
+Targeted screening programs prevent deaths from cryptococcal meningitis among people with HIV/AIDS.
+Testing
+Healthcare providers use medical history, symptoms, physical examinations to decide to test for cryptococcosis. For C. gattii infections, they may also ask about travel history.
+A sample body fluid, like blood or sputum, or infected tissue is tested in a laboratory to diagnose cryptococcosis. Other testing might include imaging like a chest X-ray or CT scan of the lungs or brain.
+Targeted screening
+Targeted screening programs help prevent deaths from cryptococcal meningitis among people with HIV/AIDS. Cryptococcus, the fungus that causes cryptococcal meningitis, can live in the body without causing symptoms for weeks or months. This is more likely in people with HIV/AIDS and weakened immune systems. Left untreated, it can cause deadly infections.
+Targeted screening programs test blood samples from patients with HIV/AIDS to detect the presence of Cryptococcus before starting antiretroviral therapy (ART). Patients who test positive can take an antifungal medication to help the body fight infection and prevent cryptococcal meningitis. Cryptococcal meningitis is a leading cause of death among people with HIV/AIDS in some parts of the world.

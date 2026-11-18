@@ -1,0 +1,29 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: What is Genomic Sequencing?
+URL: https://www.cdc.gov/advanced-molecular-detection/about/what-is-genomic-sequencing.html
+────────────────────────────────────────────────────────────
+
+Key points
+The genome of an organism is made up of a unique DNA or RNA sequence.
+Whole-genome sequencing (WGS) determines the order of all, or most, of the nucleotides in the genome.
+The information encoded in the genomes of bacteria, viruses, and fungi provide researchers with unique genetic "fingerprints."
+Background
+The genome, or genetic material, of an organism is made up of a unique DNA or RNA sequence. Each sequence is composed of chemical building blocks known as nucleotide bases. Determining the order of bases is called "genomic sequencing" or, simply, "sequencing."
+The information encoded in the genomes of disease-causing bacteria, viruses, and fungi represent unique genetic fingerprints. Whole-genome sequencing (WGS) is a laboratory procedure that determines the order of all, or most, of the nucleotides in the genome of these disease-causing microbes. By examining the sequence data at a community level, public health officials can better understand how microorganisms move through populations and change over time.
+Next-generation sequencing (NGS) refers to sequencing technologies that can process a large quantity of genetic material at a time. These technologies have been available since 2004 and have largely replaced the previous method (Sanger sequencing). NGS technology makes high-throughput WGS possible. Newer sequencing platforms have revolutionized this field by generating larger volumes of data and dramatically lowering the cost of sequencing.
+NGS or WGS?‎
+The terms NGS and WGS are sometimes used interchangeably in specific contexts, but they are not synonymous.
+NGS = Sequencing technology
+WGS = The sequencing itself, which is usually accomplished using NGS
+The genome sequencing process
+Step 1: Extraction
+Strands of DNA or RNA are first extracted from the bacteria, virus, or other pathogen.
+Step 2: Library Prep
+The DNA or RNA to be sequenced must be specially prepared before it can be put into the sequencing machine. The steps in the process may differ depending on the type of sample and specific equipment being used. Some of the steps include:
+Converting RNA or single-stranded DNA into double-stranded DNA if needed
+Chopping strands into shorter pieces to get a desired length
+Modifying the ends of the fragments so that they can be recognized by the sequencer. At this point, the sample is called a "library" and is ready for sequencing.
+Step 3: Sequencing
+The library is loaded into a sequencer, which identifies the nucleotide bases in the DNA fragments. Some next-generation sequencing devices read fluorescent signals. Others identify bases by monitoring changes to an electrical current as the DNA strands pass through tiny holes.
+Step 4: Analysis
+The sequencer produces data—millions of long strings of letters—that are then assembled together or aligned with a reference sequence. Analytical programs compare the new sequence data to the reference sequence and identify variations in the sample that allow scientists to infer an ancestral relationship, much like a family tree. New pathogens can be identified by comparing their sequence to a database of all known pathogens and finding related species.

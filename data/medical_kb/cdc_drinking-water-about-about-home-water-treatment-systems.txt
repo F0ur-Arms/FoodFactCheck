@@ -1,0 +1,83 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: About Home Water Treatment Systems
+URL: https://www.cdc.gov/drinking-water/about/about-home-water-treatment-systems.html
+────────────────────────────────────────────────────────────
+
+For Everyone
+Nov. 10, 2026
+Español
+Key points
+Home water treatment systems include filtration, distillation, ultraviolet treatment, and water softener systems.
+Different systems remove different germs or chemicals.
+Test your water and choose a system that removes the harmful chemicals or germs you are concerned about.
+Overview
+Test your tap water to find out if it has any harmful chemicals or germs (such as parasites, bacteria, or viruses).
+If your tap water does not contain harmful chemicals or germs, you may not need a home water treatment system.
+Check your treatment system's label to make sure the system removes the chemicals or germs you are concerned about. If needed, you can use multiple types of systems to more effectively remove germs or chemicals from your water.
+Terms to know
+Point-of-use systems treat water in batches and deliver it to a single tap, such as your kitchen sink.
+Whole-home or point-of-entry systems treat most or all of the water that enters your home.
+Types
+Filtration
+During filtration, substances like germs or chemicals in water get stuck to the filter's surface or in its pores (holes).
+Adding coagulants, carbon, alum, or iron salts to filtration systems that primarily remove germs may help remove chemicals from water too. Check with your product's manufacturer for their recommendations.
+Keep Reading
+About Choosing Home Water Filters
+Microfiltration
+A microfiltration filter has a pore size of about 0.1 micron. Pore size varies by filter from 0.05 micron to 5 microns.
+Microfiltration removes:
+Parasites, like Giardia and Cryptosporidium
+Microfiltration is somewhat effective at removing bacteria (like Salmonella or E. coli). This means the filter may remove some bacteria and let others through.
+Microfiltration does not remove:
+Viruses, like norovirus or Hepatitis A
+Chemicals, like lead or arsenic
+Ultrafiltration
+An ultrafiltration filter has a pore size of about 0.01 micron. Pore size varies by filter from 0.001 micron to 0.05 micron.
+Ultrafiltration removes:
+Parasites
+Bacteria
+Ultrafiltration is somewhat effective at removing viruses, meaning the filter may remove some viruses and let others through.
+Ultrafiltration does not remove:
+Chemicals
+Nanofiltration
+A nanofiltration filter has a pore size of about 0.001 micron. Pore size varies by filter from 0.008 micron to 0.01 micron.
+Nanofiltration removes:
+Parasites
+Bacteria
+Viruses
+Nanofiltration is somewhat effective at removing chemicals, meaning the filter may remove some chemicals and let others through.
+Reverse osmosis
+Reverse osmosis systems use a process that reverses the natural flow of water. The water is pushed from a solution containing more substances (dirtier) through a filter to a solution containing fewer substances (cleaner). The water may also go through additional filters before and after it goes through the reverse osmosis filter.
+A reverse osmosis filter has a pore size of about 0.0001 micron.
+Reverse osmosis removes:
+Parasites
+Bacteria
+Viruses
+Reverse osmosis systems will remove some types of chemicals from water, including lead, copper, chromium, chloride, and sodium (salt). They may also reduce levels of arsenic, fluoride, radium, sulfate, calcium, magnesium, potassium, nitrate, and phosphorous. Check the system's label for the specific chemicals it removes.
+Distillation
+Distillation systems boil water and then collect the water as it cools. This process leaves behind many of the germs and chemicals that were in the water. Distillation generally uses more energy and takes longer than other water treatment systems.
+Distillation removes:
+Parasites
+Bacteria
+Viruses
+Many chemicals
+The chemicals distillation will remove include arsenic, barium, cadmium, chromium, lead, nitrate, sodium, sulfate, calcium, magnesium, and many organic (carbon-containing) chemicals.
+Distillation does not remove some volatile (evaporate easily) organic compounds, volatile solvents, and certain pesticides.
+Distillation removes bacteria from water. However, bacteria may grow on the system's cooling coils while it is not being used.
+Ultraviolet treatment systems
+Ultraviolet treatment systems use ultraviolet (UV) light to disinfect water or reduce the number of germs in water. Ultraviolet treatment systems that filter the water before disinfecting it with UV light work better than those that do not pre-filter the water.
+Ultraviolet treatment systems (with pre-filtration) remove:
+Parasites
+Bacteria
+Viruses
+Ultraviolet treatment systems (with pre-filtration) do not remove:
+Chemicals
+Water softeners
+Water softeners remove minerals, primarily calcium and magnesium, from water. Water with too much calcium or magnesium (called hard water) can leave scaly buildup and prevent soap from lathering.
+Water softeners remove:
+Minerals, including calcium and magnesium
+Some water softeners may also remove iron, manganese, heavy metals, some radioactive chemicals, nitrates, arsenic, chromium, selenium, or sulfate. Some may also remove fluoride, which helps prevent cavities. Check the product's label for the specific chemicals it removes.
+Water softeners do not remove:
+Parasites
+Bacteria
+Viruses

@@ -1,0 +1,43 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: About SchoolVaxView
+URL: https://www.cdc.gov/schoolvaxview/about/index.html
+────────────────────────────────────────────────────────────
+
+For Everyone
+Aug. 17, 2026
+About
+SchoolVaxView is your source for data, information, and news about school vaccination coverage from state reports of the estimated number of children in kindergarten who have received vaccinations recommended or required by their state. Learn more about the number of schoolchildren who have received vaccinations and other school vaccination topics.
+Why school vaccination assessments are important
+States and local areas use school vaccination assessment to measure how many students meet state vaccination requirements. School vaccination requirements help keep children safe by lowering the risk of vaccine-preventable diseases that they may encounter at school, where the chances of spreading these diseases are higher.
+School vaccination assessments help local and state public health organizations identify schools with groups of students who are not fully vaccinated. Schools and health departments use these data to understand student vaccination levels, support schools to increase vaccination coverage, and respond quickly if there is an outbreak by identifying and protecting those students most at risk.
+State immunization programs send aggregate school vaccination assessment data to CDC. These aggregate data let CDC assess how many children are vaccinated and measure progress toward the Healthy People 2030 vaccination coverage objective for children in kindergarten.
+Objectives, targets, and indicators
+Healthy People 2030 Objectives and Targets
+Objective IID-04: Maintain the vaccination coverage level of 2 doses of the MMR vaccine for children in kindergarten
+School vaccination coverage and exemption methods
+Each school year, school nurses, other school personnel, or health department personnel check the vaccination and exemption status of kindergartners in public and private schools as required by state law or regulation. State and local immunization programs measure vaccination coverage among children entering kindergarten annually. This may be done for every student or for a sample of students.
+States and local areas set the vaccination requirements. The school-level data are reported to the health department. The aggregate data are reported to CDC for public and private schools. Data for homeschooled students are not routinely reported to CDC.
+The types of permitted exemptions vary by state. For specific details refer to School Vaccination Requirements and Exemptions.
+A vaccine exemption is a way for students who have not received all required doses of required vaccines to attend school. Exemptions may be medical or nonmedical. All states and the District of Columbia allow medical exemptions. Medical exemptions are issued when children have a medical condition or are receiving a treatment that prevents them from receiving a vaccine. Nonmedical exemptions allow families to legally refuse required vaccinations for other reasons, such as religious or personal beliefs. Nearly all states offer nonmedical exemptions. Please check with your school or health department to learn about exemptions or visit the School Vaccination Requirements and Exemptions tool.
+Most students with exemptions have received at least some vaccinations, and many have received all state-required doses of at least one vaccine. An exemption in the school vaccination assessment reports could mean one of several things:
+The child is missing a dose of vaccine.
+The child is missing a specific vaccine.
+The child is missing multiple doses of more than one vaccine.
+The child is missing all doses of all vaccines. Based on available information, it is believed parents refusing all vaccines for their children is an uncommon occurrence. A study of schoolchildren with nonmedical exemptions found that 75% of these children had received at least one vaccine previously. Additionally, over the past several years, vaccination coverage measured by the National Immunization Survey shows that 1.2% of children 19–35 months received no vaccines of any type.
+The parent sought a nonmedical exemption for reasons that are not collected in these data. For example, a parent might be unable to get a vaccination appointment or choose not to share their children’s medical information. In some states, vaccination histories are not collected for students with an exemption, so a student with an exemption could have received all doses of all required vaccines but that information would be missing from the assessment.
+References
+Salmon DA, Moulton LH, Omer SB, DeHart MP, Stokley S, Halsey NA. Factors associated with refusal of childhood vaccines among parents of school-aged children. Arch Pediatr Adolesc Med 2005;159:470-6.
+Hill HA, Yankey D, Elam-Evans LD, et al. Vaccination Coverage by Age 24 Months Among Children Born in 2021 and 2022 — National Immunization Survey-Child, United States, 2022–2024. MMWR Morb Mortal Wkly Rep 2026;75:146–155.
+Mellerson, Jenelle L. et al. Centers for Disease Control and Prevention’s School Vaccination Assessment: Collaboration With US State, Local, and Territorial Immunization Programs, 2012–2018. Am J Public Health 2020; 110(7):1092–1097.
+See publications for additional data sources.
+Other VaxView vaccination coverage websites
+The VaxView websites provide vaccination coverage data for all ages. Monitoring coverage for recommended vaccinations across the country helps CDC assess how well local areas, states, and the nation are protected from vaccine-preventable diseases.
+Find additional vaccination coverage data on the VaxView Vaccination Coverage main page.
+Aug. 17, 2026
+Sources and Page Info
+Print
+Share
+Facebook
+LinkedIn
+Twitter
+Syndicate

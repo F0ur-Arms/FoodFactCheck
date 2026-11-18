@@ -1,0 +1,61 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: About ChildVaxView
+URL: https://www.cdc.gov/childvaxview/about/index.html
+────────────────────────────────────────────────────────────
+
+For Everyone
+Oct. 1, 2026
+About
+Vaccination is an important part of keeping children healthy and protected from potentially serious diseases like measles and whooping cough. CDC's recommended immunizations can help protect children from 16 serious diseases by the time they reach 2 years old.
+Data sources
+The National Immunization Survey (NIS)-Child is a mobile phone survey used to monitor vaccination coverage and immunization coverage with a monoclonal antibody to prevent RSV among children ages 19–35 months. It is part of a group of surveys that also monitor:
+vaccination coverage among adolescents ages 13–17 years,
+flu vaccinations for children ages 6 months–17 years, and adults ages 18 years or older
+COVID-19 vaccination for children and adolescents in eligible age groups and adults ages 18 years and older and
+RSV vaccination for adults ages 18 years and older.
+The NIS-Child survey provides a "report card" to let us know how well we are doing in protecting our nation's children against vaccine-preventable diseases. The mobile telephone survey of parents or guardians is followed by a questionnaire mailed to vaccination providers to obtain the children's vaccination history. For data and documentation related to NIS-Child please see NIS-Child Data and Documentation for 2015 to Present | NIS Information | CDC.
+Objectives, targets, and indicators
+Objectives, targets, and indicators are science-based goals for child vaccination coverage geared toward reducing illness and death from vaccine-preventable diseases.
+Every 10 years, Healthy People provides science-based national objectives for improving the health of all Americans. The HP 2030 objectives IID-02, IID-03, and IID-06 include specific targets on increasing vaccination coverage among children by age 24 months:
+Reduce the proportion of children who get no recommended vaccines by age 2 years (IID-02)
+Maintain the vaccination coverage level of 1 dose of the MMR vaccine in children by age 2 years (IID-03)
+Increase the coverage level of 4 doses of the DTaP vaccine in children by age 2 years (IID-06)
+HEDIS measures are tools used by health plans to measure performance on childhood vaccinations, including childhood immunization status.
+The Core Set of Children's Health Care Quality Measures for Medicaid and CHIP (Child Core Set) includes childhood immunization status measures.
+Information for specific groups
+Health care professionals play an integral role in preventing serious diseases through vaccination. You can reduce illness among children by recommending appropriate vaccinations at every health visit, taking the time to answer parents' questions, implementing standing orders, and using reminder/recall systems.
+Your work ensures high vaccination coverage in local communities and helps keep children safe and healthy. Learn how you as a health care professional can protect more children in your area.
+Health care professionals may also be asked to help the NIS provide accurate information about childhood vaccinations. It is very important for them to continue to fill out the Immunization History Questionnaire (IHQ) for CDC to track accurate vaccination coverage at national, state, and selected local levels. The survey could not be completed without their dedicated support. Find the IHQ and other materials on the National Immunization Survey site.
+The diseases that childhood vaccines prevent can be very serious—even life-threatening. That's why CDC's recommended immunization schedule is designed to protect infants and children early in life, before they are exposed to these diseases. Making sure children receive all their recommended vaccines helps protect them from 16 serious diseases by the time they reach 2 years of age:
+DTaP vaccine to protect against diphtheria, tetanus, and whooping cough (pertussis);
+Polio vaccine to protect against polio;
+MMR vaccine to protect against measles, mumps, and German measles (rubella);
+Hib vaccine to protect against Haemophilus influenzae type b;
+HepB vaccine to protect against hepatitis B;
+Varicella vaccine to protect against chicken pox (varicella);
+PCV to protect against pneumococcal disease;
+HepA vaccine to protect against hepatitis A;
+Rotavirus vaccine to protect against rotavirus;
+Flu vaccine to protect against seasonal flu;
+COVID-19 vaccine to protect against COVID-19; and
+RSV monoclonal antibody to protect against respiratory syncytial virus.
+Learn more about the vaccines recommended for children and the diseases they prevent.
+The National Immunization Surveys are conducted in households across the country by phone. The majority of the telephone numbers are randomly selected by a computer so it is possible that your phone number may be contacted. Here is a letter from the Director of the Immunization Services Division (ISD), which describes the surveys [2 pages].
+Your participation is voluntary and no information that identifies any individual is ever shared or released. All survey responses and personal data are kept confidential in accordance with strict Federal regulations. Survey results are analyzed and published in reports to benefit local, state, and national public health programs.
+Have Additional Questions? See answers to frequently asked questions.
+Get the facts and figures you need to tell the story of child vaccination coverage in your area and throughout the nation.
+Resources include:
+Results for Vaccination Coverage among Children 19-35 Months Old—note that this page will allow you to look at specific vaccines and trends over time for those vaccines
+Publications
+Information About Child Vaccination Coverage in the United States
+Other VaxView Vaccination Coverage Websites
+The VaxView websites provide vaccination coverage data for all ages. Monitoring coverage for recommended vaccinations across the country helps CDC assess how well local areas, states, and the nation are protected from vaccine-preventable diseases.
+Find additional vaccination coverage data on the VaxView Vaccination Coverage main page.
+Oct. 1, 2026
+Sources and Page Info
+Print
+Share
+Facebook
+LinkedIn
+Twitter
+Syndicate

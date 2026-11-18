@@ -1,0 +1,106 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: About Influenza A in Animals
+URL: https://www.cdc.gov/flu-in-animals/about/index.html
+────────────────────────────────────────────────────────────
+
+For Everyone
+At a glance
+Most influenza A viruses circulate naturally in wild birds; however, these viruses can also adapt to spread in people and other animals.
+These animals include, but are not limited to ducks, chickens, pigs, whales, horses, seals, cats, dogs, and cows.
+Overview
+Influenza A viruses are divided into subtypes based on two proteins on the surface of the virus: the hemagglutinin (HA) and the neuraminidase (NA). There are 18 different hemagglutinin subtypes and 11 different neuraminidase subtypes that have been recognized to date.
+Many different animals can carry or be infected with influenza A viruses. All known HA subtypes except H17 and H18 and all known NA subtypes except N10 and N11 have been found in birds. Subtypes H17N10 and H18N11 have only been found in bats.
+It is uncommon for people to get influenza virus infections directly from animals. However, sporadic human infections and outbreaks caused by certain avian and swine (variant) influenza A viruses have been reported.
+Keep Reading
+Bird Flu
+Keep Reading
+Information on Swine/Variant Influenza
+Table 1
+Influenza A in people and animals by hemagglutinin subtype
+Subtype
+People
+Birds
+Cattle
+Swine
+Cats
+Dogs
+Horses
+Bats
+Goats & Sheep
+Alpacas
+Marine Mammals
+Other*
+H1
+X
+H2
+X
+H3
+X
+H4
+X
+H5
+X
+H6
+X
+H7
+X
+H8
+H9
+H10
+H11
+X
+H12
+H13
+H14
+H15
+H16
+H17
+H18
+*These include seals, ferrets, minks, mice, foxes, tigers, leopards, and polar bears, among others.
+Table 2
+Influenza A in people and animals by neuraminidase subtype
+Subtype
+People
+Birds
+Cattle
+Swine
+Cats
+Dogs
+Horses
+Bats
+Goats & Sheep
+Alpacas
+Marine Mammals
+Other*
+N1
+X
+N2
+X
+N3
+N4
+X
+N5
+X
+N6
+X
+N7
+X
+N8
+X
+N9
+X
+N10
+N11
+*These include seals, ferrets, minks, mice, foxes, tigers, leopards, and polar bears, among others.
+Other flu websites and resources
+Zoonotic Influenza Reference Guide
+This Zoonotic Influenza Reference Guide provides federal, state, and local animal health and public health officials, and other organizations and academia, with an accessible, easy-to-use online resource for understanding and managing existing and emerging situations involving animal and zoonotic influenza viruses and diseases.
+Generalizable One Health Framework
+The Generalizable One Health Framework provides a structure for all health sectors to use the One Health approach for reducing the spread of zoonotic diseases, including influenza A viruses. The framework includes recommendations for zoonotic disease prevention and control and for enhancing One Health capacity to respond to and control zoonotic disease threats.
+Sources and Page Info
+Print
+Share
+Facebook
+LinkedIn
+Twitter
+Syndicate

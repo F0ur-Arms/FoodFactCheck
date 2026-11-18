@@ -1,0 +1,48 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Preventing Liver Cancer Among Opioid Users in Iowa
+URL: https://www.cdc.gov/liver-cancer/prevention/iowa.html
+────────────────────────────────────────────────────────────
+
+At a glance
+The Iowa Comprehensive Cancer Control Program participated in a project to put promising or proven liver cancer prevention strategies into action.
+Background
+Liver cancer can be caused by long-term infections with hepatitis C virus (HCV) or hepatitis B virus (HBV). The opioid epidemic has increased the number of people who inject drugs. This may lead to an increased risk of HCV and HBV through use of shared equipment.1 These factors may contribute to the increase in liver cancer in the United States.2
+Although the risk of developing liver cancer is low, surviving liver cancer is very difficult. For every 100,000 people, 8 new liver and intrahepatic bile duct cancer cases are reported, and 7 people die of these diseases. This is according to 2019 data from United States Cancer Statistics.3
+From 2000 through 2020, 20,780 confirmed cases of long-term HCV infections were reported to the Iowa Department of Public Health. In 2020, a total of 825 Iowans were newly diagnosed with a chronic HCV infection; of these, 30% were younger than 40, and 71% reported using injection drugs.4 In addition, the incidence rate of new liver and intrahepatic bile duct cancer cases in Iowa has increased substantially, from 1.7 cases per 100,000 in 1975 to 1979 to 6.9 cases per 100,000 in 2018 to 2019.5
+Demonstration project overview
+The Iowa Comprehensive Cancer Control Program at the Iowa state health department participated in a CDC demonstration project to put promising or proven liver cancer prevention strategies into action. The goal was to reduce the incidence of HBV and HCV infections and opioid overdose, and decrease liver cancer rates among people who inject drugs.
+Strategies
+Provider education
+Iowa's cancer program partnered with the Iowa Primary Care Association and Des Moines University to:
+Educate Iowa providers (primary care, medication-assisted treatment, substance use disorders, and behavioral health) on the relationship between opioid injection, HBV, HCV, and liver cancer.
+Plan, host, and record educational sessions through the primary care association HCV and behavioral health Project ECHO® platforms.
+Offer continuing medical education (CME) credits for completed educational sessions through the university.
+Make recorded versions of educational sessions available through the primary care association SharePoint site and the university website.
+Collect data to track participation in the live educational sessions.
+Collect data to track changes in knowledge, awareness, ability, and intent of participating providers to talk to their patients about HBV and HCV.
+Improving delivery of viral hepatitis services
+Iowa's cancer program partnered with the state's primary care association to:
+Provide an opportunity for community-focused primary care providers who participated in the HCV ECHO to virtually present cases of HCV-positive patients and seek consultation to determine the appropriate course of treatment.
+Review and revise the case presentation form so that providers could better assess for risk factors (such as opioid or injection drug use) and HBV infection status (current or past).
+Collect data to track the number and types of cases presented and courses of treatment recommended.
+Achievements
+Provider education
+8 live educational sessions were delivered through the HCV and behavioral health ECHO platforms.
+251 providers (not all unique) participated across the 8 live sessions.
+All 8 sessions were made available to registered participants through the primary care association SharePoint site.
+3 recorded sessions on HCV were made available on the university website.
+6 sessions were approved by the university for CME credits; 85 participants were awarded CME credits.
+24 providers completed the retrospective pre-post assessment to assess changes in knowledge, awareness, ability, and intent.
+Improving delivery of viral hepatitis services
+14 ECHO sessions on HCV were conducted. 99 cases were presented across all sessions. Of these cases:
+All cases were for patients diagnosed with chronic HCV.
+52 unique providers participated across all sessions.
+42 hepatitis A vaccines and 48 HBV vaccines were administered.
+14 patients were in the queue to begin HCV treatment.A
+11 patients started HCV treatment.
+5 patients completed HCV treatment.
+Lessons learned
+ECHO educational session speakers often presented on only one of the three topics (opioids, viral hepatitis, or liver cancer) instead of tying them together. Prepared slides or bullet points for presenters are essential for integrating the three topics and making the connection among them.
+Getting providers to complete the retrospective pre-post assessment for the educational sessions was challenging. It may help boost response rates to make completion of the assessment a requirement for receiving CME credits, and explain why the assessment is important.
+The ECHO case presentations on HCV provide a forum to address the barriers to care (such as Medicaid restrictions) that many patients face when referral to a specialist is required.
+Including case outcome fields (such as treatment started date, treatment completed date, vaccine series started date, and vaccine series completed date) on case presentation forms will help to track final outcomes of patients whose cases were presented during the ECHO presentations.

@@ -1,0 +1,81 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Guidelines for Reporting a Suicide Cluster
+URL: https://www.cdc.gov/suicide/prevention/cluster.html
+────────────────────────────────────────────────────────────
+
+For Public Health
+Key points
+Suicide clusters occur when suicides or suicide attempts happen closer together in time, location, or both than expected.
+Early assessment, coordinated response, and responsible communication can help prevent additional suicides and suicide attempts.
+Overview
+A suicide cluster occurs when suicides or suicide attempts happen closer together in time, location, or both than expected in a community.
+The two most commonly reported types of suicide clusters are:
+Point clusters (or spatial-temporal clusters) represent a greater-than-expected number of suicides or suicide attempts that occur within a time period in a specific location. Point clusters might occur in a community/county or an institution such as a school, university, or psychiatric inpatient setting.
+Mass clusters (or temporal clusters) represent a greater-than-expected number of suicides or suicide attempts spread out geographically within a time period.
+Some suicide clusters, especially mass clusters, may occur through a process called suicide contagion. Suicide contagion occurs when the exposure to suicide or suicidal behavior of one or more people influences others to attempt suicide.
+Exposure can be direct through a personal connection to the person who died by suicide, or indirect through media reporting or social media posts about a person who was not a personal connection.
+Risk factors
+Risk factors for individuals involved in suicide clusters are thought to be similar to general risk factors for suicide.
+Published investigations of suicide clusters show that there is no one place that clusters are more likely to occur. They occur in a variety of locations and settings, such as: hospitals, military institutions, psychiatric inpatient facilities, and schools.
+Media influence can be both a risk and protective factor depending on how long the coverage lasts, how prominent the source is, what is shared, and the language used. This could include social media, news reports, and entertainment media.
+Media reporting of suicides might be a risk factor when it unintentionally influences increases in suicides, particularly when media reports do not follow best practices and include things like:
+Dramatic or graphic headlines or images
+Explicitly describing the suicide method or showing pictures of it
+A statement that suicide is unavoidable
+Repeatedly reporting on the same suicide, including high-profile celebrities who may be considered models for imitation
+Showing the site of the suicide and pictures of those who are grieving
+Media can also play an important role in preventing suicide risk or deaths by following Best Practices and Recommendations for Reporting on Suicide. For example, media can:
+Use language such as "died by suicide" instead of "committed suicide"
+Report suicide as a public health problem and provide resources such as 988 Suicide & Crisis Lifeline and treatment options
+Provide information on warning signs of suicide risk
+Engage suicide prevention or mental health experts to share facts about suicide and prevention
+Emphasize messages of help and hope
+Educate the public about coping strategies and treatment
+Reporting a suspected suicide cluster
+Contact your local or state health department if you suspect a suicide-related cluster in your community. The health department will gather information from you and determine whether cases meet the suicide cluster criteria.
+Contact your local or state health department for information about suicide statistics or trends in your area. You can also access state and local suicide data using CDC WISQARS or CDC WONDER.
+Assessing and investigating a suicide cluster
+Monitoring suicide-related events is a key component of prevention and might reveal when an unusual pattern, or a cluster, of suicides or suicide attempts have occurred.
+The following steps available from CDC's Guidance for Community Assessment and Investigation of Suspected Suicide Clusters can help communities assess and investigate suspected suicide clusters. This can inform public health action to prevent further suicides.
+Conduct a preliminary assessment of the information obtained to determine whether a formal assessment is warranted. This step includes the following tasks:
+Collect details about the suspected cluster
+Convene or form a suicide cluster coordinating committee
+Determine whether to conduct a formal assessment of the suspected cluster
+Conduct a formal assessment of the suspected cluster to determine if it meets the definition of a cluster. This step includes the following tasks:
+Develop a case definition
+Determine the time frame
+Identifying data sources
+Select and carry out analytic methods*
+Determine whether to conduct further investigation
+*It may be difficult to prove that a cluster occurred because of small numbers. There are statistical methods that can be applied, such as geographic information systems, Knox, Poisson, or Scan tests.
+Conduct an investigation to identify commonalities or similarities in cases that can inform a community response. This step includes the following tasks:
+Develop and implement an investigation plan
+Report findings to inform public health action
+Sometimes, initiating a community response simultaneously during any of the steps might be warranted. View the Responding to a suicide cluster section to learn more about community response planning.
+Responding to a suicide cluster
+The goal of a community response plan is to contain the cluster and prevent additional deaths and attempts.
+A community response plan should include ways to identify and refer people who may be at high risk for suicide, even if the number of cases in the community is not statistically higher than expected.
+The following steps from CDC's Guidance for Community Response to Suicide Clusters can help communities respond to suicide clusters or clusters of suicide attempts. Public health and community leaders can adapt plans based on resources, cultural context, and needs of different groups in the community.
+Prepare to respond to a suicide cluster. This step includes the following tasks:
+Review guidance and develop a community-specific response plan
+Engage partners in a suicide cluster coordinating committee
+Identify relevant community resources
+Determine the conditions under which a response plan should be implemented
+Direct response to the suicide cluster. This step includes the following tasks:
+Notify and prepare the identified groups
+Identify, screen, and refer those at high risk
+Avoid glorifying suicide decedents and minimize sensationalism
+Provide a timely flow of accurate, appropriate information to the media
+Consider the relevance and respond to the impact of social media
+Act to help prevent the next suicide cluster. This step includes the following tasks:
+Identify and change elements in the environment that might increase the likelihood of further suicides or suicide attempts
+Address long-term issues suggested by the nature of this cluster
+Consider evaluating the response
+Requesting CDC assistance
+When a situation meets suicide cluster criteria you may want CDC assistance through an Epi-Aid request.
+An Epi-Aid is an onsite, rapid, short-term investigation of an urgent public health problem by Epidemic Intelligence Service (EIS) officers and other CDC subject matter experts. The Epi-Aid investigation helps you make rapid, practical decisions for actions to prevent and control the public health problem.
+Requesting an Epi-Aid
+Use the following steps to request an Epi-Aid:
+The requesting official with authority for public health emails the subject matter expert at CDC or the EIS program (EpiAid@cdc.gov) for an initial discussion of the assistance needed.
+The CDC subject matter expert and the EIS program discuss the Epi-Aid request and determine if CDC can support the Epi-Aid. Once CDC determines it can support the Epi-Aid, CDC notifies the requesting official.
+If CDC can support the Epi-Aid, the requesting official must send a written invitation by email to the CDC subject matter expert or to the EIS Program at EpiAid@cdc.gov.

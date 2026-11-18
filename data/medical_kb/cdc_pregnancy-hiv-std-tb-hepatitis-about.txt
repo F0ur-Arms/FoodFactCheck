@@ -1,0 +1,26 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: HIV, Viral Hepatitis, STD & Tuberculosis Prevention in Pregnancy
+URL: https://www.cdc.gov/pregnancy-hiv-std-tb-hepatitis/about/index.html
+────────────────────────────────────────────────────────────
+
+Key points
+Infections with HIV, viral hepatitis, STIs, and TB can complicate pregnancy and may have serious consequences for a woman, her pregnancy outcomes, and her baby.
+Screening and treatment for these infections, and vaccinations against viruses can prevent many bad outcomes.
+Overview
+Infection with HIV, viral hepatitis or STIs can affect the wellbeing of the mother, the pregnancy outcome, and child.
+Screening and treatment for these infections, and vaccinations against viruses, such as hepatitis B and human papillomavirus, can prevent many bad outcomes.
+Screening for infections is the first step in accessing the care and treatment needed to prevent transmission of the infection to the infant and to improve the mother's health. Prenatal screening for some infections (HIV, syphilis, hepatitis B virus, and hepatitis C virus) is recommended for all pregnant women. Screening for other infections (chlamydia, gonorrhea, and TB) is recommended for some women at risk for infection.
+For additional information on screening for women at higher risk for STIs, visit STDs during Pregnancy – CDC Fact Sheet (Detailed)
+For information about TB diagnosis during pregnancy, visit TB and Pregnancy.
+Prevention tips
+To protect all women and infants, CDC recommends the following:
+Hepatitis B Virus Infection (HBV)
+All pregnant women should be screened during each pregnancy, preferably in the first trimester, regardless of vaccination status or history of testing. Pregnant women with a history of appropriately timed triple panel screening and without subsequent risk for exposure to HBV (i.e., no new HBV exposures since triple panel screening) only need hepatitis B surface antigen (HBsAg) screening. Testing pregnant women known to be chronically infected or immune enables documentation of the HBsAg test result during that pregnancy to ensure timely prophylaxis for exposed infants. Newborns of pregnant women who are HBsAg positive should receive the HepB vaccine and HepB immune globulin at birth and complete the HepB vaccine series according to the recommended vaccination schedule.
+Hepatitis C Virus Infection (HCV)
+All pregnant women should be tested for hepatitis C during each pregnancy. While there is no treatment available to prevent transmission of HCV infection from mother to child, screening for HCV infection during pregnancy allows health care providers to identify infected women who should receive treatment during the postpartum period and infants who should receive testing during a pediatric visit. Identification of HCV infection during pregnancy also can inform pregnancy and delivery management issues that might reduce the risk of HCV transmission to the infant.
+HIV
+All pregnant women should be tested for HIV as early as possible, preferably at the first prenatal visit. The earlier HIV is diagnosed and treated, the more effective HIV medicines — called antiretroviral therapy or ART — can be at preventing transmission and improving the health outcomes of both mother and child.
+Syphilis
+All pregnant women should be tested for syphilis at the first prenatal visit, ideally during the first trimester of pregnancy. Among women who may be less likely to receive prenatal care, consider testing at the time of pregnancy testing. The earlier syphilis is diagnosed and treated during pregnancy, the more likely congenital syphilis and its complications (such as stillbirth) can be prevented in the infant. Penicillin G is effective for preventing maternal transmission to the fetus, as well as treating fetal and maternal infection. Pregnant women who live in communities with high rates of syphilis, who are at high risk for syphilis acquisition during pregnancy (e.g., substance use or a new sex partner), or who were not previously tested during the pregnancy should also be screened again at 28 weeks and at delivery.
+Tuberculosis (TB)
+Healthcare providers should assess all persons, including pregnant women, for risk factors associated with latent TB infection and TB disease. While universal testing for latent TB infection and TB disease is not recommended for pregnant women in the United States, targeted testing for those with risk factors, including people living with HIV infection, people born in high TB prevalence countries, and those who are known contacts of persons with TB disease, facilitates prompt initiation of curative treatment for those with TB disease.

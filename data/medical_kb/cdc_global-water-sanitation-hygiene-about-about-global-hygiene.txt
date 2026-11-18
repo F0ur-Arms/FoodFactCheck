@@ -1,0 +1,37 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Global Hygiene
+URL: https://www.cdc.gov/global-water-sanitation-hygiene/about/about-global-hygiene.html
+────────────────────────────────────────────────────────────
+
+At a glance
+Hygiene refers to practices that can lead to good health and cleanliness, such as bathing with soap and water.
+Keeping hands clean is one of the most important ways to prevent the spread of illness.
+In many areas, lack of access to clean water and soap makes hygiene difficult.
+Overview
+Hand hygiene is one of the most effective ways to prevent the spread of germs. As of 2023, globally there were:
+2.3 billion people who did not have access to a handwashing facility with water and soap at home
+670 million people who did not have access to a handwashing facility at all
+462 million children who did not have access to handwashing facilities at schools
+Diarrheal and respiratory diseases
+In many resource-limited settings, diarrheal disease is the leading cause of death among children. A 2018 review of data showed that teaching communities to wash hands with soap and water reduced diarrhea by 30%. This means promoting hygiene practices could prevent an estimated 1 million deaths from diarrheal diseases.
+Respiratory diseases are also common in resource-limited settings. In 2016, nearly 300 million people got sick and almost 2 million died due to lower respiratory infections alone. While more systematic evidence is needed, many studies show that washing hands can lower the number of respiratory diseases generally, especially in childcare settings and schools.
+People often spread diarrheal and respiratory diseases to each other through dirty hands. Diarrheal diseases can also be spread through the fecal-oral route (when germs from poop get into the mouth). Handwashing can stop the spread of many germs that cause disease and is key to preventing the spread of diseases in all parts of the world. However, access to soap and water is limited in many resource-limited settings.
+Hygiene challenges and resources
+In resource-limited places, the biggest challenge to good hygiene is not having access to water.
+About 2 billion people do not have access to safely managed drinking water services, of which 800 million people do not have access to an improved water source and lack safe drinking water.
+Worldwide, 1.4 million deaths per year are attributed to diseases spread through unsafe water, poor sanitation, and lack of hygiene.
+An estimated 2.3 billion people lack access to a handwashing facility with water and soap at home, and 670 million people have no access to handwashing facilities.
+Successful handwashing programs teach and promote hygiene practices that resonate with local social and cultural norms. Educating people about water use and improving access to water are crucial to improving health in areas with limited resources. Still, hygiene challenges persist as a significant issue for millions.
+Terms to know
+Access to appropriate hygiene is determined by the presence of a handwashing facility and the kind of handwashing materials available. Handwashing facilities may be fixed or mobile and include a sink with tap water, buckets with taps, tippy-taps, and jugs or basins designated for handwashing. Soap includes bar soap, liquid soap, powder detergent, and soapy water. It does not include ash, soil, sand, or other handwashing agents
+The following definitions outline how hygiene services are defined by the Joint Monitoring Programme, a collaboration between the World Health Organization (WHO) and UNICEF.
+Hygiene service levels
+Definition
+Basic
+Availability of a
+handwashing facility with soap and water at home
+Limited
+Availability of a handwashing facility lacking soap and/or water at home
+Unimproved
+No handwashing facility on
+premises

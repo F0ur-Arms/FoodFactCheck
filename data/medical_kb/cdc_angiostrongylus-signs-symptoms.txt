@@ -1,0 +1,14 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Symptoms of Rat Lungworm
+URL: https://www.cdc.gov/angiostrongylus/signs-symptoms/index.html
+────────────────────────────────────────────────────────────
+
+Key points
+Symptoms of rat lungworm vary, depending on the species of parasite you are infected with.
+Infections with A. cantonensis can mimic symptoms of bacterial meningitis and include nausea, vomiting, neck stiffness, and headaches.
+Infections with A. costaricensis can cause symptoms including pain, fever, nausea, and vomiting.
+Symptoms
+Angiostrongylus cantonensis
+The incubation period of A. cantonensis averages 1 – 3 weeks but has ranged from one day to greater than six weeks. Illness from A. cantonensis usually lasts between 2 – 8 weeks but can last longer. People present with symptoms of bacterial meningitis, such as nausea, vomiting, neck stiffness, and headaches that are often global and severe. Additionally, abnormal sensations of the arms and legs can occur. Sometimes the eyes can be affected. When patients are tested for bacterial meningitis by taking a sample of the fluid that surrounds the brain, the fluid does not show high levels of the cells that help fight off bacterial infections (polymorphonuclear leukocytes) as one might expect. Instead, another cell type called eosinophils are found (this is called eosinophilic meningitis), though these cells may be absent early and late in the course of disease. Most infections of A. cantonensis resolve spontaneously over time without specific treatment because the parasite cannot survive for long in the human body. However, serious complications can rarely occur, leading to neurologic dysfunction or death.
+Angiostrongylus costaricensis
+The incubation period is not specifically known but is thought to usually range from several weeks to several months, possibly even up to one year. A. costaricensis is usually found in the intestine (especially the ileocecal region) and can cause abdominal pain, fever, nausea and vomiting. Abdominal findings can often mimic appendicitis, and infection is identified after surgical removal of the appendix. In rare cases, the larvae enter the mesenteric arteries found in the abdominal cavity where they mature into adults and can cause arteritis, infarction, thrombosis, and gastrointestinal hemorrhage. Eggs produced by adult worms lodge in capillaries and cause an inflammatory reaction as they degenerate. The immune system's response to the adults, larvae, and eggs can result in a massive eosinophilic inflammatory reaction, with eosinophilic invasion of the intestinal wall and eosinophilic vasculitis. Intestinal obstruction and perforation can occur, and deaths have been reported. Recurrent episodes of illness may occur over several months. Most cases resolve spontaneously.

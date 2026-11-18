@@ -1,0 +1,63 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Long COVID Basics
+URL: https://www.cdc.gov/long-covid/about/index.html
+────────────────────────────────────────────────────────────
+
+For Everyone
+Español
+Key points
+Long COVID is a serious illness that can result in chronic conditions, require comprehensive care, and can sometimes cause disability.
+Long COVID can include a wide range of ongoing symptoms and conditions that can last months to years after COVID-19 illness.
+Anyone who had a SARS-CoV-2 infection, the virus that causes COVID-19, can experience Long COVID, including children.
+Following core strategies to lower your risk of severe COVID-19 illness is the best way to prevent Long COVID.
+Living with Long COVID can be difficult and isolating, especially when there are no approved tests that can determine if your symptoms or conditions are due to Long COVID and there are no approved treatments.
+About Long COVID
+Long COVID is defined as a chronic condition that occurs after SARS-CoV-2 infection and is present for at least 3 months. Long COVID includes a wide range of symptoms or conditions that may improve, worsen, or be ongoing.
+Talk to your healthcare provider if you have symptoms that last for months after an infection. Learn about Long COVID lived experiences. View Long COVID lived experiences in additional formats.
+Long COVID
+Anyone can get Long COVID
+Long COVID occurs more often in people who had severe COVID-19 illness, but anyone who gets COVID-19 can experience it, including children.
+Most people with Long COVID first experience symptoms days after learning they had COVID-19, but some people who later develop Long COVID do not know when they were infected. People can be reinfected with SARS-CoV-2 multiple times. Each time a person is infected with SARS-CoV-2, they have a risk of developing Long COVID. 12] Long COVID symptoms and conditions can emerge, persist, resolve, and reemerge over weeks, months, and even years. 345These symptoms and conditions can range from mild to severe, may require comprehensive care, and can sometimes result in a disability.
+While there are fewer new cases of Long COVID compared to early in the pandemic, it remains a serious public health concern as millions of U.S. adults and children have been affected by Long COVID. 67
+Who is at risk
+While anyone who gets COVID-19 can develop Long COVID, studies have shown that some groups of people are more likely to develop Long COVID than others, including (not a comprehensive list):678
+Women
+Hispanic and Latino people
+People who have experienced more severe COVID-19 illness, especially those who were hospitalized or needed intensive care
+People with underlying health conditions
+People who did not get a COVID-19 vaccine
+Prevention
+CDC emphasizes core strategies to lower health risks from COVID-19, including severe outcomes such as hospitalization and death. Preventing severe outcomes from COVID-19 illness helps prevent Long COVID. Steps you can take to protect yourself and others from COVID-19 include:
+Staying up to date on COVID-19 vaccination
+Practicing good hygiene (practices like handwashing that improve cleanliness)
+Taking steps for cleaner air
+When you may have a respiratory virus:
+Taking precautions to prevent spread
+Seeking healthcare promptly for testing and/or treatment if you have risk factors for severe illness; treatment may help lower your risk of severe illness
+Vaccination can prevent Long COVID
+Research shows COVID-19 vaccination is the best available tool to prevent Long COVID, including in children. 910
+Testing and diagnosis
+Long COVID is not one illness. There is no approved laboratory test that can determine if your symptoms or conditions are due to Long COVID. A positive SARS-CoV-2 test is not required for a Long COVID diagnosis. Your healthcare provider considers a diagnosis of Long COVID based on:
+Your health history
+If you had a diagnosis of COVID-19 by a positive test, symptoms, or exposure
+A health examination
+Clinical evaluations and results of routine blood tests, chest X-rays, and electrocardiograms may be normal in someone with Long COVID. People experiencing Long COVID should seek care from a healthcare provider to create a personal medical management plan and improve their symptoms and quality of life. Talk to your healthcare provider if you think you or your child might have Long COVID.
+For Health Care Providers
+Clinical Overview of Long COVID
+Similar conditions
+Some people experiencing Long COVID symptoms have symptoms similar to those reported by people with myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS) and other poorly understood chronic illnesses that may occur after other infections. These difficult-to-explain symptoms or conditions may be misunderstood by healthcare providers, which can result in a delay in diagnosis and people receiving the appropriate care or treatment.
+Keep Reading
+Living With Long COVID
+What CDC is doing
+CDC supports work that improves the overall health and quality of life for people living with Long COVID. CDC is working with other federal agencies to better understand and address the long-term impacts of Long COVID, who gets Long COVID, and why. CDC supports these goals by:
+Partnering with state and local jurisdictions
+Supporting healthcare providers
+Conducting studies and analyses
+Studies
+Studies are in progress to learn more about Long COVID and identify other ways to help prevent Long COVID. CDC and partners use multiple approaches to support and conduct analyses that estimate:
+How many people experience Long COVID and why
+Which groups of people are disproportionately impacted by Long COVID
+How new SARS-CoV-2 variants may affect Long COVID
+The role that COVID-19 vaccination plays in preventing Long COVID
+Each approach helps CDC and its partners better understand Long COVID and how healthcare providers can treat or support patients living with these long-term effects. CDC posts data on Long COVID and provides analyses.
+The most recent CDC data on Long COVID can be found on Tracking Long COVID. CDC will continue to share information with healthcare providers to help them evaluate and manage these conditions.

@@ -1,0 +1,29 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Chemical Agent Air Monitoring
+URL: https://www.cdc.gov/chemical-weapons-elimination/about/chemical-agent-air-monitoring.html
+────────────────────────────────────────────────────────────
+
+For Everyone
+What to know
+Chemical agent monitoring is critical to ensure protection of the environment, workers, and nearby residents. Two types of air monitors are used to monitor the air workers breathe and air from the destruction process.
+Air Monitoring Technology
+Specially designed equipment called near-real-time monitors collects air samples and gives a reading a few minutes after each sample is collected.
+Other monitors collect samples of air over longer periods of time to find out if very low levels of chemical agents are present.
+Monitors and air-sampling systems are placed strategically throughout the disposal system to analyze air from the process and air that workers breathe.
+If results show chemical agent, the facility takes corrective action, even if levels are well below those that could harm people.
+Improvements in Technology
+CDC promotes continual improvements in air-monitoring technology for the chemical agent disposal program. CDC endorses the important goals of
+Improving chemical agent detection and sensitivity levels
+Avoiding interferents that may cause the instrument to incorrectly indicate the presence of agent.
+Reducing sampling and analytical time for near-real-time instruments
+CDC regularly conducts oversight visits to examine air-monitoring systems and makes recommendations to improve them.
+CDC helps ensure that chemical monitors are operating accurately. CDC staff are involved in the following activities:
+Reviewing the U. S. Department of Defense's monitoring plans before they are implemented,
+Checking agent-monitoring locations to ensure that enough of monitors are in use and that they are sampling the proper locations,
+Analyzing quality data from each monitor to ensure that the system's readings are reliable,
+Conducting periodic process safety and industrial hygiene surveys.
+Related Resources
+Nerve agents: GA, GB, and VX exposure limits (govinfo.gov)
+Sulfur mustard, H and HD, exposure limits (govinfo.gov)
+Lewisite exposure limits (govinfo.gov)
+Draft Immediately Dangerous to Life or Health (IDLH) Value Document for Lewisite (federalregister.gov)

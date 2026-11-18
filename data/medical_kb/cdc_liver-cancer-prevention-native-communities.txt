@@ -1,0 +1,44 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Preventing Liver Cancer Among Opioid Users in Native Communities
+URL: https://www.cdc.gov/liver-cancer/prevention/native-communities.html
+────────────────────────────────────────────────────────────
+
+At a glance
+The American Indian Cancer Foundation participated in a project to put promising or proven liver cancer prevention strategies into action.
+Background
+Liver cancer can be caused by long-term infections with hepatitis C virus (HCV) or hepatitis B virus (HBV). The opioid epidemic has increased the number of people who inject drugs. This may lead to an increased risk of HCV and HBV through use of shared equipment.1 These factors may contribute to the increase in liver cancer in the United States.2
+Although the risk of developing liver cancer is low, surviving liver cancer is very hard. For every 100,000 people, 8 new liver and intrahepatic bile duct cancer cases are reported, and 7 people die of these diseases. This is according to 2019 data from United States Cancer Statistics.3
+From 1999 to 2015, American Indian and Alaska Native (AI/AN) people had the highest drug overdose death rates—22.1 per 100,000 in metropolitan areas and 19.8 per 100,000 in nonmetropolitan areas.4 The HCV-related death rate among AI/AN people in the Northwest is 3 times higher than the rate among non-Hispanic White people (19.6 versus 5.9 per 100,000).5 The liver cancer incidence rate among AI/AN people is 2 times higher than that of non-Hispanic White people (11.9 versus 5.5 per 100,000).6
+Demonstration project overview
+The American Indian Cancer Foundation participated in a CDC demonstration project to put promising or proven liver cancer prevention strategies into action. The goal was to reduce the incidence of HBV and HCV infections and opioid overdose and decrease liver cancer rates among people who inject drugs.
+Strategies
+Provider education
+The American Indian Cancer Foundation partnered with the Native American Community Clinic to:
+Develop and distribute a news brief email and three educational resources to educate clinic providers about hepatitis B, hepatitis C, and liver cancer.
+Work with the Mayo Clinic to develop and set up a webinar to educate community clinic medical staff about liver cancer incidence, risk factors, screening and prevention, and treatment.
+The organizations also collected data to track:
+The number of emails sent.
+The number of providers who received the news brief email.
+The number of providers who participated in the webinar.
+Changes in knowledge, awareness, ability, and intent of participating providers to talk to their patients about HBV and HCV.
+Syringe services programs
+The American Indian Cancer Foundation partnered with the Native American Community Clinic to:
+Conduct community engagement and outreach, including distribution and collection of harm reduction materials.
+Provide mobile HBV and HCV screening and medical services during outreach events.
+Collect data to track hepatitis screening and treatment, and the distribution and collection of harm reduction materials.
+Achievements
+Provider education
+1 medical oncologist from the Mayo Clinic who specialized in gastrointestinal cancers, including liver cancer, presented the webinar and led a question-and-answer session with community clinic providers. The discussion focused on how community clinic providers can apply what they learned to their work.
+11 community clinic providers received the news brief email and education resources. Educational resources were also provided to the clinic for continued dissemination to providers and patients.
+7 providers completed the pre-assessment and 1 provider completed the post-assessment to assess changes in knowledge, awareness, ability, and intent.
+12 of 14 invited community clinic medical providers attended the webinar, which improved the information provided in the news brief email and resources.
+5 providers completed the pre-assessment and 6 providers completed the post-assessment to assess changes in knowledge, awareness, ability, and intent.
+Syringe services programs
+1 new data collection system was developed to monitor progress.
+145 outreach events or locations were visited, including encampment at outreach events in South Minneapolis and onsite testing events at a local community clinic.
+28 clients were screened for HBV, 38 clients screened for HCV, and 115 clients treated for hepatitis C during the project period.
+More than 100,000 clean syringes and other harm reduction materials were distributed outreach events, including encampment at outreach events in South Minneapolis and onsite testing events at a local community clinic.
+39,135 harm reduction materials were collected over the course of the project.
+Lessons learned
+Getting providers to complete pre- and post-assessments for the webinar and news brief emails was challenging. Providing incentives, such as 1 free hour of administrative time or continuing medical education (CME) credits for participating, and requiring completion of the evaluation forms to receive the CME credits may help boost participation.
+When working with partners, being flexible and able to change plans when challenges arise is essential. Over the course of this project, the American Indian Cancer Foundation and the local community clinic worked together to overcome challenges, including staff changes and the COVID-19 public health emergency, to carry out a successful demonstration project.

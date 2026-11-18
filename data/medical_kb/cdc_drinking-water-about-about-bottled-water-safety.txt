@@ -1,0 +1,50 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: About Bottled Water Safety
+URL: https://www.cdc.gov/drinking-water/about/about-bottled-water-safety.html
+────────────────────────────────────────────────────────────
+
+For Everyone
+Nov. 10, 2026
+Español
+Key points
+The United States has rules in place to protect you from getting sick from commercially bottled water.
+Check the label on your bottled water for water quality information.
+If you think you got sick from bottled water, contact your health department to report your illness.
+Overview
+Source
+Bottled water can come from a variety of sources, such as public tap water systems or from under the ground (for example, mineral water). No matter its source, bottled water must meet safe drinking water standards.
+Safety rules
+The U.S. Food and Drug Administration (FDA) regulates the safety of bottled water in the United States. FDA bases its bottled water standards on the safe drinking water rules for tap water.
+FDA requires bottled water companies to:
+Protect bottled water sources from germs and chemicals
+Test water before and after it is bottled
+Follow additional safety rules during processing, bottling, holding, and transport
+Health risks
+Bottled water contaminated with harmful germs or chemicals can make you sick. Symptoms depend on the type of germ or chemical in the unsafe water and can be mild to serious.
+Anyone can get sick from unsafe water, but some people are at higher risk.
+Keep Reading
+About Drinking Water
+Outbreaks
+Outbreaks of illness linked to bottled water are rarely reported, but they do happen.
+Find data about past outbreaks linked to bottled water on CDC's BEAM dashboard:
+Select "NORS View" at the bottom of the dashboard
+Then "Waterborne" in the top left panel
+Then "Commercially bottled" under "Water Type" on the left
+Contamination
+Although bottled water companies must follow FDA's safe water rules, sometimes bottled water gets contaminated with germs or chemicals.
+Bottled water can get contaminated by germs or chemicals:
+At the water's source
+If the company does not properly treat the water to remove germs and chemicals
+During the manufacturing process
+During shipping or storage
+After people buy it
+Report illnesses
+If you think you got sick from bottled water, contact your health department. Reporting your illness can help them find out what caused you to get sick and prevent more illnesses.
+Tips
+Read the label
+While there is currently no standard label for bottled water, labels often provide some water quality information.
+Look on the bottle's label for:
+Where the water came from (source)
+How it was treated to make it safe for drinking (for example, reverse osmosis, distillation, or another treatment method)
+A phone number or web address where you can learn more about the water's quality
+Check CDC's About Home Water Treatment Systems page to see what types of germs and chemicals different water treatment methods remove.

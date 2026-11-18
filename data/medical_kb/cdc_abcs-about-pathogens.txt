@@ -1,0 +1,67 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Pathogens
+URL: https://www.cdc.gov/abcs/about/pathogens.html
+────────────────────────────────────────────────────────────
+
+Aug. 21, 2025
+At a glance
+Active Bacterial Core surveillance (ABCs) provides population-based surveillance for select causes of invasive bacterial infections in the community. These infections primarily manifest as bloodstream infections and meningitis. ABCs monitors invasive infections caused by group A Streptococcus (GAS), group B Streptococcus (GBS), Haemophilus influenzae, Neisseria meningitidis, and Streptococcus pneumoniae. Learn about pathogen-specific activities to characterize isolates and monitor trends.
+Group A Streptococcus
+Group A Strep Infection Website
+To determine the distribution of emm types and the association between specific emm types and disease severity in order to guide vaccine development
+To track antimicrobial resistance among invasive GAS isolates
+To identify potentially modifiable risk factors for community-acquired GAS infections
+To identify potentially preventable GAS infections, such as nosocomial (postpartum and post-surgical) infections or invasive infections in closed facilities (e.g., nursing homes)
+Whole-genome sequencing (WGS)1 based characterization for all isolates, which includes deduction of:
+emm types and T types
+Resistance mechanisms and all minimum inhibitory concentrations (MICs) on panel (and others); penicillin-binding protein 2x (PBP2x) amino acid sequence types to monitor for possible emergence of beta lactam nonsusceptibility
+Multilocus sequence type (MLST)2
+Presence/absence of key surface proteins, exotoxins, virulence markers
+Strategic subset targeted for conventional MIC determination
+Phylogenetic clustering within clonal types to detect potential ongoing disease clusters
+Group B Streptococcus
+Group B Strep Disease Website
+To assess the impact and implementation of current perinatal GBS disease prevention guidelines and update the evidence base available for policy decisions related to GBS prevention
+To monitor the impact of intrapartum prophylaxis on GBS resistance and non-GBS neonatal sepsis
+To characterize trends in invasive GBS disease epidemiology in other age groups, particularly late-onset neonatal disease and adult disease
+To identify serotypes responsible for disease in order to guide vaccine development
+From select surveillance areas, whole-genome sequencing (WGS)1 based characterization for all isolates, which includes deduction of:
+Capsular serotype
+Minimum inhibitory concentration (MIC) predictions, including penicillin-binding protein 2x (PBP2x) typing to detect decreased beta-lactam susceptibility
+Multilocus sequence type (MLST)
+Strategic subset targeted for conventional MIC determination
+Presence or absence of various surface proteins, including certain vaccine candidates
+Phylogenetic clustering within clonal types to detect potential transmission events
+Haemophilus influenzae
+Haemophilus influenzae Disease
+Homepage for CDC's information on Haemophilus influenzae infections.
+To evaluate progress in the elimination of serotype b disease
+To detect possible emergence of disease due to other capsular types
+To determine appropriate verification and validation criteria for current and potential serotyping methods
+Real-time polymerase chain reaction (rt-PCR) for confirmation of isolate species and capsular genogrouping.
+Note: CDC may perform conventional microbiological methods, slide agglutination, and whole-genome sequencing (WGS)1 as needed to resolve any discrepancies. CDC will perform WGS for molecular typing of isolates as part of special projects or requests.
+Neisseria meningitidis
+Meningococcal Disease Website
+To document the epidemiology of meningococcal disease in the United States and monitor trends over time
+To evaluate the effectiveness of meningococcal vaccines and impact on disease burden
+To monitor the molecular epidemiology of serogroup B meningococcal vaccine antigens using isolates of serogroup B N. meningitidis collected through ABCs
+Whole-genome sequencing (WGS)1 for isolate species confirmation, capsular genotyping, and molecular typing
+Note: CDC may perform conventional microbiological methods, real-time polymerase chain reaction (rt-PCR), and slide agglutination as needed to resolve any discrepancies.
+Streptococcus pneumoniae
+Pneumococcal Disease
+Homepage for CDC's information on pneumococcal disease, which is caused by Streptococcus pneumoniae.
+To track emerging antimicrobial resistance in pneumococcal isolates
+To evaluate the impact of pneumococcal conjugate vaccines on disease burden in children and on antimicrobial resistance among children
+To evaluate the impact of a pneumococcal conjugate vaccine (PCV13), as well as the existing polysaccharide vaccine (PPSV23), on disease burden and on antimicrobial resistance among adults
+Whole-genome sequencing (WGS)1 based characterization of all isolates, which includes deduction of:
+Capsular serotype
+Minimum inhibitory concentration (MIC) predictions, including penicillin-binding protein (PBP) typing system for determining beta-lactam antibiotic MICs
+Multilocus sequence type (MLST)
+Pilus types
+Conventional MIC testing of selected strains
+Phylogenetic clustering within clonal types to detect potential transmission events
+Related information
+ABCs Surveillance Population Areas
+ABCs Surveillance Reports
+ABCs Isolate Bank
+Aug. 21, 2025

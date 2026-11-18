@@ -1,0 +1,60 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Reducing Risk for Teen Drivers
+URL: https://www.cdc.gov/teen-drivers/prevention/index.html
+────────────────────────────────────────────────────────────
+
+Aug. 4, 2025
+Key points
+Teens are at an increased risk for injury or death from a crash.
+The strategies in this section are effective for reducing or preventing teen driver crashes, injuries, and/or deaths.
+This information can help decision makers and community partners see gaps and identify the most effective strategies to reduce or prevent teen driver crashes, injuries, and deaths.
+Prevention strategies
+Seat belts save lives
+At least half of teen drivers and passengers ages 16–19 years who were killed in passenger vehicle crashes in 2020 were not wearing a seat belt at the time of the crash.1 Research indicates that seat belts reduce serious crash-related injuries and deaths by about half.2
+Primary enforcement of seat belt laws
+States vary in their enforcement of seat belt laws. A primary enforcement seat belt law allows police officers to ticket drivers or passengers for not wearing a seat belt, even if this is the only violation that has occurred. A secondary enforcement seat belt law allows police officers to ticket drivers or passengers for not wearing a seat belt only if they have pulled over the driver for another reason. Some states have secondary enforcement seat belt laws for adults but have primary enforcement seat belt laws for young drivers.
+Seat belt use among all age groups is consistently higher in states with primary enforcement seat belt laws than in states with secondary enforcement seat belt laws.345 Visit the seat belt and child seat laws by state page on the Insurance Institute for Highway Safety's website for up-to-date information on seat belt laws by state, including the type of enforcement, who is covered, and which seating positions are covered.6 You can also use CDC's Motor Vehicle Prioritizing Interventions and Cost Calculator for States (MV PICCS) to learn about how many lives could be saved, injuries prevented, and costs averted if your state were to implement a primary enforcement seat belt law.7
+Not drinking and driving prevents crashes
+Maintaining and enforcing minimum legal drinking age (MLDA) laws and zero tolerance laws for drivers under age 21 is recommended to help prevent drinking and driving among young drivers.8910
+Graduated Driver Licensing (GDL) systems reduce crash injuries and deaths
+Driving is a complex skill and must be practiced to do it well. Teenagers have a higher risk for crashes because they lack driving experience and because they often engage in risk-taking behaviors. The need for skill-building and driving supervision for new drivers is the basis for graduated driver licensing (GDL) systems.
+GDL systems enable new drivers to progressively gain driving experience and driving skills under lower risk conditions. The three stages of GDL include the following:
+Stage 1: Learner's permit
+Stage 2: Intermediate/provisional license
+Stage 3: Full licensure
+GDL systems exist in all U.S. states and the District of Columbia (D.C.), but the strength of GDL laws varies by state. GDL systems provide longer practice periods, limit driving under high-risk conditions for newly licensed drivers, and require greater participation from parents as their teens learn to drive. Research has consistently demonstrated that GDL systems are effective for reducing teen crashes and deaths.31112 For example, a meta-analysis including 14 different studies about GDL systems found that GDL systems are associated with reductions of about 19% for injury crashes and about 21% for fatal crashes for 16-year-olds.11
+Best practice GDL systems include the following components:13141516
+Stage 1: Learner's permit
+Minimum age of 16 to obtain a learner's permit
+A requirement to have a learner's permit for at least 12 months
+At least 70 supervised practice hours
+Stage 2: Intermediate/provisional license
+No teen or young adult passengers
+Restrictions on nighttime driving (from 9 or 10 pm until 5 am, or longer)
+Stage 3: Full licensure
+Minimum age of 18 to obtain a full license
+Current GDL research has explored how many teens delay getting a license, characteristics of teens who are more likely to wait, and whether teens who delay getting a license might be missing out on important benefits of GDL because they are aging out of the GDL systems in their states.12161718192021
+GDL Planning Guide
+CDC's GDL Planning Guide can assist states in assessing, developing, and implementing actionable plans to strengthen GDL practices.
+Cell phones and texting
+Some states also don't allow any type of cell phone use (including hands-free cell phone use) by teen drivers. Some of these requirements are built into GDL systems while others are based on age. As of November 2022, 36 states and D.C. have young driver cell phone use bans in effect.
+What parents can do
+Eight Danger Zones
+Make sure you and your young driver are aware of the leading causes of teen crashes and injuries:
+Driver inexperience
+Driving with teen or young adult passengers
+Nighttime driving
+Not using seat belts
+Distracted driving
+Drowsy driving
+Reckless driving
+Impaired driving
+There are proven methods to help teens become safer drivers. Learn what research has demonstrated that parents can do to keep teen drivers safe from these risks.
+Parents can help their teens be safer by knowing and following their state's GDL laws. Check out GDL laws by state on the Insurance Institute for Highway Safety's website to learn more about your state's GDL laws. Also, parents can set additional restrictions if the GDL laws in their state do not align with best practice.
+Monitoring, supervision, and involvement by parents can help keep teens safer on the road
+Parents can play an important role in keeping teens safe on the road. Some studies indicate that parental monitoring and involvement can help reduce risky driving behaviors and increase safe driving behaviors among teen drivers.3102223
+Research indicates that there are some potential technology solutions that can help parents monitor their teen driver.324252627 For example, several different studies have evaluated the effectiveness of in-vehicle electronic monitoring devices.324252627 These devices were beneficial for reducing unsafe driving behaviors among teens, particularly if they provided feedback about driving performance to both teens and parents and if they encouraged communication between teens and parents. Smartphone-based apps to monitor teen driver behavior may have the potential to be similarly beneficial and more affordable, but more research is needed.32728
+Parents can take other important actions beyond monitoring their teen's driving. For example, they can provide supervised driving practice for their teen under varied conditions. They can also set clear rules and expectations like always wearing a seat belt and not driving with any other teen or young adult passengers. Parents and teens can discuss and agree on safe driving practices by signing a Parent-Teen Driving Agreement.
+Choosing a vehicle with safety features is important
+Teens are typically more likely to drive older cars than adults.2930 Older cars may lack critical safety features that could help prevent a crash or keep teens safe if a crash occurs. Parents and teens should consider a car's safety features first and foremost when choosing a first car for a teen driver.
+The Insurance Institute for Highway Safety publishes a list of affordable vehicles that meet important safety criteria for teens. They also recently released a research paper explaining the benefits of newer vehicle technologies, like crash avoidance features and teen driver-specific technologies. These technologies have the potential to dramatically reduce teen crashes, injuries, and deaths.

@@ -1,0 +1,79 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Testing Algorithm for Blastomycosis
+URL: https://www.cdc.gov/blastomycosis/hcp/testing-algorithm/index.html
+────────────────────────────────────────────────────────────
+
+Community-Acquired Pneumonia
+For Health Care Providers
+Nov. 3, 2026
+What to know
+Blastomycosis is an invasive fungal disease that often presents as community-acquired pneumonia in primary and urgent care settings.
+Blastomycosis cannot be reliably distinguished from other causes of respiratory illness by signs or symptoms alone.
+Clinicians in urgent care and outpatient settings can use this algorithm to help make determinations about clinical testing.
+When to consider testing for blastomycosis
+Blastomycosis is an invasive fungal disease that often presents as community-acquired pneumonia in primary and urgent care settings. It is less common than coccidioidomycosis and histoplasmosis except in certain hyperendemic areas, such as northern Minnesota and Wisconsin. It is endemic in parts of the U.S. and the world.
+Blastomycosis cannot be reliably distinguished from other causes of respiratory illness by signs or symptoms alone. Thus, patients are commonly misdiagnosed and inappropriately treated with antibiotics—up to 2.5 courses of antibacterial medications are given on average before proper diagnosis.1.
+Consider testing patients with community-acquired pneumonia who:
+Live in or recently traveled to an endemic area (maps below) and
+Have not improved with at least one course of empiric antibiotics.
+Visual algorithm
+PDF version
+If a patient lives in or has recently traveled to a blastomycosis-endemic area and has:
+Approximate blastomycosis-endemic areas
+These areas include midwestern, south central, and southeastern states, especially:
+Around the Ohio and Mississippi River Valleys, Great Lakes, and Saint Lawrence River.
+Northern Wisconsin and Minnesota, where it may be hyperendemic.
+Keep Reading
+Clinical Overview of Blastomycosis
+Additional considerations
+Clinicians may also consider testing for blastomycosis on an initial presentation of community-acquired pneumonia with one of the following:
+Abnormal skin lesions
+Link to known blastomycosis outbreak
+How to test for blastomycosis
+Consider ordering an enzyme immunoassay (EIA) urine antigen test initially for blastomycosis diagnosis. EIA urine antigen tests may have the highest sensitivity of noninvasive tests and the quickest turnaround time. If the EIA urine antigen is negative, clinicians should consider alternative diagnoses. Alternatively, if a high degree of suspicion remains, additional diagnostic options include sputum or bronchoalveolar lavage (BAL) culture and microscopy as well as skin biopsies (if lesion exists) for microscopy. Evaluation of other non-pulmonary manifestations in the bone, genitourinary tract, and central nervous system may be helpful in diagnosis. Available serologic antibody tests are reported to have low sensitivity, though they may be a useful adjunct diagnostic test when an antigen test is negative or when trying to differentiate blastomycosis from histoplasmosis (e.g., if done in combination with Histoplasma antibody testing). Consultation with specialists in infectious diseases or pulmonology may be considered if a high degree of suspicion remains as well.
+Blastomyces antigen tests have extensive cross-reactivity with Histoplasma. Both infections are treated the same way in most clinical manifestations.
+Clinicians should refer to the Infectious Diseases Society of America's blastomycosis treatment guidelines or an infectious disease physician when determining therapy after a positive result.
+Tests for Blastomycosis
+Test
+Sensitivity
+Specificity
+Populations studied
+Antibody tests
+Complement fixation (CF) antibody
+9%–57%
+30%–100%
+Adult populations, outbreak settings
+Immunodiffusion (ID) antibody
+28%–65%
+100%
+Adult populations, outbreak settings
+Antigen Tests
+EIA urine antigen
+76%–93%
+High (but does cross-react with Histoplasma)
+Adult populations
+EIA serum antigen
+56%–82%
+High (but does cross-react with Histoplasma)
+Adult populations
+Other Tests
+Histopathology
+81%
+100%
+Adult populations
+Cytology
+38%–97%
+100%
+Adult populations, pregnancy
+Additional Resources
+Clinical Testing Guidance for Coccidioidomycosis, Histoplasmosis, and Blastomycosis in Patients With Community-Acquired Pneumonia for Primary and Urgent Care Providers | Clinical Infectious Diseases | Oxford Academic (oup.com)
+Webinar Thursday, September 21, 2023 – Algorithms for Diagnosing the Endemic Mycoses Blastomycosis, Coccidioidomycosis, and Histoplasmosis (cdc.gov)
+Three Cases of Community-Acquired Pneumonia (medscape.com)
+Nov. 3, 2026
+Sources and Page Info
+Print
+Share
+Facebook
+LinkedIn
+Twitter
+Syndicate

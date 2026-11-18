@@ -1,0 +1,34 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Preventing Liver Cancer Among Opioid Users in West Virginia
+URL: https://www.cdc.gov/liver-cancer/prevention/west-virginia.html
+────────────────────────────────────────────────────────────
+
+At a glance
+The West Virginia Department of Health and Human Resources’ Bureau for Public Health participated in a project to put promising or proven liver cancer prevention strategies into action.
+Background
+Liver cancer can be caused by long-term infections with hepatitis C virus (HCV) or hepatitis B virus (HBV). The opioid epidemic has increased the number of people who inject drugs. This may lead to an increased risk of HCV and HBV through use of shared equipment.1 These factors may contribute to the increase in liver cancer in the United States.2
+Although the risk of developing liver cancer is low, surviving liver cancer is very hard. For every 100,000 people, 8 new liver and intrahepatic bile duct cancer cases are reported, and 7 people die of these diseases. This is according to 2019 data from United States Cancer Statistics.3
+In 2019, West Virginia's rate of HBV was 4.2 per 100,000, among the highest in the United States.4 In 2015, the state reported nearly 5 times the national average of people with acute HCV—3.4 per 100,000 compared to 0.7 per 100,000 for the overall United States.5 West Virginia surveillance data from 2012 to 2015 showed that 25% to 40% of people with acute HCV reported injection drug use as a potential risk factor for their infection.6 West Virginia has also ranked highest in the country for drug overdose deaths each year from 2014 to 2020.7 In addition, the age-adjusted incidence rate for liver cancer in West Virginia from 2010 to 2014 was 6 per 100,000, and the death rate was 5.4 per 100,000.8
+Demonstration project overview
+The West Virginia Department of Health and Human Resources' Bureau for Public Health participated in a CDC demonstration project to put promising or proven liver cancer prevention strategies into action. The goal was to reduce the incidence of HBV and HCV infections and opioid overdose and decrease liver cancer rates among people who inject drugs.
+Strategies
+Provider education
+West Virginia partnered with the West Virginia Immunization Network to:
+Develop and conduct a webinar to educate health care and public health professionals about the connection between injection drug use, viral hepatitis, and liver cancer.
+Work with internal and external experts to develop and facilitate the webinar.
+Collect data to track participation of the number of people who registered for and participated in the webinar.
+Collect data to track changes in the knowledge, awareness, ability, and intent of participating providers to talk to their patients about HBV and HCV.
+Achievements
+Provider education
+178 providers clicked on the registration link, 80 registered, and 54 attended the live webinar.
+80 providers completed the pre-assessment and 39 of the 54 providers who attended the webinar completed the post-assessment to assess changes in knowledge, awareness, ability, and intent.
+Significant increases in knowledge, awareness, ability, and intent were seen from pre to post webinar (significance assessed at P<0.05).
+48 of the 80 registrants indicated plans to request continuing education units (CEUs), including 11 dentists, 34 nurses, 2 pharmacists, and 1 physician.
+Challenges
+Pivoting from in-person to virtual strategies due to the COVID-19 pandemic.
+Navigating restrictive legislative changes in the state related to harm reduction programs.
+Working internally and with partners to ease the burdens of staffing changes.
+Lessons learned
+Maintaining flexibility and being willing to modify plans when challenges arise is essential.
+Offering CEU credits and requiring completion of pre- and post-assessments to receive CEU credits likely increased participation in the webinar evaluation.
+When starting a new project, establishing contracts with partners in a timely fashion, especially during the COVID-19 pandemic, requires early and frequent engagement with contract staff.

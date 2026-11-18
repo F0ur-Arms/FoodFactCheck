@@ -1,0 +1,25 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: What is Advanced Molecular Detection (AMD)?
+URL: https://www.cdc.gov/advanced-molecular-detection/about/index.html
+────────────────────────────────────────────────────────────
+
+Key points
+Advanced molecular detection (AMD) integrates traditional epidemiology with next-generation sequencing and bioinformatics to provide detailed information on disease-causing organisms.
+AMD allows public health agencies across the United States to identify and solve outbreaks that, in the past, would not have been detectable.
+AMD is now central to the U.S. public health system's efforts to identify, track, and stop infectious disease.
+Background
+Epidemiologists use information gathered from field investigations and genomic data to identify and stop outbreaks.
+Laboratory Scientists use sequencing technologies to study pathogen genomes.
+Bioinformaticians use high performance computing to analyze epidemiologic and genomic data.
+Advanced molecular detection is important to public health
+Since 2014, CDC's AMD program has worked to integrate the latest genomic sequencing technology with bioinformatics and epidemiology expertise to improve public health. These tools and technologies help modernize disease-investigation techniques in the United States.
+Whole-genome sequencing provides detailed and timely genetic information about pathogens, which are microbes that cause illnesses. This vital information is used to solve disease outbreaks and predict drug resistance, which helps protect the public's health.
+Scientists use whole-genome sequencing to:
+Detect, investigate, monitor, and control pathogens
+Understand how people are exposed to pathogens
+Learn how pathogens are geographically distributed
+Help trace the source and transmission of outbreaks
+Learn about pathogen evolution such as the development of drug resistance
+Learn more about the technology
+Comparing DNA sequencing technology
+Detecting outbreaks with whole-genome sequencing

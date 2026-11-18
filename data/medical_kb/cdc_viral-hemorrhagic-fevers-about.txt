@@ -1,0 +1,155 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: About Viral Hemorrhagic Fevers
+URL: https://www.cdc.gov/viral-hemorrhagic-fevers/about/index.html
+────────────────────────────────────────────────────────────
+
+Apr. 15, 2024
+At a glance
+Viral hemorrhagic fevers (VHFs) are a group of diseases that are caused by several distinct families of viruses.
+The term "viral hemorrhagic fever" refers to a condition where many of the body's organ systems are affected, the overall cardiovascular system is damaged, and the body's ability to function on its own is reduced.
+In addition to VHFs, there are serious infectious diseases like Nipah and Hendra diseases that also require a specialized laboratory, are highly pathogenic, and have no, or limited, vaccine or treatment currently available.
+VHFs, Nipah and Hendra disease can cause relatively mild illness or more life-threatening disease. Symptoms can vary but may include bleeding or hemorrhaging. Distribution of these viruses is determined by where the animals that naturally carry them live.
+Types
+Most VHFs fall into one of four families of virus:
+Arenaviruses
+Each arenavirus has one or a few closely related rodents that carry the virus without getting sick themselves. This is known as the reservoir, or source of the virus in nature. The reservoir can spread the virus to people through infected urine, saliva, or droppings, and can cause severe disease in people.
+People are infected with arenaviruses by:
+Touching with rodent urine, droppings, or nesting materials from an infected rodent
+Breathing in air contaminated by rodent urine, droppings or nesting materials.
+Being bitten or scratched by an infected rodent.
+Eating food contaminated by urine, droppings, or saliva from an infected rodent.
+Contact with another person who has certain arenaviruses, such as Chapare, Lassa, Machupo, and Lujo viruses.
+Bunyavirales order
+Viruses in the Bunyavirales order are spread by rodents or insects, such as mosquitos, ticks, or sand flies. They can produce mild to severe disease in animals and people. Many of these viruses cannot spread between people. However, person-to-person spread of Crimean-Congo hemorrhagic fever has occurred in healthcare settings where infection control was limited.
+Filoviruses
+Filoviruses can cause severe illness in people and nonhuman primates (such as monkeys and gorillas). The Egyptian rousette bat, Rousettus aegyptiacus, is a cave-dwelling bat, and the reservoir for Marburg virus. Bats infected with orthomarburgviruses do not show obvious signs of illness. It's not known what animal carries ebolaviruses in nature but scientists suspect that bats are likely involved. Once filoviruses are introduced into the human population, they can spread between people through contact with an infected person's body fluids. Caretakers and healthcare providers who do not use appropriate personal protective equipment (PPE) are at higher risk of infection.
+Flaviviruses
+Flaviviruses, are found throughout the world. These viruses, which are primarily spread by mosquitoes and ticks, can cause mild to severe disease or even death. They can also cause disease in animals, creating a large economic and social impact on people living in affected areas.
+Paramyxoviruses
+Paramyxoviruses can cause sudden onset of respiratory disease. While there are many viruses included within the Paramyxoviridae family, Hendra and Nipah viruses are considered more serious because they require a specialized lab (biosafety level 4 lab) and can cause serious disease, spread between animals and people , and have no vaccine or treatment currently available.
+Virus family
+Virus name
+How long it takes for symptoms to start
+Where it’s found
+Animal or insect that spreads it
+Filovirus
+Ebola virus
+(EBOV)
+2-21 days
+The Democratic Republic of the Congo, Gabon, Guinea, Republic of the Congo
+Likely bats, (species unknown)
+Filovirus
+Sudan virus
+(SUDV)
+2-21 days
+South Sudan, Uganda
+Filovirus
+Bundibugyo virus
+(BDBV)
+2-21 days
+The Democratic Republic of the Congo, Uganda
+Filovirus
+Taï Forest virus
+(TAFV)
+2-21 days
+Cote D’Ivoire
+Filovirus
+Marburg virus
+(MARV)
+2-21 days
+Angola, The Democratic Republic of the Congo, Equatorial Guinea, Ghana, Guinea, Kenya, Tanzania, Uganda, Zimbabwe
+Egyptian fruit bat (Rousettus aegyptiacus)
+Filovirus
+Ravn virus
+(RAVN)
+2-21 days
+The Democratic Republic of the Congo, Kenya, Uganda
+Egyptian fruit bat (Rousettus aegyptiacus)
+Arenavirus (order Bunyavirales)
+Lassa fever virus
+2-21 days
+Benin, Burkina Faso, Cote D’Ivoire, Ghana, Guinea, Liberia, Mali, Nigeria, Sierra Leone, Togo
+Multimammate rat (Mastomys natalensis)
+Arenavirus (order Bunyavirales)
+Lujo virus
+7-13 days
+Zambia
+Unknown, likely rodents
+Arenavirus (order Bunyavirales)
+Junin virus
+6-14 days
+Argentina
+Drylands vesper mouse (Calomys musculinus)
+Arenavirus (order Bunyavirales)
+Chapare virus
+4-21 days
+Bolivia
+Small-eared pygmy rice rats (Oligoryzomys microtis)
+Arenavirus (order Bunyavirales)
+Sabia virus
+6-21 days
+Brazil
+Unknown, likely rodents
+Arenavirus (order Bunyavirales)
+Machupo virus
+3-16 days
+Bolivia
+Large vesper mouse (Calomys callosus)
+Arenavirus (order Bunyavirales)
+Guanarito virus
+3-19 days
+Venezuela
+Short-tailed Cane mouse (Zygodontomys brevicauda)
+Hantavirus (Bunyavirales)
+Hantaviruses
+1-8 weeks
+Old World hantaviruses: Europe and Asia; New World hantaviruses: North, Central, and South America
+Each hantavirus serotype has a specific rodent host species
+Nairovirus (order Bunyavirales)
+Crimean-Congo Hemorrhagic Fever virus
+1-14 days
+Eastern and southern Europe, Central Asia, all of Africa, Middle East
+Ixodid (hard) ticks
+Phenuvirus (Bunyavirales)
+Rift Valley Fever virus
+2-6 days
+Eastern and southern Africa
+Mosquitos
+Flavivirus
+Alkhurma hemorrhagic fever virus
+2-4 days
+Saudi Arabia and Egypt
+Soft ticks (Ornithodoros savignyi) and hard ticks (Hyalomma dromedary)
+Flavivirus
+Kyasanur Forest Disease virus
+3-8 days
+Karnataka State, India
+Hard ticks (Hemaphysalis spinigera)
+Flavivirus
+Omsk Hemorrhagic Fever virus
+3-8 days
+Western Siberia regions of Omsk, Novosibirsk, Kurgan and Tyumen
+Ticks (Dermacentor reticulatus, Dermacentor marginatus, Ixodes persulcatus)
+Flavivirus
+Severe Dengue virus
+5-7 days
+Africa, the Americas, South and Southeast Asia, Western Pacific region
+Mosquitos (Aedes aegypti or Aedes. albopictus)
+Flavivirus
+Yellow Fever virus
+3-6 days
+Tropical and subtropical areas of Africa and South America
+Mosquitos (aedes aegypti)
+Paramyxoviruses
+Hendra virus
+9-16 days
+Australia
+Flying fox bat (genus Pteropus)
+Paramyxoviruses
+Nipah virus
+5-14 days
+Bangladesh, India
+Flying fox bat (genus Pteropus)
+Prevention
+Prevention of VHFs and other HCIDs depends on the host reservoir and how the virus spreads. Prevention measures can target reservoir exclusion activities (for example, use of insect repellents, bed nets, and protective clothing and disinfection procedures while caring for a sick person) or by sealing up and setting traps in homes and other buildings when a rodent infestation is discovered.
+Apr. 15, 2024

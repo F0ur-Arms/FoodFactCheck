@@ -1,0 +1,15 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: About Swine/Variant Flu
+URL: https://www.cdc.gov/swine-flu/about/index.html
+────────────────────────────────────────────────────────────
+
+What to know
+Swine influenza is a respiratory disease of pigs caused by type A influenza viruses that regularly cause outbreaks of influenza in pigs.
+Influenza viruses that commonly circulate in swine are called “swine influenza viruses” or “swine flu viruses.”
+Like human influenza viruses, there are different subtypes and strains of swine influenza viruses.
+The main swine influenza viruses circulating in U.S. pigs in recent years have been, swine triple reassortant (tr) H1N1 influenza virus, trH3N2 virus, and trH1N2 virus.
+Overview
+Swine flu viruses do not normally infect humans. However, sporadic human infections with influenza viruses that normally circulate in swine and not people have occurred. When this happens, these viruses are called "variant viruses." They also can be denoted by adding the letter "v" to the end of the virus subtype designation. Human infections with H1N1v, H3N2v and H1N2v viruses have been detected in the United States.
+Case Counts‎
+CDC data on the most current case counts for variant flu virus infections in humans reported in the United States.
+Learn More about Case Counts

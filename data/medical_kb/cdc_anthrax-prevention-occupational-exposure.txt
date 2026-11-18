@@ -1,0 +1,56 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: People at Increased Risk for Anthrax
+URL: https://www.cdc.gov/anthrax/prevention/occupational-exposure.html
+────────────────────────────────────────────────────────────
+
+Feb. 4, 2026
+What to know
+Some jobs and activities put people at higher risk of exposure to anthrax.
+If you have one of these jobs, take steps to protect yourself from exposure.
+If you are exposed to anthrax, seek medical care immediately.
+Vaccine and antibiotics taken right after exposure can help prevent anthrax and protect against severe illness.
+What increases anthrax risk
+Anthrax is rare, and most people will never be exposed to it.
+However, there are jobs and activities that can put some people at greater risk of exposure than others. These jobs and activities include:
+Working in a laboratory that handles anthrax
+Working with animals or handling animal products (such as veterinarians, farmers, livestock producers)
+Traveling in certain parts of the world
+People can also be exposed to anthrax during a bioterrorism event, especially if they're handling mail, working for the military, or supporting emergency response activities. Learn more about what to do if you are exposed to anthrax in a bioterrorism event.
+Keep Reading
+How to Prevent Anthrax after a Bioterrorism Event
+Risk factors
+Laboratory professionals
+Laboratory workers who handle anthrax should follow proper standard laboratory safety precautions to avoid exposure to the bacteria that cause anthrax.
+Keep Reading
+Biosafety in Microbiological and Biomedical Laboratories (BMBL) 6th Edition
+People who handle animal products
+Although it's rare, people can get anthrax after having contact with infected animals or their products, such as wool, hides, or hair.
+You can't tell by looking at a hide if it is contaminated with anthrax spores. If you work with them, be sure to use hides from animals from the United States or animals that were imported with an international veterinary certificate. This certificate shows that they have undergone appropriate government inspection.
+If you work with animals or handle animal products that may have come from an area where anthrax regularly occurs, these precautions can reduce your risk of exposure to anthrax:
+Work in a well-ventilated workspace.
+Use appropriate personal protective equipment (PPE), including properly fitted face mask or respirator (N-95), eye protection, and protective gloves.
+Wash your hands regularly and thoroughly with soap and warm water.
+Do not put your fingers in your eyes, nose, or mouth.
+Wear a designated pair of work shoes.
+Cover all exposed skin with clothing.
+Remove and wash your clothes (with regular detergent) onsite.
+Maintain a clean workspace.
+Clean the workspace with a high-efficiency particulate air vacuum.
+Do not vigorously shake or beat animal hides.
+Mail handlers, military personnel, and response workers
+Certain workers could be exposed to anthrax in the event of a bioterrorist attack, either during the attack or when responding to the emergency. Workers who could be at risk include mail handlers (if spores are sent through the mail), law enforcement personnel, healthcare workers, decontamination workers, and critical infrastructure workers.
+Recommendations for protecting workers are available from CDC's Anthrax Worker Safety page. This guidance covers the use of respirators, protective clothing, and the anthrax vaccine.
+Travelers
+Anthrax can be found naturally in soil and commonly affects domestic and wild animals around the world, but it is most common in agricultural regions of Central and South America, Sub-Saharan Africa, Central and southwestern Asia, Southern and eastern Europe, and the Caribbean. If you are visiting these areas, do not eat raw or undercooked meat and avoid contact with livestock, animal products, and animal carcasses. Be mindful about the souvenirs you bring home as well.
+Vaccination against anthrax is not recommended for travelers and is not available for civilian travelers.
+International travelers should be aware of regulations concerning and restrictions against the importation of prohibited animal products, trophies, and souvenirs. Learn more in CDC's Yellow Book on the Travelers' Health website.
+Did you know?
+Welder's anthrax is a newly identified, rare anthrax-like disease that has been found in people who are welders or metalworkers. This disease causes severe pneumonia and can be fatal. Welders should use personal protective equipment (PPE) like coveralls and work boots in the workplace to prevent their skin and clothing from being contaminated and taking contaminants home. Other measures may be needed if PPE isn't enough to help keep workers safe.
+About welder's anthrax
+Pre- and post-exposure prophylaxis
+Anthrax vaccine
+Sometimes anthrax vaccine is recommended for people who are at higher risk of exposure to anthrax or may have been exposed to anthrax. Anthrax Vaccine Adsorbed (AVA) does not have anthrax bacteria in the vaccine, and it cannot give people anthrax. The Food and Drug Administration (FDA) has approved the vaccine for routine occupational use before exposure and for emergency use after a possible exposure.
+Anthrax vaccine is approved by the Food and Drug Administration (FDA) and recommended for adults 18 through 65 years of age who are at risk of exposure to anthrax bacteria. These people should get 3 doses of anthrax vaccine, followed by booster doses for ongoing protection.
+Anthrax vaccine is also recommended for unvaccinated people of all ages who have been exposed to anthrax. These people should get 3 doses of anthrax vaccine together with recommended antibiotic drugs.
+Keep Reading
+Prevention

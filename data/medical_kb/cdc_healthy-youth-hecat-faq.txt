@@ -1,0 +1,107 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: FAQ: Conducting a HECAT Curriculum Review
+URL: https://www.cdc.gov/healthy-youth/hecat/faq.html
+────────────────────────────────────────────────────────────
+
+At a glance
+The Health Education Curriculum Analysis Tool (HECAT) can be used to conduct curriculum reviews.
+Become familiar with HECAT contents and how it can meet your curriculum analysis, development, or selection needs.
+Review Chapter 1 for essential background information and instructions to conduct a health education curriculum review.
+Overview
+The Health Education Curriculum Analysis Tool (HECAT) was developed in response to requests from state education agencies and local school districts. They expressed need for a tool to help them select or develop appropriate health education curriculum. CDC recognizes that high-quality health education also includes:
+A documented, planned, and sequential program of health instruction for students from pre-K through grade 12.
+Adequate time devoted to health education.
+Appropriately certified health education teachers, and professional development, to improve education delivery.
+Safe and inclusive health education learning environments.
+Administrative, parent, and community support for school health education.
+Conducting a HECAT curriculum review
+No. A health education curriculum review team, working together, should complete the HECAT—an individual should not do it alone. This process may be conducted in person or using HECAT Online, which is designed for online curriculum review teams.
+Yes. Some chapters and sections can be completed by one person, who then provides information to other review committee members. Take, for example, Chapter 2, General Curriculum Information. This captures information needed to understand and review any health education curriculum and to make a final curriculum selection. One person who is very familiar with the curriculum, usually the curriculum coordinator, can complete this. The individual then provides the results to other review committee members.
+It is not advisable, however, for one person to review HECAT sections that would benefit from multiple perspectives and expertise. For example, acceptability of a curriculum typically varies within a community. It is critical that multiple reviewers complete the Acceptability Analysis together. This ensures that the Acceptability Score reflects diverse community perspectives, rather than one person's point of view.
+No. The health education curriculum review team also should include parents, youth, and other people from the community at large. A suggested list of team members is found in Chapter 1: General Instructions. All curriculum review team members should have an interest in addressing the health and learning needs, priorities, and interests of the students in the school district or school.
+No. But it is important that the most knowledgeable person(s) complete each section of the HECAT. The curriculum review team must have a broad range of expertise. And each team member should review only the HECAT components for which they are most qualified.
+For example, parents/caregivers are invaluable in completing the Acceptability Analysis and, perhaps, less able to review the Skill Application. Chapter 1 in the HECAT provides a list of the persons who:
+Might be appropriate to serve on the curriculum review team.
+Have the expertise needed to complete some or all of the HECAT.
+All team members, however, should receive the results of the entire HECAT analysis before making curriculum recommendations. Chapter 1 of the HECAT provides guidance for using the HECAT results to make curriculum recommendations.
+It is important to select review team members who have the necessary expertise to complete the HECAT. Chapter 1 has a list of persons to be considered on your review team for completing specific parts of the HECAT. For the Accuracy Analysis, for example, use persons who have:
+Research expertise—such as a university researcher.
+Scientific expertise in the content area under review—such as a dietician for the topic "healthy eating."
+Expertise in instructional delivery—such as a certified health educator or curriculum director.
+Identify these experts before starting the curriculum review. If desired, you can limit their assignments to cover only the parts of the HECAT for which they have expertise.
+No. It is often helpful to talk with the curriculum developers to thoroughly complete Chapter 2: General Curriculum Information. You might also want to invite them to showcase their curricular materials before you begin your review. (They might share scope and sequence, and charts showing alignment with the National Health Education Standards.) However, curriculum developers should not be included in the analysis or scoring process. And they should not be allowed to unduly influence review members' analyses. Most developers of commercially packaged curricula have a primary interest in marketing their products.
+It is not necessary, but all categories and items can be useful for selecting or developing a curriculum. You can determine which items in the HECAT are useful and important to include in your curriculum analysis—and in the selection or development process. You also can determine how you want to use the HECAT items in your review process.
+For example, to make initial decisions and shorten the list of curricula to be seriously considered, some curriculum review teams have used:
+Chapter 2: General Curriculum Information to collect general descriptive information about the curriculum.
+Chapter 4: Preliminary Curriculum Considerations to determine curriculum accuracy, acceptability, feasibility, and affordability.
+Chapter 5: Curriculum Fundamentals to appraise learning objectives, culturally responsive and inclusive approaches, teacher materials, curriculum design, and instructional strategies and materials. Chapter 5 is also useful to look at promotion of norms and skills that support health-enhancing behaviors.
+Use the remainder of the HECAT to review the curricula under serious consideration by the review team. For instance, Chapter 6: Overview of Modules, can be used to appraise specific health-topic curricula.
+Pilot reviews of individual topic curricula, using the HECAT, have taken from 4 to 16 hours per curriculum. No pilot reviews have been done to determine time needed to review a comprehensive health education curriculum. The time required for any curriculum review will depend on several factors, including:
+Which sections of the HECAT you decide to use for curriculum analysis.
+Each reviewer's understanding of health education and relevant health topics.
+Each reviewer's familiarity with the HECAT.
+Each reviewer's familiarity with the curriculum being reviewed.
+The breadth and scope of the curriculum under review. For example, a multi-grade curriculum will require more time than a single-grade curriculum. And a comprehensive curriculum will require more time than a single-topic curriculum.
+The amount of curriculum materials. For example, a multiple-part curriculum with videos, workbooks, and teachers' guides requires more time than a single-package curriculum with no extra materials.
+The orderliness of a curriculum. For example, more time is needed for a curriculum that is disorganized, fragmented, or incomplete than for a well-organized curriculum.
+The extent to which curriculum materials are easily available for all reviewers. For example, the process will take longer if the reviewers have to share the curriculum materials than if they each have their own complete package of materials.
+Single topic versus comprehensive curriculum. Analyzing a comprehensive health education (CHE) curriculum, using HECAT's CHE module, requires significant time and attention. There are more knowledge and skill expectations to be analyzed in a comprehensive curriculum than in a single-topic curriculum. A CHE requires deeper analysis of multiple topics compared to a single-topic curriculum. It also requires greater breadth of analysis across topics and grade groups—not necessary in the analysis of a single-topic curriculum.
+The HECAT requires enough time to prepare for and complete the analysis. Typically, a curriculum review will not be completed in one session. Separate sessions might be needed to:
+Prepare your team to use the HECAT.
+Determine local performance benchmarks.
+Shorten the list of curricula that might be acceptable for complete analysis.
+Conduct the complete analysis on the remaining curricula.
+Also, allow time for your team to review curriculum analysis scores and agree on curriculum recommendations. Chapter 1 of the HECAT has guidance for coordinating and organizing your curriculum review. That chapter also helps you determine the time you need to complete your curriculum review and selection process.
+No. The HECAT provides evidence-informed knowledge and skill expectations deemed appropriate across grade groups (pre-K–2; 3–5; 6–8; 9–12). It does not identify the individual grade level at which knowledge and skill expectation might be most appropriate. Curriculum priorities and requirements for health education topics—including the grades at which specific concepts and skills should be addressed—are decided by:
+State boards of education.
+Local school boards.
+School district administrators.
+Curriculum coordinators.
+Advisory committees.
+The HECAT can inform priorities and decisions about grade-level requirements. However, the HECAT is most useful in determining:
+Which commercially packaged curriculum best aligns with established requirements.
+What should be included in a locally developed curriculum to better meet these requirements.
+You can rearrange the HECAT knowledge and skill expectations if their current placement does not match your local requirements.
+No. The HECAT does not assess research findings related to a particular curriculum's effectiveness. Instead, it measures the extent to which a curriculum includes effective practices.
+The HECAT is based on CDC's Characteristics of an Effective Health Education Curriculum and incorporates standards for health education. The HECAT does have questions asking whether the curriculum under review is on federal lists or registries identifying evidence-based interventions or effective curricula.
+Various federal agencies have identified several child and adolescent health education and promotion programs considered worthy of recommendation, based on research evidence and review. This information should augment, not replace, using the HECAT to determine the best health education curriculum for your school and community.
+Yes. However, you should follow your own thorough process to develop your health education framework and scope and sequence. These should reflect the health and learning needs of students and interests and priorities of the school and community. The HECAT provides valuable information to help you develop a scope and sequence. The HECAT does the following:
+Aligns with standards for health education.
+Identifies expected healthy behavior outcomes (HBOs) for topic-specific or comprehensive health education curricula.
+Describes the essential knowledge and skill expectations for students across different health topics and grade spans.
+This information can help support the development of a health education framework and scope and sequence. You can find more information about using the HECAT to design a health education scope and sequence in Appendix 5.
+A textbook is not typically considered a complete health education curriculum. The HECAT is designed to analyze an entire curriculum, including all the resources, such as textbooks. CDC does not recommend using the HECAT to analyze a single resource, like a textbook, independently of the curriculum. To attempt to do so will require a more extensive review than would normally be needed for a single resource.
+We recognize that schools and school districts might use a separate review process to select a textbook as part of a curriculum. The HECAT can help you consider what to include in a separate textbook review process. Appendix 2 offers guidance on how the HECAT can be useful in reviewing health education resources, like a textbook.
+The HECAT is designed to support analysis of many health education curricula. Some curricula might focus on health behaviors or outcomes related to a single topic (such as violence prevention). And some curricula address a comprehensive set of health outcomes behaviors across multiple health topic areas. You can choose the module(s) that best matches your needs and the focus of the curriculum under review.
+A curriculum may clearly focus on a single topic, such as violence prevention. In this case, use the module that addresses that topic.
+A curriculum may intentionally focus on outcomes related to two or three topics. Examples may be: only nutrition and physical activity; or only mental and emotional health, sexual health, and violence prevention. In these situations, use the two or three topic-specific modules that address these topics.
+A curriculum may address numerous health problems, issues, or topics. It may focus on more than one grade level. It may include a wide range of learning activities to address multiple health behaviors or outcomes. In these situations, use the comprehensive health education (CHE) curriculum module.
+The CHE module includes the knowledge and skill expectations found in each of the health topic modules (Chapter 6). The CHE enables you to analyze knowledge and skill expectations across topic areas. The CHE also allows you to score these as an integrated whole rather than merely several individual topics.
+Yes. CDC recognizes that school curricula are typically chosen at the local level. The curricula must also meet local school and community needs and conform to state or school district requirements. You are encouraged to review the HECAT items before analyzing curricula. If necessary, you can add, delete, or revise items to meet local needs and curriculum requirements. You can also shorten the HECAT.
+Ultimately, the HECAT's length and content should reflect what you want to analyze. In making revisions, remember that:
+The items in the HECAT were developed through a rigorous process guided by research evidence and expert opinion.
+The HECAT focuses on the types of information and learning experiences that help young people adopt and maintain health-enhancing behaviors.
+Revisions that significantly change the content or length of the HECAT could limit the HECAT's value to your curriculum analysis, selection, or development process.
+CDC's HECAT Online is an interactive website that allows users to customize the HECAT to meet local needs and curriculum requirements.
+The HECAT's topics reflect health issues CDC considers important for improving children and adolescent health and well-being. These topics may not match those used by other organizations or curriculum developers. Topic terminology may not match the terminology used in your state, school district, or school. Review the HECAT to find health topic modules that most complement your curriculum requirements and terminology. You can change the terminology and content of the modules to best meet your needs.
+You might do not find a match in a single module. In these situations you might select items from multiple modules and design a new HECAT topic module to meet your needs.
+There are many possible resources to help you with health education planning. First, contact the school health education consultant or coordinated school health program director in your state education or state health agency. If these experts cannot help you directly, they can refer you to state resource centers and other experts, including:
+Instructional staff from local or state university health education teacher preparation programs.
+Regional or state-based professional health education organizations.
+Knowledgeable health educators in other school districts.
+Reputable consultants with expertise in health education curriculum and instruction.
+Many school health educators are members of national professional associations that represent school health educators, including
+American School Health Association.
+Society for Public Health Education.
+Society of State Leaders of Health and Physical Education.
+SHAPE America.
+The national officers in these organizations can help answer questions or link you to other members who can offer more direct assistance. You can direct your questions about health education or HECAT to CDC at this email address: HECAT@cdc.gov. Or you can call 1-800-CDC-INFO. CDC-funded recipients can contact their Program Consultant to discuss how to best use the HECAT.
+CDC provides support for HECAT trainings through a series of instructional videos on core training tools, including HECAT. Find more information on e-learning videos.
+No. CDC conducted pilot reviews of a limited number of commercial curricula. The purpose was to: look for improvements; and determine reliability of the HECAT analysis, and analysis processes. No curriculum names were documented, and scores were not retained after improvements were made to the HECAT.
+CDC does not do the following:
+Conduct systematic reviews of curricula using the HECAT.
+Retain or disseminate HECAT curriculum scores from others.
+Endorse HECAT-based curriculum analysis scores distributed by other organizations or companies.
+Using curriculum analysis results
+Yes, you may save your responses and return to complete the HECAT later. HECAT Online does not need to be completed all at one time.
+No. CDC does not ask that schools report their scores. The HECAT is a self-assessment process. Its data are not meant to be reported to outside agencies or used for the purposes of comparison.

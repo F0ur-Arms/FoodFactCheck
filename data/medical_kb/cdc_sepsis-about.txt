@@ -1,0 +1,84 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: About Sepsis
+URL: https://www.cdc.gov/sepsis/about/index.html
+────────────────────────────────────────────────────────────
+
+For Everyone
+Aug. 17, 2026
+Español
+Key points
+Sepsis is the body's extreme response to an infection. It is a life-threatening medical emergency.
+Anyone can get an infection, and almost any infection can lead to sepsis.
+What is sepsis?
+Sepsis is the body's extreme response to an infection. It is a life-threatening medical emergency. Sepsis happens when an infection you already have triggers a chain reaction throughout your body.
+Infections that lead to sepsis most often start in the
+Gastrointestinal tract
+Lung
+Skin or
+Urinary tract.
+Without fast treatment, sepsis can quickly lead to tissue damage, organ failure, and death.
+Get email updates
+Sign up for our email newsletter below.
+Signs and symptoms
+A person with sepsis might have one or more of the following signs or symptoms:
+Clammy or sweaty skin
+Confusion or disorientation
+Extreme pain or discomfort
+Fever, shivering or feeling very cold
+High heart rate or weak pulse
+Shortness of breath.
+At-risk populations
+Anyone can develop sepsis, but some people are at higher risk for sepsis. Most people who develop sepsis have at least one underlying medical condition or recent hospitalization.
+Keep Reading
+Risk Factors for Sepsis
+Causes
+Infections put you and your family at risk for sepsis. When germs get into a person's body, they can cause an infection. If that infection doesn't stop, it can cause sepsis.
+Bacterial infections cause most cases of sepsis. Sepsis can also be a result of other infections, including viral infections, such as influenza. Fungal infections can also cause sepsis.
+Reducing risk
+You can take specific steps to reduce your risk of sepsis such as:
+Preventing infection
+Practicing good hygiene
+Knowing the signs and symptoms
+Acting fast
+If you have cancer, there are additional ways to reduce your risk of infection.
+Keep Reading
+Preventing Infections That Can Lead to Sepsis
+Quick facts
+Fact
+Each year, about 1.7 million adults and more than 18,000 children in the U.S. develop sepsis.12
+At least 1 in 5 adults and 1 in 10 children who develop sepsis die during hospitalization or are discharged to hospice.12
+At least 350,000 adults and more than 1,800 children who develop sepsis die during their hospitalization or are discharged to hospice.12
+Most cases of sepsis start before a patient goes to the hospital.34
+Most people who develop sepsis have at least one existing medical condition like chronic lung disease or a weakened immune system.34
+Nearly a quarter to a third of people with sepsis had a healthcare visit in the week before they were hospitalized.34
+Diagnosis
+Sepsis is diagnosed through a medical assessment performed by a healthcare provider.
+They diagnose sepsis using physical findings, such as:
+Fever
+Increased heart rate
+Low blood pressure
+Trouble breathing
+Healthcare providers also perform tests that check for signs of infection or organ damage. Some of these tests are used to identify the germ that caused the infection that led to sepsis. This testing might include blood cultures looking for bacterial infections, fungal infections, or tests for viral infections, like influenza.
+Healthcare providers should immediately evaluate and treat people who might have sepsis.
+Treatment
+Research shows that rapid, effective sepsis treatment includes:
+Giving appropriate treatment, including antibiotics, as soon as possible
+Maintaining blood flow to organs
+Sometimes surgery is required to remove tissue damaged by the infection.
+Healthcare providers should treat sepsis as soon as possible.
+What to know about antibiotics
+Antimicrobial resistance
+Antibiotics are critical tools for treating infections, including those that can lead to sepsis. However, anytime antibiotics are used, they can cause side effects and contribute to the development of antimicrobial resistance. Antimicrobial resistance happens when germs, like bacteria and fungi, develop the ability to defeat the drugs designed to kill them. Infections caused by antimicrobial-resistant germs can be difficult, or impossible to treat.
+Side effects
+Antibiotic side effects range from minor, such as rash, dizziness, nausea, diarrhea and yeast infections, to very severe health problems, such as life-threatening allergic reactions or C. difficile (also called C. diff) infection, which causes diarrhea that can lead to colon damage or death. However, when antibiotics are needed, the benefits outweigh the risks of side effects or antimicrobial resistance.
+Antibiotic stewardship
+Antibiotic stewardship is the effort to improve antibiotic use so that antibiotics are prescribed and used when they provide a clear benefit. Improving the way healthcare providers prescribe antibiotics and the way we take antibiotics helps keep us healthy, fights antimicrobial resistance, and ensures that these life-saving drugs will work when they are needed most, such as for treating infections that can lead to sepsis.
+For Health Care Providers
+Caring for Patients with Sepsis
+What CDC is doing
+Conducting research to understand the epidemiology of sepsis.123
+Creating tools for hospitals, such as the Hospital Sepsis Program Core Elements, to implement, monitor and optimize sepsis programs to improve survival rates of sepsis patients, and measuring their uptake through the National Healthcare Safety Network.
+Developing new quality measures that promote optimal care of patients with sepsis.
+Collaborating with partners, including the CDC Prevention Epicenters, health systems, and other Federal agencies, to integrate sepsis information into their work, helping improve early detection, management, and treatment of sepsis.
+Expanding tools to raise awareness of the risk of sepsis and promote early recognition and timely treatment of sepsis in various settings through the Get Ahead of Sepsis educational effort and appropriate antibiotic prescribing and use.
+Working with partners to prevent infections that can lead to sepsis in healthcare and community settings.

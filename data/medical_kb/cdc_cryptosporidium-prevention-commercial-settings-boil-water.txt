@@ -1,0 +1,52 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Preventing Crypto in Commercial Settings During a Boil Water Advisory
+URL: https://www.cdc.gov/cryptosporidium/prevention/commercial-settings-boil-water.html
+────────────────────────────────────────────────────────────
+
+For Everyone
+Nov. 5, 2026
+Key points
+This information is to help prevent infections of the parasite Cryptosporidium, Crypto for short, in commercial, childcare, and food service settings when a boil water advisory is issued.
+By following certain recommendations, people in charge of these types of establishments can help keep the public safe from Crypto, which can cause watery diarrhea.
+Prevention tips
+General procedures
+To help prevent Crypto infections during a boil water advisory:
+Discontinue service of equipment with water line connections (for example, post-mix beverage machines, spray misters, auto-fill coffee/tea makers, instant hot water heaters, ice machines).
+Discard ice made prior to the boil water advisory issuance and discontinue making ice. Use commercially-manufactured ice.
+Do not serve or consume:
+Water that has not been disinfected
+Ice or drinks made with water that has not been disinfected
+Raw foods rinsed with water that has not been disinfected
+Drinking water
+For drinking water, use:
+Commercially bottled water
+Water that has been disinfected for Cryptosporidium by:
+Boiling at a rolling boil for 1 minute (boil for 3 minutes at altitudes greater than 6,562 feet, or greater than 2,000 meters)
+Distilling
+Water hauled from an approved public water supply in a covered sanitized container
+Water from a licensed drinking water hauler truck
+Important tip
+Although chemicals such as bleach are sometimes used for disinfecting small volumes of drinking water for household use, chemical disinfection is generally not recommended for commercial establishments because of the lack of onsite equipment for testing chemical residuals. Cryptosporidium is poorly inactivated by chlorine or iodine disinfection but can be removed from water by filtering through a reverse osmosis filter, an "absolute one micron" filter, or a filter certified to remove Cryptosporidium under NSF International Standard #53 or #58 for either "cyst removal" or "cyst reduction" (see About Choosing Home Water Filters for more information). However, unlike boiling or distilling, filtering will not eliminate other potential disease-causing microorganisms, such as bacteria and viruses.
+Cooking and food prep
+Discard any ready-to-eat food prepared with water prior to the discovery of the water contamination.
+Prepare/cook ready-to-eat food using the drinking water alternatives listed above or restrict the menu to items that do not require water.
+For equipment/utensils/tableware in cooking and food preparation:
+Use single service/use articles or clean and sanitize equipment, utensils, and tableware using the drinking water alternatives listed above. Follow the established procedures to wash, rinse, and sanitize.
+Cryptosporidium on equipment, utensils, and tableware may be disinfected using dishwashing machines that have a dry cycle or a final rinse that exceeds 113°F for 20 minutes or 122°F for 5 minutes or 162°F for 1 minute.
+Discontinue operations when inventories of clean equipment, utensils, and tableware are exhausted.
+Handwashing
+Important Tip
+Alcohol gels and hand sanitizers do not kill Cryptosporidium. Soap and disinfected water are specifically recommended for preventing cryptosporidiosis.
+To wash hands:
+Wet your hands with the drinking water alternatives listed above and apply soap.
+Lather your hands by rubbing them together with the soap. Be sure to lather the backs of your hands, between your fingers, and under your nails.
+Rinse your hands well under running water. If running water is not available, water may be poured on your hands by another person.
+Dry your hands using a clean towel or air dry them.
+When the boil water advisory is over
+Make sure equipment with water line connections (e.g., filters, post-mix beverage machines, spray misters, auto-fill coffee/tea makers, instant hot water heaters, ice machines, glass washers, dishwashers, etc.) is flushed, cleaned, and sanitized according to manufacturers' instructions.
+Change all point-of-entry and point-of-use water filters, including those associated with equipment that uses water.
+For managers of large buildings with water-holding reservoirs, consult facility engineer and health department about draining the reservoirs.
+Flush pipes and faucets. Run cold water faucets continuously for at least 5 minutes.
+Flush drinking fountains. Run water continuously for at least 5 minutes.
+Run water softeners through a regeneration cycle.
+Drain and refill hot water heaters set below 113°F.

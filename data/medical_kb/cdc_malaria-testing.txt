@@ -1,0 +1,35 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Testing for Malaria
+URL: https://www.cdc.gov/malaria/testing/index.html
+────────────────────────────────────────────────────────────
+
+For Everyone
+Key points
+Only a healthcare provider can diagnose malaria.
+A lab test will confirm malaria parasite infection using a small sample of your blood.
+Why get tested
+Malaria is a serious disease which can become severe if not treated quickly. Quick and accurate diagnosis of malaria is important to ensure treatment begins as soon as possible with the correct medications. Prompt treatment also helps to prevent further infection in the community by breaking the cycle of infection from infected persons via local mosquitoes. Delays in diagnosis and treatment is a leading cause of death in malaria patients in the United States.
+Only a lab test using a small sample of your blood can confirm a malaria diagnosis.
+When to get tested
+If you have traveled to an area in the last year where malaria spreads, you should get tested as soon as you experience symptoms of malaria.
+Types of tests
+There are a few diagnostic tests to confirm if you have malaria.
+Blood smear microscopy
+Blood smear microscopy test is where a small sample of blood is taken from a patient and sent to a laboratory to be examined under a microscope. It is the best way to confirm if a patient has malaria and to determine which species. Only a healthcare provider can order a microscopy test.
+Rapid diagnostic testing (RDTs)
+Malaria rapid diagnostic tests, or RDTs, are useful test options when reliable microscopic diagnosis is not readily available. Malaria RDTs detect very small pieces from malaria parasites.
+In the U.S., only a healthcare provider can order an RDT test. A small sample of blood from the patient is collected and applied to the test card's sample pad. RDTs are less sensitive than other lab tests. A blood smear microscopy test must always confirm both positive and negative RDT results in a patient with suspected malaria. Despite these limitations, RDTs can provide results in less than 15 minutes.
+PCR testing
+PCR tests, or polymerase chain reaction tests, are also available to detect malaria parasites. These tests are more sensitive than routine blood smear microscopy tests or RDTs, but the results take longer, making them less ideal for initial diagnosis and treatment. An advantage is that PCR tests can confirm the exact species of malaria parasite if microscopy testing is not able to do so. This helps guide which medicines to use to treat a patient with malaria.
+How to get tested
+See a healthcare provider immediately. They can conduct the most appropriate diagnostic test as soon as possible if they suspect malaria.
+Testing results
+If you test positive for malaria, your healthcare provider will start you on medication to treat the disease immediately. The medications prescribed will be based on the type of malaria you have.
+If you test negative for malaria, work with your healthcare provider to determine the cause of your symptoms.
+Sources and Page Info
+Print
+Share
+Facebook
+LinkedIn
+Twitter
+Syndicate

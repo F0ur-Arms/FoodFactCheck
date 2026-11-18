@@ -1,0 +1,39 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Home Pool and Hot Tub Water Treatment and Testing
+URL: https://www.cdc.gov/healthy-swimming/about/home-pool-and-hot-tub-water-treatment-and-testing.html
+────────────────────────────────────────────────────────────
+
+Español
+At a glance
+Chlorine and pH are the first defense against germs that can make swimmers sick.
+As a residential pool or hot tub owner, it is your responsibility to regularly check the chlorine concentration and pH of the water to help protect users from swimming-related illnesses.
+Overview
+The best way to kill germs is by properly maintaining the free chlorine concentration and pH. To do this, pool and hot tub owners must routinely test and adjust both the chlorine concentration and pH. Since a few germs can survive for long time periods in even well-maintained pools, it is also important for swimmers to follow the steps for preventing swimming-related illnesses.
+Facts
+Chlorine
+Chlorine is added to the water to kill germs, but it does not work right away. If used properly, chlorine can kill most germs within a few minutes. CDC recommends pH 7.0–7.8 and a chlorine concentration of at least 1 ppm in pools and at least 3 ppm in hot tubs.
+If using cyanuric acid, a chlorine stabilizer, or chlorine products with cyanuric acid (for example, products commonly known as dichlor or trichlor [see product label]), CDC recommends pH 7.0–7.8 and a chlorine concentration of at least 2 ppm in pools. CDC recommends not using cyanuric acid or chlorine products with cyanuric acid in hot tubs.
+The chlorine level in pool and hot tub water must be routinely tested, as many things can reduce its concentration. Things that reduce chlorine levels include pee, poop, sweat, and dirt from swimmers' bodies, as well as sunlight and hot tub jets that create droplets or mists from the water.
+pH
+Keeping the pH in the 7.0–7.8 range best balances killing germs to prevent swimming-related illness, the lifespan of the pipes, and swimmers' comfort.
+As pH goes up, the ability of chlorine to kill germs decreases, especially if pH is >8.0.
+As pH goes down, especially if pH is <7.0, the ability of chlorine to kill germs increases but pool and hot tub pipes are more likely to corrode or break down.
+How it works
+Chlorine kills most bacteria, such as E. coli 0157:H7, in less than a minute if its concentration and pH are maintained as CDC recommends. However, a few germs are moderately (Giardia, Hepatitis A) to very (Cryptosporidium) chlorine tolerant. The table below shows the approximate times it takes for chlorine to kill these germs.
+Timetable for chlorine to kill germs
+E. coli 0157:H7 (Bacterium)
+less than 1 minute
+Hepatitis A (Virus)
+approximately 16 minutes
+Giardia (Parasite)
+approximately 45 minutes
+Cryptosporidium (Parasite)
+approximately 15,300 minutes (10.6 days)
+Notes:
+Times based on 1 ppm free chlorine at pH 7.5 and 77°F (25°C).
+These disinfection times are only for pools and hot tubs that do not use cyanuric acid. Disinfection times are longer in the presence of cyanuric acid.
+Test the water
+Test the water at least twice a day
+Test chlorine concentration and pH at least twice per day, and more often when the pool or hot tub is being used by a number of people.
+For the most accurate testing results, pool and hot tub owners should use a DPD (DPD is short for N,N Diethyl-1,4 Phenylenediamine Sulfate) test kit to measure chlorine and pH. If the chlorine concentration of the water sampled from the pool or hot tub is more than 10 ppm, the test might partially or totally bleach out, resulting in a false low or 0 ppm chlorine result. Pool and hot tub owners can also use test strips; however, these are less accurate than the DPD test kit.
+Regardless of what test is used, owners should always follow the manufacturer's directions.

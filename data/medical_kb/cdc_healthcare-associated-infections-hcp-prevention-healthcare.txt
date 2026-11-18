@@ -1,0 +1,19 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: HAI Prevention and Control for Healthcare
+URL: https://www.cdc.gov/healthcare-associated-infections/hcp/prevention-healthcare/index.html
+────────────────────────────────────────────────────────────
+
+About these resources
+Healthcare-associated infections (HAI) are a threat to patient safety. CDC provides national leadership in surveillance, outbreak investigations, laboratory research, and prevention of healthcare-associated infections for healthcare facilities and workers.
+Links
+Basic Infection Control and Prevention Plan for Outpatient Oncology Settings
+A model for a basic infection control and prevention plan for outpatient oncology facilities.
+Oral Health in Healthcare Settings to Prevent Pneumonia Toolkit
+Provide safe oral care to hospitalized patients and avoid infection risk.
+Guide to Infection Prevention for Outpatient Settings: Minimum Expectations for Safe Care
+A helpful guide to the minimum expectations for safe care for outpatient settings.
+Download
+Guidelines and Guidance Library
+CDC's infection control guideline library
+Clinical Safety: Occupationally-acquired Infections and Healthcare Workers
+Preventing infections in healthcare providers protects the health and safety of personnel, patients...

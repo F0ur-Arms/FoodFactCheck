@@ -1,0 +1,81 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: About von Willebrand Disease
+URL: https://www.cdc.gov/von-willebrand/about/index.html
+────────────────────────────────────────────────────────────
+
+Español
+Key points
+Von Willebrand disease (VWD) is a blood disorder in which the blood does not clot properly.
+VWD is the most common bleeding disorder.
+Signs of VWD include nosebleeds, easy bruising, heavy menstrual bleeding, and longer than normal bleeding after injury, surgery, dental work, or childbirth.
+What it is
+Von Willebrand disease (VWD) is a blood disorder in which the blood does not clot properly. Blood contains many proteins that help the blood clot when needed. One of these proteins is called von Willebrand factor (VWF). People with VWD either have a low level of VWF in their blood or the VWF protein doesn't work the way it should.
+Normally, when a person is injured and starts to bleed, the VWF in the blood attaches to small blood cells called platelets. This helps the platelets stick together, like glue, to form a clot at the site of injury and stop the bleeding. When a person has VWD, because the VWF doesn't work the way it should, the clot might take longer to form or form incorrectly and bleeding might take longer to stop. This can lead to heavy, hard-to-stop bleeding. Although rare, the bleeding can be serious enough to damage joints or internal organs, or even be life-threatening.
+Who is affected?
+VWD is the most common bleeding disorder, found in up to 1% of the U.S. population. This means that 3.2 million (or about 1 in every 100) people in the United States have the disease. VWD occurs among men and women equally. Women are more likely to notice symptoms that affect them, such as heavy or abnormal bleeding during their menstrual periods and after childbirth. There are 3 major types of VWD: type 1, type 2, and type 3.
+Types
+Type 1
+This is the most common and mildest form of VWD, in which a person has lower-than-normal levels of VWF. A person with type 1 VWD also might have low levels of factor VIII (8), another type of blood-clotting protein. About 85% of people treated for VWD have type 1.
+Type 2
+With this type of VWD, although the body makes normal amounts of the VWF, the factor does not work the way it should. Type 2 is further broken down into four subtypes―2A, 2B, 2M, and 2N―depending on the specific problem with the person's VWF. Because the treatment is different for each type, it's important that a person know which subtype he or she has.
+In type 2A, the VWF is not the right size and doesn't help the platelets attach together in order to form a clot.
+In type 2B, the VWF attaches to platelets at the wrong time (when there is no injury). The body removes the platelets attached to VWF, causing a reduced amount of both platelets and VWF in the blood when needed to form a clot.
+In type 2M, the VWF does not attach to the platelets as it should, which decreases the platelets' ability to form a clot when an injury occurs.
+In type 2N, the VWF attaches to the platelets normally. However, the VWF does not attach to another protein, factor VIII (8), which is also needed for blood to clot. This causes the body to remove the factor VIII (8) protein.
+Type 3
+This is the most severe form of VWD, in which a person has very little or no VWF and low levels of factor VIII. This is the rarest type of VWD. Only 3% of people with VWD have type 3.
+Signs and symptoms
+The major signs of VWD are as follows:
+Frequent or hard-to-stop nosebleeds
+People with VWD might have nosebleeds that
+Start without injury (spontaneous)
+Occur often, usually five times or more in a year
+Last more than 10 minutes
+Need packing (gauze placed in the nose) or cautery (a procedure to burn and seal blood vessels) to stop the bleeding
+Easy bruising
+People with VWD might experience easy bruising that
+Occurs with very little or no trauma or injury
+Occurs often (one to four times per month)
+Is larger than the size of a quarter
+Is not flat and has a raised lump
+Heavy menstrual bleeding
+Women with VWD might have heavy menstrual periods during which they experience
+Soaking through a pad or tampon every 1–2 hours (or more often) on the heaviest day(s)
+Menstrual bleeding that lasts longer than 7 days from the time bleeding starts until the time it ends
+Flooding or gushing of blood
+Passing blood clots (tissue) larger than the size of grapes or strawberries
+A diagnosis of anemia (not having enough red blood cells) is made as a result of bleeding from heavy periods
+Longer than normal bleeding after injury, surgery, childbirth, or dental work
+People with VWD might have longer than normal bleeding after injury, surgery, or childbirth. This bleeding may be characterized in the following ways:
+After a cut to the skin, the bleeding lasts more than 5 minutes
+Heavy or longer bleeding occurs after surgery. Bleeding sometimes stops but starts up again hours or days later.
+Heavy bleeding occurs during or after childbirth
+People with VWD might have longer-than-normal bleeding during or after dental work, for example:
+Heavy bleeding occurs during or after dental surgery
+The surgery site oozes blood longer than 3 hours after the surgery
+The surgery site needs packing or cautery to stop the bleeding
+The amount of bleeding depends on the type and severity of VWD. Other common bleeding events include:
+Blood in the stool (feces) from bleeding into the stomach or intestines
+Blood in the urine from bleeding into the kidneys or bladder
+Bleeding into joints or internal organs in severe cases (type 3 VWD)
+Causes
+Most people who have VWD are born with it. It almost always is inherited, or passed down, from a parent to a child. VWD can be passed down from either the mother or the father, or both, to the child.
+While rare, it is possible for a person to get VWD without a family history of the disease. This can happen if a spontaneous mutation occurs. That means there has been a change in the person's gene. Whether a child receives the affected gene from a parent or as a result of a mutation, once the child has it, the child can later pass it along to his or her children.
+Also, it is rare, but possible, for a person to get or acquire VWD (they didn't receive the affected gene from their parent or as a result of a mutation) later in life because of an underlying medical condition. This can happen when a person's own immune system (which controls the body's ability to fight germs and sickness) destroys his or her VWF, often as a result of the use of a medication or as a result of another disease. If VWD is acquired in this way, it cannot be passed along to any children.
+Learn more about how VWD is inherited
+Diagnosis
+To find out if a person has VWD, the doctor will ask questions about personal and family histories of bleeding. The doctor also will check for unusual bruising or other signs of recent bleeding and order some blood tests to measure how the blood clots. The tests will provide information about the amount of clotting proteins present in the blood and if the clotting proteins are working properly. Because certain medications can cause bleeding, even among people without a bleeding disorder, the doctor will ask about recent or routine medications taken that could cause bleeding or make bleeding symptoms worse.
+Learn about tests to diagnose VWD
+Treatment and recovery
+The type of treatment prescribed for VWD depends on the type and severity of the disease. For minor bleeds, treatment might not be needed.
+The most commonly used types of treatment are:
+Desmopressin acetate injection
+This medicine (DDAVP®) is injected into a vein to treat people with milder forms of VWD (mainly type 1). It works by making the body release more VWF into the blood. It also helps increase the level of factor VIII in the blood.
+Desmopressin acetate nasal spray
+This high-strength nasal spray (Stimate®) is used to treat people with milder forms of VWD (mainly type 1). It works by making the body release more VWF into the blood.
+Factor replacement therapy
+Recombinant VWF (such as Vonvendi®) and medicines rich in VWF and factor VIII (for example, Humate P®, Wilate®, Alphanate®, or Koate DVI®) are used to treat people with more severe forms of VWD or people with milder forms of VWD who do not respond well to the nasal spray. These medicines are injected into a vein in the arm to replace the missing factor in the blood.
+Antifibrinolytic drugs
+These drugs (for example, Amicar®, Lysteda®) are either injected or taken orally to help slow or prevent the breakdown of blood clots.
+Birth control pills
+Birth control pills can increase the levels of VWF and factor VIII in the blood and reduce menstrual blood loss. A doctor can prescribe these pills for women who have heavy menstrual bleeding.

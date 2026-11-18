@@ -1,0 +1,64 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Climate Change and Fungal Diseases
+URL: https://www.cdc.gov/fungal/about/climate-change-and-fungal-diseases.html
+────────────────────────────────────────────────────────────
+
+For Everyone
+Sept. 30, 2026
+At a glance
+Changes in climate and weather patterns may cause fungi to adapt to new environments.
+Environmental changes may help fungi survive in areas that they previously could not.
+New fungal infections may emerge if fungi adapt to warmer temperatures and become able to survive in and infect the human body.
+Some severe weather events can carry fungal spores into new areas.
+There is still much to learn about how climate change affects fungal diseases.
+Overview
+Climate change poses many threats to biological, ecological, and societal systems. Over time, shifting temperatures and weather patterns are changing the environment and habitats where fungi live.
+The impact of climate change on fungal infections is not fully understood due to a lack of data. However, there are several ways that environmental changes can transform fungi, where fungi live, and how people are exposed to them.
+Geographic expansion
+Changes to the environment
+Increases in temperature and precipitation may expand the areas where some fungi can survive. For example, the fungus that causes Valley fever, Coccidioides, lives in the soil in hot and dry regions. Coccidioides is usually found in the southwestern United States as well as parts of Mexico and Central and South America. However, presence of the fungus in Washington state was documented in 2015. Read more about Facts and Stats of Valley Fever.
+Environmental changes may also extend the regions where fungi causing blastomycosis and histoplasmosis survive. The same occurs for fungi found in tropical or subtropical climates, like Cryptococcus gattii.
+Population movement
+The effects of climate change may cause people to move to new regions of the world. This could lead to overcrowding and poor living conditions. These factors are associated with the risk of ringworm transmission, especially in hot and humid settings.
+Extreme weather events
+The frequency and intensity of extreme weather events, like large storms, heat waves, droughts, and wildfires, are increasing. These events promote the growth and spread of fungal spores. Flooding from heavy rainfall leads to substantial moisture that can facilitate indoor mold growth.
+Other severe weather events, like dust storms, tornadoes, and wildfires, cause environmental disruptions that can spread fungal spores into the air. This causes fungal spores to potentially transport diseases to new locations. Injuries caused by severe weather, like cuts and lesions, can develop fungal infections when exposed to contaminated water or soil.
+Fungal adaptation to heat
+Only a small percentage of the estimated millions of fungi on earth can infect people. Currently most fungi cannot survive at human body temperatures (around 98.6 degrees F) and need cooler environments.
+With shifting temperatures, fungi may be evolving (changing and adapting) to live in warmer conditions, including the human body. New fungal diseases may emerge as fungi become more adapted to surviving in humans. Heat may also cause other genetic changes that can affect the ability of fungi to infect people.
+Antifungal resistance
+The use of fungicides in the environment may cause increases in antifungal resistance. This means more disease-causing fungi are not killed by the medications designed to treat fungal infections.
+Triazole antifungal drugs are the main treatment for several fungal infections, including aspergillosis. Triazole fungicide use is linked to triazole-resistant Aspergillus infections. These infections don't respond to certain antifungal treatments in the clinic.
+Agricultural fungicide use is expected to continue increasing due to rising temperatures. This could lead to new resistant strains of disease-causing fungi.
+Further research
+It is important to better understand the impact of a changing climate on fungal diseases. CDC monitors trends in fungal diseases to detect new infectious fungi. In addition, CDC conducts statistical modeling work to explore the effects of climate change on:
+Fungi.
+Fungal habitats.
+Seasonality.
+Fungal infections.
+See Also
+Effects of climate change on fungal infections | PLOS Pathogens
+Watch the webinar below to learn how climate and environmental changes may affect the emergence and spread of fungal pathogens.
+Webinar: Fungal Diseases in a Changing Environment
+Featuring: Arturo Casadevall, MD, PhD; Matthew Fisher PhD; Bridgett Barker, PhD; and Nancy Chow, PhD. September 2023)
+Watch the webinar
+How to protect yourself from fungal diseases
+Learn about fungal diseases and their expanding geographic ranges.
+Ask your doctor to test you for fungal infections.
+Follow guidance to safely clean up mold in your home after disasters.
+Follow your doctor's instructions when taking antifungal medications.
+Avoid using over-the-counter antifungals without a diagnosis.
+More information
+Climate Effects and Health
+One Health
+One Health and Fungal Diseases
+Climate Change and Infectious Diseases - CDC NCEZID
+Mold After Floods
+Sept. 30, 2026
+Sources and Page Info
+Print
+Share
+Facebook
+LinkedIn
+Twitter
+Syndicate

@@ -1,0 +1,25 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: How Listeria Spread: Sprouts and Melons
+URL: https://www.cdc.gov/listeria/causes/fruits-vegetables.html
+────────────────────────────────────────────────────────────
+
+Key points
+People who eat food contaminated with Listeria bacteria can get a harmful infection.
+Sprouts and melons can be contaminated with Listeria.
+Sprouts grow in warm, humid conditions, which are ideal conditions for Listeria to grow.
+Listeria also can grow in melons, which are low in acid and often refrigerated for a long time.
+Sprouts
+Sprouts need warm and humid conditions to grow. These conditions are also ideal for the growth of Listeria and other harmful germs. Germs can grow on the inside and outside of sprouts, so washing them does not remove all germs.
+Home-grown sprouts can also have germs because they need the same conditions to grow.
+Multistate outbreak:
+2015 outbreak linked to sprouts
+Melons
+Melons are more likely than many other fruits to be contaminated with Listeria.
+This is because they have low acidity and can be kept in the refrigerator for a long time. Both these conditions support the growth of Listeria.
+Multistate outbreak:
+2011 outbreak linked to cantaloupes
+Show me the science
+Adhikari A, Chhetri VS, Bhattacharya D, Cason C, Luu P, Suazo A. Effectiveness of daily rinsing of alfalfa sprouts with aqueous chlorine dioxide and ozonated water on the growth of Listeria monocytogenes during sprouting. Lett Appl Microbiol. 2019;69(4):252-257.
+Zhang H, Yamamoto E, Murphy J, Locas A. Microbiological safety of ready-to-eat fresh-cut fruits and vegetables sold on the Canadian retail market. Int J Food Microbiol. 2020;335:108855.
+Cosgrove S, Cronquist A, Wright G, Ghosh T, Vogt R, Teitell P, et al. Multistate outbreak of listeriosis associated with Jensen Farms cantaloupe—United States, August–September 2011. MMWR Morb Mortal Wkly Rep. 2011;60(39):1357–58.
+McCollum JT, Cronquist AB, Silk BJ, Jackson KA, O'Connor KA, Cosgrove S, et al. Multistate outbreak of listeriosis associated with cantaloupe. N Engl J Med. 2013;369(10):944-53.

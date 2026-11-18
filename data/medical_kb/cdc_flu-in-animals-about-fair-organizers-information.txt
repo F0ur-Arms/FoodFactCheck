@@ -1,0 +1,57 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Considerations and Information for Fair Organizers to Help Prevent Influenza
+URL: https://www.cdc.gov/flu-in-animals/about/fair-organizers-information.html
+────────────────────────────────────────────────────────────
+
+For Everyone
+Aug. 2, 2024
+What to know
+CDC keeps track of how many people get influenza (flu) caused by animal influenza A viruses throughout the year, including during exhibition season. As you organize your local or state agricultural fair or any other livestock exhibitions, be aware of important information to help protect visitors and livestock (e.g. pigs, poultry, cattle). This information can help prevent illnesses in public settings, like agricultural fairs, where people and animals from many places are in close contact.
+Background
+Livestock fairs and shows are an important learning opportunity for people of all ages interested in agriculture. Animals commonly exhibited at agricultural fairs and shows, including pigs, poultry (e.g., chickens, turkeys, ducks, geese), and cattle, can carry and spread influenza A viruses that are different from human seasonal influenza A viruses. Pigs can be infected with swine influenza A viruses, and poultry can be infected with avian influenza A viruses. In March 2024, avian influenza A(H5N1) virus in dairy cattle was first reported.
+Influenza viruses are more likely to spread when people and animals from many places are in close contact, such as at fairs and shows. While rare, influenza A viruses can spread from people to animals (including pigs, poultry, and cattle) and from animals to people. The main way people get infected with animal influenza A viruses is by being around infected animals, especially if they have close contact with them. It is not very common for people to get sick from these viruses, but when they do, the sickness can vary from mild to severe. In some cases, it can even lead to hospitalization or death. CDC recommends fair organizers take actions to help prevent the spread of influenza A viruses between animals at fairs and animals and people.
+Prevent the spread of flu
+Preventing the spread of influenza viruses between animals and people at fairs
+The risk of infection and spread of animal influenza A viruses to people can be reduced by taking simple actions. CDC recommends fair organizers consider the following actions:
+Actions to consider when planning for fairs:
+Have available appropriate personal protective equipment (PPE) for staff and exhibitors to follow the Personal Protective Equipment for Avian Influenza A Viruses in the Workplace in the event sick animals are identified during the fair
+This includes protective clothing, gloves, goggles, and a respirator or well-fitting mask that covers the mouth and nose.
+Control visitor traffic to prevent overcrowding. Create opportunities for one-directional traffic flow and limit public access to animals and animal bedding outside of designated areas when possible.
+Locate food service, concession stands, and dining/picnic tables away from animal areas.
+Place physical barriers between the public and animal displays to limit close contact with poultry, pigs, cattle, and other animals. Use alternatives to live-animal, hands-on exhibits that do not involve close contact with poultry, pigs, and cattle (i.e., milk a pretend cow exhibit).
+Provide adequate ventilation for both animals and humans. For enclosed or partially enclosed barns, increase the amount of clean outdoor air and direct clean air so that it flows over visitors and workers before animals and minimizes disturbing dust.
+Store animal feeding, watering, and cleaning equipment (e.g., buckets, shovels, wheelbarrows, and pitchforks) in designated areas that restrict public access. Avoid transporting soiled bedding through non-animal areas or transition areas. If this is unavoidable, take precautions to prevent spillage and clean up spillage right after it occurs.
+Locate longer-term exhibits (i.e., big bulls/boars, birthing center animals, breed exhibits) away from areas where competition livestock are housed.
+Limit the time animals are kept on the exhibition grounds (72 hours or less is ideal) to help prevent or interrupt the spread of flu between animals.
+Where feasible, clean and disinfect animal areas (e.g., flooring and railings) and equipment (e.g., gates, chutes, sort panels) at least once daily. Additionally, animal areas should be cleaned and disinfected between groups of animals. Use disinfectants effective against influenza A viruses that are safe for human and animal contact.
+Inform and educate exhibitors and visitors on the risks of infection and spread of animal influenza A viruses and how to prevent the spread between people and animals (including pigs, poultry, and cattle).
+Display or hand out educational materials to exhibitors at registration and to visitors when entering fairgrounds on how to prevent the spread of influenza viruses between people and animals (including pigs, poultry, and cattle).
+Post materials that show who may be at higher risk of serious flu complications and instruct them not to have close contact with animals that could carry influenza viruses (pigs, poultry, and cattle) and should not enter enclosures.
+Post signs or otherwise instruct visitors not to eat, drink, smoke/vape, touch or place their hands in their mouth, touch their eyes, or use bottles or pacifiers while in animal areas.
+Educate staff and exhibitors to instruct visitors not to carry toys, pacifiers, spill-proof cups, baby bottles, strollers, or similar items into animal areas. If possible, establish storage or holding areas for strollers and related items.
+Instruct visitors to supervise children closely to discourage touching of eyes, hand-to-mouth activities (e.g., nail-biting and thumb-sucking), and prevent contact with soiled animal bedding. Parents should also be instructed to prevent their children from sitting or playing on the ground in animal areas.
+Instruct visitors to limit contact with animals that can be infected with influenza viruses (including pigs, poultry, and cattle). Direct physical contact with the animal includes touching, holding, kissing, being bitten, licked, and scratched.
+Instruct parents and children to wash their hands with soap and water right after leaving animal areas, even if they did not touch an animal, and after coming in contact with contaminated environments or materials. If children's hands become soiled, supervised hand washing should occur immediately.
+Post signs on hand hygiene and provide multiple hand-washing stations with running water, soap, and paper towels in transition areas between animal and non-animal areas and in food concession areas. Ensure hand-washing stations are accessible for all visitors, including children and persons with disabilities.
+Post all signs and other instructions in English, Spanish, and other appropriate languages, as well as in age-appropriate formats.
+Consult USDA's animal health recommendations for livestock exhibition available at Recommendations to Minimize Influenza Transmission at Dairy Cattle Livestock Exhibitions (usda.gov).
+Both CDC's guidance and USDA's guidance touch on key infection prevention and control recommendations for both humans and animals. CDC's guidance may be helpful in planning and putting into practice actions to prevent infection spread between animals and people, and also highlight actions for people who may be at higher risk of severe outcomes from influenza. USDA's guidance focuses on planning and putting into practice actions that can reduce the risk of influenza spreading between animals.
+Symptoms of infection
+When people get infected with animal influenza A viruses, they may experience signs and symptoms that are similar to those caused by seasonal influenza A viruses, including:
+fever or feeling feverish
+cough
+sore throat
+runny or stuffy nose
+muscle or body aches
+headaches
+fatigue
+sometimes vomiting or diarrhea
+eye redness/irritation or eye discharge (This is more commonly reported with human infections with animal influenza viruses than seasonal influenza viruses.)
+Planning for fairs
+Actions to take:
+Involve state animal health officials, state or local public health officials, and fair veterinarians in preparations for the fair.
+Create a written protocol for implementation of biosecurity and animal health practices at the fair.
+Create a written protocol for enhanced biosecurity in case of an outbreak of flu in animals or people.
+Consider restricting exhibition of lactating dairy cows in states with ongoing outbreaks of HPAI in dairy cattle.
+Collect sufficient contact information) from all exhibitors (i.e., email addresses and cell phone numbers) to rapidly communicate procedural changes, requests for information, or incidents associated with the fair.
+Maintain records of source farms and individual animal identification to enhance the speed and accuracy of any animal disease investigations associated with the fair.

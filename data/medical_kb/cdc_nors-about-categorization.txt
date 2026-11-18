@@ -1,0 +1,95 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Animal Categorization Scheme
+URL: https://www.cdc.gov/nors/about/categorization.html
+────────────────────────────────────────────────────────────
+
+What to know
+To support analyses of outbreaks reported through the Animal Contact Outbreak Surveillance System (ACOSS), CDC categorizes animals into three increasingly specific levels: biologic class, major group, and subgroup.
+Purpose
+This animal categorization scheme helps public health, regulatory, and animal health professionals use ACOSS data to
+describe which animal categories are most often linked to enteric (intestinal) disease outbreaks
+identify animals that spread the pathogens (bacteria, viruses, or parasites) causing the most outbreak-related illnesses
+improve understanding of outbreak characteristics linked to specific animal categories
+inform recommendations and policies
+assess prevention strategies and measure progress in disease prevention
+Categorizing animals is part of a larger initiative to improve the collection, quality, and usefulness of data from animal contact outbreaks. This work could be expanded to include animals that transmit non-enteric pathogens.
+Levels
+The levels are based on each animal's biological characteristics, common settings of exposure, or interactions with humans. For example, a wild dog would be classified as:
+Level 1 (Biologic Class): Mammal
+Level 2 (Major Group): Canine
+Level 3 (Subgroup): Wild canine
+All Animals
+Small mammals
+Rodents
+Chiroptera (e.g., bats)
+Other small mammals (e.g., rabbits)
+Felines
+House/domestic cats
+Non-domestic cats (e.g., mountain lions)
+Canines
+Domestic dogs
+Wild canines (e.g., wolves)
+Ruminants
+Bovine (e.g., cattle)
+Ovine (e.g., sheep)
+Caprine (e.g., goats)
+Cervidae (e.g., deer)
+Other ruminants
+Non-ruminant hooved mammals
+Swine (e.g., pigs)
+Equine (e.g., horses)
+Camelid (e.g., camels)
+Other non-ruminant hooved mammals
+Non-human primates
+Monkeys
+Apes
+Other non-human primates
+Marine mammals
+Aquatic mammals
+Semi-aquatic mammals
+Other aquatic mammals
+Other mammals
+Poultry, gamebirds, & waterfowl
+Poultry* (e.g., chickens)
+Gamebirds
+Non-domesticated waterfowl
+*Domesticated birds kept by humans for their eggs, meat, or feathers.
+Seabirds, shorebirds, and wading birds
+Seabirds
+Shorebirds
+Wading birds
+Birds of prey
+Falconiformes (e.g., hawks)
+Strigiformes (e.g., owls)
+Flightless birds
+Ratites (e.g., ostriches)
+Other flightless birds
+Parrots (psittacine birds)
+Passerines
+Finches
+Warblers
+Other passerines
+Other birds
+Testudines (turtles)
+Turtles, smaller than 4 inches
+Turtles, larger than 4 inches
+Tortoises
+Squamates
+Snakes
+Lizards
+Crocodilians
+Crocodiles
+Alligators
+Other reptiles
+Anura (tailless amphibians)
+Frogs
+Toads
+Cuadata (tailed amphibians)
+Salamanders
+Newts
+Other amphibians
+Freshwater fish
+Saltwater fish
+Other fish
+Collaborators
+This animal categorization scheme reflects a collaborative effort among CDC's Enteric Diseases Epidemiology Branch, One Health Office, and Outbreak Response and Prevention Branch; the U.S. Department of Agriculture's Animal and Plant Health Inspection Service; and the Food and Drug Administration's Center for Food Safety and Applied Nutrition. The structure and goals of the scheme align with those of the Interagency Food Safety Analytics Collaboration (IFSAC) Food Categorization Scheme published in 2017, which is used to characterize foods linked to outbreaks.

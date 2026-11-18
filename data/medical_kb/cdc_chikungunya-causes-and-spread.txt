@@ -1,0 +1,30 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: Chikungunya: Causes and How It Spreads
+URL: https://www.cdc.gov/chikungunya/causes-and-spread/index.html
+────────────────────────────────────────────────────────────
+
+For Everyone
+Key points
+Chikungunya virus disease (chikungunya) is caused by a virus primarily spread to people through the bite of infected mosquitoes.
+If infected, people can spread the virus to uninfected mosquitoes and rarely to other people.
+The risk of a person spreading the virus is highest during the first week of illness.
+Primary cause
+Chikungunya is caused by a virus that can be found in many parts of the world, including tropical and subtropical regions of Africa, the Americas, Asia, Europe, and islands in the Indian and Pacific Oceans.
+About the virus
+Chikungunya virus belongs to the family Togaviridae, genus Alphavirus. Chikungunya virus particles are enveloped icosahedral capsids and have a diameter of 60–70 nm.
+Alphavirus infections can either cause arthralgic (causing joint pain) or neuroinvasive disease (affecting the central nervous system). Other medically important alphaviruses found in the Americas include eastern equine encephalitis virus (neuroinvasive), Mayaro virus (arthralgic), and western equine encephalitis virus (neuroinvasive).
+How it spreads
+People can become infected with chikungunya virus when mosquitoes feed on another infected person and then bite them.
+People infected with chikungunya virus have high enough levels of virus in their blood (viremia) during the first week of illness to transmit the virus to mosquitoes. Risk of further spread of chikungunya virus increases if people with viremia are bitten by uninfected mosquitoes.
+Because of the high level of virus in blood, spread can also occur through:
+Blood transfusion (probable)
+Exposure to the virus in the laboratory
+The virus does not spread from person to person through coughing, sneezing, or touching.
+Pregnancy and breastfeeding
+Rarely, the infection can spread from a pregnant woman to her fetus (in utero transmission). If the pregnant woman is infected around the time of delivery, the baby can be infected at birth (intrapartum transmission), often resulting in severe disease in the baby.
+Chikungunya virus has not been found in breast milk, and there have been no reports to date of infants being infected through breastfeeding. Talk to your doctor if you are breastfeeding and have chikungunya or if you are in an area where the virus is circulating.
+Because the benefits of breastfeeding likely outweigh the risk of spreading the virus through breastfeeding, mothers should continue to breastfeed even if they are infected with chikungunya virus or live in an area with ongoing virus transmission.
+Prevent chikungunya
+The best way to protect yourself is to prevent mosquito bites. Vaccination is recommended for some travelers.
+Transmission cycle
+Chikungunya virus is primarily transmitted to people through the bite of an infected mosquito, mainly Aedes aegypti and Ae. albopictus. People are the primary hosts of chikungunya virus during epidemic periods. Mosquitoes become infected when they feed on a person who already has the virus. Person-to-person transmission via in utero and intrapartum routes has been documented. It is likely the virus can also be transmitted via blood transfusions.

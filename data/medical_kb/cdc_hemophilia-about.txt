@@ -1,0 +1,59 @@
+SOURCE: CDC (U.S. government work, public domain)
+TITLE: About Hemophilia
+URL: https://www.cdc.gov/hemophilia/about/index.html
+────────────────────────────────────────────────────────────
+
+Key points
+Hemophilia is a bleeding disorder in which blood does not clot properly.
+Hemophilia A and B are the most common types.
+Clotting factor tests are used to help diagnose hemophilia.
+Hemophilia treatment centers are comprehensive clinics that treat people who have bleeding disorders.
+Overview
+Hemophilia is usually an inherited bleeding disorder in which blood does not clot properly. This can lead to spontaneous bleeding (bleeding that occurs for no known reason) as well as bleeding following injuries or surgery. Blood contains many proteins called clotting factors that can help to stop bleeding. People with hemophilia A or B have low levels of either factor VIII (8) or factor IX (9), respectively. The severity of hemophilia that a person has is determined by the amount of factor in the blood. The lower the amount of the factor, the more likely it is that bleeding will occur, which can lead to serious health problems.
+Hemophilia can result in
+Bleeding within joints that can lead to chronic joint disease and pain;
+Bleeding in the head and sometimes in the brain, which can cause long term problems, such as seizures and paralysis; and
+Death, which can occur if the bleeding cannot be stopped or if it occurs in a vital organ such as the brain.
+The most common types of hemophilia are inherited and, therefore, are present from birth. In rare cases, a person can develop hemophilia later in life. This is known as acquired hemophilia. The majority of acquired hemophilia cases occur in middle-aged or elderly people, or young women who have recently given birth or are in the later stages of pregnancy. This condition often resolves (goes away) with appropriate treatment.
+Types
+There are several different types of hemophilia. The following two are the most common:
+Hemophilia A (classic hemophilia): This type is caused by a lack or low level of clotting factor VIII (8).
+Hemophilia B (Christmas disease): This type is caused by a lack or low level of clotting factor IX (9).
+Signs and symptoms
+Common signs of hemophilia include
+Bleeding into the joints. This can cause swelling and pain or tightness in the joints; it often affects the knees, elbows, and ankles.
+Bleeding into the skin (which is bruising) or muscle and soft tissue causing a build-up of blood in the area (called a hematoma).
+Bleeding of the mouth and gums, and bleeding that is hard to stop after losing a tooth.
+Bleeding after circumcision (surgery performed on male babies to remove the hood of skin, called the foreskin, covering the head of the penis).
+Bleeding after having shots, such as vaccinations.
+Bleeding in the head of an infant after a difficult delivery.
+Blood in the urine or stool.
+Frequent and hard-to-stop nosebleeds.
+Who is at risk
+Inherited hemophilia occurs in about 1 of every 5,000 male births. Based on a study that used data collected on patients receiving care in federally funded hemophilia treatment centers during the period 2012–2018, about 33,000 males in the United States are living with the disorder. Hemophilia A is about three to four times as common as hemophilia B, and about half of those affected have the severe form. Hemophilia affects people from all racial and ethnic groups.1
+Data and Statistics
+Learn more data-based information about hemophilia diagnosis, treatment, treatment product safety, and diseases affecting people with hemophilia.
+Data and Statistics on Hemophilia
+Causes
+Inherited hemophilia is caused by a mutation or change, in one of the genes, that provides instructions for making the clotting factors needed to form a blood clot. This change or mutation can prevent the clotting factor from working properly or to be missing altogether. These genes are located on the X chromosome. Males have one X and one Y chromosome (XY), and females have two X chromosomes (XX). Males inherit the X chromosome from their mothers and the Y chromosome from their fathers. Females inherit one X chromosome from each parent.
+The X chromosome contains many genes that are not present on the Y chromosome. This means that males only have one copy of most of the genes on the X chromosome, while females have two copies. Therefore, males can have hemophilia if they inherit an affected X chromosome that has a mutation in either the factor VIII or factor IX gene. Females can also have hemophilia, but this is much rarer. In these cases, females can have one X chromosome that is affected and one X chromosome that is not affected, or both of their X chromosomes can be affected.
+A female with one affected X chromosome is a "carrier" of hemophilia. Sometimes a female who is a carrier can have symptoms of hemophilia. In addition, she can pass the affected X chromosome with the clotting factor gene mutation on to her children.
+Keep Reading:
+How Hemophilia is Inherited
+Diagnosis
+Many people who have or have had family members with hemophilia will ask that their babies get tested soon after birth. About one third of babies who are diagnosed with hemophilia have a new mutation not present in other family members. In these cases where there is no family history of hemophilia, a doctor might check for hemophilia if a baby is showing signs of hemophilia.
+To diagnose hemophilia, doctors perform blood tests to show if the blood is clotting properly. If it does not clot properly, then they perform clotting factor tests, also called factor assays, to diagnose the cause of the bleeding disorder. These blood tests show the type of hemophilia and the severity.
+Keep Reading:
+Diagnosing Hemophilia
+Treatment
+The standard way to treat both hemophilia A and B is to replace the missing blood clotting factor so that the blood can clot properly. One way to do this is by infusing (injecting into a vein) commercially prepared clotting factor concentrates. People with hemophilia can learn how to perform these infusions themselves so that they can stop bleeding episodes and, by performing the infusions on a regular basis (called prophylaxis), can even prevent most bleeding episodes.
+For hemophilia A, another treatment method is a non-factor product that stands in for, or replaces the function of, the missing factor VIII. This treatment is given by injection under the skin and can also be done by people with hemophilia themselves.
+Gene therapy is also an option for people with hemophilia A and B. Gene therapy is done by injecting copies of the gene that help the body make more clotting factor to prevent bleeding.
+Other treatments may be used for mild hemophilia.
+Good quality medical care from healthcare providers who know a lot about the disorder can help prevent some serious problems. This type of specialty care can be found at a comprehensive hemophilia treatment center (HTC). An HTC not only provides care to address all issues related to the disorder, but also provides health education that helps people with hemophilia stay healthy. Use the HTC directory to find a treatment center near you.
+Keep Reading:
+Treatment of Hemophilia
+Inhibitors to treatment products
+About 15% to 20% of people with inherited hemophilia A or B develop an antibody (called an inhibitor) that stops the clotting factors from being able to clot the blood and stop bleeding. Treatment of bleeding episodes becomes extremely difficult, and the cost of care for a person with an inhibitor can skyrocket because more clotting factor or a different type of clotting factor is needed. People with inhibitors often experience more joint disease and other problems from bleeding that result in a reduced quality of life.
+Keep Reading:
+Testing for Inhibitors and Hemophilia
