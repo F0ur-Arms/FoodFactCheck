@@ -33,7 +33,7 @@ print(f"answered balanced accuracy: {(recall[0] + recall[1]) / 2:.3f}  "
 errors = sum(1 for r in recs if str(r["verdict"]).startswith("ERROR"))
 if errors:
     print(f"WARNING: {errors} claims ended in an error and count as abstentions")
-for key in ("origin", "language"):
+for key in ("origin", "language", "quote_in_kb"):
     if not any(key in r for r in recs):
         continue
     print(f"by {key}:")
@@ -42,4 +42,12 @@ for key in ("origin", "language"):
         ans = [r for r in rows if r["pred"] is not None]
         acc = sum(r["pred"] == r["true"] for r in ans) / len(ans) if ans else 0.0
         print(f"  {origin:20} n={len(rows):5} coverage={len(ans) / len(rows):.3f} answered_acc={acc:.3f}")
+# Golden runs: rows whose gold quote is word for word in the KB are the easiest, so report the score
+# without them too.
+rest = [r for r in recs if r.get("quote_in_kb") == "no"]
+if rest and len(rest) < len(recs):
+    ans = [r for r in rest if r["pred"] is not None]
+    acc = sum(r["pred"] == r["true"] for r in ans) / len(ans) if ans else 0.0
+    print(f"without the {len(recs) - len(rest)} rows whose gold quote is in the KB: n={len(rest)} "
+          f"coverage={len(ans) / len(rest):.3f} answered_acc={acc:.3f}")
 json.dump(recs, open(f"{d}/merged_predictions.json", "w"))

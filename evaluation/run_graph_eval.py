@@ -36,6 +36,20 @@ GOLD_FAKE = {"FALSE", "MOSTLY_FALSE", "MISLEADING"}
 GOLD_REAL = {"SUPPORTED", "SUPPORTED_WITH_CAVEATS"}
 
 
+def _norm(text) -> str:
+    return " ".join(re.sub(r"[^\w\s]+", " ", str(text).lower()).split())
+
+
+def quotes_in_kb(quotes, kb_dir="data/medical_kb"):
+    """'yes' where a row's gold evidence quote appears word for word in the current KB, else 'no'.
+
+    Those rows are answerable by finding one sentence, so merge_shards.py reports the score with and
+    without them. Quotes under 5 words and "NA" never count."""
+    import glob
+    kb = "\n".join(_norm(open(f, encoding="utf-8", errors="replace").read()) for f in glob.glob(f"{kb_dir}/*.txt"))
+    return ["yes" if len(_norm(q).split()) >= 5 and _norm(q) in kb else "no" for q in quotes]
+
+
 def load(args) -> pd.DataFrame:
     if args.golden:
         # keep_default_na=False: the file uses the string "NA" for empty fields, not missing values.
@@ -45,7 +59,7 @@ def load(args) -> pd.DataFrame:
             df = df[df["language"].str.lower().isin(re.split(r"[,:]", args.languages.lower()))]
         df = pd.DataFrame({"claim": df["claim_text"], "label": df["expected_verdict"].isin(GOLD_FAKE).astype(int),
                            "origin": df["claim_origin"], "language": df["language"].str.lower(),
-                           "row_id": df["id"]})
+                           "row_id": df["id"], "quote_in_kb": quotes_in_kb(df["gold_evidence_quote"])})
     elif args.public:
         df = pd.read_csv(PUBLIC_CSV)
         df = df[df["expected_verdict"].isin(["TRUE", "FALSE"]) & df["claim_origin"].isin(re.split(r"[,:]", args.origins))]
@@ -122,7 +136,7 @@ def main():
         rec = {"idx": int(idx), "true": int(row["label"]), "pred": pred, "verdict": verdict, "held": held,
                "nli_fallback_calls": getattr(nodes.get_engine().nli_judge, "fallback_calls", 0) - fallback_before,
                "decomposition_fallbacks": nodes.claims_processor.fallback_count - decomp_before}
-        for key in ("origin", "language"):
+        for key in ("origin", "language", "row_id", "quote_in_kb"):
             if key in row:
                 rec[key] = row[key]
         if args.details:

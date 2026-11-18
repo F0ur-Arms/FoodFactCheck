@@ -68,6 +68,11 @@ class EvidenceEngine:
         # TRUTHCHECK_EXCLUDE_SOURCES: comma-separated knowledge-base files never to use as evidence;
         # a trailing * matches a prefix (e.g. "toi_*" turns off every Times of India file).
         excluded = [f for f in os.environ.get("TRUTHCHECK_EXCLUDE_SOURCES", "").split(",") if f]
+        # TRUTHCHECK_EXCLUDE_SOURCES_FILE: the same, one file name per line (lists too long for qsub -v,
+        # e.g. the fact-check articles a golden set's claims were taken from).
+        if os.environ.get("TRUTHCHECK_EXCLUDE_SOURCES_FILE"):
+            with open(os.environ["TRUTHCHECK_EXCLUDE_SOURCES_FILE"], encoding="utf-8") as fh:
+                excluded += [line.strip() for line in fh if line.strip() and not line.startswith("#")]
         return cls(kb_manager, retriever, Reranker(), nli, min_relevance=min_relevance or None,
                    excluded_sources=excluded)
 
