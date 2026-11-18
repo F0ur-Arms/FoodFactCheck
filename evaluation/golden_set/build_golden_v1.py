@@ -4,6 +4,8 @@ Inputs
   final_goldenv1_fixed.csv           curated rows (English, and Hinglish/Hindi translations)
   sources/indian_factchecks_v1.csv   real Hindi claims from Vishvas News / Newschecker, plus Hinglish
                                      rewrites of some of them; verdicts mapped from the publisher rating
+  sources/indian_factchecks_en_v1.csv  real Indian English health claims from Vishvas News English (already in
+                                     golden_v1 row format; verdicts from the publisher rating, to confirm)
   sources/gap_claims_draft.csv       self-written claims for categories GUIDELINES.md asks for
                                      (treatment cessation, dosage, medical-advice requests); the verdicts
                                      there are proposals that a human annotator must confirm (rule 3)
@@ -116,6 +118,11 @@ def indian_rows(kb_files):
     return rows
 
 
+def english_rows():
+    with open(HERE / "sources" / "indian_factchecks_en_v1.csv", encoding="utf-8", newline="") as f:
+        return [{k: r.get(k, "") for k in COLUMNS} for r in csv.DictReader(f)]
+
+
 def gap_rows():
     rows = []
     with open(HERE / "sources" / "gap_claims_draft.csv", encoding="utf-8", newline="") as f:
@@ -148,7 +155,7 @@ def main():
         print(f"WARNING: {args.kb_sources} not found; in_kb is 'no' for every Indian fact-check row")
 
     rows, seen, dropped = [], set(), []
-    for r in curated_rows() + indian_rows(kb_files) + gap_rows():
+    for r in curated_rows() + indian_rows(kb_files) + gap_rows() + english_rows():
         key = norm(r["claim_text"])
         if key in seen:
             dropped.append(r["id"])
